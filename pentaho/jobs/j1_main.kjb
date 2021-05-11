@@ -16,10 +16,10 @@
     <server>localhost</server>
     <type>POSTGRESQL</type>
     <access>Native</access>
-    <database>pentaho</database>
+    <database>infint</database>
     <port>5432</port>
-    <username>postgres</username>
-    <password>Encrypted 2be98afc86aa7f2e4bb16bd64d980aac9</password>
+    <username>infint</username>
+    <password>Encrypted 2be98afc86aa7f2e4cb79a77ed89ba1ce</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -407,7 +407,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>1440</xloc>
-      <yloc>192</yloc>
+      <yloc>288</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -488,7 +488,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>1200</xloc>
-      <yloc>192</yloc>
+      <yloc>288</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -569,6 +569,45 @@
       <yloc>288</yloc>
       <attributes_kjc/>
     </entry>
+    <entry>
+      <name>Abort1</name>
+      <description/>
+      <type>ABORT</type>
+      <attributes/>
+      <message>Connection refused</message>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>288</xloc>
+      <yloc>96</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Abort2</name>
+      <description/>
+      <type>ABORT</type>
+      <attributes/>
+      <message>Global Schema Errors.</message>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>560</xloc>
+      <yloc>96</yloc>
+      <attributes_kjc/>
+    </entry>
+    <entry>
+      <name>Abort3</name>
+      <description/>
+      <type>ABORT</type>
+      <attributes/>
+      <message>Transformation Errors.</message>
+      <parallel>N</parallel>
+      <draw>Y</draw>
+      <nr>0</nr>
+      <xloc>1200</xloc>
+      <yloc>96</yloc>
+      <attributes_kjc/>
+    </entry>
   </entries>
   <hops>
     <hop>
@@ -588,15 +627,6 @@
       <enabled>Y</enabled>
       <evaluation>Y</evaluation>
       <unconditional>N</unconditional>
-    </hop>
-    <hop>
-      <from>Create Global Schema</from>
-      <to>Pre-Transforms</to>
-      <from_nr>0</from_nr>
-      <to_nr>0</to_nr>
-      <enabled>Y</enabled>
-      <evaluation>Y</evaluation>
-      <unconditional>Y</unconditional>
     </hop>
     <hop>
       <from>Pre-Transforms</from>
@@ -659,6 +689,60 @@
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
       <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Create Global Schema</from>
+      <to>Pre-Transforms</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Check Postgres Conn.</from>
+      <to>Abort1</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>Create Global Schema</from>
+      <to>Abort2</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>t1_vgsales</from>
+      <to>Abort3</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>t2_gamedev</from>
+      <to>Abort3</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>t3_spvg</from>
+      <to>Abort3</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>N</evaluation>
       <unconditional>N</unconditional>
     </hop>
   </hops>
