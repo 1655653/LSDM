@@ -1,0 +1,664 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,Super Smash Bros. Melee,GC,Nintendo  ,HAL Laboratory  ,N/A  ,9.2  ,N/A  ,7.41m,N/A,N/A,N/A,N/A,N/A,02nd Dec 01  ,N/A
+2,Mario Kart: Double Dash!!,GC,Nintendo  ,Nintendo EAD  ,N/A  ,8.5  ,N/A  ,6.88m,N/A,N/A,N/A,N/A,N/A,17th Nov 03  ,N/A
+3,Super Mario Sunshine,GC,Nintendo  ,Nintendo EAD  ,8.9  ,9.2  ,N/A  ,5.91m,N/A,N/A,N/A,N/A,N/A,25th Aug 02  ,N/A
+4,The Legend of Zelda: The Wind Waker,GC,Nintendo  ,Nintendo EAD  ,N/A  ,9.6  ,N/A  ,4.43m,N/A,N/A,N/A,N/A,N/A,26th Mar 03  ,N/A
+5,Luigi's Mansion,GC,Nintendo  ,Nintendo EAD  ,N/A  ,7.9  ,N/A  ,3.33m,N/A,N/A,N/A,N/A,N/A,17th Nov 01  ,N/A
+6,Metroid Prime,GC,Nintendo  ,Retro Studios  ,9.3  ,9.6  ,9.5  ,2.84m,N/A,N/A,N/A,N/A,N/A,17th Nov 02  ,N/A
+7,Mario Party 4,GC,Nintendo  ,Hudson Soft  ,N/A  ,7.0  ,N/A  ,2.46m,N/A,N/A,N/A,N/A,N/A,21st Oct 02  ,N/A
+8,Pokémon Colosseum,GC,Nintendo  ,Genius Sonority Inc.  ,N/A  ,7.0  ,N/A  ,2.41m,N/A,N/A,N/A,N/A,N/A,22nd Mar 04  ,N/A
+9,Animal Crossing,GC,Nintendo  ,Nintendo EAD  ,N/A  ,8.3  ,N/A  ,2.27m,N/A,N/A,N/A,N/A,N/A,15th Sep 02  ,N/A
+10,Mario Party 5,GC,Nintendo  ,Hudson Soft  ,N/A  ,5.9  ,N/A  ,2.17m,N/A,N/A,N/A,N/A,N/A,10th Nov 03  ,N/A
+11,Mario Party 7,GC,Nintendo  ,Hudson Soft  ,N/A  ,6.0  ,N/A  ,2.08m,N/A,N/A,N/A,N/A,N/A,07th Nov 05  ,N/A
+12,Paper Mario: The Thousand-Year Door,GC,Nintendo  ,Intelligent Systems  ,N/A  ,9.0  ,N/A  ,1.91m,N/A,N/A,N/A,N/A,N/A,11th Oct 04  ,N/A
+13,Star Wars Rogue Leader: Rogue Squadron II,GC,LucasArts  ,Factor 5  ,N/A  ,9.2  ,N/A  ,N/A,1.90m,1.03m,0.75m,0.03m,0.09m,09th Nov 01  ,N/A
+14,Star Fox Adventures,GC,Nintendo  ,Rare Ltd.  ,N/A  ,8.1  ,N/A  ,1.82m,N/A,N/A,N/A,N/A,N/A,22nd Sep 02  ,N/A
+15,Sonic Mega Collection,GC,Sega  ,Sonic Team  ,N/A  ,7.5  ,N/A  ,1.64m,N/A,N/A,N/A,N/A,N/A,10th Nov 02  ,N/A
+16,Mario Party 6,GC,Nintendo  ,Hudson Soft  ,N/A  ,7.2  ,N/A  ,1.63m,N/A,N/A,N/A,N/A,N/A,06th Dec 04  ,N/A
+17,Pikmin,GC,Nintendo  ,Nintendo EAD  ,N/A  ,8.1  ,N/A  ,1.60m,N/A,N/A,N/A,N/A,N/A,03rd Dec 01  ,N/A
+18,Resident Evil 4,GC,Capcom  ,Capcom Production Studio 4  ,N/A  ,9.6  ,N/A  ,1.60m,N/A,N/A,N/A,N/A,N/A,11th Jan 05  ,N/A
+19,Sonic Adventure DX: Director's Cut,GC,Sega  ,Sonic Team  ,N/A  ,5.4  ,N/A  ,1.60m,N/A,N/A,N/A,N/A,N/A,18th Jun 03  ,N/A
+20,Super Mario Strikers,GC,Nintendo  ,Next Level Games  ,N/A  ,8.0  ,N/A  ,1.60m,N/A,N/A,N/A,N/A,N/A,05th Dec 05  ,N/A
+21,Super Monkey Ball 2,GC,Sega  ,Amusement Vision  ,N/A  ,N/A  ,N/A  ,N/A,1.52m,1.11m,0.31m,0.06m,0.04m,25th Aug 02  ,N/A
+22,SoulCalibur II,GC,Namco  ,Namco  ,N/A  ,9.2  ,N/A  ,N/A,1.50m,0.99m,0.32m,0.11m,0.08m,27th Aug 03  ,N/A
+23,Super Monkey Ball,GC,Sega  ,Amusement Vision  ,N/A  ,9.0  ,N/A  ,N/A,1.46m,0.95m,0.37m,0.10m,0.04m,17th Nov 01  ,N/A
+24,The Legend of Zelda: Twilight Princess,GC,Nintendo  ,Nintendo EAD  ,N/A  ,9.5  ,N/A  ,1.43m,N/A,N/A,N/A,N/A,N/A,11th Dec 06  ,N/A
+25,Pokémon XD: Gale of Darkness,GC,Nintendo  ,Genius Sonority Inc.  ,N/A  ,6.9  ,N/A  ,1.42m,N/A,N/A,N/A,N/A,N/A,28th Sep 05  ,N/A
+26,Sonic Heroes,GC,Sega  ,Sonic Team  ,N/A  ,7.2  ,N/A  ,1.42m,N/A,N/A,N/A,N/A,N/A,05th Jan 04  ,N/A
+27,LEGO Star Wars: The Video Game,GC,Eidos Interactive  ,Traveller's Tales  ,N/A  ,7.9  ,N/A  ,N/A,1.41m,1.09m,0.28m,N/A,0.04m,25th Oct 05  ,N/A
+28,Kirby Air Ride,GC,Nintendo  ,HAL Laboratory  ,N/A  ,6.4  ,N/A  ,1.35m,N/A,N/A,N/A,N/A,N/A,13th Oct 03  ,N/A
+29,Resident Evil,GC,Capcom  ,Capcom  ,N/A  ,8.9  ,N/A  ,1.35m,N/A,N/A,N/A,N/A,N/A,30th Apr 02  ,N/A
+30,Donkey Kong Jungle Beat,GC,Nintendo  ,Nintendo EAD Tokyo  ,N/A  ,7.9  ,N/A  ,N/A,1.34m,0.84m,0.22m,0.24m,0.04m,14th Mar 05  ,N/A
+31,Final Fantasy: Crystal Chronicles,GC,Nintendo  ,Square Enix  ,N/A  ,7.7  ,7.5  ,1.30m,N/A,N/A,N/A,N/A,N/A,09th Feb 04  ,N/A
+32,Mario Golf: Toadstool Tour,GC,Nintendo  ,Camelot Software Planning  ,N/A  ,8.1  ,N/A  ,1.27m,N/A,N/A,N/A,N/A,N/A,29th Jul 03  ,N/A
+33,Resident Evil Zero,GC,Capcom  ,Capcom Production Studio 3 / Flagship  ,N/A  ,8.2  ,N/A  ,1.25m,N/A,N/A,N/A,N/A,N/A,12th Nov 02  ,N/A
+34,Need for Speed Underground,GC,Electronic Arts  ,EA Black Box  ,N/A  ,N/A  ,N/A  ,N/A,1.21m,0.69m,0.48m,0.01m,0.03m,17th Nov 03  ,N/A
+35,Spider-Man: The Movie,GC,Activision  ,Treyarch  ,N/A  ,7.6  ,N/A  ,N/A,1.19m,0.86m,0.27m,0.01m,0.04m,15th Apr 02  ,N/A
+36,Donkey Konga,GC,Nintendo  ,Namco  ,N/A  ,7.3  ,N/A  ,1.18m,N/A,N/A,N/A,N/A,N/A,27th Sep 04  ,N/A
+37,Mario Power Tennis,GC,Nintendo  ,Camelot Software Planning  ,N/A  ,8.1  ,N/A  ,1.16m,N/A,N/A,N/A,N/A,N/A,08th Nov 04  ,N/A
+38,Need for Speed Underground 2,GC,Electronic Arts  ,EA Black Box  ,N/A  ,N/A  ,N/A  ,N/A,1.14m,0.70m,0.39m,0.01m,0.03m,15th Nov 04  ,N/A
+39,Pikmin 2,GC,Nintendo  ,Nintendo EAD  ,N/A  ,9.1  ,N/A  ,1.12m,N/A,N/A,N/A,N/A,N/A,30th Aug 04  ,N/A
+40,Metroid Prime 2: Echoes,GC,Nintendo  ,Retro Studios  ,N/A  ,9.2  ,N/A  ,1.10m,N/A,N/A,N/A,N/A,N/A,15th Nov 04  ,N/A
+41,Star Fox: Assault,GC,Nintendo  ,Namco  ,N/A  ,6.6  ,8.5  ,N/A,1.08m,0.68m,0.18m,0.19m,0.03m,14th Feb 05  ,N/A
+42,Mario Superstar Baseball,GC,Nintendo  ,Namco / NOW Production  ,N/A  ,7.2  ,N/A  ,1.05m,N/A,N/A,N/A,N/A,N/A,29th Aug 05  ,N/A
+43,Naruto: Clash of Ninja 2,GC,D3 Publisher  ,8ing/Raizing  ,N/A  ,7.4  ,N/A  ,N/A,1.04m,0.44m,0.12m,0.45m,0.03m,26th Sep 06  ,N/A
+44,Shrek 2,GC,Activision  ,"Luxoflux, Inc.  ",N/A  ,6.9  ,N/A  ,N/A,1.02m,0.73m,0.26m,0.01m,0.03m,28th Apr 04  ,N/A
+45,Sonic Adventure 2 Battle,GC,Sega  ,Sonic Team  ,N/A  ,6.8  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,11th Feb 02  ,N/A
+46,The Simpsons: Hit & Run,GC,VU Games  ,Radical Entertainment  ,N/A  ,8.2  ,N/A  ,N/A,0.99m,0.77m,0.20m,N/A,0.03m,16th Sep 03  ,N/A
+47,Shadow The Hedgehog,GC,Sega  ,Sonic Team  ,N/A  ,4.9  ,N/A  ,N/A,0.99m,0.76m,0.20m,N/A,0.03m,15th Nov 05  ,N/A
+48,LEGO Star Wars II: The Original Trilogy,GC,LucasArts  ,Traveller's Tales  ,N/A  ,8.4  ,N/A  ,N/A,0.97m,0.75m,0.19m,N/A,0.03m,12th Sep 06  ,N/A
+49,Tales of Symphonia,GC,Namco  ,Namco Tales Studio  ,N/A  ,8.5  ,N/A  ,0.95m,N/A,N/A,N/A,N/A,N/A,14th Jul 04  ,N/A
+50,SpongeBob SquarePants: Battle for Bikini Bottom,GC,THQ  ,Heavy Iron Studios  ,N/A  ,7.3  ,N/A  ,N/A,0.95m,0.74m,0.19m,N/A,0.03m,31st Oct 03  ,N/A
+51,The SpongeBob SquarePants Movie,GC,THQ  ,Heavy Iron Studios  ,N/A  ,6.6  ,N/A  ,N/A,0.94m,0.73m,0.19m,N/A,0.03m,27th Oct 04  ,N/A
+52,Cars,GC,THQ  ,Rainbow Studios  ,N/A  ,7.6  ,N/A  ,N/A,0.93m,0.72m,0.19m,N/A,0.03m,06th Jun 06  ,N/A
+53,Sonic Riders,GC,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,0.92m,0.71m,0.18m,N/A,0.03m,21st Feb 06  ,N/A
+54,Finding Nemo,GC,THQ  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.89m,0.69m,0.18m,N/A,0.02m,12th May 03  ,N/A
+55,Spider-Man 2,GC,Activision  ,Treyarch  ,N/A  ,7.7  ,N/A  ,N/A,0.84m,0.65m,0.17m,N/A,0.02m,28th Jun 04  ,N/A
+56,The Incredibles,GC,THQ  ,Heavy Iron Studios  ,N/A  ,6.2  ,N/A  ,N/A,0.84m,0.65m,0.17m,N/A,0.02m,31st Oct 04  ,N/A
+57,Tony Hawk's Pro Skater 3,GC,Activision  ,Neversoft Entertainment  ,N/A  ,9.1  ,N/A  ,N/A,0.82m,0.64m,0.17m,N/A,0.02m,13th Nov 01  ,N/A
+58,The Legend of Zelda: Four Swords Adventures,GC,Nintendo  ,Nintendo EAD  ,N/A  ,8.4  ,N/A  ,N/A,0.81m,0.63m,0.16m,N/A,0.02m,07th Jun 04  ,N/A
+59,Star Wars Rogue Squadron III: Rebel Strike,GC,LucasArts  ,Factor 5  ,N/A  ,8.3  ,N/A  ,N/A,0.80m,0.62m,0.16m,N/A,0.02m,15th Oct 03  ,N/A
+60,Need for Speed: Hot Pursuit 2,GC,Electronic Arts  ,EA Seattle  ,N/A  ,7.5  ,N/A  ,N/A,0.80m,0.68m,0.09m,N/A,0.02m,01st Oct 02  ,N/A
+61,Harvest Moon: A Wonderful Life,GC,Natsume  ,Marvelous Interactive  ,N/A  ,8.2  ,N/A  ,N/A,0.79m,0.61m,0.16m,N/A,0.02m,16th Mar 04  ,N/A
+62,James Bond 007: Nightfire,GC,Electronic Arts  ,Eurocom Entertainment Software  ,N/A  ,8.1  ,N/A  ,N/A,0.78m,0.60m,0.16m,N/A,0.02m,18th Nov 02  ,N/A
+63,James Bond 007: Agent Under Fire,GC,Electronic Arts  ,EA Redwood Shores  ,N/A  ,7.5  ,N/A  ,N/A,0.72m,0.56m,0.15m,N/A,0.02m,13th Mar 02  ,N/A
+64,Godzilla: Destroy All Monsters Melee,GC,Atari  ,"Pipeworks Software, Inc.  ",N/A  ,7.5  ,N/A  ,N/A,0.71m,0.55m,0.14m,N/A,0.02m,08th Oct 02  ,N/A
+65,Yu-Gi-Oh! The Falsebound Kingdom,GC,Konami  ,Konami  ,N/A  ,4.4  ,N/A  ,N/A,0.71m,0.49m,0.13m,0.07m,0.02m,04th Nov 03  ,N/A
+66,Spyro: Enter the Dragonfly,GC,VU Games  ,Equinoxe  ,N/A  ,5.0  ,N/A  ,N/A,0.71m,0.55m,0.14m,N/A,0.02m,08th Nov 02  ,N/A
+67,"WarioWare, Inc.: Mega Party Game$",GC,Nintendo  ,Nintendo R&D1  ,N/A  ,N/A  ,N/A  ,N/A,0.71m,0.20m,0.05m,0.44m,0.02m,06th Apr 04  ,N/A
+68,Tony Hawk's Underground,GC,Activision  ,Neversoft Entertainment  ,N/A  ,9.0  ,N/A  ,N/A,0.70m,0.54m,0.14m,N/A,0.02m,27th Oct 03  ,N/A
+69,Madden NFL 2005,GC,EA Sports  ,EA Tiburon  ,N/A  ,9.2  ,N/A  ,N/A,0.70m,0.54m,0.14m,N/A,0.02m,09th Aug 04  ,N/A
+70,Dragon Ball Z: Budokai,GC,Atari  ,Pyramid  ,N/A  ,6.8  ,N/A  ,N/A,0.69m,0.53m,0.14m,N/A,0.02m,28th Oct 03  ,N/A
+71,Harry Potter and the Chamber of Secrets,GC,Electronic Arts  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.69m,0.53m,0.14m,N/A,0.02m,14th Nov 02  ,N/A
+72,The Lord of the Rings: The Return of the King,GC,Electronic Arts  ,"Hypnos Entertainment, Inc.  ",N/A  ,8.7  ,N/A  ,N/A,0.69m,0.53m,0.14m,N/A,0.02m,05th Nov 03  ,N/A
+73,Naruto: Clash of Ninja,GC,D3 Publisher  ,Tomy  ,N/A  ,N/A  ,N/A  ,N/A,0.68m,0.53m,0.14m,N/A,0.02m,07th Mar 06  ,N/A
+74,Madagascar,GC,Activision  ,Toys for Bob  ,N/A  ,6.8  ,N/A  ,N/A,0.66m,0.52m,0.13m,N/A,0.02m,24th May 05  ,N/A
+75,The Sims: Bustin' Out,GC,Electronic Arts  ,Maxis  ,N/A  ,7.9  ,N/A  ,N/A,0.66m,0.43m,0.20m,N/A,0.03m,15th Dec 03  ,N/A
+76,F-Zero GX,GC,Nintendo  ,Amusement Vision  ,N/A  ,8.4  ,N/A  ,N/A,0.65m,0.41m,0.11m,0.12m,0.02m,26th Aug 03  ,N/A
+77,Namco Museum,GC,Namco  ,Mass Media  ,N/A  ,5.3  ,N/A  ,N/A,0.63m,0.48m,0.13m,N/A,0.02m,09th Oct 02  ,N/A
+78,Madden NFL 07,GC,EA Sports  ,EA Tiburon  ,N/A  ,8.5  ,N/A  ,N/A,0.62m,0.48m,0.13m,N/A,0.02m,22nd Aug 06  ,N/A
+79,Viewtiful Joe,GC,Capcom  ,Clover Studio  ,N/A  ,9.4  ,N/A  ,N/A,0.62m,0.38m,0.10m,0.12m,0.02m,07th Oct 03  ,N/A
+80,Pac-Man Player's Choice Bundle,GC,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,0.62m,0.48m,0.12m,N/A,0.02m,02nd Dec 03  ,N/A
+81,Madden NFL 2002,GC,EA Sports  ,EA Sports  ,N/A  ,8.6  ,N/A  ,N/A,0.61m,0.47m,0.12m,N/A,0.02m,17th Nov 01  ,N/A
+82,Wave Race: Blue Storm,GC,Nintendo  ,Nintendo Software Technology Corporation  ,N/A  ,8.4  ,N/A  ,N/A,0.60m,0.40m,0.10m,0.09m,0.02m,17th Nov 01  ,N/A
+83,Medal of Honor: Frontline,GC,Electronic Arts  ,EA Los Angeles  ,N/A  ,8.0  ,N/A  ,N/A,0.59m,0.46m,0.12m,N/A,0.02m,10th Nov 02  ,N/A
+84,Crash Bandicoot: The Wrath of Cortex,GC,Universal Interactive  ,Traveller's Tales  ,N/A  ,6.0  ,N/A  ,N/A,0.59m,0.46m,0.12m,N/A,0.02m,17th Sep 02  ,N/A
+85,Tony Hawk's Pro Skater 4,GC,Activision  ,Neversoft Entertainment  ,N/A  ,9.2  ,N/A  ,N/A,0.58m,0.45m,0.12m,N/A,0.02m,23rd Oct 02  ,N/A
+86,Madden NFL 06,GC,EA Sports  ,EA Tiburon  ,N/A  ,8.7  ,N/A  ,N/A,0.57m,0.44m,0.11m,N/A,0.02m,08th Aug 05  ,N/A
+87,True Crime: Streets of LA,GC,Activision  ,EXAKT Entertainment  ,N/A  ,8.1  ,N/A  ,N/A,0.56m,0.44m,0.11m,N/A,0.02m,03rd Nov 03  ,N/A
+88,Need for Speed: Most Wanted,GC,Electronic Arts  ,EA Canada  ,N/A  ,8.3  ,N/A  ,N/A,0.56m,0.43m,0.11m,N/A,0.02m,15th Nov 05  ,N/A
+89,Fire Emblem: Path of Radiance,GC,Nintendo  ,Intelligent Systems  ,N/A  ,8.6  ,N/A  ,N/A,0.54m,0.29m,0.08m,0.16m,0.01m,17th Oct 05  ,N/A
+90,SSX Tricky,GC,EA Sports BIG   ,EA Canada  ,N/A  ,8.4  ,N/A  ,N/A,0.54m,0.42m,0.11m,N/A,0.01m,02nd Dec 01  ,N/A
+91,NBA Street Vol. 2,GC,EA Sports BIG   ,EA Canada  ,N/A  ,8.8  ,N/A  ,N/A,0.54m,0.41m,0.11m,N/A,0.01m,28th Apr 03  ,N/A
+92,X-Men Legends,GC,Activision  ,Raven Software  ,N/A  ,8.6  ,N/A  ,N/A,0.53m,0.41m,0.11m,N/A,0.01m,21st Sep 04  ,N/A
+93,The Lord of the Rings: The Two Towers,GC,Electronic Arts  ,Stormfront Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.53m,0.41m,0.11m,N/A,0.01m,30th Dec 02  ,N/A
+94,Madden NFL 2004,GC,EA Sports  ,EA Tiburon  ,N/A  ,9.2  ,N/A  ,N/A,0.51m,0.40m,0.10m,N/A,0.01m,12th Aug 03  ,N/A
+95,Avatar: The Last Airbender,GC,THQ  ,AWE Games  ,N/A  ,5.5  ,N/A  ,N/A,0.50m,0.39m,0.10m,N/A,0.01m,10th Oct 06  ,N/A
+96,Tony Hawk's Underground 2,GC,Activision  ,Neversoft Entertainment  ,N/A  ,8.6  ,N/A  ,N/A,0.50m,0.38m,0.10m,N/A,0.01m,04th Oct 04  ,N/A
+97,WWE Wrestlemania X8,GC,THQ  ,Yuke's  ,N/A  ,N/A  ,N/A  ,N/A,0.49m,0.38m,0.10m,N/A,0.01m,09th Jun 02  ,N/A
+98,The Sims,GC,Electronic Arts  ,Maxis  ,N/A  ,N/A  ,N/A  ,N/A,0.49m,0.35m,0.13m,N/A,0.01m,25th Mar 03  ,N/A
+99,Crazy Taxi,GC,Acclaim Entertainment  ,Hitmaker  ,N/A  ,7.2  ,N/A  ,N/A,0.49m,0.36m,0.09m,0.02m,0.01m,17th Nov 01  ,N/A
+100,Dance Dance Revolution: Mario Mix,GC,Nintendo  ,Konami  ,N/A  ,7.0  ,N/A  ,N/A,0.47m,0.36m,0.09m,N/A,0.01m,24th Oct 05  ,N/A
+101,Enter the Matrix,GC,Atari  ,Shiny Entertainment  ,N/A  ,6.5  ,N/A  ,N/A,0.45m,0.34m,0.09m,0.02m,0.01m,14th May 03  ,N/A
+102,Phantasy Star Online Episode I & II,GC,Sega  ,Sonic Team  ,N/A  ,8.2  ,N/A  ,N/A,0.45m,0.23m,0.06m,0.16m,0.01m,29th Oct 02  ,N/A
+103,NBA Live 2005,GC,EA Sports  ,EA Canada  ,N/A  ,8.5  ,N/A  ,N/A,0.45m,0.35m,0.09m,N/A,0.01m,28th Sep 04  ,N/A
+104,WWE Day of Reckoning,GC,THQ  ,Yuke's Future Media Creators  ,N/A  ,8.1  ,N/A  ,N/A,0.45m,0.35m,0.09m,N/A,0.01m,30th Aug 04  ,N/A
+105,"SpongeBob SquarePants: Lights, Camera, Pants!",GC,THQ  ,THQ Australia Studios Pty Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,0.34m,0.09m,N/A,0.01m,21st Oct 05  ,N/A
+106,Naruto: Gekitou Ninja Taisen! 3,GC,Tomy Corporation  ,Eighting/Raizing  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,N/A,N/A,0.43m,0.01m,20th Nov 04  ,N/A
+107,Wario World,GC,Nintendo  ,"Treasure Co., Ltd.  ",N/A  ,7.5  ,N/A  ,N/A,0.44m,0.34m,0.09m,N/A,0.01m,24th Jun 03  ,N/A
+108,TimeSplitters 2,GC,Eidos Interactive  ,Free Radical Design  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,0.34m,0.09m,N/A,0.01m,16th Oct 02  ,N/A
+109,Madden NFL 2003,GC,EA Sports  ,EA Tiburon  ,N/A  ,9.1  ,N/A  ,N/A,0.43m,0.33m,0.09m,N/A,0.01m,12th Aug 02  ,N/A
+110,NBA Street,GC,EA Sports BIG   ,NuFX  ,N/A  ,N/A  ,N/A  ,N/A,0.42m,0.33m,0.09m,N/A,0.01m,17th Feb 02  ,N/A
+111,Medal of Honor: Rising Sun,GC,Electronic Arts  ,EA Los Angeles  ,N/A  ,6.6  ,N/A  ,N/A,0.42m,0.33m,0.09m,N/A,0.01m,11th Nov 03  ,N/A
+112,Tony Hawk's American Wasteland,GC,Activision  ,Neversoft Entertainment  ,N/A  ,8.4  ,N/A  ,N/A,0.42m,0.33m,0.08m,N/A,0.01m,18th Oct 05  ,N/A
+113,James Bond 007: Everything or Nothing,GC,Electronic Arts  ,EA Redwood Shores  ,N/A  ,7.4  ,N/A  ,N/A,0.42m,0.32m,0.08m,N/A,0.01m,17th Feb 04  ,N/A
+114,Mega Man Anniversary Collection,GC,Capcom  ,Atomic Planet Entertainment  ,N/A  ,7.5  ,N/A  ,N/A,0.42m,0.32m,0.08m,N/A,0.01m,22nd Jun 04  ,N/A
+115,Harry Potter and the Goblet of Fire,GC,Electronic Arts  ,Electronic Arts  ,N/A  ,6.7  ,N/A  ,N/A,0.42m,0.32m,0.08m,N/A,0.01m,08th Nov 05  ,N/A
+116,Sonic Gems Collection,GC,Sega  ,Sonic Team  ,N/A  ,6.9  ,N/A  ,N/A,0.42m,0.32m,0.08m,N/A,0.01m,16th Aug 05  ,N/A
+117,Mortal Kombat: Deadly Alliance,GC,Midway Games  ,Midway  ,N/A  ,8.6  ,N/A  ,N/A,0.41m,0.31m,0.08m,N/A,0.01m,17th Nov 02  ,N/A
+118,Tak and the Power of Juju,GC,THQ  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.31m,0.08m,N/A,0.01m,15th Oct 03  ,N/A
+119,Eternal Darkness: Sanity's Requiem,GC,Nintendo  ,Silicon Knights  ,N/A  ,9.3  ,N/A  ,0.40m,N/A,N/A,N/A,N/A,N/A,24th Jun 02  ,N/A
+120,Harry Potter: Quidditch World Cup,GC,Electronic Arts  ,Electronic Arts  ,N/A  ,7.2  ,N/A  ,N/A,0.40m,0.31m,0.08m,N/A,0.01m,28th Oct 03  ,N/A
+121,Battalion Wars,GC,Nintendo  ,Kuju Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.25m,0.07m,0.07m,0.01m,19th Sep 05  ,N/A
+122,Power Rangers: Dino Thunder,GC,THQ  ,Pacific Coast Power & Light  ,N/A  ,5.3  ,N/A  ,N/A,0.40m,0.31m,0.08m,N/A,0.01m,14th Sep 04  ,N/A
+123,Rampage: Total Destruction,GC,Midway Games  ,"Pipeworks Software, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,0.40m,0.31m,0.08m,N/A,0.01m,24th Apr 06  ,N/A
+124,The Urbz: Sims in the City,GC,Electronic Arts  ,Maxis  ,N/A  ,7.6  ,N/A  ,N/A,0.40m,0.24m,0.14m,N/A,0.02m,09th Nov 04  ,N/A
+125,Star Wars: Clone Wars,GC,LucasArts  ,Pandemic Studios  ,N/A  ,7.3  ,N/A  ,N/A,0.40m,0.31m,0.08m,N/A,0.01m,28th Oct 02  ,N/A
+126,Call of Duty: Finest Hour,GC,Activision  ,EXAKT Entertainment  ,N/A  ,7.7  ,N/A  ,N/A,0.40m,0.31m,0.08m,N/A,0.01m,16th Nov 04  ,N/A
+127,Donkey Konga 2,GC,Nintendo  ,Namco  ,N/A  ,6.5  ,N/A  ,N/A,0.39m,0.30m,0.08m,N/A,0.01m,09th May 05  ,N/A
+128,Chibi-Robo! Plug into Adventure!,GC,Nintendo  ,skip Ltd.  ,N/A  ,7.4  ,N/A  ,N/A,0.39m,0.23m,0.06m,0.09m,0.01m,06th Feb 06  ,N/A
+129,Turok: Evolution,GC,Acclaim Entertainment  ,Acclaim Studios Austin  ,N/A  ,7.4  ,N/A  ,N/A,0.38m,0.30m,0.08m,N/A,0.01m,31st Aug 02  ,N/A
+130,Marvel Nemesis: Rise of the Imperfects,GC,Electronic Arts  ,Nihilistic Software  ,N/A  ,6.0  ,N/A  ,N/A,0.38m,0.30m,0.08m,N/A,0.01m,20th Sep 05  ,N/A
+131,SSX 3,GC,EA Sports BIG   ,EA Canada  ,N/A  ,9.5  ,N/A  ,N/A,0.38m,0.29m,0.08m,N/A,0.01m,20th Oct 03  ,N/A
+132,Pokémon Channel,GC,Nintendo  ,Ambrella  ,N/A  ,5.2  ,N/A  ,N/A,0.38m,0.24m,0.06m,0.07m,0.01m,01st Dec 03  ,N/A
+133,Harry Potter and the Prisoner of Azkaban,GC,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.29m,0.08m,N/A,0.01m,02nd Jun 04  ,N/A
+134,Ultimate Spider-Man,GC,Activision  ,Treyarch  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,0.29m,0.07m,N/A,0.01m,21st Sep 05  ,N/A
+135,"Monsters, Inc. Scream Arena",GC,THQ  ,Radical Entertainment  ,N/A  ,3.8  ,N/A  ,N/A,0.37m,0.29m,0.07m,N/A,0.01m,14th Sep 02  ,N/A
+136,Custom Robo,GC,Nintendo  ,Noise Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,0.29m,0.07m,N/A,0.01m,10th May 04  ,N/A
+137,Pac-Man World 2,GC,Namco  ,Namco  ,N/A  ,7.5  ,N/A  ,N/A,0.37m,0.28m,0.07m,N/A,0.01m,19th Mar 02  ,N/A
+138,GoldenEye: Rogue Agent,GC,Electronic Arts  ,Dreamworks Games  ,N/A  ,5.9  ,N/A  ,N/A,0.36m,0.28m,0.07m,N/A,0.01m,22nd Nov 04  ,N/A
+139,Nicktoons: Unite!,GC,THQ  ,Blue Tongue  ,N/A  ,N/A  ,N/A  ,N/A,0.35m,0.27m,0.07m,N/A,0.01m,27th Oct 05  ,N/A
+140,Metal Gear Solid: The Twin Snakes,GC,Konami  ,Silicon Knights  ,N/A  ,8.1  ,N/A  ,0.35m,N/A,N/A,N/A,N/A,N/A,09th Mar 04  ,N/A
+141,Need for Speed Carbon,GC,Electronic Arts  ,EA Black Box  ,N/A  ,7.7  ,N/A  ,N/A,0.35m,0.27m,0.07m,N/A,0.01m,31st Oct 06  ,N/A
+142,NFL Street,GC,EA Sports BIG   ,EA Tiburon  ,N/A  ,8.3  ,N/A  ,N/A,0.35m,0.27m,0.07m,N/A,0.01m,13th Jan 04  ,N/A
+143,Over the Hedge,GC,Activision  ,Edge of Reality  ,N/A  ,6.7  ,N/A  ,N/A,0.35m,0.27m,0.07m,N/A,0.01m,09th May 06  ,N/A
+144,WWE Day of Reckoning 2,GC,THQ  ,Yuke's Future Media Creators  ,N/A  ,8.3  ,8.5  ,N/A,0.34m,0.26m,0.07m,N/A,0.01m,29th Aug 05  ,N/A
+145,Teenage Mutant Ninja Turtles,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.26m,0.07m,N/A,0.01m,31st Oct 03  ,N/A
+146,WWE Wrestlemania XIX,GC,THQ  ,Yuke's  ,N/A  ,7.8  ,N/A  ,N/A,0.33m,0.26m,0.07m,N/A,0.01m,08th Sep 03  ,N/A
+147,The Sims 2,GC,Electronic Arts  ,Maxis  ,N/A  ,7.6  ,N/A  ,N/A,0.33m,0.26m,0.07m,N/A,0.01m,24th Oct 05  ,N/A
+148,Tak 2: The Staff of Dreams,GC,THQ  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.26m,0.07m,N/A,0.01m,11th Oct 04  ,N/A
+149,Call of Duty 2: Big Red One,GC,Activision  ,Treyarch  ,N/A  ,7.5  ,N/A  ,N/A,0.33m,0.25m,0.07m,N/A,0.01m,01st Nov 05  ,N/A
+150,Spongebob Squarepants: Creature from the Krusty Krab,GC,THQ  ,Blitz Games  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.25m,0.07m,N/A,0.01m,16th Oct 06  ,N/A
+151,Naruto: Gekitou Ninja Taisen! 4,GC,Tomy Corporation  ,Eighting  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,N/A,N/A,0.32m,0.01m,21st Nov 05  ,N/A
+152,MVP Baseball 2005,GC,EA Sports  ,EA Canada  ,N/A  ,8.7  ,N/A  ,N/A,0.33m,0.25m,0.07m,N/A,0.01m,22nd Feb 05  ,N/A
+153,Teen Titans,GC,THQ  ,A2M  ,N/A  ,6.3  ,N/A  ,N/A,0.33m,0.25m,0.07m,N/A,0.01m,24th May 06  ,N/A
+154,NBA Live 06,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.25m,0.07m,N/A,0.01m,26th Sep 05  ,N/A
+155,Prince of Persia: The Sands of Time,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,9.0  ,N/A  ,N/A,0.32m,0.25m,0.06m,N/A,0.01m,18th Nov 03  ,N/A
+156,NASCAR Thunder 2003,GC,EA Sports  ,EA Tiburon  ,N/A  ,8.8  ,N/A  ,N/A,0.31m,0.24m,0.06m,N/A,0.01m,19th Sep 02  ,N/A
+157,Burnout,GC,Acclaim Entertainment  ,Criterion Games  ,N/A  ,7.7  ,N/A  ,N/A,0.30m,0.23m,0.06m,N/A,0.01m,29th Apr 02  ,N/A
+158,NBA Live 2003,GC,EA Sports  ,EA Canada  ,N/A  ,8.4  ,N/A  ,N/A,0.30m,0.23m,0.06m,N/A,0.01m,08th Oct 02  ,N/A
+159,Shark Tale,GC,Activision  ,Edge of Reality  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.23m,0.06m,N/A,0.01m,27th Sep 04  ,N/A
+160,Scooby-Doo! Night of 100 Frights,GC,THQ  ,Heavy Iron Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.23m,0.06m,N/A,0.01m,16th Sep 02  ,N/A
+161,NBA Street V3,GC,EA Sports BIG   ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.01m,08th Feb 05  ,N/A
+162,From TV Animation One Piece: Treasure Battle!,GC,Bandai  ,Ganbarion  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,N/A,N/A,0.28m,0.01m,01st Nov 02  ,N/A
+163,The Lord of the Rings: The Third Age,GC,Electronic Arts  ,EA Redwood Shores  ,N/A  ,7.9  ,N/A  ,N/A,0.29m,0.22m,0.06m,N/A,0.01m,02nd Nov 04  ,N/A
+164,Nicktoons: Battle for Volcano Island,GC,THQ  ,Blue Tongue  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.22m,0.06m,N/A,0.01m,24th Oct 06  ,N/A
+165,Spyro: A Hero's Tail,GC,VU Games  ,Eurocom Entertainment Software  ,N/A  ,6.4  ,N/A  ,N/A,0.29m,0.22m,0.06m,N/A,0.01m,03rd Nov 04  ,N/A
+166,ATV Quad Power Racing 2,GC,Acclaim Entertainment  ,Climax Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.22m,0.06m,N/A,0.01m,22nd Jan 03  ,N/A
+167,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GC,Buena Vista  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.22m,0.06m,N/A,0.01m,14th Nov 05  ,N/A
+168,The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies,GC,THQ  ,THQ  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.22m,0.06m,N/A,0.01m,13th Sep 04  ,N/A
+169,Pac-Man Fever,GC,Namco  ,Mass Media  ,N/A  ,5.1  ,N/A  ,N/A,0.28m,0.21m,0.06m,N/A,0.01m,03rd Sep 02  ,N/A
+170,Pokémon Box: Ruby and Sapphire,GC,Nintendo  ,The Pokémon Company  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,N/A,N/A,0.27m,0.01m,12th Sep 04  ,N/A
+171,Dave Mirra Freestyle BMX 2,GC,Acclaim Entertainment  ,"Z-Axis, Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.28m,0.21m,0.06m,N/A,0.01m,17th Nov 01  ,N/A
+172,Dragon Ball Z: Budokai 2,GC,Atari  ,Pyramid  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.21m,0.06m,N/A,0.01m,15th Dec 04  ,N/A
+173,Baten Kaitos: Eternal Wings and the Lost Ocean,GC,Namco  ,tri-Crescendo / Monolith Soft  ,N/A  ,8.2  ,N/A  ,N/A,0.27m,0.21m,0.05m,N/A,0.01m,16th Nov 04  ,N/A
+174,Disney's Chicken Little,GC,Buena Vista  ,Avalanche Software  ,N/A  ,7.0  ,N/A  ,N/A,0.27m,0.21m,0.05m,N/A,0.01m,20th Oct 05  ,N/A
+175,Ty the Tasmanian Tiger,GC,Electronic Arts  ,Krome Studios  ,N/A  ,7.1  ,N/A  ,N/A,0.27m,0.21m,0.05m,N/A,0.01m,10th Sep 02  ,N/A
+176,NBA Live 2004,GC,EA Sports  ,EA Canada  ,N/A  ,8.4  ,N/A  ,N/A,0.27m,0.21m,0.05m,N/A,0.01m,15th Oct 03  ,N/A
+177,The Sims 2: Pets,GC,Electronic Arts  ,Maxis  ,N/A  ,6.9  ,N/A  ,N/A,0.27m,0.21m,0.05m,N/A,0.01m,17th Oct 06  ,N/A
+178,Star Wars: Bounty Hunter,GC,LucasArts  ,LucasArts  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.20m,0.05m,N/A,0.01m,07th Dec 02  ,N/A
+179,Batman: Vengeance,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,7.0  ,N/A  ,N/A,0.26m,0.20m,0.05m,N/A,0.01m,17th Nov 01  ,N/A
+180,Crash Nitro Kart,GC,VU Games  ,Vicarious Visions  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.20m,0.05m,N/A,0.01m,11th Nov 03  ,N/A
+181,Lemony Snicket's A Series of Unfortunate Events,GC,Activision  ,Adrenium Games  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.20m,0.05m,N/A,0.01m,10th Nov 04  ,N/A
+182,Backyard NFL Football,GC,Infogrames  ,Humongous Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.20m,0.05m,N/A,0.01m,10th Oct 02  ,N/A
+183,MVP Baseball 2004,GC,EA Sports  ,EA Sports  ,N/A  ,8.9  ,N/A  ,N/A,0.26m,0.20m,0.05m,N/A,0.01m,09th Mar 04  ,N/A
+184,Bomberman Generation,GC,Majesco  ,Game Arts  ,N/A  ,8.4  ,N/A  ,N/A,0.25m,0.15m,0.04m,0.06m,0.01m,03rd Jun 02  ,N/A
+185,Happy Feet,GC,Midway Games  ,Artificial Mind and Movement  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.20m,0.05m,N/A,0.01m,14th Nov 06  ,N/A
+186,Medal of Honor European Assault,GC,Electronic Arts  ,EA Los Angeles  ,N/A  ,7.9  ,N/A  ,N/A,0.25m,0.19m,0.05m,N/A,0.01m,07th Jun 05  ,N/A
+187,Billy Hatcher and the Giant Egg,GC,Sega  ,Sonic Team  ,N/A  ,7.3  ,N/A  ,N/A,0.25m,0.19m,0.05m,N/A,0.01m,23rd Sep 03  ,N/A
+188,Def Jam Vendetta,GC,EA Sports BIG   ,Aki Corporation  ,N/A  ,8.8  ,N/A  ,N/A,0.25m,0.19m,0.05m,N/A,0.01m,31st Mar 03  ,N/A
+189,"Ed, Edd n Eddy: The Mis-Edventures",GC,Midway Games  ,A2M  ,N/A  ,4.6  ,N/A  ,N/A,0.25m,0.19m,0.05m,N/A,0.01m,03rd Nov 05  ,N/A
+190,Nickelodeon Party Blast,GC,Atari  ,Data Design Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.19m,0.05m,N/A,0.01m,06th Dec 02  ,N/A
+191,X-Men Legends II: Rise of Apocalypse,GC,Activision  ,Raven Software  ,N/A  ,8.2  ,N/A  ,N/A,0.25m,0.19m,0.05m,N/A,0.01m,20th Sep 05  ,N/A
+192,NBA Courtside 2002,GC,Nintendo  ,Left Field Productions  ,N/A  ,7.6  ,N/A  ,N/A,0.25m,0.19m,0.05m,N/A,0.01m,13th Jan 02  ,N/A
+193,Harvest Moon: Magical Melody,GC,Natsume  ,Marvelous Interactive  ,N/A  ,8.0  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.01m,28th Mar 06  ,N/A
+194,Peter Jackson's King Kong: The Official Game of the Movie,GC,Ubisoft  ,Ubisoft Montpellier  ,N/A  ,8.1  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.01m,21st Nov 05  ,N/A
+195,The Simpsons: Road Rage,GC,Electronic Arts  ,Radical Entertainment  ,N/A  ,6.0  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.01m,17th Dec 01  ,N/A
+196,Harvest Moon: Another Wonderful Life,GC,Natsume  ,Marvelous Interactive  ,N/A  ,7.7  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.01m,26th Jul 05  ,N/A
+197,Fantastic 4,GC,Activision  ,7 Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.01m,27th Jun 05  ,N/A
+198,Star Wars Jedi Knight II: Jedi Outcast,GC,LucasArts  ,Vicarious Visions  ,N/A  ,7.1  ,N/A  ,N/A,0.23m,0.18m,0.05m,N/A,0.01m,20th Nov 02  ,N/A
+199,Tom Clancy's Splinter Cell,GC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,0.18m,0.05m,N/A,0.01m,10th Apr 03  ,N/A
+200,Rocket Power: Beach Bandits,GC,THQ  ,Evolution Games  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,0.18m,0.05m,N/A,0.01m,24th Sep 02  ,N/A
+201,Tiger Woods PGA Tour 2003,GC,EA Sports  ,EA Redwood Shores  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,0.18m,0.05m,N/A,0.01m,27th Oct 02  ,N/A
+202,Def Jam: Fight for NY,GC,Electronic Arts  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.17m,0.05m,N/A,0.01m,20th Sep 04  ,N/A
+203,Mary-Kate and Ashley: Sweet 16 - Licenced to Drive,GC,Acclaim Entertainment  ,n-Space  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,14th Feb 03  ,N/A
+204,Skies of Arcadia Legends,GC,Sega  ,Overworks  ,N/A  ,8.6  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,27th Jan 03  ,N/A
+205,NCAA Football 2005,GC,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,15th Jul 04  ,N/A
+206,Tetris Worlds,GC,THQ  ,Radical Entertainment  ,N/A  ,4.6  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,23rd Jun 02  ,N/A
+207,Viewtiful Joe 2,GC,Capcom  ,Clover Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,18th Nov 04  ,N/A
+208,All-Star Baseball 2002,GC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,6.5  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,17th Nov 01  ,N/A
+209,From Russia With Love,GC,Electronic Arts  ,EA Redwood Shores  ,N/A  ,7.3  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,15th Nov 05  ,N/A
+210,NFL 2K3,GC,Sega  ,Visual Concepts  ,N/A  ,9.0  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,21st Aug 02  ,N/A
+211,Scooby-Doo! Mystery Mayhem,GC,THQ  ,Artificial Mind and Movement  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,02nd Mar 04  ,N/A
+212,Shrek Superslam,GC,Activision  ,Shaba Games  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.17m,0.04m,N/A,0.01m,25th Oct 05  ,N/A
+213,Namco Museum: 50th Anniversary,GC,Namco  ,Digital Eclipse  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.01m,30th Aug 05  ,N/A
+214,Bratz: Forever Diamondz,GC,THQ  ,Blitz Games  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.01m,18th Sep 06  ,N/A
+215,Naruto: Clash of Ninja (JP sales),GC,D3 Publisher  ,Tomy Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,N/A,N/A,0.21m,0.01m,07th Mar 06  ,N/A
+216,The Fairly OddParents: Breakin' Da Rules,GC,THQ  ,Blitz Games  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.16m,0.04m,N/A,0.01m,03rd Nov 03  ,N/A
+217,Bionicle,GC,Electronic Arts  ,Argonaut Games  ,N/A  ,4.8  ,N/A  ,N/A,0.21m,0.16m,0.04m,N/A,0.01m,20th Oct 03  ,N/A
+218,NHL Hitz 20-02,GC,Midway Games  ,EA Black Box  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.16m,0.04m,N/A,0.01m,17th Nov 01  ,N/A
+219,NCAA Football 2003,GC,EA Sports  ,EA Tiburon  ,N/A  ,9.2  ,N/A  ,N/A,0.21m,0.16m,0.04m,N/A,0.01m,20th Jul 02  ,N/A
+220,BeyBlade VForce: Super Tournament Battle,GC,Atari  ,Takara  ,N/A  ,2.5  ,N/A  ,N/A,0.21m,0.16m,0.04m,N/A,0.01m,23rd Sep 03  ,N/A
+221,Dragon Ball Z: Sagas,GC,Atari  ,Avalanche Software  ,N/A  ,5.7  ,N/A  ,N/A,0.21m,0.16m,0.04m,N/A,0.01m,22nd Mar 05  ,N/A
+222,Bratz: Rock Angelz,GC,THQ  ,Blitz Games  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.01m,05th Oct 05  ,N/A
+223,From TV Animation One Piece: Grand Battle! 3,GC,Bandai  ,Ganbarion  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,N/A,N/A,0.20m,0.01m,11th Dec 03  ,N/A
+224,The Fairly Odd Parents: Shadow Showdown,GC,THQ  ,Blitz Games  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.01m,08th Sep 04  ,N/A
+225,Spy Hunter,GC,Midway Games  ,Point of View  ,N/A  ,7.9  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.01m,11th Mar 02  ,N/A
+226,Ty the Tasmanian Tiger 2: Bush Rescue,GC,Electronic Arts  ,Krome Studios  ,N/A  ,7.4  ,N/A  ,N/A,0.20m,0.15m,0.04m,N/A,0.01m,12th Oct 04  ,N/A
+227,NFL Street 2,GC,EA Sports BIG   ,EA Tiburon  ,N/A  ,8.2  ,N/A  ,N/A,0.20m,0.15m,0.04m,N/A,0.01m,22nd Dec 04  ,N/A
+228,SpongeBob SquarePants: Revenge of the Flying Dutchman,GC,THQ  ,Big Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.15m,0.04m,N/A,0.01m,18th Dec 02  ,N/A
+229,MC Groovz Dance Craze,GC,Mad Catz  ,Mad Catz  ,N/A  ,2.5  ,N/A  ,N/A,0.20m,0.15m,0.04m,N/A,0.01m,22nd Nov 04  ,N/A
+230,Prince of Persia: Warrior Within,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,8.2  ,N/A  ,N/A,0.20m,0.15m,0.04m,N/A,0.01m,30th Nov 04  ,N/A
+231,Ice Age 2: The Meltdown,GC,Vivendi Games  ,Eurocom Entertainment Software  ,N/A  ,7.4  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.01m,14th Mar 06  ,N/A
+232,Disney's Magical Mirror Starring Mickey Mouse,GC,Nintendo  ,Capcom  ,N/A  ,4.0  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.01m,13th Aug 02  ,N/A
+233,Teenage Mutant Ninja Turtles 2: Battle Nexus,GC,Konami  ,Konami  ,N/A  ,5.0  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.01m,19th Oct 04  ,N/A
+234,Hulk,GC,Universal Interactive  ,Radical Entertainment  ,N/A  ,7.3  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.01m,27th May 03  ,N/A
+235,The Legend of Spyro: A New Beginning,GC,Sierra Entertainment  ,Krome Studios  ,N/A  ,6.5  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.01m,10th Oct 06  ,N/A
+236,Bloody Roar: Primal Fury,GC,Activision  ,Eighting / Raizing  ,N/A  ,7.9  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,18th Mar 02  ,N/A
+237,FIFA 07 Soccer,GC,EA Sports  ,EA Canada  ,N/A  ,8.3  ,7.6  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,03rd Oct 06  ,N/A
+238,Gauntlet: Dark Legacy,GC,Midway Games  ,Midway Games West  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,06th Mar 02  ,N/A
+239,Gun,GC,Activision  ,Neversoft Entertainment  ,N/A  ,7.9  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,08th Nov 05  ,N/A
+240,FIFA Soccer 2002,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,21st Nov 01  ,N/A
+241,Disney's Tarzan Untamed,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,17th Nov 01  ,N/A
+242,Charlie and the Chocolate Factory,GC,Global Star Software  ,High Voltage Software  ,N/A  ,3.9  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,11th Jul 05  ,N/A
+243,Rugrats: Royal Ransom,GC,THQ  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,27th Nov 02  ,N/A
+244,Open Season,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,6.4  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,19th Sep 06  ,N/A
+245,Major League Baseball 2K6,GC,2K Sports  ,Kush Games  ,N/A  ,6.2  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,12th Jun 06  ,N/A
+246,The Grim Adventures of Billy & Mandy,GC,Midway Games  ,High Voltage Software  ,N/A  ,7.2  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,25th Sep 06  ,N/A
+247,The Hobbit,GC,Sierra Entertainment  ,Midway Studios - Austin  ,N/A  ,5.0  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,11th Nov 03  ,N/A
+248,True Crime: New York City,GC,Activision  ,EXAKT Entertainment  ,N/A  ,6.4  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,15th Nov 05  ,N/A
+249,Fight Night Round 2,GC,EA Sports  ,EA Sports  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,28th Feb 05  ,N/A
+250,Looney Tunes: Back in Action,GC,Warner Bros. Interactive  ,Warthog  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,24th Nov 03  ,N/A
+251,SSX On Tour,GC,EA Sports BIG   ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,11th Oct 05  ,N/A
+252,Shrek Extra Large,GC,TDK Mediactive  ,Digital Illusions  ,N/A  ,3.0  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,31st Oct 02  ,N/A
+253,Mega Man Network Transmission,GC,Capcom  ,Arika  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,17th Jun 03  ,N/A
+254,Lost Kingdoms,GC,Activision  ,From Software  ,N/A  ,7.3  ,N/A  ,N/A,0.17m,0.10m,0.02m,0.04m,0.00m,27th May 02  ,N/A
+255,Midway Arcade Treasures,GC,Midway Games  ,Digital Eclipse  ,N/A  ,6.8  ,N/A  ,N/A,0.17m,0.13m,0.03m,N/A,0.00m,18th Dec 03  ,N/A
+256,Cubivore: Survival of the Fittest,GC,Atlus  ,Saru Brunei / Intelligent Systems  ,N/A  ,7.1  ,N/A  ,N/A,0.17m,0.01m,0.00m,0.15m,0.00m,05th Nov 02  ,N/A
+257,Robotech: Battlecry,GC,TDK Mediactive  ,Vicious Cycle  ,N/A  ,7.2  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,11th Oct 02  ,N/A
+258,Midway Arcade Treasures 2,GC,Midway Games  ,Backbone Entertainment  ,N/A  ,7.2  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,11th Oct 04  ,N/A
+259,Hot Wheels World Race,GC,THQ  ,Climax Group  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,31st Oct 03  ,N/A
+260,Crash Tag Team Racing,GC,VU Games  ,Radical Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.12m,0.03m,N/A,0.00m,19th Oct 05  ,N/A
+261,The Incredibles: Rise of the Underminer,GC,THQ  ,Heavy Iron Studios  ,N/A  ,6.7  ,N/A  ,N/A,0.16m,0.12m,0.03m,N/A,0.00m,01st Nov 05  ,N/A
+262,Flushed Away,GC,D3 Publisher  ,Monkey Bar Games  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.12m,0.03m,N/A,0.00m,24th Oct 06  ,N/A
+263,Robots,GC,VU Games  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.12m,0.03m,N/A,0.00m,24th Feb 05  ,N/A
+264,Tiger Woods PGA Tour 2004,GC,EA Sports  ,EA Redwood Shores  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.12m,0.03m,N/A,0.00m,22nd Sep 03  ,N/A
+265,NBA 2K3,GC,Sega  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.12m,0.03m,N/A,0.00m,07th Oct 02  ,N/A
+266,Burnout 2: Point of Impact,GC,Acclaim Entertainment  ,Criterion Games  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,09th Apr 03  ,N/A
+267,Tak: The Great Juju Challenge,GC,THQ  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,19th Sep 05  ,N/A
+268,Knockout Kings 2003,GC,EA Sports  ,NEW Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,09th Oct 02  ,N/A
+269,NCAA Football 2004,GC,EA Sports  ,EA Tiburon  ,N/A  ,8.7  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,16th Jul 03  ,N/A
+270,XGIII: Extreme G Racing,GC,Acclaim Entertainment  ,Acclaim Studios Cheltenham  ,N/A  ,8.6  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,27th Nov 01  ,N/A
+271,Scooby-Doo! Unmasked,GC,THQ  ,Artificial Mind and Movement  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,12th Sep 05  ,N/A
+272,Army Men: Sarge's War,GC,Global Star Software  ,Tactical Development  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,21st Aug 04  ,N/A
+273,Frogger's Adventures: The Rescue,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,31st Oct 03  ,N/A
+274,Zoids: Battle Legends,GC,Atari  ,Tomy Corporation  ,N/A  ,5.0  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,04th Sep 04  ,N/A
+275,Killer7,GC,Capcom  ,Grasshopper Manufacture  ,N/A  ,7.2  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,07th Jul 05  ,N/A
+276,Super Monkey Ball Adventure,GC,Sega  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,01st Aug 06  ,N/A
+277,Top Gun: Combat Zones,GC,Titus  ,Digital Integration  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,24th Oct 02  ,N/A
+278,All-Star Baseball 2003,GC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,8.7  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,25th Feb 02  ,N/A
+279,X-Men: The Official Game,GC,Activision  ,Hypnos  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,16th May 06  ,N/A
+280,Curious George,GC,Namco  ,Monkey Bar Games  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.11m,0.03m,N/A,0.00m,01st Feb 06  ,N/A
+281,Geist,GC,Nintendo  ,n-Space  ,N/A  ,6.6  ,7.6  ,N/A,0.15m,0.11m,0.03m,N/A,0.00m,15th Aug 05  ,N/A
+282,The Incredible Hulk: Ultimate Destruction,GC,VU Games  ,Radical Entertainment  ,N/A  ,8.7  ,N/A  ,N/A,0.15m,0.11m,0.03m,N/A,0.00m,23rd Aug 05  ,N/A
+283,Prince of Persia: The Two Thrones,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,8.7  ,N/A  ,N/A,0.15m,0.11m,0.03m,N/A,0.00m,01st Dec 05  ,N/A
+284,Batman Begins,GC,Electronic Arts  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.11m,0.03m,N/A,0.00m,14th Jun 05  ,N/A
+285,Tom Clancy's Ghost Recon,GC,Ubisoft  ,Red Storm Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.11m,0.03m,N/A,0.00m,09th Feb 03  ,N/A
+286,MLB SlugFest 20-03,GC,Midway Games  ,Gratuitous Games  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.11m,0.03m,N/A,0.00m,03rd Sep 02  ,N/A
+287,Ratatouille,GC,THQ  ,Asobo Studio  ,N/A  ,6.1  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,26th Jun 07  ,N/A
+288,Doshin the Giant,GC,Nintendo  ,Param  ,N/A  ,6.8  ,N/A  ,N/A,0.14m,N/A,N/A,0.14m,0.00m,20th Sep 02  ,N/A
+289,FIFA Soccer 2005,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,09th Oct 04  ,N/A
+290,Dead to Rights,GC,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,25th Nov 02  ,N/A
+291,Sphinx and the Cursed Mummy,GC,THQ  ,Eurocom Entertainment Software  ,N/A  ,8.4  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,10th Nov 03  ,N/A
+292,Baldur's Gate: Dark Alliance,GC,Interplay  ,Snowblind Studios  ,N/A  ,7.7  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,18th Nov 02  ,N/A
+293,Monster House,GC,THQ  ,Artificial Mind and Movement  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,18th Jul 06  ,N/A
+294,NFL Blitz 20-03,GC,Midway Games  ,Point of View  ,N/A  ,7.8  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,12th Aug 02  ,N/A
+295,Ultimate Muscle - The Kinnikuman Legacy: Legends vs New Generation,GC,Bandai  ,Aki Corporation  ,N/A  ,8.0  ,N/A  ,N/A,0.14m,0.04m,0.01m,0.08m,0.00m,05th Jun 03  ,N/A
+296,FIFA 06 Soccer,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,04th Oct 05  ,N/A
+297,Rayman Arena,GC,Ubisoft  ,Ubisoft  ,N/A  ,6.2  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,24th Sep 02  ,N/A
+298,4X4 EVO 2,GC,VU Games  ,Terminal Reality  ,N/A  ,5.1  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,09th Sep 02  ,N/A
+299,Tiger Woods PGA Tour 2005,GC,EA Sports  ,EA Redwood Shores  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.10m,0.03m,N/A,0.00m,20th Sep 04  ,N/A
+300,NHL 2003,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,30th Sep 02  ,N/A
+301,Frogger Beyond,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,06th Dec 02  ,N/A
+302,Shrek Smash n' Crash Racing,GC,Activision  ,Torus Games  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,21st Nov 06  ,N/A
+303,FIFA World Cup Germany 2006,GC,EA Sports  ,EA Canada  ,N/A  ,7.7  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,24th Apr 06  ,N/A
+304,Hitman 2: Silent Assassin,GC,Eidos Interactive  ,IO Interactive  ,N/A  ,8.3  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,19th Jun 03  ,N/A
+305,Nintendo Puzzle Collection,GC,Unknown  ,Intelligent Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,N/A,N/A,0.13m,0.00m,N/A  ,N/A
+306,Backyard Baseball,GC,Infogrames  ,Humongous Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,31st Mar 03  ,N/A
+307,Legends of Wrestling,GC,Acclaim Entertainment  ,Acclaim Studios Salt Lake City  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,27th May 02  ,N/A
+308,Zapper: One Wicked Cricket!,GC,Infogrames  ,Blitz Games  ,N/A  ,6.6  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,06th Nov 02  ,N/A
+309,Monopoly Party,GC,Infogrames  ,Runecraft  ,N/A  ,7.3  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,20th Nov 02  ,N/A
+310,X-Men: Next Dimension,GC,Activision  ,EXAKT Entertainment  ,N/A  ,7.0  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,15th Oct 02  ,N/A
+311,Freedom Fighters,GC,Electronic Arts  ,IO Interactive  ,N/A  ,8.8  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,01st Oct 03  ,N/A
+312,Mega Man X Collection,GC,Capcom  ,Capcom  ,N/A  ,7.5  ,N/A  ,N/A,0.13m,0.10m,0.03m,N/A,0.00m,10th Jan 06  ,N/A
+313,Mega Man X: Command Mission,GC,Capcom  ,Capcom  ,N/A  ,7.2  ,N/A  ,N/A,0.12m,0.10m,0.02m,N/A,0.00m,21st Sep 04  ,N/A
+314,NASCAR 2005: Chase for the Cup,GC,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.10m,0.02m,N/A,0.00m,04th Sep 04  ,N/A
+315,The Ant Bully,GC,Midway Games  ,Artificial Mind and Movement  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,24th Jul 06  ,N/A
+316,X2: Wolverine's Revenge,GC,Activision  ,GenePool  ,N/A  ,6.0  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,14th Apr 03  ,N/A
+317,Street Hoops,GC,Activision  ,Black Ops Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,28th Nov 02  ,N/A
+318,Disney's Extreme Skate Adventure,GC,Activision  ,Toys for Bob  ,N/A  ,7.4  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,04th Sep 03  ,N/A
+319,NBA 2K2,GC,Sega  ,Visual Concepts  ,N/A  ,8.8  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,20th Mar 02  ,N/A
+320,Jeremy McGrath Supercross World,GC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,2.7  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,27th Feb 02  ,N/A
+321,Legends of Wrestling II,GC,Acclaim Entertainment  ,Acclaim Studios Salt Lake City  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,26th Nov 02  ,N/A
+322,Jikkyou Powerful Pro Yakyuu 9,GC,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,N/A,N/A,0.11m,0.00m,18th Jul 02  ,N/A
+323,Teenage Mutant Ninja Turtles 3: Mutant Nightmare,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,01st Nov 05  ,N/A
+324,Dora the Explorer: Journey to the Purple Planet,GC,Global Star Software  ,Take-Two Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,13th Oct 05  ,N/A
+325,Barnyard,GC,THQ  ,Blue Tongue  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,01st Aug 06  ,N/A
+326,Die Hard: Vendetta,GC,Sierra Entertainment  ,Bits Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.00m,19th Nov 02  ,N/A
+327,FIFA Street 2,GC,EA Sports BIG   ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,28th Feb 06  ,N/A
+328,18 Wheeler: American Pro Trucker,GC,Acclaim Entertainment  ,Acclaim Studios Cheltenham  ,N/A  ,5.0  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,18th Feb 02  ,N/A
+329,BloodRayne,GC,Majesco  ,Terminal Reality  ,N/A  ,7.9  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,15th Oct 02  ,N/A
+330,Home Run King,GC,Sega  ,Wow Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,18th Mar 02  ,N/A
+331,Capcom vs. SNK 2 EO,GC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,23rd Sep 02  ,N/A
+332,Hot Wheels Velocity X,GC,THQ  ,Beyond Games  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,12th Nov 02  ,N/A
+333,Mortal Kombat: Deception,GC,Midway Games  ,Midway Games  ,N/A  ,7.2  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,01st Mar 05  ,N/A
+334,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,GC,THQ  ,Krome Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,16th Sep 03  ,N/A
+335,Odama,GC,Nintendo  ,VIVARIUM Inc.  ,N/A  ,6.5  ,N/A  ,N/A,0.11m,0.07m,0.02m,0.02m,0.00m,10th Apr 06  ,N/A
+336,Bionicle Heroes,GC,Eidos Interactive  ,Traveller's Tales  ,N/A  ,5.4  ,N/A  ,N/A,0.11m,0.08m,0.02m,N/A,0.00m,14th Nov 06  ,N/A
+337,The Scorpion King: Rise of the Akkadian,GC,Universal Interactive  ,Point of View  ,N/A  ,5.2  ,N/A  ,N/A,0.11m,0.08m,0.02m,N/A,0.00m,11th Sep 02  ,N/A
+338,GiFTPiA,GC,Unknown  ,skip Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,N/A,N/A,0.11m,0.00m,N/A  ,N/A
+339,Defender,GC,Midway Games  ,Inevitable Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.08m,0.02m,N/A,0.00m,03rd Nov 02  ,N/A
+340,The Polar Express,GC,THQ  ,Blue Tongue  ,N/A  ,3.3  ,N/A  ,N/A,0.11m,0.08m,0.02m,N/A,0.00m,02nd Nov 04  ,N/A
+341,Starsky & Hutch,GC,BAM! Entertainment  ,Minds-Eye Productions  ,N/A  ,6.0  ,N/A  ,N/A,0.11m,0.08m,0.02m,N/A,0.00m,24th Aug 04  ,N/A
+342,Tiger Woods PGA Tour 06,GC,EA Sports  ,EA Sports  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.08m,0.02m,N/A,0.00m,20th Sep 05  ,N/A
+343,Reign of Fire,GC,BAM! Entertainment  ,Kuju Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.08m,0.02m,N/A,0.00m,26th Nov 02  ,N/A
+344,Jikkyou Powerful Pro Yakyuu 10,GC,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,N/A,N/A,0.10m,0.00m,17th Jul 03  ,N/A
+345,Metal Arms: Glitch in the System,GC,VU Games  ,Swingin' Ape Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,18th Nov 03  ,N/A
+346,Tom Clancy's Splinter Cell: Chaos Theory,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,7.8  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,29th Mar 05  ,N/A
+347,Hunter: The Reckoning,GC,Interplay  ,High Voltage Software  ,N/A  ,7.1  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,18th Nov 02  ,N/A
+348,Baten Kaitos Origins,GC,Nintendo  ,tri-Crescendo / Monolith Soft  ,N/A  ,7.5  ,N/A  ,N/A,0.10m,0.06m,0.02m,0.02m,0.00m,25th Sep 06  ,N/A
+349,NHL 2004,GC,EA Sports  ,EA Black Box  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,22nd Sep 03  ,N/A
+350,Minority Report: Everybody Runs,GC,Activision  ,Treyarch  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,19th Nov 02  ,N/A
+351,Disney's The Haunted Mansion,GC,TDK Mediactive  ,High Voltage Software  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,14th Oct 03  ,N/A
+352,Beach Spikers: Virtua Beach Volleyball,GC,Sega  ,Sega-AM2  ,N/A  ,7.1  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,12th Aug 02  ,N/A
+353,Universal Studios Theme Parks Adventure,GC,Kemco  ,Kemco  ,N/A  ,5.1  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,18th Dec 01  ,N/A
+354,Jikkyou Powerful Pro Yakyuu 11,GC,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,N/A,N/A,0.09m,0.00m,15th Jul 04  ,N/A
+355,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,GC,Activision  ,MagicWand  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,08th Nov 05  ,N/A
+356,Pac-Man World 3,GC,Namco  ,Blitz Games  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,17th Nov 05  ,N/A
+357,Rocky,GC,Ubisoft  ,Steel Monkeys  ,N/A  ,7.0  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,17th Nov 02  ,N/A
+358,Freekstyle,GC,EA Sports BIG   ,Page 44 Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,05th Sep 02  ,N/A
+359,Alien Hominid,GC,O3 Entertainment  ,The Behemoth  ,N/A  ,8.3  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,23rd Nov 04  ,N/A
+360,I-Ninja,GC,Namco  ,Argonaut Games  ,N/A  ,7.2  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,04th Dec 03  ,N/A
+361,MX SuperFly featuring Ricky Carmichael,GC,THQ  ,Pacific Coast Power & Light  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,25th Jun 02  ,N/A
+362,NASCAR: Dirt to Daytona,GC,Infogrames  ,Monster Games Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,27th Nov 02  ,N/A
+363,Mystic Heroes,GC,KOEI  ,Koei  ,N/A  ,6.8  ,N/A  ,N/A,0.09m,0.03m,0.01m,0.04m,0.00m,30th Sep 02  ,N/A
+364,Battle Stadium D.O.N,GC,Namco Bandai  ,Eighting  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.09m,0.00m,20th Jul 06  ,N/A
+365,NFL Blitz 20-02,GC,Midway Games  ,Point of View  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,18th Mar 02  ,N/A
+366,Ikaruga,GC,Atari  ,"Treasure Co., Ltd.  ",N/A  ,8.0  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,15th Apr 03  ,N/A
+367,Digimon World 4,GC,Bandai  ,Bandai  ,N/A  ,5.2  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,01st Jun 05  ,N/A
+368,Ty the Tasmanian Tiger 3: Night of the Quinkan,GC,Activision  ,Krome Studios  ,N/A  ,6.2  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,12th Oct 05  ,N/A
+369,Bleach GC: Tasogare Ni Mamieru Shinigami,GC,Sega  ,Polygon Magic  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.08m,0.00m,08th Dec 05  ,N/A
+370,Jimmy Neutron: Boy Genius,GC,THQ  ,Big Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,17th Dec 02  ,N/A
+371,XIII,GC,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,24th Nov 03  ,N/A
+372,SRS: Street Racing Syndicate,GC,Namco  ,Eutechnyx  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.07m,0.02m,N/A,0.00m,31st Aug 04  ,N/A
+373,Bomberman Jetters,GC,Majesco  ,Hudson Soft  ,N/A  ,7.2  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,10th Mar 04  ,N/A
+374,Hello Kitty: Roller Rescue,GC,Namco  ,XPEC  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,16th Aug 05  ,N/A
+375,Jikkyou Powerful Pro Yakyuu 12,GC,Konami  ,PawaPuro Production  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,0.00m,14th Jul 05  ,N/A
+376,Pac-Man World Rally,GC,Namco Bandai  ,Smart Bomb Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,22nd Aug 06  ,N/A
+377,NHL 06,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,06th Sep 05  ,N/A
+378,Tom Clancy's Splinter Cell: Pandora Tomorrow,GC,Ubisoft  ,Ubisoft  ,N/A  ,6.7  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,20th Jul 04  ,N/A
+379,Swingerz Golf,GC,Eidos Interactive  ,Telenet  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,23rd Oct 02  ,N/A
+380,FIFA Soccer 2003,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,14th Nov 02  ,N/A
+381,Outlaw Golf,GC,Simon & Schuster Interactive  ,Hypnotix  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,30th Oct 02  ,N/A
+382,Smuggler's Run: Warzones,GC,Rockstar Games  ,Rockstar San Diego  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,07th Aug 02  ,N/A
+383,Big Mutha Truckers,GC,THQ  ,Eutechnyx  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,16th Aug 03  ,N/A
+384,Harry Potter and the Sorcerer's Stone,GC,Electronic Arts  ,Warthog  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,09th Dec 03  ,N/A
+385,TimeSplitters: Future Perfect,GC,Electronic Arts  ,Free Radical Design  ,N/A  ,8.4  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,21st Mar 05  ,N/A
+386,Shonen Jump's One Piece: Pirates Carnival,GC,Namco Bandai  ,High Horse Entertainment  ,N/A  ,4.6  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,12th Sep 06  ,N/A
+387,Superman: Shadow of Apokolips,GC,Atari  ,Infogrames  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,25th Mar 03  ,N/A
+388,Batman: Dark Tomorrow,GC,Kemco  ,"HotGen, Ltd.  ",N/A  ,2.3  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,25th Mar 03  ,N/A
+389,Tomb Raider: Legend,GC,Eidos Interactive  ,Crystal Dynamics  ,N/A  ,7.9  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,14th Nov 06  ,N/A
+390,Taz Wanted,GC,Atari  ,Blitz Games  ,N/A  ,5.7  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,10th Oct 02  ,N/A
+391,Evolution Worlds,GC,Ubisoft  ,Sting  ,N/A  ,6.5  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,02nd Dec 02  ,N/A
+392,P.N.03 - Product Number Three,GC,Capcom  ,Capcom Production Studio 4  ,N/A  ,6.3  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,09th Sep 03  ,N/A
+393,Phantasy Star Online Episode III: C.A.R.D. Revolution,GC,Sega  ,Sonic Team  ,N/A  ,7.4  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,02nd Mar 04  ,N/A
+394,Ultimate Fighting Championship: Throwdown,GC,Crave Entertainment  ,Opus Studio  ,N/A  ,6.7  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,29th Jul 02  ,N/A
+395,WWE Crush Hour,GC,THQ  ,Pacific Coast Power & Light  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,17th Mar 03  ,N/A
+396,Momotarou Dentetsu 11,GC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.07m,0.00m,05th Dec 02  ,N/A
+397,NHL Hitz 20-03,GC,Midway Games  ,EA Black Box  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,15th Sep 02  ,N/A
+398,Resident Evil 3: Nemesis,GC,Capcom  ,Capcom  ,N/A  ,5.7  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,15th Jan 03  ,N/A
+399,All-Star Baseball 2004,GC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,23rd Feb 03  ,N/A
+400,Madden NFL 08,GC,EA Sports  ,EA Tiburon  ,N/A  ,7.6  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,14th Aug 07  ,N/A
+401,Pitfall: The Lost Expedition,GC,Activision  ,Edge of Reality  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,18th Feb 04  ,N/A
+402,R: Racing Evolution,GC,Namco  ,Namco  ,N/A  ,6.1  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,09th Dec 03  ,N/A
+403,Conflict: Desert Storm,GC,Gotham Games  ,Pivotal Games  ,N/A  ,6.3  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,22nd Apr 03  ,N/A
+404,Driven,GC,BAM! Entertainment  ,BAM! Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,30th Mar 02  ,N/A
+405,Gladius,GC,LucasArts  ,LucasArts  ,N/A  ,8.3  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,03rd Nov 03  ,N/A
+406,Smashing Drive,GC,Namco  ,Point of View  ,N/A  ,4.7  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,18th Feb 02  ,N/A
+407,Beyond Good & Evil,GC,Ubisoft  ,Ubisoft Montpellier  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,11th Dec 03  ,N/A
+408,SD Gundam: Gashapon Wars,GC,Bandai  ,Bec  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,0.00m,01st Dec 05  ,N/A
+409,TMNT: Mutant Melee,GC,Konami  ,Konami Computer Entertainment Hawaii  ,N/A  ,4.2  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,16th Mar 05  ,N/A
+410,Tom Clancy's Ghost Recon 2,GC,Ubisoft  ,Red Storm Entertainment  ,N/A  ,5.7  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,15th Mar 05  ,N/A
+411,Karaoke Revolution Party,GC,Konami  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,08th Nov 05  ,N/A
+412,NCAA College Football 2K3,GC,Sega  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,09th Sep 02  ,N/A
+413,Wallace & Gromit in Project Zoo,GC,BAM! Entertainment  ,Frontier Developments  ,N/A  ,6.6  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,14th Oct 03  ,N/A
+414,FIFA Soccer 2004,GC,EA Sports  ,EA Canada  ,N/A  ,8.2  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,04th Nov 03  ,N/A
+415,Rayman 3: Hoodlum Havoc,GC,Ubisoft  ,Ubisoft  ,N/A  ,7.4  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,02nd Mar 03  ,N/A
+416,Disney's Winnie the Pooh's Rumbly Tumbly Adventure,GC,Ubisoft  ,Phoenix Games Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,08th Feb 05  ,N/A
+417,Catwoman,GC,Electronic Arts  ,Argonaut Games  ,N/A  ,5.3  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,20th Jul 04  ,N/A
+418,Spartan: Total Warrior,GC,Sega  ,The Creative Assembly  ,N/A  ,7.1  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,27th Oct 05  ,N/A
+419,Tom and Jerry in War of the Whiskers,GC,NewKidCo  ,VIS Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,04th Jan 03  ,N/A
+420,NHL 2005,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,20th Sep 04  ,N/A
+421,Midway Arcade Treasures 3,GC,Midway Games  ,Digital Eclipse  ,N/A  ,6.1  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,26th Oct 05  ,N/A
+422,The Powerpuff Girls: Relish Rampage,GC,BAM! Entertainment  ,VIS Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,15th Dec 03  ,N/A
+423,Army Men: RTS,GC,Global Star Software  ,Pandemic Studios  ,N/A  ,6.9  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,02nd Nov 04  ,N/A
+424,Sega Soccer Slam,GC,Sega  ,Black Box Games  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,18th Mar 02  ,N/A
+425,Spawn: Armageddon,GC,Namco  ,Point of View  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,21st Nov 03  ,N/A
+426,Cabela's Big Game Hunter 2005 Adventures,GC,Activision  ,MagicWand  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,09th Dec 04  ,N/A
+427,Worms 3D,GC,Acclaim Entertainment  ,Team17 Software  ,N/A  ,7.5  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.00m,11th Mar 04  ,N/A
+428,Zatch Bell! Mamodo Battles,GC,Bandai  ,Eighting  ,N/A  ,7.0  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,19th Oct 05  ,N/A
+429,BMX XXX,GC,Acclaim Entertainment  ,"Z-Axis, Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,24th Nov 02  ,N/A
+430,Tonka Rescue Patrol,GC,TDK Mediactive  ,TDK Mediactive  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,18th Nov 03  ,N/A
+431,Cel Damage,GC,Electronic Arts  ,Pseudo Interactive  ,N/A  ,6.0  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,07th Jan 02  ,N/A
+432,Intellivision Lives!,GC,Crave Entertainment  ,Realtime Associates  ,N/A  ,6.4  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,04th Nov 04  ,N/A
+433,Strike Force Bowling,GC,Crave Entertainment  ,Lab Rats Games  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,20th Mar 05  ,N/A
+434,Shonen Jump's One Piece: Grand Battle,GC,Namco Bandai  ,Ganbarion  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,07th Sep 05  ,N/A
+435,Vexx,GC,Acclaim Entertainment  ,Acclaim Studios Austin  ,N/A  ,6.4  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,10th Feb 03  ,N/A
+436,Batman: Rise of Sin Tzu,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,11th Nov 03  ,N/A
+437,Disney Sports Skateboarding,GC,Konami  ,KCEO  ,N/A  ,2.6  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,17th Nov 02  ,N/A
+438,Worms Blast,GC,Ubisoft  ,Team17 Software  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,24th Oct 02  ,N/A
+439,Resident Evil - Code: Veronica X,GC,Capcom  ,Capcom  ,N/A  ,5.6  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,03rd Dec 03  ,N/A
+440,Kelly Slater's Pro Surfer,GC,Activision  ,Treyarch  ,N/A  ,8.0  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,16th Sep 02  ,N/A
+441,Resident Evil 2,GC,Capcom  ,Capcom  ,N/A  ,5.9  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,16th Jan 03  ,N/A
+442,Tom Clancy's Splinter Cell: Double Agent,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,5.6  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,26th Oct 06  ,N/A
+443,FIFA Street,GC,EA Sports BIG   ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,22nd Feb 05  ,N/A
+444,Lost Kingdoms II,GC,Activision  ,From Software  ,N/A  ,6.6  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,21st May 03  ,N/A
+445,Aggressive Inline,GC,Acclaim Entertainment  ,"Z-Axis, Ltd.  ",N/A  ,8.9  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,31st Jul 02  ,N/A
+446,Viewtiful Joe: Red Hot Rumble,GC,Capcom  ,Clover Studio  ,N/A  ,6.2  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,08th Nov 05  ,N/A
+447,Wreckless: ThE YaKuza MisSiOns,GC,Activision  ,Stealth Studios  ,N/A  ,6.4  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,13th Nov 02  ,N/A
+448,Dance Dance Revolution: Mario Mix (JP sales),GC,Nintendo  ,Konami  ,N/A  ,7.5  ,N/A  ,N/A,0.06m,N/A,N/A,0.05m,0.00m,24th Oct 05  ,N/A
+449,Tom Clancy's Rainbow Six 3,GC,Ubisoft  ,Ubisoft Montreal / Red Storm Entertainment  ,N/A  ,6.5  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,17th Jun 04  ,N/A
+450,Amazing Island,GC,Sega  ,Hitmaker  ,N/A  ,7.1  ,N/A  ,N/A,0.06m,0.04m,0.01m,N/A,0.00m,25th Aug 04  ,N/A
+451,Phantasy Star Online Episode I & II Plus,GC,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,15th Sep 04  ,N/A
+452,NFL Quarterback Club 2002,GC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,14th Dec 01  ,N/A
+453,Blood Omen 2,GC,Eidos Interactive  ,Crystal Dynamics  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,09th Dec 02  ,N/A
+454,Shaman King: Soul Fight,GC,Bandai  ,Tuning Electronic  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,0.00m,28th Mar 03  ,N/A
+455,Medabots: Infinity,GC,Natsume  ,"Imagineer Co., Ltd.  ",N/A  ,5.4  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,14th Dec 03  ,N/A
+456,Virtua Striker 2002,GC,Sega  ,Amusement Vision  ,N/A  ,6.6  ,N/A  ,N/A,0.05m,0.01m,0.00m,0.03m,0.00m,20th May 02  ,N/A
+457,Disney's PK: Out of the Shadows,GC,Ubisoft  ,Ubisoft  ,N/A  ,4.0  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,03rd Dec 02  ,N/A
+458,Piglet's Big Game,GC,Gotham Games  ,Doki Denki  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,19th Mar 03  ,N/A
+459,Pinball Hall of Fame: The Gottlieb Collection,GC,Crave Entertainment  ,FarSight Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,20th Mar 05  ,N/A
+460,Disney's Party,GC,Electronic Arts  ,Neverland Company  ,N/A  ,4.4  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,16th Sep 03  ,N/A
+461,Shrek Super Party,GC,TDK Mediactive  ,Mass Media  ,N/A  ,4.9  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,30th May 03  ,N/A
+462,Monster 4x4: Masters of Metal,GC,Ubisoft  ,Ubisoft Barcelona / Inland Productions  ,N/A  ,5.1  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,10th Dec 03  ,N/A
+463,Second Sight,GC,Codemasters  ,Free Radical Design  ,N/A  ,7.9  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,21st Sep 04  ,N/A
+464,Rave Master,GC,Konami  ,Konami  ,N/A  ,6.8  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,0.00m,08th Mar 05  ,N/A
+465,ESPN International Winter Sports 2002,GC,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,04th Feb 02  ,N/A
+466,Dark Summit,GC,THQ  ,Radical Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,04th Feb 02  ,N/A
+467,Codename: Kids Next Door: Operation V.I.D.E.O.G.A.M.E.,GC,Global Star Software  ,High Voltage Software  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,16th Oct 05  ,N/A
+468,Rogue Ops,GC,Kemco  ,Bits Studios  ,N/A  ,6.1  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,29th Oct 03  ,N/A
+469,Whirl Tour,GC,VU Games  ,Papaya Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,12th Nov 02  ,N/A
+470,World Series of Poker,GC,Activision  ,Activision Value  ,N/A  ,4.7  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,14th Sep 05  ,N/A
+471,American Chopper 2: Full Throttle,GC,Activision  ,Creat Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,29th Nov 05  ,N/A
+472,2002 FIFA World Cup,GC,EA Sports  ,EA Canada  ,N/A  ,7.4  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,30th Apr 02  ,N/A
+473,Ribbit King,GC,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,08th Jun 04  ,N/A
+474,Summoner: A Goddess Reborn,GC,THQ  ,Cranky Pants Games  ,N/A  ,8.0  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,31st Jan 03  ,N/A
+475,Frogger: Ancient Shadow,GC,Konami  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,27th Sep 05  ,N/A
+476,Black & Bruised,GC,Majesco  ,Digital Fiction  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,26th Jan 03  ,N/A
+477,Tom Clancy's Rainbow Six: Lockdown,GC,Ubisoft  ,Red Storm Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,27th Sep 05  ,N/A
+478,Super Bubble Pop,GC,Jaleco  ,Runecraft  ,N/A  ,4.2  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,03rd Jan 03  ,N/A
+479,Monster Jam: Maximum Destruction,GC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,29th Dec 02  ,N/A
+480,Big Air Freestyle,GC,Atari  ,Paradigm Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,13th Sep 02  ,N/A
+481,Bad Boys: Miami Takedown,GC,Crave Entertainment  ,Blitz Games  ,N/A  ,4.3  ,N/A  ,N/A,0.05m,0.03m,0.01m,N/A,0.00m,14th Sep 04  ,N/A
+482,Disney's Donald Duck: Goin' Quackers,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,25th Mar 02  ,N/A
+483,Disney's Meet the Robinsons,GC,Disney Interactive Studios  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,27th Mar 07  ,N/A
+484,Conflict: Desert Storm II - Back to Bagdhad,GC,Gotham Games  ,Pivotal Games  ,N/A  ,6.9  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,07th Jan 04  ,N/A
+485,King Arthur,GC,Konami  ,Krome Studios  ,N/A  ,6.6  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,18th Nov 04  ,N/A
+486,MLB SlugFest 20-04,GC,Midway Games  ,Criterion Games  ,N/A  ,8.0  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,16th Mar 03  ,N/A
+487,Digimon Rumble Arena 2,GC,Bandai  ,Black Ship Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,06th Sep 04  ,N/A
+488,Mat Hoffman's Pro BMX 2,GC,Activision  ,Rainbow Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,08th Oct 02  ,N/A
+489,NHL Hitz Pro,GC,Midway Games  ,Next Level Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,25th Sep 03  ,N/A
+490,Dragon's Lair 3D: Return to the Lair,GC,Encore  ,Dragonstone Software  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,22nd Dec 02  ,N/A
+491,Zatch Bell! Mamodo Fury,GC,Namco Bandai  ,Mechanic Arms  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,12th Dec 06  ,N/A
+492,Shonen Jump's One Piece: Grand Adventure,GC,Namco Bandai  ,Ganbarion  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,29th Aug 06  ,N/A
+493,Jikkyou Powerful Major League,GC,Konami  ,PawaPuro Production  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,0.00m,11th May 06  ,N/A
+494,Evolution Skateboarding,GC,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,4.8  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,17th Nov 02  ,N/A
+495,Scaler,GC,Global Star Software  ,Artificial Mind & Movement  ,N/A  ,7.3  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,17th Nov 04  ,N/A
+496,Cabela's Dangerous Hunts 2,GC,Activision  ,FUN Labs  ,N/A  ,6.5  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,16th Nov 05  ,N/A
+497,SX Superstar,GC,Acclaim Entertainment  ,Climax Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,30th Jun 03  ,N/A
+498,Red Faction II,GC,THQ  ,Cranky Pants Games  ,N/A  ,8.1  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,31st Mar 03  ,N/A
+499,Cabela's Outdoor Adventures,GC,Activision  ,MagicWand  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,13th Sep 05  ,N/A
+500,The Italian Job,GC,Eidos Interactive  ,Climax Group  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,17th Jul 03  ,N/A
+501,The Sum of All Fears,GC,Ubisoft  ,Red Storm Entertainment  ,N/A  ,3.2  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,09th Jan 03  ,N/A
+502,Disney Sports Soccer,GC,Konami  ,KCEO  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,17th Nov 02  ,N/A
+503,Disney's Hide & Sneak,GC,Capcom  ,Capcom  ,N/A  ,4.7  ,N/A  ,N/A,0.03m,0.03m,0.01m,N/A,0.00m,30th Nov 03  ,N/A
+504,RoadKill,GC,Midway Games  ,Terminal Reality  ,N/A  ,7.7  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,30th Oct 03  ,N/A
+505,F1 2002,GC,EA Sports  ,Visual Sciences Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,22nd Jun 02  ,N/A
+506,Dr. Muto,GC,Midway Games  ,Midway  ,N/A  ,7.5  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,17th Dec 02  ,N/A
+507,Go! Go! Hypergrind,GC,Atlus  ,Poponchi  ,N/A  ,6.5  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,18th Nov 03  ,N/A
+508,Drome Racers,GC,Electronic Arts  ,Attention To Detail  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,16th Sep 03  ,N/A
+509,Fireblade,GC,Midway Games  ,Kuju Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,29th Dec 02  ,N/A
+510,Animaniacs: The Great Edgar Hunt,GC,Ignition Entertainment  ,Warthog  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,18th Sep 05  ,N/A
+511,Dakar 2: The World's Ultimate Rally,GC,Acclaim Entertainment  ,Acclaim Studios Cheltenham  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,25th Mar 03  ,N/A
+512,Auto Modellista,GC,Capcom  ,Capcom  ,N/A  ,5.9  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,30th Sep 03  ,N/A
+513,Gotcha Force,GC,Capcom  ,Capcom  ,N/A  ,5.8  ,N/A  ,N/A,0.03m,0.01m,0.00m,0.01m,0.00m,03rd Dec 03  ,N/A
+514,Buffy the Vampire Slayer: Chaos Bleeds,GC,VU Games  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,28th Aug 03  ,N/A
+515,Archer Maclean Presents: Pool Paradise,GC,Ignition Entertainment  ,Awesome Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,30th Jun 04  ,N/A
+516,ZooCube,GC,Acclaim Entertainment  ,PuzzleKings  ,N/A  ,6.9  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,05th May 02  ,N/A
+517,Tube Slider,GC,NEC Interchannel   ,"Nd Cube Co., Ltd.  ",N/A  ,5.9  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,17th Apr 03  ,N/A
+518,Jikkyou Powerful Pro Yakyuu 12 Ketteiban,GC,Konami  ,PawaPuro Production  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,0.00m,15th Dec 05  ,N/A
+519,Road Trip: The Arcade Edition,GC,Conspiracy Entertainment  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,15th May 04  ,N/A
+520,Future Tactics: The Uprising,GC,Crave Entertainment  ,Zed Two Limited  ,N/A  ,6.8  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,10th May 04  ,N/A
+521,RedCard 20-03,GC,Midway Games  ,Point of View  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,24th Jun 02  ,N/A
+522,NFL Blitz Pro,GC,Midway Games  ,Point of View  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,02nd Dec 03  ,N/A
+523,Muppets Party Cruise,GC,TDK Mediactive  ,Mass Media  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,11th Nov 03  ,N/A
+524,Serious Sam: Next Encounter,GC,Global Star Software  ,Climax Group  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,12th Apr 04  ,N/A
+525,Carmen Sandiego: The Secret of the Stolen Drums,GC,BAM! Entertainment  ,Artificial Mind and Movement  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,13th Sep 04  ,N/A
+526,Terminator 3: The Redemption,GC,Atari  ,Paradigm Entertainment  ,N/A  ,6.8  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,06th Sep 04  ,N/A
+527,XGRA: Extreme G Racing Association,GC,Acclaim Entertainment  ,Acclaim Studios Cheltenham  ,N/A  ,7.4  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,24th Nov 03  ,N/A
+528,Casper: Spirit Dimensions,GC,TDK Mediactive  ,Lucky Chicken Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,15th Oct 02  ,N/A
+529,ESPN MLS ExtraTime 2002,GC,Konami  ,Konami Computer Entertainment America  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,0.00m,N/A,0.00m,25th Mar 02  ,N/A
+530,Speed Kings,GC,Acclaim Entertainment  ,Climax Entertainment  ,N/A  ,6.7  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,28th May 03  ,N/A
+531,Charlie's Angels,GC,Ubisoft  ,Neko Entertainment  ,N/A  ,2.5  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,09th Jul 03  ,N/A
+532,NHL 2K3,GC,Sega  ,Treyarch  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,11th Dec 02  ,N/A
+533,Disney Sports Football,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,08th Dec 02  ,N/A
+534,Freestyle Metal X,GC,Midway Games  ,Deibus Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,12th Sep 03  ,N/A
+535,Spirits & Spells,GC,DreamCatcher Interactive  ,Wanadoo  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,24th Sep 03  ,N/A
+536,Goblin Commander: Unleash the Horde,GC,Jaleco  ,Jaleco Entertainment  ,N/A  ,7.4  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,16th Dec 03  ,N/A
+537,Pro Rally,GC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,11th Nov 02  ,N/A
+538,Samurai Jack: The Shadow of Aku,GC,Sega  ,Adrenium  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,24th Mar 04  ,N/A
+539,Kao the Kangaroo Round 2,GC,Atari  ,Tate Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,29th Mar 06  ,N/A
+540,Dinotopia: The Sunstone Odyssey,GC,TDK Mediactive  ,Vicious Cycle  ,N/A  ,4.7  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,23rd Jul 03  ,N/A
+541,Mission: Impossible - Operation Surma,GC,Atari  ,Paradigm Entertainment  ,N/A  ,7.3  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,23rd Mar 04  ,N/A
+542,Trigger Man,GC,Crave Entertainment  ,Point of View  ,N/A  ,2.0  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,05th Oct 04  ,N/A
+543,Lotus Challenge,GC,Ignition Entertainment  ,Kuju Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,0.00m,N/A,0.00m,29th Jul 04  ,N/A
+544,Puyo Pop Fever,GC,Sega  ,Sonic Team  ,N/A  ,7.9  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,20th Jul 04  ,N/A
+545,Aquaman: Battle for Atlantis,GC,TDK Mediactive  ,Lucky Chicken  ,N/A  ,2.4  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,23rd Jul 03  ,N/A
+546,Surf's Up,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,01st Jun 07  ,N/A
+547,Freaky Flyers,GC,Midway Games  ,Midway Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,08th Aug 03  ,N/A
+548,Army Men: Air Combat - The Elite Missions,GC,3DO  ,3DO  ,N/A  ,3.8  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,25th Mar 03  ,N/A
+549,Rally Championship,GC,Conspiracy Entertainment  ,Warthog  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,30th Jul 03  ,N/A
+550,Grooverider: Slot Car Thunder,GC,Encore  ,King of the Jungle  ,N/A  ,4.5  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,28th Sep 03  ,N/A
+551,Darkened Skye,GC,Simon & Schuster Interactive  ,Boston Animation  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,16th Nov 02  ,N/A
+552,Virtua Quest,GC,Sega  ,Artificial Mind and Movement  ,N/A  ,5.4  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,19th Jan 05  ,N/A
+553,Egg Mania: Eggstreme Madness,GC,Kemco  ,HotGen Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,11th Sep 02  ,N/A
+554,Space Raiders,GC,Mastiff  ,Taito Corporation  ,N/A  ,2.9  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,19th Apr 04  ,N/A
+555,Bust-A-Move 3000,GC,Ubisoft  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,12th Feb 03  ,N/A
+556,Men in Black II: Alien Escape,GC,Infogrames  ,Melbourne House  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,07th Feb 03  ,N/A
+557,Mark Davis Pro Bass Challenge,GC,Natsume  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,20th Sep 05  ,N/A
+558,BlowOut,GC,Majesco  ,Terminal Reality  ,N/A  ,6.5  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,26th Nov 03  ,N/A
+559,WTA Tour Tennis,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,24th Sep 02  ,N/A
+560,NCAA College Basketball 2K3,GC,Sega  ,Kush Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,02nd Nov 02  ,N/A
+561,City Racer,GC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,29th Apr 03  ,N/A
+562,Chaos Field,GC,O3 Entertainment  ,MileStone Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,20th Dec 05  ,N/A
+563,Disney Sports Basketball,GC,Konami  ,Konami  ,N/A  ,4.0  ,N/A  ,N/A,0.01m,0.01m,0.00m,N/A,0.00m,13th Jan 03  ,N/A
+564,Cubix Robots for Everyone: Showdown,GC,3DO  ,Blitz Games  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,0.00m,0.00m,N/A,0.00m,02nd Jun 03  ,N/A
+565,1080° Avalanche,GC,Nintendo  ,Nintendo Software Technology Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 03  ,N/A
+566,2 Games in 1: The Incredibles + Finding Nemo,GC,THQ  ,Heavy Iron Studios / Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 06  ,N/A
+567,2 Games in 1: The SpongeBob SquarePants Movie / Battle for Bikini Bottom,GC,THQ  ,Heavy Iron Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 06  ,N/A
+568,2 Games in 1: The SpongeBob SquarePants Movie / Tak 2: The Staff of Dreams,GC,THQ  ,Heavy Iron Studios / Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 06  ,N/A
+569,Asterix & Obelix XXL,GC,Atari  ,Etranges Libellules  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jun 04  ,N/A
+570,Backyard Sports Baseball 2007,GC,Atari  ,Humongous Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Apr 07  ,N/A
+571,Barbarian,GC,Titus  ,Saffire Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 04  ,N/A
+572,Boboboubo Boubobo Dassutsu! Hajike Royale,GC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Mar 05  ,N/A
+573,Bokujou Monogatari: Shiawase no Uta,GC,Marvelous Interactive  ,Marvelous Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Mar 05  ,N/A
+574,Bomberman Land 2,GC,Hudson Soft  ,Racjin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 03  ,N/A
+575,Bulletproof Monk,GC,Empire Interactive  ,Mucky Foot  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 08  ,N/A
+576,Butt-Ugly Martians: Zoom or Doom!,GC,Unknown  ,Runecraft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+577,Captain Tsubasa: Ougon Sedai no Chousen,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Sep 02  ,N/A
+578,Charinko Hero,GC,Banpresto  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jul 03  ,N/A
+579,Chessmaster,GC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 03  ,N/A
+580,Cocoto Fishing Master,GC,Big Ben Interactive  ,Neko Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Dec 05  ,N/A
+581,Cocoto Funfair,GC,Big Ben Interactive  ,Neko Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Apr 06  ,N/A
+582,Cocoto Kart Racer,GC,Big Ben Interactive  ,Neko Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Apr 05  ,N/A
+583,Cocoto Platform Jumper,GC,Big Ben Interactive  ,Neko Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 04  ,N/A
+584,Conan,GC,TDK Mediactive  ,Cauldron  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Apr 05  ,N/A
+585,David Douillet Judo,GC,Big Ben Interactive  ,10Tacle Studios Belgium  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 06  ,N/A
+586,Dead Phoenix,GC,Capcom  ,Capcom Production Studio 4  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Aug 03  ,N/A
+587,Derby Tsuku 3: Derby Uma o Tsukurou!,GC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 03  ,N/A
+588,Dokapon DX: Wataru Sekai wa Oni Darake,GC,Asmik Ace Entertainment  ,Sting  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Apr 03  ,N/A
+589,Donkey Konga 1+2 Pack,GC,Nintendo  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 04  ,N/A
+590,Donkey Konga 3: Tabe-houdai! Haru Mogitate 50 Kyoku,GC,Nintendo  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Mar 05  ,N/A
+591,Doraemon Minna de Yuubou!,GC,Epoch  ,Epoch  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jul 03  ,N/A
+592,Dragon Drive: D-Masters Shot,GC,Bandai  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 03  ,N/A
+593,DreamMix TV: World Fighters,GC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 03  ,N/A
+594,Duel Masters Nettou! Battle Arena,GC,Takara  ,Takara  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 03  ,N/A
+595,Eisei Meijin VI,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 02  ,N/A
+596,Evolution Snowboarding,GC,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 03  ,N/A
+597,F1 Career Challenge,GC,EA Sports  ,Visual Science  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jun 03  ,N/A
+598,Family Stadium 2003,GC,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 03  ,N/A
+599,Franklin: A Birthday Surprise,GC,Game Factory  ,Neko Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jun 06  ,N/A
+600,Freestyle Street Soccer,GC,Acclaim Entertainment  ,Silicon Dreams  ,N/A  ,4.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Mar 04  ,N/A
+601,Gakuen Toshi Vara Noir Roses,GC,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jan 04  ,N/A
+602,Generation of Chaos Exceed,GC,Idea Factory  ,Idea Factory  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Feb 03  ,N/A
+603,Hikaru no Go 3,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 03  ,N/A
+604,Hudson Selection Vol. 1: Cubic Lode Runner,GC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 03  ,N/A
+605,Hudson Selection Vol. 2: Star Soldier,GC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 03  ,N/A
+606,Hudson Selection Vol. 3: PC Genjin,GC,Hudson Soft  ,RED Company  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 03  ,N/A
+607,Hudson Selection Vol. 4: Takahashi Meijin no Bouken Shima,GC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 03  ,N/A
+608,International Superstar Soccer 2,GC,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd May 02  ,N/A
+609,International Superstar Soccer 3,GC,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 03  ,N/A
+610,Jikkyou Powerful Pro Yakyuu 10 Chou Ketteiban,GC,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 03  ,N/A
+611,Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban,GC,Konami  ,PawaPuro Production  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 04  ,N/A
+612,Jikkyou Powerful Pro Yakyuu 9 Ketteiban,GC,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Dec 02  ,N/A
+613,Jikkyou World Soccer 2002,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Mar 02  ,N/A
+614,Judge Dredd: Dredd Vs Death,GC,Evolved Games  ,Rebellion Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 05  ,N/A
+615,Knights of the Temple: Infernal Crusade,GC,TDK Mediactive  ,Starbreeze Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 04  ,N/A
+616,Konjiki no Gashbell!! Yuujou no Tag Battle Full Power,GC,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Aug 04  ,N/A
+617,Korokke! Ban-Ou no Kiki o Sukue,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jul 04  ,N/A
+618,Kururin Squash!,GC,Nintendo  ,Eighting  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Oct 04  ,N/A
+619,Largo Winch: Empire Under Threat,GC,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 02  ,N/A
+620,Lupin III: Umi ni Kieta Hihou,GC,Asmik Ace Entertainment  ,"Asmik Ace Entertainment, Inc  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 03  ,N/A
+621,Metroid Prime / The Legend of Zelda: The Wind Waker,GC,Nintendo  ,Retro Studios / Nintendo EAD  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 05  ,N/A
+622,Micro Machines,GC,Unknown  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+623,Mobile Suit Gundam: Gundam vs. Z Gundam,GC,Bandai  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Dec 04  ,N/A
+624,Mobile Suit Gundam: Senshitachi no Kiseki,GC,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Mar 04  ,N/A
+625,Momotarou Dentetsu 12,GC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 03  ,N/A
+626,Mr. Driller: Drill Land,GC,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 02  ,N/A
+627,Muscle Champion,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 02  ,N/A
+628,Neighbours From Hell,GC,JoWood Productions  ,JoWood Productions  ,N/A  ,3.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 05  ,N/A
+629,Nintendo GameCube Preview Disc,GC,Nintendo  ,Nintendo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 03  ,N/A
+630,Ohenro-San: Hosshin no Dojo,GC,Pin Change  ,Pin Change  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Apr 03  ,N/A
+631,Pac-Man vs.,GC,Namco  ,Nintendo  ,N/A  ,7.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 03  ,N/A
+632,Pokémon Colosseum Bonus Disc,GC,Nintendo  ,Genius Sonority Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Feb 04  ,N/A
+633,Pool Edge,GC,Media Kite  ,"Nd Cube Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 02  ,N/A
+634,Pure Evil 2-Pack,GC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 04  ,N/A
+635,Radirgy Generic,GC,Milestone  ,MileStone Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th May 06  ,N/A
+636,Rayman 10th Anniversary,GC,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 05  ,N/A
+637,Resident Evil: 10th Anniversary Collection,GC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 06  ,N/A
+638,RoboCop,GC,Unknown  ,Titus Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+639,Room Zoom: Race for Impact,GC,Jaleco  ,Blade Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 05  ,N/A
+640,Shikigami no Shiro II,GC,Kids Station  ,Alfa System  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 03  ,N/A
+641,Shinseiki GPX Cyber Formula: Road To The EVOLUTION,GC,Sunrise Interactive  ,Atelier-Sai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jul 04  ,N/A
+642,Space Invaders EX,GC,Unknown  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+643,Super Monkey Ball 2-Pack,GC,Sega  ,Amusement Vision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Oct 04  ,N/A
+644,Super Robot Taisen GC,GC,Banpresto  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 04  ,N/A
+645,Taxi 3,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 03  ,N/A
+646,Tensai Bit-Kun: Gramon Battle,GC,Taito  ,TOSE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Oct 03  ,N/A
+647,The Baseball 2003,GC,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 03  ,N/A
+648,The Legend of Zelda Collector's Edition,GC,Nintendo  ,Nintendo Software Technology Corporation  ,N/A  ,10.0  ,10.0  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 03  ,N/A
+649,The Legend of Zelda: Ocarina of Time / Master Quest,GC,Nintendo  ,Nintendo Software Technology Corporation  ,N/A  ,9.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 03  ,N/A
+650,The Tower of Druaga,GC,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Dec 03  ,N/A
+651,TMNT,GC,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 07  ,N/A
+652,Top Angler: Real Bass Fishing,GC,Xicat Interactive  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 03  ,N/A
+653,Transworld Surf: Next Wave,GC,Atari  ,Angel Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Mar 03  ,N/A
+654,UEFA Champions League 2004-2005,GC,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Feb 05  ,N/A
+655,V-Rally 3,GC,Unknown  ,Eden Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+656,Wizardry Empire 3,GC,Starfish  ,Starfish  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 08  ,N/A
+657,World Championship Poker,GC,Crave Entertainment  ,Coresoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 05  ,N/A
+658,World Championship Pool 2004,GC,Jaleco  ,Blade Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 05  ,N/A
+659,World Racing,GC,TDK Mediactive  ,Synetic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Apr 04  ,N/A
+660,World Soccer Winning Eleven 6 Final Evolution,GC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jan 03  ,N/A
+661,Zoids Vs.,GC,Tomy Corporation  ,Tomy Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 02  ,N/A
+662,Zoids Vs. III,GC,Tomy Corporation  ,Tomy Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 04  ,N/A
+663,Zoids: Full Metal Crash,GC,Tomy Corporation  ,Tomy Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Oct 05  ,N/A

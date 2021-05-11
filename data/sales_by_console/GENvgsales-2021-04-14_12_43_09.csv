@@ -1,0 +1,806 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,Sonic the Hedgehog,GEN,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,15.00m,N/A,N/A,N/A,N/A,N/A,23rd Jun 91  ,N/A
+2,Sonic the Hedgehog 2,GEN,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,6.00m,N/A,N/A,N/A,N/A,N/A,20th Nov 92  ,N/A
+3,Disney's Aladdin,GEN,Sega  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,4.00m,N/A,N/A,N/A,N/A,N/A,11th Nov 93  ,N/A
+4,Mortal Kombat,GEN,Arena Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,2.67m,1.95m,0.63m,N/A,0.09m,13th Sep 93  ,N/A
+5,Streets of Rage,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,2.60m,1.86m,0.55m,0.11m,0.08m,31st Dec 90  ,N/A
+6,Mortal Kombat II (US & Others sales),GEN,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,2.39m,1.78m,0.53m,N/A,0.08m,01st Jan 94  ,N/A
+7,NBA Jam,GEN,Arena Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,2.05m,1.75m,0.25m,N/A,0.05m,01st Jan 93  ,N/A
+8,Sonic & Knuckles,GEN,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,1.82m,1.24m,0.43m,0.03m,0.12m,17th Oct 94  ,N/A
+9,Sonic the Hedgehog 3,GEN,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,1.76m,1.02m,0.47m,0.20m,0.07m,23rd Jan 94  ,N/A
+10,Street Fighter II': Special Champion Edition,GEN,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,1.65m,N/A,N/A,N/A,N/A,N/A,27th Sep 93  ,N/A
+11,The Lion King,GEN,Virgin Interactive  ,Westwood Studios  ,N/A  ,N/A  ,N/A  ,N/A,1.41m,0.97m,0.37m,0.03m,0.05m,08th Dec 94  ,N/A
+12,Mortal Kombat 3,GEN,Williams Entertainment  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,1.34m,1.03m,0.27m,N/A,0.04m,01st Jan 95  ,N/A
+13,NBA Jam Tournament Edition,GEN,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,1.11m,0.95m,0.14m,N/A,0.03m,30th May 95  ,N/A
+14,John Madden Football '93,GEN,Electronic Arts  ,Looking Glass Studios  ,N/A  ,N/A  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+15,Sonic 3D Blast,GEN,Sega  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,0.70m,N/A,N/A,N/A,N/A,N/A,01st Nov 96  ,N/A
+16,John Madden Football,GEN,Electronic Arts  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,0.40m,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+17,Virtua Racing,GEN,Sega  ,Sega-AM2  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,N/A,N/A,0.26m,N/A,14th Mar 94  ,N/A
+18,Shining Force II,GEN,Sega  ,Camelot Software Planning  ,N/A  ,9.0  ,N/A  ,N/A,0.19m,N/A,N/A,0.19m,N/A,19th Oct 94  ,N/A
+19,Super Street Fighter II,GEN,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,N/A,N/A,0.15m,N/A,01st Jan 94  ,N/A
+20,"Lunar 2: Eternal Blue(sales, but wrong system)",GEN,Game Arts  ,Game Arts  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,N/A,N/A,0.14m,0.00m,22nd Dec 94  ,N/A
+21,Gunstar Heroes,GEN,Sega  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.13m,N/A,N/A,0.13m,0.00m,09th Sep 93  ,N/A
+22,Ecco the Dolphin,GEN,Sega  ,Novotrade International  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,N/A,N/A,0.12m,0.00m,29th Jul 93  ,N/A
+23,Yuu Yuu Hakusho: Makyo Toitsusen,GEN,Sega  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,N/A,30th Sep 94  ,N/A
+24,Dragon Slayer: Eiyuu Densetsu,GEN,Sega  ,Sega Falcom  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,0.00m,16th Sep 94  ,N/A
+25,Dragon Slayer: The Legend of Heroes,GEN,Sega  ,Nihon Falcom Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,0.00m,16th Sep 94  ,14th Dec 18
+26,Ecco: The Tides of Time,GEN,Sega  ,Novotrade International  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,25th Aug 94  ,N/A
+27,Street Fighter II': Special Champion Edition (JP weekly sales),GEN,Capcom  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,27th Sep 93  ,N/A
+28,Streets of Rage 3,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,0.00m,17th Mar 94  ,N/A
+29,Dynamite Headdy,GEN,Sega  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,0.00m,04th Aug 94  ,N/A
+30,Beyond Oasis,GEN,Sega  ,Ancient  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,08th Dec 94  ,N/A
+31,J-League Pro Striker 2,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,15th Jul 94  ,N/A
+32,Castlevania Bloodlines,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,N/A,17th Mar 94  ,N/A
+33,Mortal Kombat II (JP sales),GEN,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,01st Jan 94  ,N/A
+34,Puzzle & Action: Tant-R,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,N/A,0.03m,N/A,01st Apr 94  ,N/A
+35,3 Ninjas Kick Back,GEN,Psygnosis  ,Malibu Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 94  ,N/A
+36,3 Ninjas Kick Back / Hook,GEN,Sega  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+37,688 Attack Sub,GEN,Sega  ,John W. Ratcliff  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+38,Aa Harimadana,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 93  ,N/A
+39,Aa Harimanada,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 93  ,N/A
+40,AAAHH!!! Real Monsters,GEN,Viacom  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Sep 95  ,N/A
+41,Action 52,GEN,Active Enterprises  ,Farsight Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+42,Addams Family Values,GEN,Unknown  ,Ocean  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+43,Advanced Busterhawk Gley Lancer,GEN,NCS  ,NCS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jul 92  ,N/A
+44,Advanced Daisenryaku: Deutsch Dengekisakusen,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jun 91  ,N/A
+45,Aero The Acro-Bat,GEN,Sunsoft  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+46,Aero The Acro-Bat 2,GEN,Sunsoft  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+47,Aerobiz,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+48,Aerobiz Supersonic,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+49,After Burner II,GEN,Sega  ,Sega-AM2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 90  ,N/A
+50,Air Buster,GEN,Kaneko Co. Ltd  ,Kaneko Co. Ltd  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+51,Air Diver,GEN,Seismic  ,Asmik Corporation of America  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+52,Alex Kidd in the Enchanted Castle,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 89  ,N/A
+53,Alien 3,GEN,Arena Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+54,Alien Soldier,GEN,Sega  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+55,Alien Storm,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+56,Alisia Dragoon,GEN,Sega  ,Game Arts / Gainax  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Apr 92  ,N/A
+57,Altered Beast,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 89  ,N/A
+58,American Gladiators,GEN,GameTek  ,Incredible Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 92  ,N/A
+59,Andre Agassi Tennis,GEN,TecMagik  ,TecMagik  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+60,Animaniacs,GEN,Sega  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 94  ,N/A
+61,Arcade Classics,GEN,Sega  ,Al Baker and Associates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+62,Arch Rivals,GEN,Acclaim Entertainment  ,Arc Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+63,Arcus Odyssey,GEN,Renovation  ,Wolf Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+64,Arnold Palmer Tournament Golf,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+65,Arrow Flash,GEN,Sega  ,"Renovation Products, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+66,Art Alive,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+67,Art of Fighting,GEN,Sega  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jan 94  ,N/A
+68,Asterix and the Great Rescue,GEN,Sega  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+69,Asterix and the Power of the Gods,GEN,Sega  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+70,Atomic Robo-Kid,GEN,Treco  ,Micronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 90  ,N/A
+71,Atomic Runner,GEN,Data East  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+72,ATP Tour Championship Tennis,GEN,Sega  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+73,Australian Rugby League,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+74,Awesome Possum Kicks Dr. Machino's Butt!,GEN,Tengen  ,Tengen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+75,Aworg (MN),GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+76,Ayrton Senna's Super Monaco GP II,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jul 92  ,N/A
+77,B.O.B.,GEN,Electronic Arts  ,Chris Gray Enterprises  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+78,Back to the Future Part III,GEN,Arena Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+79,Bahamut Senki,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Mar 91  ,N/A
+80,Ball Jacks,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+81,Ballz 3D,GEN,Accolade  ,PF.Magic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+82,Barbie Super Model,GEN,Hi Tech Expressions  ,Tahoe Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+83,Barbie Vacation Adventure,GEN,Hi Tech Expressions  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+84,Barkley: Shut Up and Jam 2,GEN,Accolade  ,Accolade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+85,Barkley: Shut Up and Jam!,GEN,Accolade  ,Accolade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+86,Barney's Hide and Seek,GEN,Sega  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+87,Bass Masters Classic,GEN,Black Pearl  ,Black Pearl  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+88,Bass Masters Classic: Pro Edition,GEN,Black Pearl  ,Black Pearl  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+89,Batman,GEN,Sunsoft  ,SunSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jul 90  ,N/A
+90,Batman Forever,GEN,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+91,Batman Returns,GEN,Sega  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 92  ,N/A
+92,Batman: Revenge of the Joker,GEN,Sunsoft  ,SunSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+93,Battle Golfer Yui,GEN,Sega  ,Santos  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 91  ,N/A
+94,Battle Mania: Daiginjou,GEN,Victory Lap Games  ,Vic Tokai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Dec 93  ,N/A
+95,Battle Master,GEN,Arena Entertainment  ,Mirrorsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+96,Battle Squadron,GEN,Electronic Arts  ,"Innerprise Software, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+97,BattleTech: A Game of Armored Combat,GEN,Extreme Entertainment Group  ,Malibu Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+98,Battletoads,GEN,Tradewest  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+99,Battletoads / Double Dragon,GEN,Tradewest  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Feb 93  ,N/A
+100,Beast Wrestler,GEN,Renovation  ,Riot  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 91  ,N/A
+101,Beavis and Butt-head,GEN,Viacom  ,Radical Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+102,Beethoven,GEN,Hi Tech Expressions  ,THQ  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+103,Beggar Prince,GEN,Super Fighter Team  ,C&E Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd May 96  ,N/A
+104,Best of the Best: Championship Karate,GEN,Electro Brain  ,Electro Brain  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+105,Bible Adventures,GEN,Wisdom Tree  ,Color Dreams  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+106,Bill Walsh College Football,GEN,Electronic Arts  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+107,Bill Walsh College Football '95,GEN,Electronic Arts  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+108,Bimini Run,GEN,Nuvision Entertainment  ,Nuvision Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 90  ,N/A
+109,Bio-Hazard Battle,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+110,Bishoujo Senshi Sailor Moon,GEN,Bandai  ,Angel Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jul 94  ,N/A
+111,Blades of Vengeance,GEN,Electronic Arts  ,Beam Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+112,Blaster Master 2,GEN,Sunsoft  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 93  ,N/A
+113,Block Out,GEN,Electronic Arts  ,California Dreams  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+114,Blockbuster World Video Game Championship II,GEN,Acclaim Entertainment  ,Various  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+115,Blockout,GEN,Unknown  ,P.Z.Karen Co. Development Group  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+116,Bloodshot,GEN,Acclaim Entertainment  ,Domark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+117,Blue Almanac,GEN,Unknown  ,Hot B  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+118,Body Count,GEN,Sega  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+119,Bonanza Brothers,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 91  ,N/A
+120,Boogerman: A Pick and Flick Adventure,GEN,Interplay  ,Interplay  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Aug 94  ,N/A
+121,Boxing Legends of the Ring,GEN,Electro Brain  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+122,Bram Stoker's Dracula,GEN,Sony Imagesoft  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+123,Brett Hull Hockey,GEN,Unknown  ,Radical Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+124,Brett Hull Hockey 95,GEN,Accolade  ,Radical Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 94  ,N/A
+125,Brian Lara Cricket,GEN,Codemasters  ,Audiogenic Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+126,Brian Lara Cricket 96,GEN,Codemasters  ,Audiogenic Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+127,Brutal: Paws of Fury,GEN,GameTek  ,"Imagitec Design, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+128,Bubba 'n' Stix,GEN,Core Design Ltd.  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+129,Bubble and Squeak,GEN,Sunsoft  ,Audiogenic Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+130,Bubsy II,GEN,Accolade  ,Accolade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+131,Bubsy in: Claws Encounters of the Furred Kind,GEN,Accolade  ,Accolade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+132,Buck Rogers: Countdown to Doomsday,GEN,Electronic Arts  ,SSI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+133,Budokan: The Martial Spirit,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+134,Bugs Bunny in Double Trouble,GEN,Sega  ,Atod AB  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+135,Bulls versus Blazers and the NBA Playoffs,GEN,EA Sports  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+136,Bulls vs Lakers and the NBA Playoffs,GEN,EA Sports  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+137,Burning Force,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+138,Cadash,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+139,Caesars Palace,GEN,Virgin Interactive  ,Illusions Gaming Company  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 93  ,N/A
+140,Cal Ripken Jr. Baseball,GEN,Mindscape  ,Mindscape  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+141,Caliber .50,GEN,"Mentrix Software, Inc.  ",Visco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+142,California Games,GEN,Sega  ,Novotrade International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+143,Cannon Fodder,GEN,Virgin Interactive  ,Panelcomp  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+144,Captain America and the Avengers,GEN,Data East  ,OperaHouse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+145,Captain Planet and the Planeteers,GEN,Sega  ,NovaLogic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+146,Castle of Illusion Starring Mickey Mouse,GEN,Sega  ,Sega (AM7)  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+147,Centurion: Defender of Rome,GEN,Electronic Arts  ,Bits of Magic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+148,Chakan,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jun 92  ,N/A
+149,Champions World Class Soccer,GEN,Flying Edge  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+150,Championship Bowling,GEN,"Mentrix Software, Inc.  ",Visco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Feb 93  ,N/A
+151,Championship Pool,GEN,Mindscape  ,Bitmasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+152,Championship Pro-Am,GEN,Tradewest  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+153,Chase H.Q. II,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 92  ,N/A
+154,Chavez II,GEN,American Softworks  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+155,Cheese Cat-Astrophe Starring Speedy Gonzales,GEN,Sega  ,Time Warner Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+156,Chester Cheetah: Too Cool to Fool,GEN,Kaneko Co. Ltd  ,Kaneko  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+157,Chester Cheetah: Wild Wild Quest,GEN,Kaneko Co. Ltd  ,Kaneko  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+158,Chi Chi's Pro Challenge Golf,GEN,Virgin Interactive  ,Coconuts Japan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 93  ,N/A
+159,Chibi Maruko-Chan: Waku Waku Shopping,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Jan 92  ,N/A
+160,Chiki Chiki Boys,GEN,Sega  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+161,Choukyuukai Miracle Nine,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jul 95  ,N/A
+162,Chuck Rock,GEN,Virgin Interactive  ,Core Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+163,Chuck Rock II: Son of Chuck,GEN,Virgin Interactive  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+164,Classic Collection,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+165,ClayFighter,GEN,Interplay  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+166,Cliffhanger,GEN,Sony Imagesoft  ,Malibu Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+167,Clue,GEN,Parker Bros.  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+168,Coach K College Basketball,GEN,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+169,College Football USA 96,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+170,College Football USA 97,GEN,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+171,College Football's National Championship,GEN,Sega  ,Bluesky Innovations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+172,College Football's National Championship II,GEN,Sega  ,Bluesky Innovations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+173,College Slam,GEN,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+174,Columns,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 90  ,N/A
+175,Columns III,GEN,Sega  ,Vic Tokai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 93  ,N/A
+176,Combat Cars,GEN,Accolade  ,Accolade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+177,Comix Zone,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+178,Contra: Hard Corps,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Sep 94  ,N/A
+179,Cool Spot,GEN,Virgin Interactive  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Feb 94  ,N/A
+180,Cosmic Spacehead,GEN,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+181,Crack Down,GEN,Sage's Creation  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th May 91  ,N/A
+182,Crayon Shin-Chan: Arashi o Yobu Enji,GEN,Ma-Ba  ,Ma-Ba  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Mar 94  ,N/A
+183,CrossFire,GEN,Kyugo Boueki  ,AI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+184,Crue Ball,GEN,Electronic Arts  ,NuFX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+185,Crusader of Centy,GEN,Atlus  ,Nextech  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jun 94  ,N/A
+186,Crystal's Pony Tale,GEN,Sega  ,Artech Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+187,Curse,GEN,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 89  ,N/A
+188,Cutie Suzuki no Ringside Angel,GEN,Asmik Ace Entertainment  ,Copya System Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Dec 90  ,N/A
+189,Cutthroat Island,GEN,Acclaim Entertainment  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+190,Cyber-Cop,GEN,Virgin Interactive  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+191,Cyberball,GEN,Sega  ,Tengen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+192,Cyborg Justice,GEN,Capcom  ,Novotrade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+193,Daffy Duck in Hollywood,GEN,Sega  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+194,Dahna: Megami Tanja,GEN,IGS  ,IGS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 91  ,N/A
+195,Dangerous Seed,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 90  ,N/A
+196,Dark Castle,GEN,Electronic Arts  ,Artech Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+197,Darwin 4081,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Apr 90  ,N/A
+198,Dashin' Desperados,GEN,Data East  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+199,David Crane's Amazing Tennis,GEN,Absolute Entertainment  ,Absolute Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+200,David Robinson's Supreme Court,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+201,Davis Cup Tennis,GEN,Tengen  ,Loriciels  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Aug 93  ,N/A
+202,Daze Before Christmas,GEN,Sunsoft  ,Funcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+203,Deadly Moves,GEN,Kaneko Co. Ltd  ,Kaneko  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 92  ,N/A
+204,Death Duel,GEN,Razorsoft  ,Razorsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+205,Decap Attack,GEN,Sega  ,Vic Tokai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+206,Demolition Man,GEN,Acclaim Entertainment  ,Alexandria  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+207,Desert Demolition starring Road Runner and Wile E. Coyote,GEN,Sega  ,Bluesky Innovations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+208,Desert Strike: Return to the Gulf,GEN,Electronic Arts  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jun 94  ,N/A
+209,Devil's Course,GEN,Sega  ,Tikipod  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jan 94  ,N/A
+210,Devilish: The Next Possession,GEN,Sage's Creation  ,Aisystem Tokyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+211,Dick Tracy,GEN,Capcom  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+212,Dick Vitale's Awesome Baby! College Hoops,GEN,Time Warner Interactive  ,Time Warner Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+213,Dino Dini's Soccer,GEN,Virgin Interactive  ,Dini and Dini Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+214,Dino Land,GEN,Renovation  ,Wolf Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jan 91  ,N/A
+215,Dinosaurs for Hire,GEN,Sega  ,Malibu Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+216,Disney's Beauty and the Beast: Belle's Quest,GEN,Sunsoft  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+217,Disney's Beauty and the Beast: Roar of the Beast,GEN,Sunsoft  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+218,Disney's Bonkers,GEN,Capcom  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+219,Disney's Pinocchio,GEN,THQ  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+220,Disney's Pocahontas,GEN,Disney Interactive Studios  ,Funcom Oslo A/S  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+221,Disney's TaleSpin,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+222,Disney's The Jungle Book,GEN,Virgin Interactive  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+223,Disney's Ariel: The Little Mermaid,GEN,Sega  ,Bluesky Innovations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+224,Divine Sealing,GEN,Unknown  ,CYX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+225,DJ Boy,GEN,Kaneko Co. Ltd  ,Kaneko  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+226,DokiDoki Penguin Land (MN),GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+227,Donald in Maui Mallard,GEN,Sega  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Dec 95  ,N/A
+228,Doom Troopers,GEN,Playmates  ,Adrenalin Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+229,Doraemon: Yume Dorobou to 7-Jin no Gozans,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 93  ,N/A
+230,Double Clutch,GEN,ASCII Entertainment  ,BGS Development  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+231,Double Dragon,GEN,Ballistic  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+232,Double Dragon 3: The Arcade Game,GEN,Flying Edge  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+233,Double Dragon II: The Revenge,GEN,PalSoft  ,Technos Japan Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 91  ,N/A
+234,Double Dragon V: The Shadow Falls,GEN,Tradewest  ,Leland Interactive Media  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 94  ,N/A
+235,Double Dribble: The Playoff Edition,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+236,Double Pack: Joe Montana Football 3 / Double Clutch MD,GEN,Sega  ,Various  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+237,Dr. Robotnik's Mean Bean Machine,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+238,Dragon Ball Z,GEN,Bandai  ,TOSE Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+239,Dragon Slayer: Eiyuu Densetsu II,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jan 95  ,N/A
+240,Dragon's Fury,GEN,Tengen  ,"TechnoSoft Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+241,Dragon's Revenge,GEN,Tengen  ,Tengen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+242,Dragon: The Bruce Lee Story,GEN,Acclaim Entertainment  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+243,Duke Nukem 3D,GEN,Tec Toy  ,3D Realms  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 98  ,N/A
+244,Dune: The Battle for Arrakis,GEN,Virgin Interactive  ,Westwood Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Aug 93  ,N/A
+245,Dungeons & Dragons: Warriors of the Eternal Sun,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+246,Dyna Brothers,GEN,CRI  ,CRI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jul 92  ,N/A
+247,Dyna Brothers 2,GEN,CRI  ,CRI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 93  ,N/A
+248,Dynamite Duke,GEN,Sega  ,Hertz  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+249,EA Sports Double Header,GEN,Electronic Arts  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+250,Earnest Evans,GEN,Renovation  ,Wolf Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+251,Earth Defense,GEN,Realtec  ,AV Artisan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+252,Earthworm Jim,GEN,Playmates  ,Shiny Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 94  ,N/A
+253,Earthworm Jim 2,GEN,Playmates  ,Shiny Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+254,Ecco Jr.,GEN,Sega  ,Novotrade International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+255,El Viento,GEN,Renovation  ,Wolf Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+256,Elemental Master,GEN,Renovation  ,"TechnoSoft Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+257,Eliminate Down,GEN,Soft Vision International  ,Aprinet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jun 93  ,N/A
+258,Elitserien 95,GEN,Electronic Arts  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 94  ,N/A
+259,Elitserien 96,GEN,Electronic Arts  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Dec 95  ,N/A
+260,ESPN Baseball Tonight,GEN,Sony Computer Entertainment  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+261,ESPN National Hockey Night,GEN,Sony Imagesoft  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 94  ,N/A
+262,ESPN Speed World,GEN,Sony Imagesoft  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+263,ESPN Sunday Night NFL,GEN,Sony Imagesoft  ,Ringler Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 94  ,N/A
+264,ESWAT: City Under Siege,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jul 90  ,N/A
+265,Eternal Champions,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+266,Evander 'Real Deal' Holyfield's Boxing,GEN,Sega  ,ACME Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Oct 92  ,N/A
+267,Ex-Mutants,GEN,Sega  ,Malibu Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+268,Exile,GEN,Renovation  ,Nippon Telenet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Dec 91  ,N/A
+269,Exodus: Journey to the Promised Land,GEN,Wisdom Tree  ,Wisdom Tree  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+270,ExoSquad,GEN,Playmates  ,Novotrade International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+271,F-117 Night Storm,GEN,Electronic Arts  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+272,F-15 Strike Eagle II,GEN,Microprose  ,MicroProse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+273,F1 Circus MD,GEN,Nichibutsu  ,Micronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 91  ,N/A
+274,F1 World Championship Edition,GEN,Domark Software  ,Parkstar Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+275,F22 Interceptor,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+276,Family Feud,GEN,GameTek  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+277,Fantasia,GEN,Sega  ,Infogrames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+278,Fantastic Dizzy,GEN,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+279,Fastest 1,GEN,Human Entertainment  ,Human Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 91  ,N/A
+280,Fatal Fury,GEN,Takara  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+281,Fatal Fury 2,GEN,Takara  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+282,Fatal Labyrinth,GEN,Sega  ,Sega Enterprises  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+283,Fatal Rewind,GEN,Electronic Arts  ,Raising Hell  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+284,Ferias Frustradas de Pica Pau,GEN,Tec Toy  ,Tec Toy  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+285,Ferrari Grand Prix Challenge,GEN,Flying Edge  ,Aisystem Tokyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+286,FIFA International Soccer,GEN,EA Sports  ,Extended Play Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Feb 93  ,N/A
+287,FIFA Soccer 95,GEN,EA Sports  ,Extended Play Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+288,FIFA Soccer 96,GEN,EA Sports  ,Extended Play Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+289,FIFA Soccer 97,GEN,EA Sports  ,Extended Play Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Feb 96  ,N/A
+290,FIFA: Road to World Cup 98,GEN,EA Sports  ,Extended Play Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97  ,N/A
+291,Fighting Masters,GEN,Treco  ,Almanic Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Aug 92  ,N/A
+292,Final Zone,GEN,Renovation  ,Wolf Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+293,Fire Mustang,GEN,Taito  ,NMK  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 91  ,N/A
+294,Fire Shark,GEN,DreamWorks Interactive  ,Toaplan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+295,Flashback: The Quest for Identity,GEN,U.S. Gold  ,Delphine Software International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Nov 93  ,N/A
+296,Flicky,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+297,Flink,GEN,Unknown  ,Psygnosis  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+298,Foreman For Real,GEN,Acclaim Entertainment  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+299,Forgotten Worlds,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 89  ,N/A
+300,Frank Thomas Big Hurt Baseball,GEN,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 95  ,N/A
+301,Frogger,GEN,Majesco  ,Morning Star Multimedia  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 98  ,N/A
+302,Fushigi no Umi no Nadia,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 91  ,N/A
+303,G-Loc Air Battle,GEN,Sega  ,Sega-AM2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+304,Gaiares,GEN,Renovation  ,Telenet Japan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+305,Gain Ground,GEN,Renovation  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Jan 91  ,N/A
+306,Galahad,GEN,Electronic Arts  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+307,Galaxy Force II,GEN,Sega  ,CRI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Aug 91  ,N/A
+308,Garfield: Caught in the Act,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 95  ,N/A
+309,Gargoyles,GEN,Disney Interactive Studios  ,Buena Vista Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th May 95  ,N/A
+310,Garry Kitchen's Super Battletank: War in the Gulf,GEN,Absolute Entertainment  ,Imagineering Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+311,Gauntlet IV,GEN,Tengen  ,M2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Sep 93  ,N/A
+312,Gemfire,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jun 92  ,N/A
+313,General Chaos,GEN,Electronic Arts  ,Game Refuge  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jan 94  ,N/A
+314,Generations Lost,GEN,Time Warner Interactive  ,Pacific Softscape  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+315,Genesis 6-Pak,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 95  ,N/A
+316,Genghis Khan II: Clan of the Gray Wolf,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 93  ,N/A
+317,George Foreman's KO Boxing,GEN,Flying Edge  ,Beam Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Feb 92  ,N/A
+318,George Forman's KO Boxing,GEN,Flying Edge  ,Probe Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Feb 92  ,N/A
+319,Ghostbusters,GEN,Sega  ,Compile  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 90  ,N/A
+320,Ghostbusters (1986),GEN,Sega  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 90  ,N/A
+321,Ghouls 'n Ghosts,GEN,Sega  ,AM8  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+322,Gods,GEN,Mindscape  ,The Bitmap Brothers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+323,Golden Axe,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 89  ,N/A
+324,Golden Axe 3,GEN,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+325,Golden Axe II,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 91  ,N/A
+326,Golden Axe III,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jun 93  ,N/A
+327,Gouketuji Ichizoku,GEN,Atlus  ,Atlus Co.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 94  ,N/A
+328,Granada,GEN,Renovation  ,Wolf Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+329,Greatest Heavyweights,GEN,Sega  ,ACME Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th May 94  ,N/A
+330,Greendog: The Beached Surfer Dude!,GEN,Sega  ,Interactive Designs  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+331,Gunship,GEN,U.S. Gold  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+332,Hard Drivin',GEN,Tengen  ,Sterling Silver Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+333,HardBall III,GEN,Accolade  ,MindSpan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+334,Hardball!,GEN,Ballistic  ,"Accolade, Inc  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+335,Harukanaru Augusta,GEN,T&E Soft  ,Tikipod  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 93  ,N/A
+336,Haunting Starring Polterguy,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+337,Head-On Soccer,GEN,U.S. Gold  ,U.S. Gold  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+338,Heavy Unit,GEN,TOHO  ,"Toho Co., Ltd  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 90  ,N/A
+339,Hellfire,GEN,Seismic  ,Toaplan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+340,Herzog  Zwei,GEN,Sega  ,"TechnoSoft Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jan 90  ,N/A
+341,High Seas Havoc,GEN,Data East  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Aug 93  ,N/A
+342,Hit the Ice,GEN,Taito  ,Aisystem Tokyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+343,Home Alone,GEN,Sega  ,"Brian A. Rice, Inc  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+344,Home Alone 2: Lost in New York,GEN,Sega  ,Ocean  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+345,Honoo no Doukyuuji: Dodge Danpei,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 92  ,N/A
+346,Hook,GEN,Sony Imagesoft  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+347,Hurricanes,GEN,U.S. Gold  ,Arc Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+348,Indiana Jones and the Last Crusade,GEN,U.S. Gold  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Mar 92  ,N/A
+349,Insector X,GEN,Taito  ,Taito  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+350,International Superstar Soccer Deluxe,GEN,Konami  ,Factor 5  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+351,J-League Pro Striker,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jun 93  ,N/A
+352,J-League Pro Striker Kanzenban,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 93  ,N/A
+353,Jack Nicklaus' Power Challenge Golf,GEN,Accolade  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+354,James 'Buster' Douglas Knockout Boxing,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 90  ,N/A
+355,James Bond 007: The Duel,GEN,Domark Software  ,The Kremlin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+356,James Pond 2: Codename RoboCod,GEN,Electronic Arts  ,Millennium Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Aug 93  ,N/A
+357,James Pond 3: Operation Starfish,GEN,Electronic Arts  ,Millennium Interactive Ltd  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Apr 93  ,N/A
+358,James Pond: Underwater Agent,GEN,Electronic Arts  ,Millennium Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+359,Jammit,GEN,Virgin Interactive  ,GTE Vantage Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+360,Jennifer Capriati Tennis,GEN,Renovation  ,System Sacom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Aug 92  ,N/A
+361,Jeopardy!,GEN,GameTek  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 92  ,N/A
+362,Jeopardy! Deluxe Edition,GEN,GameTek  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 93  ,N/A
+363,Jeopardy! Sports Edition,GEN,GameTek  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st May 93  ,N/A
+364,Jerry Glanville's Pigskin Footbrawl,GEN,Razorsoft  ,Developer Resources  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+365,Jewel Master,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 91  ,N/A
+366,Joe & Mac,GEN,Takara  ,Eden Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+367,Joe Montana Football,GEN,Sega  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+368,Joe Montana II: Sports Talk Football,GEN,Sega  ,BlueSky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+369,John Madden Football '92,GEN,Electronic Arts  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+370,Jordan vs Bird,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+371,Joshua & the Battle of Jericho,GEN,Wisdom Tree  ,Wisdom Tree  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+372,Judge Dredd,GEN,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+373,Junction,GEN,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+374,Jungle Strike,GEN,Electronic Arts  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 93  ,N/A
+375,Jurassic Park,GEN,Sega  ,Blue Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Aug 93  ,N/A
+376,Jurassic Park: Rampage Edition,GEN,Sega  ,Bluesky Innovations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+377,Justice League Task Force,GEN,Acclaim Entertainment  ,SunSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Aug 95  ,N/A
+378,Kawasaki Superbike Challenge,GEN,Time Warner Interactive  ,Lankhor  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+379,Kid Chameleon,GEN,Sega  ,Sega Technical Institute  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th May 92  ,N/A
+380,King of the Monsters,GEN,Takara  ,"SPS Co.,Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+381,King of the Monsters 2,GEN,Takara  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+382,King Salmon,GEN,Victory Lap Games  ,Sage's Creation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Mar 93  ,N/A
+383,King's Bounty,GEN,Electronic Arts  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Feb 91  ,N/A
+384,Klax,GEN,Tengen  ,Tengen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 90  ,N/A
+385,Knuckles Chaotix,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Apr 95  ,N/A
+386,Krusty's Super Fun House,GEN,Flying Edge  ,Audiogenic Software Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+387,Kyuukai Douchuuki,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jul 91  ,N/A
+388,La Russa Baseball 95,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+389,Lakers vs. Celtics and the NBA Playoffs,GEN,Electronic Arts  ,EA  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+390,LandStalker,GEN,Sega  ,Climax Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Oct 92  ,N/A
+391,Langrisser II,GEN,NCS  ,Career Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Aug 94  ,N/A
+392,Last Action Hero,GEN,Sony Imagesoft  ,Bits Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+393,Last Battle,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+394,Lemmings,GEN,Sunsoft  ,DMA Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+395,Lemmings 2: The Tribes,GEN,Psygnosis  ,Digital Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+396,Lethal Enforcers,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jul 93  ,N/A
+397,Lethal Enforcers II: Gun Fighters,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+398,LHX Attack Chopper,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+399,Liberty or Death,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+400,Light Crusader,GEN,Sega  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th May 95  ,N/A
+401,Lightening Force: Quest for the Darkstar,GEN,Sega  ,"TechnoSoft Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+402,Lord Monarch: Tokoton Sentou Densetsu,GEN,Sega  ,Omiya Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jun 94  ,N/A
+403,Lotus II,GEN,Electronic Arts  ,Gremlin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+404,Lotus Turbo Challenge,GEN,Electronic Arts  ,Gremlin Int.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+405,M-1 Abrams Battle Tank,GEN,Sega  ,Dynamix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+406,M.U.S.H.A. - Metallic Uniframe Super Hybrid Armor,GEN,Seismic  ,Compile Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+407,Madden NFL '94,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Feb 94  ,N/A
+408,Madden NFL 95,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+409,Madden NFL 96,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+410,Madden NFL 97,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97  ,N/A
+411,Madden NFL 98,GEN,EA Sports  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97  ,N/A
+412,Madou Monogatari I,GEN,Compile  ,Compile  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 96  ,N/A
+413,Mahjong Cop Ryuu: Shiro Ookami no Yabou,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 89  ,N/A
+414,Man Overboard!,GEN,Codemasters  ,Zeppelin Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+415,Marble Madness,GEN,Electronic Arts  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+416,Mario Andretti Racing,GEN,EA Sports  ,Stormfront Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+417,Mario Lemieux Hockey,GEN,Sega  ,Alpine Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+418,Marko,GEN,Domark Software  ,The Kremlin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+419,Marsupilami,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+420,Marvel Land,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+421,Mary Shelley's Frankenstein,GEN,Sony Imagesoft  ,Bits Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 94  ,N/A
+422,Master of Monsters,GEN,Renovation  ,Opera House  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+423,Master of Weapon,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 91  ,N/A
+424,Mazin Saga Mutant Fighter,GEN,Victory Lap Games  ,Almanic Corp  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 93  ,N/A
+425,McDonald's Treasure Land Adventure,GEN,Sega  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+426,Mega 6 Vol. 3,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+427,Mega Bomberman,GEN,Sega  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+428,Mega Games 1,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+429,Mega Games 2,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+430,Mega Games 3,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+431,Mega Games 6,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+432,Mega Games 6 Vol. 2,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+433,Mega Man: The Wily Wars,GEN,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Oct 94  ,N/A
+434,Mega Panel,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 90  ,N/A
+435,Mega SWiV,GEN,Time Warner Interactive  ,Sales Curve Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+436,Mega Turrican,GEN,Data East  ,Factor 5  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+437,Mercs,GEN,Sega  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+438,Michael Jackson's Moonwalker,GEN,Sega  ,Ultimate Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Aug 90  ,N/A
+439,Mick & Mack as the Global Gladiators,GEN,Virgin Interactive  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+440,Mickey Mania: The Timeless Adventures of Mickey Mouse,GEN,Sony Imagesoft  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+441,Mickey's Ultimate Challenge,GEN,Hi Tech Expressions  ,Designer Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+442,Micro Machines,GEN,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Sep 94  ,N/A
+443,Micro Machines 2: Turbo Tournament,GEN,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+444,Micro Machines Military,GEN,Codemasters  ,Supersonic Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 96  ,N/A
+445,Micro Machines Turbo Tournament 96,GEN,Codemasters  ,Supersonic Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st May 95  ,N/A
+446,Midnight Resistance,GEN,Sega  ,OperaHouse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Nov 91  ,N/A
+447,Might and Magic: Gates to Another World,GEN,Electronic Arts  ,New World Computing  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+448,Mighty Morphin Power Rangers,GEN,Sega  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+449,Mighty Morphin Power Rangers: The Movie,GEN,Bandai  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jun 95  ,N/A
+450,Minnesota Fats: Pool Legend,GEN,Data East  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+451,Monopoly,GEN,Parker Bros.  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jan 92  ,N/A
+452,Monster World IV,GEN,Sega  ,Westone Bit Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Apr 94  ,N/A
+453,Mr. Nutz,GEN,Ocean  ,Ocean  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+454,Ms. Pac Man,GEN,Tengen  ,Midway/Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+455,Muhammad Ali Heavyweight Boxing,GEN,Virgin Interactive  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+456,Mutant League Football,GEN,Electronic Arts  ,Mutant Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+457,Mutant League Hockey,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+458,Mystic Defender,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+459,Mystical Fighter,GEN,NCS  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+460,NBA Action '95 starring David Robinson,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+461,NBA All-Star Challenge,GEN,Flying Edge  ,Beam Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+462,NBA Live 95,GEN,EA Sports  ,Hitmen Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+463,NBA Live 96,GEN,Electronic Arts  ,Hitmen Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+464,NBA Live 97,GEN,EA Sports  ,NuFX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+465,NBA Live 98,GEN,THQ  ,NuFX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97  ,N/A
+466,NBA Showdown '94,GEN,Electronic Arts  ,EA Sports  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 94  ,N/A
+467,NCAA Football,GEN,Mindscape  ,Software Toolworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+468,New Horizons,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+469,NFL '95,GEN,Sega  ,FarSight Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+470,NFL Football '94 Starring Joe Montana,GEN,Sega  ,Blue Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+471,NFL Quarterback Club,GEN,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+472,NFL Quarterback Club 96,GEN,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+473,NFL Sports Talk Football '93 Starring Joe Montana,GEN,Sega  ,BlueSky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+474,NHL '94,GEN,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 93  ,N/A
+475,NHL 95,GEN,Electronic Arts  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+476,NHL 96,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 95  ,N/A
+477,NHL 97,GEN,EA Sports  ,High Score Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+478,NHL 98,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97  ,N/A
+479,NHL All-Star Hockey '95,GEN,Sega  ,Sega Midwest Development Division  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+480,NHL Hockey,GEN,Electronic Arts  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+481,NHLPA Hockey '93,GEN,Electronic Arts  ,Park Place Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Sep 92  ,N/A
+482,Nigel Mansell's Indy Car Racing,GEN,Acclaim Entertainment  ,Gremlin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+483,Nigel Mansell's World Championship Racing,GEN,GameTek  ,Gremlin Graphics Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+484,Nightmare Circus,GEN,Sega  ,Funcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+485,Nobunaga no Yabou: Bushou Fuuunsoku,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 91  ,N/A
+486,Nobunaga no Yabou: Haouden,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 94  ,N/A
+487,Nobunaga's Ambition,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+488,Olympic Gold: Barcelona '92,GEN,U.S. Gold  ,U.S. Gold  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+489,Olympic Summer Games: Atlanta 1996,GEN,Black Pearl  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+490,Onslaught,GEN,Ballistic  ,Nextgrand  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+491,Operation Europe,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Jun 94  ,N/A
+492,Osomatsu-kun: Hachamecha Gekijou,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Dec 88  ,N/A
+493,Out of This World,GEN,Virgin Interactive  ,Delphine Software International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+494,Outlander,GEN,Mindscape  ,Mindscape Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+495,OutRun,GEN,Sega  ,Sanritsu  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+496,OutRun 2019,GEN,Sega  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+497,P.T.O.: Pacific Theater of Operations,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+498,Pac-Attack,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+499,Pac-Man 2: The New Adventures,GEN,Namco  ,Ballistic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+500,Pac-Mania,GEN,Tengen  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+501,Panorama Cotton,GEN,Sunsoft  ,Success  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Aug 94  ,N/A
+502,Paperboy,GEN,Tengen  ,Tengen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+503,Paperboy 2,GEN,Tengen  ,Tengen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 92  ,N/A
+504,Pat Riley Basketball,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+505,Pebble Beach Golf Links,GEN,Sega  ,Tikipod  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+506,Pepenga Pengo,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 95  ,N/A
+507,PGA European Tour,GEN,EA Sports  ,Polygon Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 94  ,N/A
+508,PGA Tour 96,GEN,EA Sports  ,NuFX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+509,PGA Tour Golf,GEN,Electronic Arts  ,Sterling Silver Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+510,PGA Tour Golf II,GEN,Electronic Arts  ,Polygames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+511,PGA Tour Golf III,GEN,EA Sports  ,High Score Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+512,Phantasy Star II,GEN,Sega  ,Sega  ,N/A  ,8.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 88  ,N/A
+513,Phantasy Star III: Generations of Doom,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Apr 90  ,N/A
+514,Phantasy Star IV,GEN,Sega  ,Sega  ,N/A  ,9.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+515,Phantom 2040,GEN,Viacom  ,Viacom New Media  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+516,Phelios,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+517,Pier Solar and the Great Architects,GEN,WaterMelon  ,WaterMelon Development  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 10  ,N/A
+518,Pink Goes to Hollywood,GEN,TecMagik  ,HeadGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+519,Pirates! Gold,GEN,Microprose  ,MicroProse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+520,Pit-Fighter,GEN,Tengen  ,Sterling Silver Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+521,Pitfall: The Mayan Adventure,GEN,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+522,Populous,GEN,Electronic Arts  ,Bullfrog Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+523,Power Drive,GEN,U.S. Gold  ,Rage Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+524,Power Monger,GEN,Electronic Arts  ,Sprytes  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+525,Powerball,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+526,Predator 2,GEN,Arena Entertainment  ,Teeny Weeny Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+527,Premier Manager 97,GEN,Sega  ,Gremlin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+528,Primal Rage,GEN,Time Warner Interactive  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+529,Prime Time NFL Starring Deion Sanders,GEN,Sega  ,Farsight Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+530,Prince of Persia,GEN,Tengen  ,Broderbund  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+531,Pro Moves Soccer,GEN,ASCII Entertainment  ,ASCII Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+532,Psycho Pinball,GEN,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+533,Puggsy,GEN,Psygnosis  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+534,Pulseman,GEN,Sega  ,Game Freak  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jul 94  ,N/A
+535,Puyo Puyo,GEN,Sega  ,Compile  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 92  ,N/A
+536,Puyo Puyo 2,GEN,Sega  ,Compile  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 94  ,N/A
+537,QuackShot starring Donald Duck,GEN,Sega  ,Sega (AM7)  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Dec 91  ,N/A
+538,Quad Challenge,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+539,Raiden Trad,GEN,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+540,Rambo III,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+541,Rampart,GEN,Tengen  ,Tengen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+542,Ranger X,GEN,Sega  ,Gau Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th May 93  ,N/A
+543,Red Zone,GEN,Time Warner Interactive  ,Zyrinx  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+544,Rent A Hero,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 91  ,N/A
+545,Revolution X,GEN,Acclaim Entertainment  ,Rage Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+546,Rings of Power,GEN,Electronic Arts  ,Naughty Dog  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+547,Rise of the Robots,GEN,Acclaim Entertainment  ,Data Design Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+548,Risky Woods,GEN,Electronic Arts  ,Dinamic Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+549,Ristar,GEN,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Feb 95  ,N/A
+550,Road Rash,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 92  ,N/A
+551,Road Rash 3,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th May 95  ,N/A
+552,Road Rash II,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jul 93  ,N/A
+553,RoadBlasters,GEN,Tengen  ,Sterling Silver Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+554,RoboCop 3,GEN,Flying Edge  ,Eden Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+555,RoboCop versus The Terminator,GEN,Virgin Interactive  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th May 94  ,N/A
+556,Rock N' Roll Racing,GEN,Interplay  ,Silicon & Synapse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Apr 94  ,N/A
+557,Rocket Knight Adventures,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Aug 93  ,N/A
+558,Roger Clemens' MVP Baseball,GEN,Flying Edge  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Sep 92  ,N/A
+559,Rolling Thunder 2,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 91  ,N/A
+560,Rolling Thunder 3,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+561,Rolo to the Rescue,GEN,Electronic Arts  ,Vectordean  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+562,Romance of the Three Kingdoms II,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Dec 91  ,N/A
+563,Rugby World Cup 95,GEN,EA Sports  ,EA  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+564,Sagaia,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+565,Saint Sword,GEN,Unknown  ,Taito  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jun 91  ,N/A
+566,Samurai Shodown,GEN,Takara  ,Saurus  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+567,Saturday Night Slammasters,GEN,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+568,Scooby-Doo Mystery,GEN,Acclaim Entertainment  ,The Illusions Gaming Company  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+569,seaQuest DSV,GEN,Black Pearl  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+570,Second Samurai,GEN,Psygnosis  ,Vivid Image  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+571,Sega Sports 1: Super Monaco / Wimbledon / Ultimate Soccer,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+572,Sensible Soccer: European Champions,GEN,Renegade  ,Sensible Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+573,Sesame Street Counting Cafe,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+574,Shadow Blasters,GEN,Sage's Creation  ,Sigma Enterprises  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 90  ,N/A
+575,Shadow Dancer: The Secret of Shinobi,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+576,Shadow of the Beast,GEN,Electronic Arts  ,WJS Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+577,Shadow of the Beast II,GEN,Electronic Arts  ,WJS Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+578,Shadowrun,GEN,Sega  ,Blue Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 94  ,N/A
+579,Shanghai II: Dragon's Eye,GEN,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+580,Shaq-Fu,GEN,Electronic Arts  ,Delphine Software International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+581,Shining Force: The Legacy of Great Intention,GEN,Sega  ,Climax Entertainment/Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 92  ,N/A
+582,Shining in the Darkness,GEN,Sega  ,Climax Entertainment / Sonic! Software Planning  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 91  ,N/A
+583,Shinobi III: Return of the Ninja Master,GEN,Sega  ,Sega (AM7)  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jul 93  ,N/A
+584,Side Pocket,GEN,Data East  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+585,Skitchin',GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+586,Slam Dunk: Kyougou Makkou Taiketsu!,GEN,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 95  ,N/A
+587,Slaughter Sport,GEN,Razorsoft  ,Sanritsu Denki  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+588,Snake Rattle n Roll,GEN,Sega  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+589,Snow Bros.,GEN,Tengen  ,Toaplan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th May 93  ,N/A
+590,Sol-Deace,GEN,Renovation  ,Wolf Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+591,Soldiers of Fortune,GEN,Spectrum Holobyte  ,Bitmap Brothers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+592,Sonic Classics,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Jun 97  ,N/A
+593,Sonic Eraser (MN),GEN,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+594,Sonic the Hedgehog Spinball,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Nov 93  ,N/A
+595,Sorcerer's Kingdom,GEN,Treco  ,Genic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Feb 92  ,N/A
+596,Sorcerian,GEN,Sega  ,Nihon Falcom Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Feb 90  ,N/A
+597,Space Harrier II,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 89  ,N/A
+598,Space Invaders '91,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+599,Sparkster,GEN,Konami  ,Konami  ,N/A  ,N/A  ,7.2  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+600,Speedball 2: Brutal Deluxe,GEN,Arena Entertainment  ,The Bitmap Brothers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 86  ,N/A
+601,Spider-Man,GEN,Sega  ,Recreational Brainware  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Oct 91  ,N/A
+602,Spider-Man & Venom: Maximum Carnage,GEN,Acclaim Entertainment  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Sep 94  ,N/A
+603,Spider-Man and Venom: Separation Anxiety,GEN,Acclaim Entertainment  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 95  ,N/A
+604,Spider-Man the Animated Series,GEN,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+605,Spider-Man/X-Men: Arcade's Revenge,GEN,Acclaim Entertainment  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 86  ,N/A
+606,Spiritual Warfare,GEN,Wisdom Tree  ,Wisdom Tree  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+607,Spirou,GEN,Infogrames  ,Infogrames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 96  ,N/A
+608,Splatterhouse 2,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+609,Splatterhouse 3,GEN,Namco  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Mar 93  ,N/A
+610,Sports Talk Baseball,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+611,Spot Goes to Hollywood,GEN,Acclaim Entertainment  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+612,Star Control,GEN,Ballistic  ,Toys for Bob  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+613,Star Trek: Deep Space Nine - Crossroads of Time,GEN,Playmates  ,Novotrade International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+614,Star Trek: The Next Generation: Echoes from the Past,GEN,Sega  ,MicroProse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+615,Starflight,GEN,Electronic Arts  ,BlueSky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+616,Stargate,GEN,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+617,Steel Empire,GEN,Flying Edge  ,Hot-B  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+618,Steel Talons,GEN,Tengen  ,Polygames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+619,StormLord,GEN,Razorsoft  ,Punk Development  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+620,Street Fighter 2 Special Champion Edition,GEN,Unknown  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+621,Street Racer,GEN,Ubisoft  ,Vivid Image  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+622,Streets of Rage 2,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 92  ,N/A
+623,Strider,GEN,Sega  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+624,Strider Returns: Journey From Darkness,GEN,U.S. Gold  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+625,Sub-Terrania,GEN,Sega  ,Zyrinx  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+626,Sunset Riders,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Mar 93  ,N/A
+627,Super Baseball 2020,GEN,Electronic Arts  ,Pallas  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Mar 94  ,N/A
+628,Super Battleship,GEN,Mindscape  ,Synergistic Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Feb 93  ,N/A
+629,Super Fantasy Zone,GEN,Sunsoft  ,SunSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+630,Super Hang-On,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Oct 89  ,N/A
+631,Super High Impact,GEN,Arena Entertainment  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+632,Super Hydlide,GEN,Seismic  ,Tikipod  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Oct 89  ,N/A
+633,Super Kick Off,GEN,U.S. Gold  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+634,Super Monaco GP,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Oct 90  ,N/A
+635,Super Smash T.V.,GEN,Flying Edge  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+636,Super Thunder Blade,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+637,Super Volleyball,GEN,Video System  ,Micronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+638,Superman,GEN,Sunsoft  ,SunSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+639,Surging Aura,GEN,Sega  ,Japan Media Programming Inc. (JAMP)  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Mar 95  ,N/A
+640,Sword of Sodan,GEN,Electronic Arts  ,Innerprise Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+641,Sword of Vermilion,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Dec 89  ,N/A
+642,Syd of Valis,GEN,Renovation  ,Telenet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+643,Sylvester and Tweety in Cagey Capers,GEN,Time Warner Interactive  ,"Alexandria, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+644,Syndicate,GEN,Electronic Arts  ,Bullfrog Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+645,T2: The Arcade Game,GEN,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+646,Taiheiki,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 91  ,N/A
+647,Taikou Risshiden,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th May 93  ,N/A
+648,Target Earth,GEN,DreamWorks Interactive  ,NCS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+649,Taz in Escape From Mars,GEN,Sega  ,"HeadGames, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jun 94  ,N/A
+650,Taz-Mania,GEN,Sega  ,Recreational Brainware  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Dec 92  ,N/A
+651,Team USA Basketball,GEN,Electronic Arts  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+652,TechnoClash,GEN,Electronic Arts  ,Zono Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+653,Technocop,GEN,Razorsoft  ,Razor Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+654,Tecmo Cup Football Game,GEN,Tecmo  ,Tecmo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+655,Tecmo Super Baseball,GEN,Tecmo  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+656,Tecmo Super Bowl,GEN,Tecmo  ,Tecmo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+657,Tecmo Super Bowl II: Special Edition,GEN,Tecmo  ,Tecmo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+658,Tecmo Super Bowl III: Final Edition,GEN,Tecmo  ,Tecmo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Aug 95  ,N/A
+659,Tecmo Super NBA Basketball,GEN,Tecmo  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+660,Tecmo World Cup,GEN,Tecmo  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+661,Teenage Mutant Ninja Turtles: The Hyperstone Heist,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 92  ,N/A
+662,Teenage Mutant Ninja Turtles: Tournament Fighters,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 93  ,N/A
+663,Telstar Double Value Games: Sonic the Hedgehog 2 / Bubsy in: Claws Encounters of the Furred Kind,GEN,Telstar  ,Various  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+664,Terminator 2 Judgment Day,GEN,Acclaim Entertainment  ,Bits Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+665,Test Drive II: The Duel,GEN,Ballistic  ,Distinctive Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+666,The Addams Family,GEN,Flying Edge  ,Ocean  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+667,The Adventures of Batman & Robin,GEN,Sega  ,Clockwork Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+668,The Adventures of Mighty Max,GEN,Ocean  ,WJS Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+669,The Adventures of Rocky and Bullwinkle and Friends,GEN,Absolute Entertainment  ,Imagineering Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+670,The Aquatic Games starring James Pond and the Aquabats,GEN,Electronic Arts  ,Millenium Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+671,The Aquatic Games starring James Pond and the Aquabats,GEN,Electronic Arts  ,Millenium Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+672,The Berenstain Bears' Camping Adventure,GEN,Sega  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+673,The Death and Return of Superman,GEN,Sunsoft  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+674,The Disney Collection: Castle of Illusion / Quackshot,GEN,Sega  ,Sega (AM7)  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+675,The Faery Tale Adventure,GEN,Electronic Arts  ,New World Computing  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+676,The Flintstones,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 93  ,N/A
+677,The Great Waldo Search,GEN,THQ  ,Radiance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+678,The Humans,GEN,GameTek  ,"Imagitec Design, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 92  ,N/A
+679,The Hybrid Front,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jul 94  ,N/A
+680,The Immortal,GEN,Electronic Arts  ,Sandcastle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 93  ,N/A
+681,The Incredible Hulk,GEN,U.S. Gold  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+682,The Itchy & Scratchy Game,GEN,Acclaim Entertainment  ,Bits Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+683,The Lawnmower Man,GEN,Time Warner Interactive  ,Atod AB  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+684,The Lost Vikings,GEN,Interplay  ,Silicon & Synapse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+685,The Lost World: Jurassic Park,GEN,Sega  ,Appaloosa Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97  ,N/A
+686,The Miracle Piano Teaching System,GEN,Software Toolworks  ,The Software Toolworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+687,The New Zealand Story,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Mar 90  ,N/A
+688,The Ooze,GEN,Sega  ,Sega Technical Institute  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+689,The Ottifants,GEN,Sega  ,Graftgold  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+690,The Pagemaster,GEN,Fox Interactive  ,Probe Software Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+691,The Pirates of Dark Water,GEN,Sunsoft  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+692,The Punisher,GEN,Capcom  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+693,The Ren & Stimpy Show Presents: Stimpy's Invention,GEN,Sega  ,Blue Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+694,The Revenge of Shinobi,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 89  ,N/A
+695,The Simpsons: Bart vs. the Space Mutants,GEN,Flying Edge  ,Arc Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+696,The Simpsons: Bart's Nightmare,GEN,Flying Edge  ,"Sculptured Software, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+697,The Smurfs,GEN,Infogrames  ,Virtual Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+698,The Smurfs Travel The World,GEN,Infogrames  ,Visual Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+699,The Terminator,GEN,Virgin Interactive  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+700,The Tick,GEN,Fox Interactive  ,Fox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+701,Theme Park,GEN,Electronic Arts  ,Bullfrog Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+702,Thomas the Tank Engine & Friends,GEN,THQ  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+703,Thunder Force II,GEN,Sega  ,"TechnoSoft Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 89  ,N/A
+704,Thunder Force III,GEN,Hot-B  ,"TechnoSoft Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+705,Time Killers,GEN,Black Pearl  ,Incredible Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+706,Tinhead,GEN,Ballistic  ,MicroProse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+707,Tintin in Tibet,GEN,Infogrames  ,Infogrames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+708,Tiny Toon Adventures: ACME All-Stars,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+709,Tiny Toon Adventures: Buster's Hidden Treasure,GEN,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+710,TNN Bass Tournament of Champions,GEN,American Softworks  ,Imagitec Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+711,TNN Outdoors Bass Tournament '96,GEN,ASC Games  ,Imagitec Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+712,Todd's Adventures in Slime World,GEN,Renovation  ,Epyx  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+713,ToeJam & Earl,GEN,Sega  ,ToeJam & Earl Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Mar 92  ,N/A
+714,ToeJam & Earl in Panic on Funkotron,GEN,Sega  ,ToeJam & Earl Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Apr 93  ,N/A
+715,Toki: Going Ape Spit,GEN,Sega  ,TAD Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+716,Tom and Jerry: Frantic Antics!,GEN,Sega  ,Beam Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Jan 94  ,N/A
+717,Tommy Lasorda Baseball,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Oct 89  ,N/A
+718,Tony La Russa Baseball,GEN,Electronic Arts  ,Stormfront Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th May 93  ,N/A
+719,Toughman Contest,GEN,EA Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+720,Tougi-Ou: King Colossus,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 92  ,N/A
+721,Toxic Crusaders,GEN,Sega  ,Infogrames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+722,Toy Story,GEN,Disney Interactive Studios  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 96  ,N/A
+723,Traysia,GEN,Renovation  ,Telenet Japan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 92  ,N/A
+724,Triple Play 96,GEN,EA Sports  ,Extended Play Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Mar 95  ,N/A
+725,Triple Score: 3 Games in 1,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Aug 93  ,N/A
+726,Trouble Shooter,GEN,Victory Lap Games  ,Vic Tokai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+727,Troy Aikman NFL Football,GEN,Tradewest  ,Leland Interactive Media  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+728,True Lies,GEN,Acclaim Entertainment  ,Beam Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 95  ,N/A
+729,Truxton,GEN,Sega  ,Toaplan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+730,Turbo OutRun,GEN,Sega  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+731,Turrican,GEN,Accolade  ,The Code Monkeys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+732,Twin Cobra,GEN,Sega  ,GRC  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+733,Twin Hawk,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jul 90  ,N/A
+734,Two Crude Dudes,GEN,Data East  ,OperaHouse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+735,Tyrants: Fight Through Time,GEN,Virgin Interactive  ,Sensible Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+736,Uchuu Senkan Gomora,GEN,UPL   ,Aisystem Tokyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 91  ,N/A
+737,Ultimate Mortal Kombat 3,GEN,Williams Entertainment  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+738,Ultimate Qix,GEN,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+739,Ultimate Soccer,GEN,Sega  ,Rage Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+740,Ultraman,GEN,Ma-Ba  ,Ma-Ba  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Apr 93  ,N/A
+741,Uncharted Waters,GEN,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 92  ,N/A
+742,Universal Soldier,GEN,Ballistic  ,The Code Monkeys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+743,Urban Strike,GEN,Electronic Arts  ,Granite Bay Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 94  ,N/A
+744,Valis,GEN,Renovation  ,Riot  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+745,Valis III,GEN,Renovation  ,Telenet Japan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+746,Vectorman,GEN,Sega  ,Blue Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+747,Vectorman 2,GEN,Sega  ,Blue Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 96  ,N/A
+748,Viewpoint,GEN,Sammy Corporation  ,Nexus Interact  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+749,Virtua Fighter 2,GEN,Sega  ,Sega-AM2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 97  ,N/A
+750,Virtual Bart,GEN,Acclaim Entertainment  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+751,Virtual Pinball,GEN,Electronic Arts  ,"BudgeCo., Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+752,Vixen 357,GEN,NCS  ,NCS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 92  ,N/A
+753,VR Troopers,GEN,Sega  ,Syrox Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+754,Wacky Worlds Creativity Studio,GEN,Sega  ,HeadGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jul 94  ,N/A
+755,Wardner,GEN,"Mentrix Software, Inc.  ",Toaplan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Apr 91  ,N/A
+756,Warlock,GEN,Acclaim Entertainment  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+757,WarpSpeed,GEN,Accolade  ,Accolade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+758,Warrior of Rome,GEN,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st May 91  ,N/A
+759,Warrior of Rome II,GEN,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+760,Warsong,GEN,Treco  ,NCS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Apr 91  ,N/A
+761,Wayne's World,GEN,THQ  ,Gray Matter  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Feb 93  ,N/A
+762,WeaponLord,GEN,Namco  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+763,Wheel of Fortune,GEN,GameTek  ,"Imagitec Design, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+764,Where in the World is Carmen Sandiego?,GEN,Electronic Arts  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+765,Whip Rush,GEN,Renovation  ,Vic Tokai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+766,Williams Arcade's Greatest Hits,GEN,Williams Entertainment  ,Digital Eclipse  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+767,Wimbledon Championship Tennis,GEN,Sega  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+768,Wings of Wor,GEN,DreamWorks Interactive  ,NCS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+769,Winter Olympic Games: Lillehammer '94,GEN,U.S. Gold  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+770,Wiz 'n' Liz,GEN,Psygnosis  ,Raising Hell Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+771,Wolfchild,GEN,JVC  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,N/A
+772,Wolverine: Adamantium Rage,GEN,Acclaim Entertainment  ,Teeny Weeny Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+773,Wonder Boy III: Monster Lair,GEN,Sega  ,Westone Bit Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+774,Wonder Boy in Monster World,GEN,Sega  ,Westone Bit Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+775,World Championship Soccer,GEN,Sega  ,SEGA Enterprises Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+776,World Cup USA 94,GEN,U.S. Gold  ,Tiertex Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+777,World Heroes,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Aug 94  ,N/A
+778,World of Illusion starring Mickey Mouse and Donald Duck,GEN,Sega  ,Sega of America  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+779,World Series Baseball,GEN,Sega  ,Blue Sky Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+780,World Trophy Soccer,GEN,Virgin Interactive  ,Game Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+781,Worms,GEN,Ocean  ,EastPoint  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 95  ,N/A
+782,Wrestle War,GEN,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+783,WWF Raw (1994),GEN,Acclaim Entertainment  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,06th Jan 18
+784,WWF Royal Rumble,GEN,Flying Edge  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 93  ,N/A
+785,WWF Super Wrestlemania,GEN,Flying Edge  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+786,WWF WrestleMania: The Arcade Game,GEN,Acclaim Entertainment  ,Sculptured Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+787,X-Men,GEN,Sega  ,"Western Technologies, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th May 93  ,N/A
+788,X-Men 2: Clone Wars,GEN,Sega  ,HeadGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+789,X-Perts,GEN,Sega  ,Abalone  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 96  ,N/A
+790,Xenon 2: Megablast,GEN,Virgin Interactive  ,The Bitmap Brothers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+791,Yogi Bear's Cartoon Capers,GEN,Empire Interactive  ,Blue Turtle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+792,Ys III: Wanderers from Ys,GEN,Renovation  ,Nihon Falcom Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+793,"Ys: Celceta, Sea of Trees",GEN,Sega  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Nov 93  ,N/A
+794,Yuu Yuu Hakusho Gaiden,GEN,Sega  ,Gau Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jan 94  ,N/A
+795,Zany Golf,GEN,Electronic Arts  ,Sandcastle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+796,Zero Tolerance,GEN,Accolade  ,Acolade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+797,Zero Wing,GEN,Sega  ,Toaplan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 91  ,N/A
+798,Zombies Ate My Neighbors,GEN,Konami  ,LucasArts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 93  ,N/A
+799,Zool,GEN,GameTek  ,Gremlin Graphics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Jan 92  ,N/A
+800,Zoom!,GEN,Sega  ,"SEGA of America, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Nov 89  ,N/A
+801,Zoop,GEN,Viacom  ,Panelcomp  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 95  ,N/A
+802,Growl,GEN,Taito Corporation  ,Taito  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 91  ,31st Dec 17
+803,Menacer 6-Game Cartridge,GEN,Sega  ,"Western Technologies, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 92  ,30th Mar 18
+804,The Incredible Crash Dummies,GEN,Flying Edge  ,Gray Matter  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 93  ,30th Mar 18
+805,Xeno Crisis,GEN,Unknown  ,Bitmap Bureau  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Feb 19

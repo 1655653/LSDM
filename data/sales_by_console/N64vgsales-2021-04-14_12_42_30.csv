@@ -1,0 +1,394 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,Super Mario 64,N64,Nintendo  ,Nintendo EAD  ,N/A  ,9.7  ,9.2  ,11.91m,N/A,N/A,N/A,N/A,N/A,26th Sep 96  ,N/A
+2,Mario Kart 64,N64,Nintendo  ,Nintendo EAD  ,N/A  ,8.5  ,N/A  ,9.87m,N/A,N/A,N/A,N/A,N/A,10th Feb 97  ,N/A
+3,GoldenEye 007,N64,Nintendo  ,Rare Ltd.  ,N/A  ,9.8  ,N/A  ,8.09m,N/A,N/A,N/A,N/A,N/A,25th Aug 97  ,N/A
+4,The Legend of Zelda: Ocarina of Time,N64,Nintendo  ,Nintendo EAD  ,N/A  ,9.9  ,10.0  ,7.60m,N/A,N/A,N/A,N/A,N/A,23rd Nov 98  ,N/A
+5,Super Smash Bros.,N64,Nintendo  ,HAL Laboratory  ,N/A  ,8.4  ,N/A  ,5.55m,N/A,N/A,N/A,N/A,N/A,26th Apr 99  ,11th Apr 18
+6,Pokémon Stadium,N64,Nintendo  ,HAL Laboratory  ,N/A  ,7.5  ,N/A  ,5.46m,N/A,N/A,N/A,N/A,N/A,06th Mar 00  ,N/A
+7,Donkey Kong 64,N64,Nintendo  ,Rare Ltd.  ,N/A  ,9.3  ,N/A  ,5.27m,N/A,N/A,N/A,N/A,N/A,22nd Nov 99  ,N/A
+8,Diddy Kong Racing,N64,Nintendo  ,Rare Ltd.  ,N/A  ,8.3  ,N/A  ,4.88m,N/A,N/A,N/A,N/A,N/A,24th Nov 97  ,N/A
+9,Star Fox 64,N64,Nintendo  ,Nintendo EAD  ,N/A  ,9.0  ,N/A  ,4.00m,N/A,N/A,N/A,N/A,N/A,01st Jul 97  ,N/A
+10,Banjo-Kazooie,N64,Nintendo  ,Rare Ltd.  ,N/A  ,9.3  ,9.4  ,3.65m,N/A,N/A,N/A,N/A,N/A,31st May 98  ,N/A
+11,Pokémon Snap,N64,Nintendo  ,HAL Laboratory  ,N/A  ,7.9  ,N/A  ,3.63m,N/A,N/A,N/A,N/A,N/A,30th Jun 99  ,20th Apr 18
+12,The Legend of Zelda: Majora's Mask,N64,Nintendo  ,Nintendo EAD  ,N/A  ,9.3  ,N/A  ,3.36m,N/A,N/A,N/A,N/A,N/A,25th Oct 00  ,N/A
+13,Perfect Dark,N64,Rare  ,Rare Ltd.  ,N/A  ,9.7  ,N/A  ,3.20m,N/A,N/A,N/A,N/A,N/A,22nd May 00  ,N/A
+14,Star Wars Episode I Racer,N64,LucasArts  ,LucasArts  ,N/A  ,8.7  ,N/A  ,3.12m,N/A,N/A,N/A,N/A,N/A,19th May 99  ,N/A
+15,Wave Race 64,N64,Nintendo  ,Nintendo EAD  ,N/A  ,9.2  ,N/A  ,2.94m,N/A,N/A,N/A,N/A,N/A,05th Nov 96  ,N/A
+16,Yoshi's Story,N64,Nintendo  ,Nintendo EAD  ,N/A  ,N/A  ,N/A  ,2.85m,N/A,N/A,N/A,N/A,N/A,01st Mar 98  ,N/A
+17,Mario Party,N64,Nintendo  ,Hudson Soft  ,N/A  ,7.6  ,N/A  ,2.70m,N/A,N/A,N/A,N/A,N/A,08th Feb 99  ,N/A
+18,Star Wars: Shadows of the Empire,N64,Nintendo  ,LucasArts  ,N/A  ,N/A  ,N/A  ,2.65m,N/A,N/A,N/A,N/A,N/A,03rd Dec 96  ,N/A
+19,Pokémon Stadium 2,N64,Nintendo  ,HAL Laboratory  ,N/A  ,7.9  ,N/A  ,2.54m,N/A,N/A,N/A,N/A,N/A,28th Mar 01  ,N/A
+20,Mario Party 2,N64,Nintendo  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,2.48m,N/A,N/A,N/A,N/A,N/A,24th Jan 00  ,N/A
+21,WCW/nWo Revenge,N64,THQ  ,Aki Corp.  ,N/A  ,N/A  ,N/A  ,N/A,2.38m,1.94m,0.39m,0.03m,0.02m,26th Oct 98  ,N/A
+22,Mario Tennis,N64,Nintendo  ,Camelot Software Planning  ,N/A  ,8.8  ,N/A  ,2.32m,N/A,N/A,N/A,N/A,N/A,28th Aug 00  ,N/A
+23,Star Wars: Rogue Squadron,N64,LucasArts  ,Factor 5  ,N/A  ,9.0  ,N/A  ,2.17m,N/A,N/A,N/A,N/A,N/A,17th Nov 98  ,N/A
+24,Tony Hawk's Pro Skater,N64,Activision  ,Edge of Reality  ,N/A  ,9.3  ,N/A  ,N/A,2.11m,1.68m,0.40m,N/A,0.03m,29th Feb 00  ,N/A
+25,1080°: TenEighty Snowboarding,N64,Nintendo  ,Nintendo EAD  ,N/A  ,9.1  ,N/A  ,2.03m,N/A,N/A,N/A,N/A,N/A,31st Mar 98  ,N/A
+26,Mario Party 3,N64,Nintendo  ,Hudson Soft  ,N/A  ,7.0  ,N/A  ,1.91m,N/A,N/A,N/A,N/A,N/A,06th May 01  ,N/A
+27,Turok 2: Seeds of Evil,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,9.0  ,N/A  ,N/A,1.86m,1.37m,0.41m,0.04m,0.04m,21st Oct 98  ,N/A
+28,"Hey You, Pikachu!",N64,Nintendo  ,Ambrella  ,N/A  ,N/A  ,N/A  ,1.83m,N/A,N/A,N/A,N/A,N/A,05th Nov 00  ,N/A
+29,Kirby 64: The Crystal Shards,N64,Nintendo  ,HAL Laboratory  ,N/A  ,7.9  ,N/A  ,1.77m,N/A,N/A,N/A,N/A,N/A,26th Jun 00  ,N/A
+30,Cruis'n USA,N64,Nintendo  ,Midway Games  ,N/A  ,N/A  ,N/A  ,1.72m,N/A,N/A,N/A,N/A,N/A,03rd Dec 96  ,N/A
+31,WCW vs. nWo: World Tour,N64,THQ  ,Aki Corp.  ,N/A  ,N/A  ,N/A  ,N/A,1.69m,1.37m,0.28m,0.03m,0.02m,16th Nov 97  ,N/A
+32,F-1 World Grand Prix,N64,Video System  ,Paradigm Entertainment  ,N/A  ,N/A  ,N/A  ,1.60m,N/A,N/A,N/A,N/A,N/A,31st Jul 98  ,N/A
+33,007: The World is Not Enough,N64,Electronic Arts  ,Eurocom Entertainment Software  ,N/A  ,7.4  ,N/A  ,N/A,1.55m,1.13m,0.38m,0.02m,0.03m,17th Oct 00  ,N/A
+34,Turok: Dinosaur Hunter,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,8.9  ,N/A  ,N/A,1.51m,1.14m,0.32m,0.05m,N/A,28th Feb 97  ,N/A
+35,WWF No Mercy,N64,THQ  ,Aki Corp.  ,N/A  ,9.1  ,N/A  ,N/A,1.50m,1.20m,0.27m,0.02m,0.02m,17th Nov 00  ,N/A
+36,Banjo-Tooie,N64,Nintendo  ,Rare Ltd.  ,N/A  ,9.3  ,N/A  ,1.49m,N/A,N/A,N/A,N/A,N/A,19th Nov 00  ,N/A
+37,WWF WrestleMania 2000,N64,THQ  ,Aki Corporation  ,N/A  ,N/A  ,N/A  ,N/A,1.48m,1.20m,0.25m,0.02m,0.02m,31st Oct 99  ,N/A
+38,Mario Golf,N64,Nintendo  ,Camelot Software Planning  ,N/A  ,9.0  ,N/A  ,1.47m,N/A,N/A,N/A,N/A,N/A,30th Jun 99  ,N/A
+39,Namco Museum 64,N64,Namco  ,Mass Media  ,N/A  ,N/A  ,N/A  ,N/A,1.45m,1.24m,0.17m,0.03m,0.01m,31st Oct 99  ,N/A
+40,Paper Mario,N64,Nintendo  ,Intelligent Systems  ,N/A  ,9.1  ,N/A  ,1.37m,N/A,N/A,N/A,N/A,N/A,05th Feb 01  ,N/A
+41,Pocket Monsters Stadium,N64,Nintendo  ,HAL Laboratory  ,N/A  ,N/A  ,N/A  ,1.37m,N/A,N/A,N/A,N/A,N/A,01st Aug 98  ,N/A
+42,WWF War Zone,N64,Acclaim Entertainment  ,Acclaim Studios Salt Lake City  ,N/A  ,N/A  ,N/A  ,N/A,1.33m,1.08m,0.24m,N/A,0.02m,11th Aug 98  ,N/A
+43,Kobe Bryant in NBA Courtside,N64,Nintendo  ,Left Field Productions  ,N/A  ,N/A  ,N/A  ,1.19m,N/A,N/A,N/A,N/A,N/A,01st Apr 98  ,N/A
+44,Mission: Impossible,N64,Ocean  ,Infogrames  ,N/A  ,6.6  ,N/A  ,N/A,1.17m,0.74m,0.38m,0.02m,0.03m,18th Jul 98  ,N/A
+45,Jet Force Gemini,N64,Rare  ,Rare Ltd.  ,N/A  ,8.1  ,N/A  ,1.16m,N/A,N/A,N/A,N/A,N/A,30th Sep 99  ,N/A
+46,South Park,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,6.0  ,N/A  ,N/A,1.14m,0.90m,0.23m,N/A,0.02m,12th Dec 98  ,N/A
+47,Pilotwings 64,N64,Nintendo  ,Paradigm Entertainment  ,N/A  ,N/A  ,N/A  ,1.12m,N/A,N/A,N/A,N/A,N/A,29th Sep 96  ,N/A
+48,F-Zero X,N64,Nintendo  ,Nintendo EAD  ,N/A  ,8.5  ,N/A  ,1.10m,N/A,N/A,N/A,N/A,N/A,30th Sep 98  ,N/A
+49,NFL Blitz,N64,Midway Games  ,Midway Games  ,N/A  ,N/A  ,N/A  ,N/A,1.06m,1.02m,0.04m,N/A,0.01m,09th Sep 98  ,N/A
+50,NFL Quarterback Club 98,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,1.06m,1.01m,0.05m,N/A,0.01m,24th Oct 97  ,N/A
+51,Bomberman 64,N64,Hudson Soft  ,Hudson Soft  ,N/A  ,6.1  ,N/A  ,N/A,1.04m,0.50m,0.20m,0.31m,0.03m,02nd Dec 97  ,N/A
+52,Excitebike 64,N64,Nintendo  ,Left Field Productions  ,N/A  ,8.9  ,N/A  ,N/A,1.00m,0.65m,0.15m,0.19m,0.01m,30th Apr 00  ,N/A
+53,NASCAR 99,N64,EA Sports  ,Stormfront Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.98m,0.94m,0.04m,N/A,0.01m,11th Sep 98  ,N/A
+54,Mortal Kombat Trilogy,N64,Midway Games  ,Point of View Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.96m,0.72m,0.22m,N/A,0.02m,31st Oct 96  ,N/A
+55,Toy Story 2: Buzz Lightyear to the Rescue!,N64,Activision  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.93m,0.71m,0.20m,N/A,0.01m,17th Nov 99  ,N/A
+56,Knockout Kings 2000,N64,EA Sports  ,Black Ops Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.92m,0.63m,0.27m,N/A,0.02m,03rd Oct 99  ,N/A
+57,Glover,N64,Hasbro Interactive  ,Interactive Studios Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.91m,0.72m,0.17m,N/A,0.01m,31st Oct 98  ,N/A
+58,Madden NFL 99,N64,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.90m,0.84m,0.05m,N/A,0.01m,01st Sep 98  ,N/A
+59,Madden Football 64,N64,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.86m,0.81m,0.04m,N/A,0.01m,31st Oct 97  ,N/A
+60,Killer Instinct Gold,N64,Nintendo  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.82m,0.61m,0.19m,N/A,0.01m,25th Nov 96  ,N/A
+61,Army Men: Sarge's Heroes,N64,3DO  ,3DO  ,N/A  ,4.2  ,N/A  ,N/A,0.81m,0.68m,0.12m,N/A,0.01m,30th Sep 99  ,N/A
+62,WCW Mayhem,N64,Electronic Arts  ,Kodiak Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.79m,0.63m,0.15m,N/A,0.01m,22nd Sep 99  ,N/A
+63,Major League Baseball Featuring Ken Griffey Jr,N64,Nintendo  ,Angel Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.79m,0.75m,0.03m,N/A,0.01m,31st May 98  ,N/A
+64,Conker's Bad Fur Day,N64,Rare  ,Rare Ltd.  ,N/A  ,9.2  ,N/A  ,N/A,0.77m,0.53m,0.22m,N/A,0.02m,04th Mar 01  ,N/A
+65,Tony Hawk's Pro Skater 2,N64,Activision  ,Edge of Reality  ,N/A  ,8.5  ,N/A  ,N/A,0.76m,0.59m,0.16m,N/A,0.01m,21st Aug 01  ,N/A
+66,San Francisco Rush: Extreme Racing,N64,Midway Games  ,Atari Games  ,N/A  ,N/A  ,N/A  ,N/A,0.75m,0.63m,0.11m,N/A,0.01m,08th Nov 97  ,N/A
+67,Mortal Kombat 4,N64,Midway Games  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.73m,0.55m,0.17m,N/A,0.01m,23rd Jun 98  ,N/A
+68,Blast Corps,N64,Nintendo  ,Rare Ltd.  ,N/A  ,9.1  ,N/A  ,N/A,0.71m,0.39m,0.09m,0.17m,0.06m,28th Feb 97  ,N/A
+69,LEGO Racers,N64,LEGO Media  ,High Voltage Software  ,N/A  ,N/A  ,N/A  ,N/A,0.71m,0.51m,0.18m,N/A,0.01m,31st Oct 99  ,N/A
+70,WWF Attitude,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.71m,0.57m,0.13m,N/A,0.01m,31st Jul 99  ,N/A
+71,Castlevania,N64,Konami  ,KCEK  ,N/A  ,7.6  ,N/A  ,N/A,0.64m,0.44m,0.10m,0.04m,0.05m,26th Jan 99  ,N/A
+72,Rayman 2: The Great Escape,N64,Ubisoft  ,Ubisoft  ,N/A  ,9.0  ,N/A  ,N/A,0.64m,0.40m,0.22m,N/A,0.02m,31st Oct 99  ,N/A
+73,Tom Clancy's Rainbow Six,N64,Red Storm Entertainment  ,Saffire Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.64m,0.48m,0.15m,N/A,0.01m,17th Nov 99  ,N/A
+74,Cruis'n World,N64,Nintendo  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.64m,0.59m,0.04m,N/A,0.01m,31st Aug 98  ,N/A
+75,Madden NFL 2001,N64,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.64m,0.60m,0.03m,N/A,0.01m,28th Aug 00  ,N/A
+76,A Bug's Life,N64,Activision  ,Traveller's Tales  ,N/A  ,6.1  ,N/A  ,N/A,0.63m,0.49m,0.13m,N/A,0.01m,30th Apr 99  ,N/A
+77,Beetle Adventure Racing!,N64,Electronic Arts  ,"Paradigm Entertainment, Electronic Arts  ",N/A  ,9.2  ,N/A  ,N/A,0.62m,0.40m,0.20m,N/A,0.02m,24th Mar 99  ,N/A
+78,NFL Quarterback Club 99,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.62m,0.59m,0.02m,N/A,0.00m,10th Nov 98  ,N/A
+79,Madden NFL 2000,N64,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.61m,0.58m,0.02m,N/A,0.00m,31st Aug 99  ,N/A
+80,International Superstar Soccer '98,N64,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.60m,0.06m,0.30m,0.21m,0.03m,15th Sep 98  ,24th Sep 18
+81,International Superstar Soccer 64,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.60m,0.09m,0.26m,0.23m,0.02m,31st Jul 97  ,N/A
+82,Mickey's Speedway USA,N64,Nintendo  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.60m,0.37m,0.08m,0.14m,0.01m,13th Nov 00  ,N/A
+83,Waialae Country Club: True Golf Classics,N64,Nintendo  ,Tikipod  ,N/A  ,N/A  ,N/A  ,N/A,0.59m,0.48m,0.11m,N/A,N/A,29th Jul 98  ,N/A
+84,Extreme-G,N64,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,0.59m,0.47m,0.11m,N/A,0.01m,30th Sep 97  ,N/A
+85,Ready 2 Rumble Boxing,N64,Midway Games  ,Point of View  ,N/A  ,7.8  ,N/A  ,N/A,0.59m,0.47m,0.11m,N/A,0.01m,31st Oct 99  ,N/A
+86,FIFA: Road to  World Cup 98,N64,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.58m,0.15m,0.39m,N/A,0.03m,30th Nov 97  ,N/A
+87,International Superstar Soccer '98,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,9.1  ,N/A  ,N/A,0.58m,0.06m,0.30m,0.19m,0.03m,15th Sep 98  ,N/A
+88,World Cup 98,N64,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.58m,0.14m,0.40m,N/A,0.04m,18th May 98  ,N/A
+89,NFL Blitz 2000,N64,Midway Games  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.58m,0.55m,0.02m,N/A,0.00m,17th Aug 99  ,N/A
+90,NBA Hangtime,N64,Midway Games  ,Fun Com  ,N/A  ,N/A  ,N/A  ,N/A,0.57m,0.48m,0.08m,N/A,0.00m,17th Jan 97  ,N/A
+91,Resident Evil 2,N64,Capcom  ,Angel Studios  ,N/A  ,9.0  ,N/A  ,N/A,0.56m,0.39m,0.09m,0.07m,0.01m,31st Oct 99  ,N/A
+92,FIFA 99,N64,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.54m,0.11m,0.39m,N/A,0.03m,30th Nov 98  ,N/A
+93,Gauntlet Legends,N64,Midway Games  ,Atari Games  ,N/A  ,6.0  ,N/A  ,N/A,0.54m,0.43m,0.10m,N/A,0.01m,31st Aug 99  ,N/A
+94,Spider-Man,N64,Activision  ,Edge of Reality  ,N/A  ,N/A  ,N/A  ,N/A,0.53m,0.43m,0.09m,N/A,0.01m,21st Nov 00  ,N/A
+95,NASCAR 2000,N64,EA Sports  ,Stormfront Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.53m,0.49m,0.03m,N/A,0.00m,30th Sep 99  ,N/A
+96,Wayne Gretzky's 3D Hockey,N64,Midway Games  ,William's Entertainment  ,N/A  ,8.1  ,N/A  ,N/A,0.53m,0.49m,0.03m,N/A,0.00m,11th Nov 96  ,N/A
+97,International Superstar Soccer 2000 (All region sales),N64,Konami  ,KCEO  ,N/A  ,N/A  ,N/A  ,N/A,0.51m,0.01m,0.26m,0.22m,0.02m,03rd Aug 00  ,N/A
+98,Rugrats: Scavenger Hunt,N64,THQ  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,0.51m,0.41m,0.09m,N/A,0.01m,29th Jun 99  ,N/A
+99,Rugrats in Paris: The Movie,N64,THQ  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.40m,0.09m,N/A,0.01m,12th Nov 00  ,N/A
+100,FIFA Soccer 64,N64,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.49m,0.16m,0.30m,N/A,0.03m,28th Feb 97  ,N/A
+101,All-Star Baseball 99,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.44m,0.04m,N/A,0.00m,30th Apr 98  ,N/A
+102,Harvest Moon 64,N64,Natsume  ,Toy Box Studios  ,N/A  ,7.8  ,N/A  ,N/A,0.48m,0.25m,0.06m,0.11m,0.06m,30th Nov 99  ,N/A
+103,NBA Live 99,N64,EA Sports  ,NuFX  ,N/A  ,N/A  ,N/A  ,N/A,0.47m,0.45m,0.02m,N/A,0.00m,04th Nov 98  ,N/A
+104,Automobili Lamborghini,N64,Titus  ,Titus Software  ,N/A  ,N/A  ,N/A  ,N/A,0.47m,0.28m,0.17m,N/A,0.01m,30th Nov 97  ,N/A
+105,Bomberman Hero,N64,Nintendo  ,AI  ,N/A  ,N/A  ,N/A  ,N/A,0.47m,0.27m,0.06m,0.08m,0.05m,01st Sep 98  ,N/A
+106,Doom 64,N64,Midway Games  ,Midway Studios San Diego  ,N/A  ,7.4  ,N/A  ,N/A,0.47m,0.38m,0.08m,N/A,0.01m,31st Mar 97  ,N/A
+107,Quest 64,N64,THQ  ,Imagineer  ,N/A  ,5.4  ,N/A  ,N/A,0.47m,0.38m,0.08m,N/A,0.01m,11th Jun 98  ,N/A
+108,Pokémon Puzzle League,N64,Nintendo  ,Nintendo Software Technology Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.36m,0.08m,N/A,0.01m,01st Sep 00  ,N/A
+109,Rampage World Tour,N64,Midway Games  ,Saffire Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.36m,0.08m,N/A,0.01m,30th Mar 98  ,N/A
+110,NBA Live 2000,N64,EA Sports  ,NuFX  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,0.42m,0.02m,N/A,0.00m,31st Oct 99  ,N/A
+111,Duke Nukem 64,N64,GT Interactive  ,EurocoEntertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,0.35m,0.08m,N/A,0.01m,31st Oct 97  ,N/A
+112,Madden NFL 2002,N64,EA Sports  ,BudCat Games  ,N/A  ,N/A  ,N/A  ,N/A,0.43m,0.41m,0.02m,N/A,0.00m,12th Sep 01  ,N/A
+113,Mischief Makers,N64,Nintendo  ,"Treasure Co., Ltd.  ",N/A  ,6.5  ,N/A  ,N/A,0.43m,0.25m,0.06m,0.07m,0.06m,01st Oct 97  ,N/A
+114,WipEout 64,N64,Midway Games  ,Psygnosis  ,N/A  ,N/A  ,N/A  ,N/A,0.43m,0.28m,0.14m,N/A,0.01m,03rd Nov 98  ,N/A
+115,Army Men: Sarge's Heroes 2,N64,3DO  ,3DO  ,N/A  ,6.0  ,N/A  ,N/A,0.42m,0.34m,0.07m,N/A,0.00m,26th Sep 00  ,N/A
+116,Dr. Mario 64,N64,Nintendo  ,Newcom  ,N/A  ,6.0  ,N/A  ,N/A,0.42m,0.34m,0.07m,N/A,0.00m,08th Apr 01  ,N/A
+117,Jikkyou Powerful Pro Yakyuu 6,N64,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.42m,N/A,N/A,0.39m,0.03m,25th Mar 99  ,N/A
+118,NFL Blitz 2001,N64,Midway Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.42m,0.34m,0.07m,N/A,0.00m,12th Sep 00  ,N/A
+119,Rush 2: Extreme Racing USA,N64,Midway Games  ,Atari Games  ,N/A  ,N/A  ,N/A  ,N/A,0.42m,0.35m,0.06m,N/A,0.00m,10th Nov 98  ,N/A
+120,Ogre Battle 64: Person of Lordly Caliber,N64,Atlus  ,Quest Corporation  ,N/A  ,9.1  ,N/A  ,N/A,0.41m,0.10m,0.02m,0.25m,0.04m,07th Oct 00  ,N/A
+121,Superman: The New Superman Adventures,N64,Titus  ,Titus Software  ,N/A  ,N/A  ,N/A  ,N/A,0.41m,0.33m,0.07m,N/A,0.00m,31st May 99  ,N/A
+122,Mortal Kombat Mythologies: Sub-Zero,N64,Midway Games  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.32m,0.07m,N/A,0.00m,08th Dec 97  ,N/A
+123,NFL Quarterback Club 2000,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.37m,0.03m,N/A,0.00m,31st Aug 99  ,N/A
+124,RR64: Ridge Racer 64,N64,Nintendo  ,Nintendo Software Technology Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.32m,0.07m,N/A,0.00m,14th Feb 00  ,N/A
+125,Top Gear Rally,N64,Kemco  ,Boss Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.32m,0.07m,N/A,0.00m,01st Oct 97  ,N/A
+126,NHL 99,N64,EA Sports  ,MBL Research  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.38m,0.01m,N/A,0.00m,01st Oct 98  ,N/A
+127,All-Star Baseball 2000,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.36m,0.03m,N/A,0.00m,31st Mar 99  ,N/A
+128,BattleTanx: Global Assault,N64,3DO  ,3DO  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.31m,0.07m,N/A,0.00m,31st Aug 99  ,N/A
+129,Custom Robo V2,N64,Nintendo  ,Noise Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,N/A,N/A,0.34m,0.05m,10th Nov 00  ,N/A
+130,Extreme-G: XG2,N64,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.31m,0.07m,N/A,0.00m,07th Oct 98  ,N/A
+131,Fushigi no Dungeon: Furai no Shiren 2 - Oni Shuurai! Shiren Shiro!,N64,ChunSoft  ,ChunSoft  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,N/A,N/A,0.32m,0.05m,27th Sep 00  ,N/A
+132,Scooby-Doo! Classic Creep Capers,N64,THQ  ,Terraglyph Interactive Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,0.30m,0.06m,N/A,0.00m,04th Dec 00  ,N/A
+133,Turok: Rage Wars,N64,Acclaim Entertainment  ,Acclaim Studios Austin  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,0.30m,0.06m,N/A,0.00m,23rd Nov 99  ,N/A
+134,Bottom of the 9th,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,0.37m,N/A,N/A,0.00m,14th Apr 99  ,N/A
+135,Mystical Ninja starring Goemon,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.36m,0.07m,0.02m,0.23m,0.04m,16th Apr 98  ,N/A
+136,Saban's Power Rangers: Lightspeed Rescue,N64,THQ  ,Mass Media  ,N/A  ,N/A  ,N/A  ,N/A,0.36m,0.29m,0.06m,N/A,0.00m,28th Sep 00  ,N/A
+137,Tetrisphere,N64,Nintendo  ,H2O Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.36m,0.29m,0.06m,N/A,0.00m,11th Aug 97  ,N/A
+138,Jikkyou Powerful Pro Yakyuu 2000,N64,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.35m,N/A,N/A,0.29m,0.06m,29th Apr 00  ,N/A
+139,Off Road Challenge,N64,Midway Games  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.27m,0.06m,N/A,0.00m,01st Jun 98  ,N/A
+140,BattleTanx,N64,3DO  ,3DO  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.26m,0.06m,N/A,0.00m,31st Dec 98  ,N/A
+141,Custom Robo,N64,Unknown  ,Noise Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,N/A,N/A,0.29m,0.04m,N/A  ,N/A
+142,NHL Breakaway 98,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.32m,0.30m,0.02m,N/A,0.00m,26th Feb 98  ,N/A
+143,Nagano Winter Olympics 98,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.32m,0.15m,0.04m,0.13m,0.00m,10th Jan 98  ,N/A
+144,Animal Crossing,N64,Nintendo  ,Nintendo EAD  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,N/A,N/A,0.26m,0.05m,14th Apr 01  ,13th Mar 18
+145,Bass Hunter 64,N64,Take-Two Interactive  ,Gear Head Entertainment  ,N/A  ,6.0  ,N/A  ,N/A,0.31m,0.25m,0.06m,N/A,0.00m,30th Jun 99  ,N/A
+146,Goemon's Great Adventure,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,0.06m,0.02m,0.13m,0.10m,15th Sep 99  ,N/A
+147,Hot Wheels Turbo Racing,N64,Electronic Arts  ,Stormfront Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,0.25m,0.06m,N/A,0.00m,22nd Sep 99  ,N/A
+148,Jikkyou Powerful Pro Yakyuu 4,N64,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,N/A,N/A,0.26m,0.05m,14th Mar 97  ,N/A
+149,Vigilante 8,N64,Activision  ,"Luxoflux, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,0.31m,0.25m,0.06m,N/A,0.00m,04th Jun 98  ,N/A
+150,Monster Truck Madness 64,N64,Rockstar Games  ,Edge of Reality  ,N/A  ,5.5  ,N/A  ,N/A,0.30m,0.24m,0.06m,N/A,0.00m,30th Jun 99  ,N/A
+151,Quake II,N64,Activision  ,Raster Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.24m,0.06m,N/A,0.00m,30th Jun 99  ,N/A
+152,Forsaken 64,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,8.3  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.00m,30th Apr 98  ,N/A
+153,Jeremy McGrath Supercross 2000,N64,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.00m,29th Feb 00  ,N/A
+154,Ken Griffey Jr.'s Slugfest,N64,Nintendo  ,Angel Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.00m,10th May 99  ,N/A
+155,Supercross 2000,N64,Electronic Arts  ,MBL Research  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.00m,24th Nov 99  ,N/A
+156,The New Tetris,N64,Nintendo  ,H2O Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.22m,0.05m,0.02m,0.00m,31st Jul 99  ,N/A
+157,Top Gear Overdrive,N64,Kemco  ,Snowblind Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.00m,23rd Nov 98  ,N/A
+158,War Gods,N64,Midway Games  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.00m,21st May 97  ,N/A
+159,Xena: Warrior Princess - The Talisman of Fate,N64,Titus  ,Saffire Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.23m,0.06m,N/A,0.00m,30th Nov 99  ,N/A
+160,Triple Play 2000,N64,EA Sports  ,Treyarch  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.27m,0.01m,N/A,0.00m,22nd Mar 99  ,N/A
+161,Command & Conquer,N64,Nintendo  ,Looking Glass Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.22m,0.05m,N/A,0.00m,31st May 99  ,N/A
+162,Jikkyou Powerful Pro Yakyuu 5,N64,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,N/A,N/A,0.27m,0.00m,26th Mar 98  ,N/A
+163,NBA In The Zone '98,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.25m,0.02m,N/A,0.00m,10th Feb 98  ,N/A
+164,NBA Jam 99,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.25m,0.02m,N/A,0.00m,04th Dec 98  ,N/A
+165,Shadow Man,N64,Acclaim Entertainment  ,Acclaim Studios Teesside  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.18m,0.08m,N/A,0.01m,24th Aug 99  ,08th Oct 18
+166,Armorines: Project S.W.A.R.M.,N64,Acclaim Entertainment  ,Acclaim Studios London  ,N/A  ,6.2  ,N/A  ,N/A,0.26m,0.21m,0.05m,N/A,0.00m,30th Nov 99  ,N/A
+167,Duke Nukem: Zero Hour,N64,GT Interactive  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.21m,0.05m,N/A,0.00m,01st Aug 99  ,N/A
+168,Nightmare Creatures,N64,Activision  ,Kalisto Entertainment  ,N/A  ,7.1  ,N/A  ,N/A,0.26m,0.21m,0.05m,N/A,0.00m,01st Jan 97  ,N/A
+169,Star Wars Episode I: Battle for Naboo,N64,LucasArts  ,Factor 5  ,N/A  ,8.5  ,N/A  ,N/A,0.26m,0.21m,0.05m,N/A,0.00m,13th Dec 00  ,N/A
+170,F1 Pole Position 64,N64,Ubisoft  ,Human Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.11m,0.13m,N/A,0.01m,30th Sep 97  ,N/A
+171,Fox Sports College Hoops '99,N64,Fox Interactive  ,"Z-Axis, Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.25m,0.20m,0.05m,N/A,0.00m,23rd Nov 98  ,N/A
+172,Gex 64: Enter the Gecko,N64,Midway Games  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.20m,0.05m,N/A,0.00m,31st Aug 98  ,N/A
+173,Hybrid Heaven,N64,Konami  ,KCEO  ,N/A  ,7.0  ,N/A  ,N/A,0.25m,0.16m,0.04m,0.05m,0.00m,01st Sep 99  ,N/A
+174,MRC: Multi-Racing Championship,N64,Ocean  ,Genki  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.20m,0.05m,N/A,0.00m,31st Aug 97  ,N/A
+175,NBA Courtside 2 featuring Kobe Bryant,N64,Nintendo  ,Left Field Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.20m,0.05m,N/A,0.00m,08th Nov 99  ,N/A
+176,NBA Showtime: NBA on NBC,N64,Midway Games  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.23m,0.02m,N/A,0.00m,17th Nov 99  ,N/A
+177,Wayne Gretzky's 3D Hockey '98,N64,Midway Games  ,Software Creations  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.23m,0.02m,N/A,0.00m,03rd Dec 97  ,N/A
+178,Wheel of Fortune,N64,Take-Two Interactive  ,GameTek  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.20m,0.05m,N/A,0.00m,02nd Dec 97  ,N/A
+179,Army Men: Air Combat,N64,3DO  ,3DO  ,N/A  ,7.6  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.00m,14th Jul 00  ,N/A
+180,Midway's Greatest Arcade Hits Volume 1,N64,Midway Games  ,Digital Eclipse  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.00m,14th Nov 00  ,N/A
+181,Paperboy,N64,Midway Games  ,High Voltage Software  ,N/A  ,8.0  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.00m,31st Oct 99  ,N/A
+182,Ready 2 Rumble Boxing: Round 2,N64,Midway Games  ,Point of View  ,N/A  ,6.9  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.00m,13th Nov 00  ,N/A
+183,Road Rash 64,N64,THQ  ,Pacific Coast Power & Light  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.00m,31st Aug 99  ,N/A
+184,South Park: Chef's Luv Shack,N64,Acclaim Entertainment  ,Acclaim Studios Austin  ,N/A  ,5.4  ,N/A  ,N/A,0.24m,0.19m,0.05m,N/A,0.00m,31st Oct 99  ,N/A
+185,All-Star Baseball 2001,N64,Acclaim Entertainment  ,High Voltage Software  ,N/A  ,9.2  ,N/A  ,N/A,0.23m,0.22m,0.01m,N/A,0.00m,29th Feb 00  ,N/A
+186,64 de Hakken! Tamagotchi Minna de Tamagotchi World,N64,Bandai  ,AI  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,N/A,N/A,0.22m,0.00m,19th Dec 97  ,N/A
+187,Chou-Kuukan Night Pro Yakyuu King(higher JP sales),N64,Imagineer  ,Genki  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,N/A,N/A,0.22m,0.00m,20th Dec 96  ,N/A
+188,ECW Hardcore Revolution,N64,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.18m,0.04m,N/A,0.00m,31st Jan 00  ,N/A
+189,Mega Man 64,N64,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.14m,0.03m,0.05m,0.00m,10th Jan 01  ,N/A
+190,Ms. Pac-Man: Maze Madness,N64,Namco  ,Mass Media  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.18m,0.04m,N/A,0.00m,12th Nov 00  ,N/A
+191,Rampage 2: Universal Tour,N64,Midway Games  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.18m,0.04m,N/A,0.00m,01st Mar 99  ,N/A
+192,ClayFighter 63 1/3,N64,Interplay  ,Danger Productions  ,N/A  ,3.1  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.00m,30th Sep 97  ,N/A
+193,Cruis'n Exotica,N64,Midway Games  ,Gratuitous Games  ,N/A  ,5.8  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.00m,16th Oct 00  ,N/A
+194,Gex 3: Deep Cover Gecko,N64,Crave Entertainment  ,Gratuitous Games  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.00m,31st Aug 99  ,N/A
+195,Monopoly,N64,Hasbro Interactive  ,Minds-Eye Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.00m,17th Dec 99  ,N/A
+196,WCW Nitro,N64,THQ  ,Inland Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.00m,10th Feb 98  ,N/A
+197,WinBack: Covert Operations,N64,KOEI  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.17m,0.04m,N/A,0.00m,30th Sep 99  ,N/A
+198,Body Harvest,N64,Midway Games  ,DMA Design  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.00m,20th Oct 98  ,N/A
+199,Disney's Tarzan,N64,Activision  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.00m,14th Feb 00  ,N/A
+200,Famista 64,N64,Unknown  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,N/A,N/A,0.17m,0.03m,N/A  ,N/A
+201,Magical Tetris Challenge,N64,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.13m,0.02m,0.05m,0.00m,01st Jan 98  ,N/A
+202,Roadsters 99,N64,Titus  ,Unknown  ,N/A  ,6.4  ,N/A  ,N/A,0.20m,0.06m,0.13m,N/A,0.01m,30th Nov 99  ,N/A
+203,San Francisco Rush 2049,N64,Midway Games  ,Midway Games  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.00m,07th Sep 00  ,N/A
+204,Snowboard Kids,N64,Atlus  ,Racdym  ,N/A  ,8.0  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.00m,01st Jan 97  ,N/A
+205,South Park Rally,N64,Acclaim Entertainment  ,Tantalus Interactive  ,N/A  ,4.2  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.00m,29th Feb 00  ,N/A
+206,Super Robot Taisen 64,N64,Banpresto  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,N/A,N/A,0.20m,0.00m,29th Oct 99  ,N/A
+207,Tigger's Honey Hunt,N64,NewKidCo  ,Rivage Games  ,N/A  ,7.3  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.00m,01st Nov 00  ,N/A
+208,Twisted Edge Extreme Snowboarding,N64,Midway Games  ,Boss Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.16m,0.04m,N/A,0.00m,10th Nov 98  ,N/A
+209,Jikkyou J-League Perfect Striker,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,N/A,N/A,0.19m,0.00m,20th Dec 96  ,N/A
+210,AeroFighters Assault,N64,Victory Lap Games  ,Paradigm Entertainment  ,N/A  ,5.4  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.00m,30th Oct 97  ,N/A
+211,Chou-Kuukan Night Pro Yakyuu King (weekly JP sales),N64,Imagineer  ,Genki  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,N/A,N/A,0.19m,0.00m,20th Dec 96  ,N/A
+212,Hexen,N64,GT Interactive  ,Software Creations  ,N/A  ,4.4  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.00m,31st May 97  ,N/A
+213,Mace: The Dark Age,N64,Midway Games  ,Atari  ,N/A  ,7.1  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.00m,01st Oct 97  ,N/A
+214,Puyo Puyo Sun 64,N64,Compile  ,Compile  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,N/A,N/A,0.16m,0.03m,31st Oct 97  ,N/A
+215,Quake,N64,Midway Games  ,Midway Studios San Diego  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.00m,24th Mar 98  ,N/A
+216,Sesame Street: Elmo's Number Journey,N64,NewKidCo  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.15m,0.04m,N/A,0.00m,30th Nov 99  ,N/A
+217,International Superstar Soccer 2000 (JP weekly sales),N64,Konami  ,KCEO  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,N/A,N/A,0.18m,N/A,03rd Aug 00  ,N/A
+218,Re-Volt,N64,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,31st Jul 99  ,N/A
+219,Sesame Street: Elmo's Letter Adventure,N64,NewKidCo  ,Realtime Associates  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.14m,0.04m,N/A,0.00m,15th Nov 99  ,N/A
+220,Bomberman 64: The Second Attack!,N64,Vatical Entertainment  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.05m,0.01m,0.11m,0.00m,28th May 00  ,N/A
+221,Turok 3: Shadow of Oblivion,N64,Acclaim Entertainment  ,Acclaim Studios Austin  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.12m,0.05m,N/A,0.00m,30th Aug 00  ,N/A
+222,World Driver Championship,N64,Midway Games  ,Boss Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.14m,0.03m,N/A,0.00m,31st May 99  ,N/A
+223,Asteroids Hyper 64,N64,Crave Entertainment  ,Syrox Developments  ,N/A  ,5.6  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,14th Dec 99  ,N/A
+224,Buck Bumble,N64,Ubisoft  ,Argonaut Games  ,N/A  ,6.8  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,30th Sep 98  ,N/A
+225,California Speed,N64,Midway Games  ,Atari Games  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,28th Feb 99  ,N/A
+226,Destruction Derby 64,N64,THQ  ,Looking Glass Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,30th Sep 99  ,N/A
+227,Fighters Destiny,N64,Ocean  ,Opus Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,31st Jan 98  ,N/A
+228,Hydro Thunder,N64,Midway Games  ,Eurocom Entertainment Software  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,29th Feb 00  ,N/A
+229,Jikkyou Powerful Pro Yakyuu Basic-han 2001,N64,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,N/A,N/A,0.12m,0.04m,29th Mar 01  ,N/A
+230,Space Invaders,N64,Activision  ,"Z-Axis, Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,30th Nov 99  ,N/A
+231,Starcraft 64,N64,Nintendo  ,Mass Media  ,N/A  ,8.0  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,13th Jun 00  ,N/A
+232,The Powerpuff Girls: Chemical X-Traction,N64,BAM! Entertainment  ,VIS Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,14th Oct 01  ,N/A
+233,Tom and Jerry in Fists of Furry,N64,NewKidCo  ,VIS Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.13m,0.03m,N/A,0.00m,12th Nov 00  ,N/A
+234,Wonder Project J2: Koruro no Mori no Josette,N64,Enix  ,Givro Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,N/A,N/A,0.12m,0.04m,22nd Nov 96  ,N/A
+235,Dark Rift,N64,Victory Lap Games  ,Kronos Digital Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,30th Jun 97  ,N/A
+236,Derby Stallion 64,N64,Media Factory  ,ParityBit  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,N/A,N/A,0.15m,0.00m,10th Aug 01  ,N/A
+237,Doraemon 3: Nobi Dai no Machi SOS!,N64,Epoch  ,Epoch  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,N/A,N/A,0.09m,0.06m,28th Jul 00  ,N/A
+238,Space Station Silicon Valley,N64,Take-Two Interactive  ,DMA Design  ,N/A  ,8.3  ,N/A  ,N/A,0.15m,0.12m,0.03m,N/A,0.00m,01st Jan 98  ,N/A
+239,Bassmasters 2000,N64,THQ  ,Mass Media  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,16th Dec 99  ,N/A
+240,Bio FREAKS,N64,Midway Games  ,Saffire Corporation  ,N/A  ,6.2  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,31st May 98  ,N/A
+241,Micro Machines 64 Turbo,N64,Midway Games  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,24th Mar 99  ,N/A
+242,WCW Backstage Assault,N64,Electronic Arts  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.03m,N/A,0.00m,12th Dec 00  ,N/A
+243,Castlevania: Legacy of Darkness,N64,Konami  ,KCEK  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.06m,0.02m,0.05m,0.00m,30th Nov 99  ,N/A
+244,NBA Jam 2000,N64,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.12m,0.01m,N/A,0.00m,31st Oct 99  ,N/A
+245,Sin and Punishment,N64,Nintendo  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,0.13m,N/A,N/A,0.13m,0.00m,21st Nov 00  ,N/A
+246,Densha De Go! 64,N64,Taito  ,Al  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,N/A,N/A,0.05m,0.07m,30th Jul 99  ,N/A
+247,Earthworm Jim 3D,N64,Rockstar Games  ,VIS Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.10m,0.02m,N/A,0.00m,31st Oct 99  ,N/A
+248,NFL QB Club 2001,N64,Acclaim Entertainment  ,High Voltage Software  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.11m,0.01m,N/A,0.00m,23rd Aug 00  ,N/A
+249,Rocket: Robot on Wheels,N64,Ubisoft  ,Sucker Punch  ,N/A  ,8.3  ,N/A  ,N/A,0.12m,0.10m,0.02m,N/A,0.00m,17th Nov 99  ,N/A
+250,Chameleon Twist,N64,Sunsoft  ,Japan Supply System  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,30th Nov 97  ,N/A
+251,Chopper Attack,N64,Midway Games  ,Seta Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,17th Jun 98  ,N/A
+252,Fighting Force 64,N64,Crave Entertainment  ,Core Design Ltd.  ,N/A  ,5.2  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,30th Apr 99  ,N/A
+253,Nuclear Strike 64,N64,THQ  ,Pacific Coast Power & Light  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,30th Nov 99  ,N/A
+254,Snowboard Kids 2,N64,Atlus  ,Racdym  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,02nd Mar 99  ,N/A
+255,Tonic Trouble,N64,Ubisoft  ,Ubisoft Montpellier  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,31st Aug 99  ,N/A
+256,Top Gear Rally 2,N64,Kemco  ,Saffire Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,03rd Dec 99  ,N/A
+257,Vigilante 8: 2nd Offense,N64,Activision  ,"Luxoflux, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.02m,N/A,0.00m,02nd Feb 00  ,N/A
+258,Aidyn Chronicles: The First Mage,N64,THQ  ,H2O Interactive  ,N/A  ,6.0  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,14th Mar 01  ,N/A
+259,Disney's Donald Duck: Goin' Quackers,N64,Ubisoft  ,Disney Interactive Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,20th Dec 00  ,N/A
+260,Flying Dragon,N64,Natsume  ,Culture Brain  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,31st Jul 98  ,N/A
+261,GT64 Championship Edition,N64,Ocean  ,Imagineer  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,09th Sep 98  ,N/A
+262,Indy Racing 2000,N64,Infogrames  ,Paradigm Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,30th May 00  ,N/A
+263,International Superstar Soccer 64 (weekly JP sales),N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,N/A,N/A,0.05m,0.05m,31st Jul 97  ,N/A
+264,Jeopardy!,N64,GameTek  ,GameTek  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,25th Feb 98  ,N/A
+265,Lode Runner 3-D,N64,Infogrames  ,Big Bang  ,N/A  ,7.0  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,01st Jan 99  ,N/A
+266,Milo's Astro Lanes,N64,Crave Entertainment  ,Player 1  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,24th Nov 98  ,N/A
+267,Virtual Pool 64,N64,Crave Entertainment  ,Celeris  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,0.02m,N/A,0.00m,17th Dec 98  ,N/A
+268,Batman Beyond: Return of the Joker,N64,Ubisoft  ,Kemco  ,N/A  ,2.0  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,13th Dec 00  ,N/A
+269,Golden Nugget 64,N64,Electronic Arts  ,Westwood Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,08th Dec 98  ,N/A
+270,Robotron 64,N64,Crave Entertainment  ,Player 1  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,06th Jan 98  ,N/A
+271,Saikyou Habu Shogi,N64,Seta Corporation  ,Seta Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.06m,0.03m,23rd Jun 96  ,N/A
+272,V-Rally Edition 99,N64,Infogrames  ,Eden Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.02m,N/A,0.00m,31st Aug 99  ,N/A
+273,Mahjong Master,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.09m,N/A,20th Dec 96  ,N/A
+274,Bust-A-Move 2 Arcade Edition,N64,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,30th Apr 98  ,N/A
+275,Iggy's Reckin' Balls,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,6.8  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,24th Aug 98  ,N/A
+276,Knife Edge: NoseGunner,N64,Kemco  ,Kemco  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,10th Nov 98  ,N/A
+277,NHL Breakaway 99,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.07m,0.01m,N/A,0.00m,27th Nov 98  ,N/A
+278,Tony Hawk's Pro Skater 3,N64,Activision  ,Edge of Reality  ,N/A  ,8.1  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,20th Aug 02  ,N/A
+279,Wetrix,N64,Ocean  ,Zed Two Limited  ,N/A  ,8.6  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.00m,12th Jun 98  ,N/A
+280,Itoi Shigesato no Bass Tsuri No. 1 Ketteihan!,N64,Nintendo  ,HAL Laboratory  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,31st Mar 00  ,30th Aug 18
+281,Itoi Shigesato no Bass Tsuri No. 1 Ketteihan!,N64,Nintendo  ,HAL Laboratory  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,31st Mar 00  ,30th Aug 18
+282,Aero Gauge,N64,ASCII Entertainment  ,Locomotive Games  ,N/A  ,4.5  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,21st May 98  ,N/A
+283,Battlezone: Rise of the Black Dogs,N64,Crave Entertainment  ,Climax Group  ,N/A  ,7.3  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,30th Mar 00  ,N/A
+284,Mia Hamm Soccer 64,N64,SouthPeak Interactive  ,Silicon Dreams  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,09th Nov 00  ,N/A
+285,Shadowgate 64: Trials of the Four Towers,N64,Kemco  ,Infinite Ventures  ,N/A  ,5.4  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.00m,31st May 99  ,N/A
+286,Super Robot Spirits,N64,Banpresto  ,Vertex  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,N/A,N/A,0.04m,0.03m,17th Jul 98  ,N/A
+287,Neon Genesis Evangelion,N64,Bandai  ,Bandai  ,N/A  ,5.6  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,0.00m,25th Jun 99  ,N/A
+288,Brunswick Circuit Pro Bowling,N64,THQ  ,Point of View  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,23rd Dec 99  ,N/A
+289,Bust-A-Move '99,N64,Acclaim Entertainment  ,Distinctive Developments Ltd  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,30th Apr 99  ,N/A
+290,CyberTiger,N64,Electronic Arts  ,Saffire Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,29th Feb 00  ,N/A
+291,Mike Piazza's Strike Zone,N64,GT Interactive  ,Devil's Thumb Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,16th Jun 98  ,N/A
+292,Olympic Hockey 98,N64,Midway Games  ,Treyarch  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,23rd Feb 98  ,N/A
+293,Penny Racers,N64,THQ  ,Locomotive Games  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,10th Feb 99  ,N/A
+294,Polaris SnoCross,N64,Vatical Entertainment  ,Vicarious Visions  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,27th Dec 00  ,N/A
+295,S.C.A.R.S,N64,Ubisoft  ,Vivid Image  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,04th Dec 98  ,N/A
+296,Star Soldier: Vanishing Earth,N64,Electro Brain  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,15th Dec 98  ,N/A
+297,Top Gear Hyper-Bike,N64,Kemco  ,Snowblind Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,21st Mar 00  ,N/A
+298,Virtual Chess 64,N64,Titus  ,Titus Software  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.00m,10th Jun 98  ,N/A
+299,NHL Blades of Steel '99,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.00m,05th Apr 99  ,N/A
+300,All Star Tennis 99,N64,Ubisoft  ,Smart Dog  ,N/A  ,5.1  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,31st Aug 99  ,N/A
+301,Blues Brothers 2000,N64,Titus  ,Player 1  ,N/A  ,4.9  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,16th Nov 00  ,N/A
+302,Chameleon Twist 2,N64,Sunsoft  ,Japan Supply System  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,31st Mar 99  ,N/A
+303,Dual Heroes,N64,Electro Brain  ,Produce!  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,31st Oct 98  ,N/A
+304,Fighter Destiny 2,N64,SouthPeak Interactive  ,Opus Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,14th Jul 00  ,N/A
+305,Hercules: The Legendary Journeys,N64,Titus  ,Player 1  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,16th Nov 00  ,N/A
+306,Turok: Dinosaur Hunter,N64,Acclaim Entertainment  ,Iguana Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,28th Feb 97  ,N/A
+307,Choro Q 64 2: Hacha Mecha Grand Prix Race,N64,Takara  ,Locomotive Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,0.00m,24th Dec 99  ,N/A
+308,NBA In The Zone '99,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,07th Apr 99  ,N/A
+309,NBA in the Zone 2000,N64,Konami  ,KCEO  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,18th Feb 00  ,N/A
+310,Deadly Arts,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,07th Oct 98  ,N/A
+311,Looney Tunes Duck Dodgers Starring: Daffy Duck,N64,Infogrames  ,Paradigm Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,16th Sep 00  ,N/A
+312,Monaco Grand Prix,N64,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,01st Sep 99  ,N/A
+313,PD Ultraman Battle Collection 64,N64,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,0.00m,16th Jul 99  ,N/A
+314,Rally Challenge 2000,N64,SouthPeak Interactive  ,Europress  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,30th Jun 00  ,N/A
+315,Worms Armageddon,N64,Infogrames  ,Team17 Software  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,0.01m,N/A,0.00m,30th Mar 00  ,N/A
+316,Big Mountain 2000,N64,SouthPeak Interactive  ,Imagineer  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,10th Oct 00  ,N/A
+317,Charlie Blasts Territory,N64,Kemco  ,Realtime Associates  ,N/A  ,5.9  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,30th Apr 99  ,N/A
+318,Starshot: Space Circus Fever,N64,Infogrames  ,Infogrames  ,N/A  ,5.2  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,30th Jun 99  ,N/A
+319,Rat Attack!,N64,Mindscape  ,Pure Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,12th Sep 00  ,N/A
+320,Super Bowling,N64,UFO Interactive  ,Athena  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,15th Jan 01  ,N/A
+321,Carmageddon 64,N64,Titus  ,SCi  ,N/A  ,1.3  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,05th Dec 99  ,N/A
+322,PGA European Tour,N64,Infogrames  ,Infogrames  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,15th Jun 00  ,N/A
+323,64 Hanafuda: Tenshi no Yakusoku,N64,Altron  ,Altron  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 99  ,N/A
+324,64 Oozumou,N64,Bottom Up  ,Bottom Up  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 97  ,N/A
+325,64 Oozumou 2,N64,Bottom Up  ,Bottom Up  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 99  ,N/A
+326,64 Trump Collection: Alice no Waku Waku Trump World,N64,Bottom Up  ,Bottom Up  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Aug 98  ,N/A
+327,AI Shogi 3,N64,ASCII Entertainment  ,i4  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 98  ,N/A
+328,AirBoarder 64,N64,GMI  ,Human Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 98  ,N/A
+329,Bakuretsu Muteki Bangai-O,N64,ESP  ,"Treasure Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 99  ,N/A
+330,Bakushou Jinsei 64: Mezase! Resort Ou,N64,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Dec 98  ,N/A
+331,Bass Rush: EcoGear PowerWorm Championship,N64,Visco  ,Visco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 00  ,N/A
+332,Bomberman 64 (Japan),N64,Hudson Soft  ,Racjin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 01  ,N/A
+333,Bust-A-Move '99,N64,Acclaim Entertainment  ,Distinctive Developments Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 99  ,N/A
+334,Centre Court Tennis,N64,Big Ben Interactive  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 99  ,N/A
+335,Chou-Kuukan Night Pro Yakyuu King 2,N64,Imagineer  ,Genki  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 99  ,N/A
+336,ClayFighter: Sculptor's Cut,N64,Interplay  ,Danger Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st May 98  ,N/A
+337,Contra Spirits 64,N64,Unknown  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+338,Dance Dance Revolution Disney Dancing Museum,N64,Konami  ,KCEK  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 00  ,N/A
+339,Deadly Arts,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Oct 98  ,N/A
+340,Dezaemon 3D,N64,Athena  ,Athena  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 98  ,N/A
+341,Doraemon 2: Nobita to Hikari no Shinden,N64,Epoch  ,Epoch  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 98  ,N/A
+342,Doraemon Nobita to 3 Tsu no Seirei Ishi,N64,Epoch  ,Epoch  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Mar 97  ,N/A
+343,Eikou no Saint Andrews,N64,Seta Corporation  ,Seta Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Nov 96  ,N/A
+344,F1 Racing Championship,N64,Video System  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Dec 00  ,N/A
+345,F1 World Grand Prix II,N64,Video System  ,Paradigm Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 98  ,N/A
+346,Getter Love!! Chou Renai Party Game,N64,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 98  ,N/A
+347,Goemon: Mononoke Sugoroku,N64,Konami  ,Konami Computer Entertainment Kyoto  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Dec 99  ,N/A
+348,Hamster Monogatari 64,N64,Culture Brain  ,Culture Brain  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Apr 01  ,N/A
+349,Harukanaru Augusta Masters '98,N64,T&E Soft  ,Tikipod  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 97  ,N/A
+350,Heiwa Pachinko World 64,N64,Amtechs  ,Shouei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 97  ,N/A
+351,Ide Yosuke no Mahjong Juku,N64,Seta Corporation  ,Seta Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Apr 00  ,N/A
+352,Indiana Jones and the Infernal Machine,N64,LucasArts  ,Factor 5  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 00  ,N/A
+353,International Track & Field 2000,N64,Konami  ,Konami Computer Entertainment Osaka  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 00  ,N/A
+354,J-League Tactics Soccer,N64,ASCII Entertainment  ,ASCII Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jan 99  ,N/A
+355,Jangou Simulation Mahjong Michi 64,N64,Video System  ,Art  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jul 97  ,N/A
+356,Jikkyou GI Stable,N64,Konami  ,Konami Computer Entertainment Nagoya  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 99  ,N/A
+357,Jinsei Game 64,N64,Takara  ,Takara  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 99  ,N/A
+358,John Romero's Daikatana,N64,Kemco  ,Ion Storm  ,N/A  ,3.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 00  ,N/A
+359,Kiratto Kaiketsu! 64 Tanteidan,N64,Imagineer  ,Pandora Box  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 98  ,N/A
+360,Last Legion UX,N64,Hudson Soft  ,Yuke's Future Media Creators  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th May 99  ,N/A
+361,Looney Tunes: Taz Express,N64,Infogrames  ,Zed Two Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 00  ,N/A
+362,Mario no Photopi,N64,Tokyo Electron  ,Tokyo Electron  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 98  ,N/A
+363,Morita Shogi 64,N64,Seta Corporation  ,Seta Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Apr 98  ,N/A
+364,NFL Blitz Special Edition,N64,Midway Games  ,Point of View  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 01  ,N/A
+365,Nintama Rantarou 64 Game Gallery,N64,Culture Brain  ,Culture Brain  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Apr 00  ,N/A
+366,Nushi Tsuri 64,N64,Pack In Soft  ,"DDL Co., Ltd  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 98  ,N/A
+367,Nushi Tsuri 64: Shiokaze Ni Notte,N64,Victor Interactive  ,"DDL Co., Ltd  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th May 00  ,N/A
+368,Onegai Monsters,N64,Bottom Up  ,Bottom Up  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Apr 99  ,N/A
+369,Pachinko 365 Nichi,N64,Seta Corporation  ,Seta Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th May 98  ,N/A
+370,Parlor! Pro 64: Pachinko Jikki Simulation Game,N64,Telenet  ,Telenet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jan 99  ,N/A
+371,Power League 64,N64,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 97  ,N/A
+372,Premier Manager 64,N64,Gremlin Interactive Ltd  ,Gremlin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 99  ,N/A
+373,Pro Mahjong Kiwame 64,N64,Athena  ,Athena  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 97  ,N/A
+374,Pro Mahjong Tsuwamono 64: Jansou Battle ni Chousen,N64,Culture Brain  ,Culture Brain  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 99  ,N/A
+375,Puyo Puyo~n Party,N64,Compile  ,Compile  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 99  ,N/A
+376,Rakuga Kids,N64,Konami  ,KCEK  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 98  ,N/A
+377,Razor Freestyle Scooter,N64,Crave Entertainment  ,Titanium Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 01  ,N/A
+378,Robot Ponkottsu 64: Nanatsu no Umi no Caramel,N64,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Dec 99  ,N/A
+379,SD Hiryu no Ken Densetsu,N64,Culture Brain  ,Culture Brain  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jan 99  ,N/A
+380,Shin Nippon Pro Wrestling: Toukon Road - Brave Spirits,N64,Hudson Soft  ,Yuke's Media Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jan 98  ,N/A
+381,Shin Nippon Pro Wrestling: Toukon Road 2 - The Next Generation,N64,Hudson Soft  ,Yuke's Media Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 98  ,N/A
+382,SimCity 2000,N64,Imagineer  ,Genki  ,N/A  ,3.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jan 98  ,N/A
+383,Stunt Racer 64,N64,Midway Games  ,Boss Game Studios  ,N/A  ,7.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 00  ,N/A
+384,Super B-Daman Battle Phoenix 64,N64,Hudson Soft  ,Takara  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jul 98  ,N/A
+385,Susume! Taisen Puzzle Dama: Toukon! Marumata Chou,N64,Konami  ,KCEK  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 98  ,N/A
+386,Tetris 64,N64,Seta Corporation  ,Amtex  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 98  ,N/A
+387,Transformers: Beast Wars Transmetals,N64,BAM! Entertainment  ,Locomotive Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 00  ,N/A
+388,Uchhannanchan no Honou no Challenge: Denryuu IraIra Bou,N64,Hudson Soft  ,Yuke's  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Dec 97  ,N/A
+389,Virtual Pro Wrestling 2: Oudou Keishou,N64,Asmik Ace Entertainment  ,Aki Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jan 00  ,N/A
+390,Virtual Pro Wrestling 64,N64,Asmik Ace Entertainment  ,Aki Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Dec 97  ,N/A
+391,Waialae Country Club: True Golf Classics,N64,Nintendo  ,Tikipod  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jul 98  ,N/A
+392,Yakouchuu II: Satsujin Kouru,N64,Athena  ,Athena  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 99  ,N/A
+393,Zool: Majou Tsukai Densetsu,N64,Imagineer  ,Pandora Box  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jun 99  ,N/A

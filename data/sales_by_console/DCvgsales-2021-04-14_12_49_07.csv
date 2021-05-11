@@ -1,0 +1,656 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,Sonic Adventure,DC,Sega  ,Sonic Team  ,N/A  ,8.9  ,N/A  ,N/A,2.42m,1.26m,0.61m,0.46m,0.08m,09th Sep 99  ,N/A
+2,Crazy Taxi,DC,Sega  ,Hitmaker  ,N/A  ,9.3  ,N/A  ,N/A,1.81m,1.10m,0.51m,0.12m,0.08m,24th Jan 00  ,N/A
+3,NFL 2K,DC,Sega  ,Visual Concepts  ,N/A  ,9.7  ,N/A  ,N/A,1.20m,1.12m,0.05m,N/A,0.02m,09th Sep 99  ,N/A
+4,Shenmue,DC,Sega  ,Sega-AM2  ,N/A  ,8.9  ,N/A  ,1.20m,N/A,N/A,N/A,N/A,N/A,07th Nov 00  ,N/A
+5,Resident Evil - Code: Veronica,DC,Capcom  ,Capcom  ,N/A  ,9.2  ,N/A  ,1.14m,N/A,N/A,N/A,N/A,N/A,29th Feb 00  ,N/A
+6,NFL 2K1,DC,Sega  ,Visual Concepts  ,N/A  ,9.6  ,N/A  ,N/A,1.09m,1.02m,0.05m,N/A,0.02m,07th Sep 00  ,N/A
+7,SoulCalibur,DC,Namco  ,Namco  ,N/A  ,9.6  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+8,Seaman,DC,Sega  ,VIVARIUM Inc.  ,N/A  ,8.1  ,N/A  ,N/A,0.52m,N/A,N/A,0.52m,N/A,09th Aug 00  ,N/A
+9,Sega Rally Championship 2,DC,Sega  ,Sega-AM3  ,N/A  ,8.5  ,N/A  ,N/A,0.41m,N/A,N/A,0.41m,N/A,31st Oct 99  ,N/A
+10,Virtua Fighter 3tb,DC,Sega  ,Sega  ,N/A  ,8.1  ,N/A  ,N/A,0.37m,N/A,N/A,0.37m,0.00m,18th Oct 99  ,N/A
+11,J-League Pro Soccer Club o Tsukurou!,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,0.36m,N/A,N/A,0.36m,0.00m,30th Sep 99  ,N/A
+12,Sakura Wars 3: Paris wa Moeteiru ka,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,N/A,N/A,0.33m,0.00m,22nd Mar 01  ,N/A
+13,Virtua Striker 2,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.32m,N/A,N/A,0.32m,N/A,29th Feb 00  ,N/A
+14,"Sakura Wars 4: Koi Seyo,Otome",DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,N/A,N/A,0.29m,N/A,21st Mar 02  ,N/A
+15,The House of the Dead 2,DC,Sega  ,Wow Entertainment  ,N/A  ,7.5  ,N/A  ,N/A,0.26m,N/A,N/A,0.26m,N/A,09th Sep 99  ,N/A
+16,Pro Yakyuu Team o Tsukurou!,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,N/A,N/A,0.23m,0.00m,05th Aug 99  ,N/A
+17,Capcom vs. SNK,DC,Capcom  ,Capcom  ,N/A  ,8.8  ,N/A  ,N/A,0.22m,N/A,N/A,0.22m,N/A,09th Nov 00  ,N/A
+18,Phantasy Star Online,DC,Sega  ,Sonic Team  ,N/A  ,8.9  ,N/A  ,N/A,0.20m,N/A,N/A,0.20m,N/A,29th Jan 01  ,N/A
+19,Grandia II,DC,Ubisoft  ,Game Arts  ,N/A  ,8.6  ,N/A  ,N/A,0.20m,N/A,N/A,0.20m,0.00m,06th Dec 00  ,N/A
+20,Phantasy Star Online Ver. 2,DC,Sega  ,Sonic Team  ,N/A  ,8.3  ,N/A  ,N/A,0.19m,N/A,N/A,0.19m,0.00m,24th Sep 01  ,N/A
+21,Soccer Tsuku Tokudai Gou: J-League Pro Soccer Club o Tsukurou,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,N/A,N/A,0.18m,0.00m,21st Dec 00  ,N/A
+22,Tokyo Xtreme Racer,DC,Crave Entertainment  ,Genki  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,N/A,N/A,0.17m,0.00m,31st Aug 99  ,N/A
+23,Shenmue II,DC,Sega  ,Sega-AM2  ,N/A  ,8.7  ,N/A  ,N/A,0.15m,N/A,N/A,0.15m,0.00m,23rd Nov 01  ,N/A
+24,Power Stone,DC,Capcom  ,Capcom  ,N/A  ,8.6  ,N/A  ,N/A,0.14m,N/A,N/A,0.14m,0.00m,31st Aug 99  ,N/A
+25,Marvel vs. Capcom 2,DC,Capcom  ,Capcom  ,N/A  ,9.0  ,N/A  ,N/A,0.14m,N/A,N/A,0.14m,N/A,29th Jun 00  ,N/A
+26,Dead or Alive 2,DC,Tecmo  ,Team Ninja  ,N/A  ,9.0  ,N/A  ,N/A,0.14m,N/A,N/A,0.14m,N/A,29th Feb 00  ,N/A
+27,Sega GT,DC,Sega  ,TOSE Software  ,N/A  ,7.8  ,N/A  ,N/A,0.13m,N/A,N/A,0.13m,0.00m,29th Aug 00  ,N/A
+28,Capcom vs. SNK 2: Millionaire Fighting 2001,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,N/A,N/A,0.12m,N/A,13th Sep 01  ,N/A
+29,MSR: Metropolis Street Racer,DC,Sega  ,Bizarre Creations  ,N/A  ,8.6  ,N/A  ,0.12m,N/A,N/A,N/A,N/A,N/A,15th Jan 01  ,N/A
+30,Sonic Adventure 2,DC,Sega  ,Sonic Team  ,N/A  ,8.9  ,N/A  ,N/A,0.12m,N/A,N/A,0.12m,N/A,18th Jun 01  ,N/A
+31,Sakura Wars,DC,Sega  ,Overworks  ,N/A  ,7.6  ,N/A  ,N/A,0.11m,N/A,N/A,0.11m,N/A,25th May 00  ,N/A
+32,The King of Fighters: Dream Match 1999,DC,SNK  ,SNK Corporation  ,N/A  ,7.2  ,N/A  ,N/A,0.10m,N/A,N/A,0.10m,0.00m,30th Sep 99  ,N/A
+33,Blue Stinger,DC,Activision  ,Climax Entertainment  ,N/A  ,6.7  ,N/A  ,N/A,0.10m,N/A,N/A,0.10m,N/A,31st Aug 99  ,N/A
+34,Marvel vs. Capcom: Clash of Super Heroes,DC,Capcom  ,Capcom  ,N/A  ,8.5  ,N/A  ,N/A,0.10m,N/A,N/A,0.10m,N/A,07th Oct 99  ,N/A
+35,"Sakura Wars 2: Kimi, Shinitamou koto Nakare",DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,N/A,N/A,0.10m,0.00m,21st Sep 00  ,N/A
+36,Skies of Arcadia,DC,Sega  ,Overworks  ,N/A  ,9.2  ,N/A  ,N/A,0.09m,N/A,N/A,0.09m,N/A,13th Nov 00  ,N/A
+37,Sega Bass Fishing,DC,Sega  ,Sega-AM1  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,N/A,N/A,0.09m,0.00m,30th Sep 99  ,N/A
+38,Derby Tsuku: Derby Uma o Tsukurou!,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,0.00m,27th Jul 00  ,N/A
+39,Godzilla Generations,DC,Sega  ,General Entertainment  ,N/A  ,3.2  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,0.00m,27th Nov 98  ,N/A
+40,Sentimental Graffiti 2,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,N/A,N/A,0.08m,N/A,27th Jul 00  ,N/A
+41,The King of Fighters: Evolution,DC,Agetec  ,SNK Corporation  ,N/A  ,7.6  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,0.00m,10th May 01  ,N/A
+42,Crazy Taxi 2,DC,Sega  ,Hitmaker  ,N/A  ,8.3  ,N/A  ,N/A,0.07m,N/A,N/A,0.07m,N/A,28th May 01  ,N/A
+43,July,DC,Fortyfive  ,Fortyfive  ,N/A  ,4.8  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,0.00m,27th Nov 98  ,N/A
+44,Kanon,DC,NEC Interchannel   ,Key  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,N/A,14th Sep 00  ,N/A
+45,PenPen TriIceLon,DC,Infogrames  ,Team Land Ho!  ,N/A  ,5.8  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,0.00m,09th Sep 99  ,N/A
+46,Jikkyou Powerful Pro Yakyuu DreamCast Edition,DC,Konami  ,Diamond Head  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,N/A,N/A,0.06m,N/A,30th Mar 00  ,N/A
+47,The Typing of the Dead,DC,Sega  ,Smilebit  ,N/A  ,8.6  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,23rd Jan 01  ,N/A
+48,NBA 2K,DC,Sega  ,Visual Concepts  ,N/A  ,8.9  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,N/A,10th Nov 99  ,N/A
+49,Capcom vs. SNK: Millennium Fight 2000 Pro,DC,Capcom  ,Capcom  ,N/A  ,6.9  ,N/A  ,N/A,0.05m,N/A,N/A,0.05m,0.00m,14th Jun 01  ,N/A
+50,Gundam Battle Online,DC,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,0.00m,28th Jun 01  ,N/A
+51,Pia Carrot e Youkoso!! 2.5,DC,NEC Interchannel   ,Cocktail Soft  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,0.00m,21st Jun 08  ,N/A
+52,Fighting Vipers 2,DC,Sega  ,Sega-AM2  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,N/A,0.04m,0.00m,01st Jan 01  ,N/A
+53,Triggerheart Exelica,DC,Warashi  ,Warashi Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,22nd Feb 07  ,N/A
+54,18 Wheeler: American Pro Trucker,DC,Sega  ,Sega-AM2  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd May 01  ,N/A
+55,21: TwoOne,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Dec 01  ,N/A
+56,4 Wheel Thunder,DC,Midway Games  ,Kalisto  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th May 00  ,N/A
+57,4x4 Evolution,DC,Gathering of Developers  ,Terminal Reality  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Oct 00  ,N/A
+58,90 Minutes: Sega Championship Football,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 01  ,N/A
+59,Advanced Daisenryaku 2001,DC,Sega  ,SystemSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 01  ,N/A
+60,Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen,DC,Sega  ,SystemSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jun 00  ,N/A
+61,Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou,DC,CRI  ,CRI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Nov 00  ,N/A
+62,Aero Dancing i: Jikai Sakuma de Machite Masen,DC,CSK Research Institute  ,CRI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 01  ,N/A
+63,Aero Dancing: Torodoki Taichou no Himitsu Disc,DC,CRI  ,CRI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jan 00  ,N/A
+64,AeroWings,DC,Crave Entertainment  ,CRI  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 99  ,N/A
+65,AeroWings 2: Airstrike,DC,Crave Entertainment  ,CRI  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 00  ,N/A
+66,After...,DC,Pione Soft  ,Pione Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 04  ,N/A
+67,Aikagi,DC,NEC Interchannel   ,S-Neo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Aug 03  ,N/A
+68,AIR,DC,NEC Interchannel   ,Key  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 01  ,N/A
+69,AirForce Delta,DC,Konami  ,KCE Studios  ,N/A  ,7.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Sep 99  ,N/A
+70,Akihabara Dennou Kumi Peta Pies!,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jul 99  ,N/A
+71,Alien Front Online,DC,Sega  ,Sega  ,N/A  ,7.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 01  ,N/A
+72,Alone in the Dark: The New Nightmare,DC,Infogrames  ,Darkworks  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 01  ,N/A
+73,Angel Present,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Apr 01  ,N/A
+74,Angel Wish,DC,Pione Soft  ,Pione Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Feb 05  ,N/A
+75,Animastar,DC,Aki Corp.  ,Aki Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jun 00  ,N/A
+76,Aoi Hagane no Kihei: Space Griffon,DC,Panther Software  ,Panther Software  ,N/A  ,4.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Nov 99  ,N/A
+77,Aqua GT,DC,Take-Two Interactive  ,East Point Software LTD  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 00  ,N/A
+78,Armada,DC,Metro 3D  ,Metro3D  ,N/A  ,8.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+79,Army Men: Sarge's Heroes,DC,Midway Games  ,Midway  ,N/A  ,5.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Oct 00  ,N/A
+80,Atari Anniversary Edition,DC,Atari  ,Digital Eclipse  ,N/A  ,5.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Jul 01  ,N/A
+81,Atsumare! GuruGuru Onsen,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 99  ,N/A
+82,Atsumare! GuruGuru Onsen BB,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 00  ,N/A
+83,Baldr Force EXE,DC,Alchemist  ,Alchemist  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Oct 04  ,N/A
+84,Bang! Gunship Elite,DC,Ubisoft  ,Red Storm Entertainment  ,N/A  ,7.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 00  ,N/A
+85,Bangai-O,DC,Conspiracy Entertainment  ,"Treasure Co., Ltd.  ",N/A  ,8.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Mar 01  ,N/A
+86,BassRush Dream,DC,Visco  ,Visco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 00  ,N/A
+87,Battle Beaster,DC,Studio Wonder Effect  ,Studio Wonder Effect  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 01  ,N/A
+88,Battle Tank Simulator Panzer Front,DC,ASCII Entertainment  ,Enterbrain  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 99  ,N/A
+89,BikkuriMan 2000 Viva! Festival!,DC,Sega Toys  ,Sega Toys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd May 00  ,N/A
+90,BioHazard Code: Veronica Kanzenban,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 01  ,N/A
+91,Black/Matrix Advanced,DC,NEC Interchannel   ,Flight-Plan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 99  ,N/A
+92,bleem! Gran Turismo 2,DC,bleem!  ,bleem!  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 01  ,N/A
+93,bleemcast! Metal Gear Solid,DC,bleem!  ,bleem!  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 01  ,N/A
+94,bleemcast! Tekken 3,DC,bleem!  ,bleem!  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 01  ,N/A
+95,Blue Sky Blue,DC,Reindeer  ,Reindeer  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 03  ,N/A
+96,Blue Submarine No. 6: Saigetsu Fumahito- Time and Tide,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Dec 00  ,N/A
+97,Boko Yume no Tatsujin,DC,Fujicom  ,Fujicom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jan 02  ,N/A
+98,Boku no Tennis Jinsei,DC,Binbou Soft  ,Binbou Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 01  ,N/A
+99,Boku to Bokura no Natsu,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 02  ,N/A
+100,"Boku, Doraemon",DC,Sega Toys  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jan 01  ,N/A
+101,Bomber Hehhe,DC,Fujicom  ,Fujicom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jan 02  ,N/A
+102,Bomberman Online,DC,Sega  ,Hudson Soft  ,N/A  ,8.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Oct 01  ,N/A
+103,Border Down,DC,G.Rev  ,G.Rev  ,N/A  ,6.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Sep 03  ,N/A
+104,Bounty Hunter Sara: Holy Mountain no Teiou,DC,Capcom  ,Flagship  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+105,Bust-A-Move 4,DC,Acclaim Entertainment  ,Taito Corporation  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 00  ,N/A
+106,Buzz Lightyear of Star Command,DC,Activision  ,Traveller's Tales  ,N/A  ,5.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 00  ,N/A
+107,Caesars Palace 2000: Millennium Gold Edition,DC,Interplay  ,Runecraft  ,N/A  ,2.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 00  ,N/A
+108,Cafe Little Wish: Mahou no Recipe,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th May 03  ,N/A
+109,Canaria: Kono Omoi o Uta ni Nosete,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 01  ,N/A
+110,Candy Stripe,DC,Sega  ,Wow Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 01  ,N/A
+111,Cannon Spike,DC,Capcom  ,Unknown  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Nov 00  ,N/A
+112,Canvas,DC,NEC Interchannel   ,Cocktail Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Apr 01  ,N/A
+113,Card Captor Sakura: Tomoyo no Video Taisakusen,DC,Sega  ,Sega Rosso  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Dec 00  ,N/A
+114,Card of Destiny: Hikari to Yami no Tougoumono,DC,Abel  ,Abel Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 02  ,N/A
+115,Carrier,DC,Jaleco  ,Jaleco Entertainment  ,N/A  ,7.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jan 00  ,N/A
+116,CART Flag To Flag,DC,Sega  ,Zoom Inc.  ,N/A  ,6.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Sep 99  ,N/A
+117,Castle Fantasia: Seima Taisen,DC,Studio e-go  ,Studio e-go  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jul 02  ,N/A
+118,Castlevania: Resurrection,DC,Unknown  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+119,Centipede,DC,Hasbro Interactive  ,Leaping Lizard Software Inc.  ,N/A  ,5.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+120,Championship Surfer,DC,Mattel Interactive  ,Krome Studios  ,N/A  ,6.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 00  ,N/A
+121,Chaos Field,DC,Sega  ,MileStone Inc.  ,N/A  ,6.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 04  ,N/A
+122,Charge 'N Blast,DC,Xicat Interactive  ,Xicat Interactive  ,N/A  ,6.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Feb 01  ,N/A
+123,Cherry Blossom,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 04  ,N/A
+124,Chicken Run,DC,Eidos Interactive  ,Blitz Games  ,N/A  ,6.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 00  ,N/A
+125,Chocolat: Maid Cafe Curio,DC,Alchemist  ,Alchemist  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Dec 03  ,N/A
+126,Chou-Hatsumei Boy Kanipan: Bousou Robot no Nazo!?,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jul 99  ,N/A
+127,Christmas Seaman,DC,Sega  ,VIVARIUM Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 99  ,N/A
+128,Chronicles of Pern: Dragon Riders,DC,Ubisoft  ,Ubisoft  ,N/A  ,4.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 01  ,N/A
+129,ChuChu Rocket!,DC,Sega  ,Sonic Team  ,N/A  ,8.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Feb 00  ,N/A
+130,Cleopatra Fortune,DC,Altron  ,Altron  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 01  ,N/A
+131,Close to: Inori no Oka,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Apr 01  ,N/A
+132,Coaster Works,DC,Xicat Interactive  ,Unknown  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Dec 00  ,N/A
+133,Comic Party,DC,Aquaplus  ,Aqua Plus  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 01  ,N/A
+134,Communication Logic Battle Daisessen,DC,Fortyfive  ,Fortyfive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th May 00  ,N/A
+135,Confidential Mission,DC,Sega  ,Hitmaker  ,N/A  ,6.8  ,7.0  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 01  ,N/A
+136,Conflict Zone,DC,Ubisoft  ,MASA Group  ,N/A  ,5.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Dec 01  ,N/A
+137,Cool Cool Toon,DC,SNK  ,SNK Corporation  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 00  ,N/A
+138,Cool Herders,DC,GOAT Store Publishing  ,HarmlessLion Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Dec 05  ,N/A
+139,Cosmic Smash,DC,Sega  ,Sega Rosso  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Sep 01  ,N/A
+140,CR Hissatsu Konjin Pachitte Chonmage @ VPACHI,DC,Hackberry  ,Hack Berry  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Aug 01  ,N/A
+141,Culdcept II,DC,Media Factory  ,OmiyaSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jul 01  ,N/A
+142,Cyber Troopers Virtual-On: Oratorio Tangram,DC,Activision  ,Sega-AM3  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 00  ,N/A
+143,D+Vine [Luv],DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 01  ,N/A
+144,D-2,DC,Sega  ,Warp  ,N/A  ,6.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Aug 00  ,N/A
+145,Dance Dance Revolution 2nd Mix: Dreamcast Edtion,DC,Konami  ,Konami  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Feb 00  ,N/A
+146,Dance Dance Revolution Club Version Dreamcast Edition,DC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Apr 00  ,N/A
+147,Dancing Blade II: Tears of Eden,DC,Konami  ,Konami Computer Entertainment Tokyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 99  ,N/A
+148,Dancing Blade: Katte ni Momo Tenshi!,DC,Konami  ,Konami Computer Entertainment Tokyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Sep 99  ,N/A
+149,Dave Mirra Freestyle BMX,DC,Acclaim Entertainment  ,"Z-Axis, Ltd.  ",N/A  ,7.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 00  ,N/A
+150,Daytona USA,DC,Sega  ,Amusement Vision  ,N/A  ,7.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Mar 01  ,N/A
+151,Death Crimson 2,DC,Ecole  ,Ecole Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Nov 99  ,N/A
+152,Death Crimson OX,DC,Sammy Corporation  ,Ecole Software  ,N/A  ,5.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Aug 01  ,N/A
+153,Deep Fighter,DC,Ubisoft  ,Criterion Games  ,N/A  ,7.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Aug 00  ,N/A
+154,Dejiko no Maibura,DC,Isao  ,Isao  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 00  ,N/A
+155,Demolition Racer: No Exit,DC,Infogrames  ,Pitbull Syndicate  ,N/A  ,7.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 00  ,N/A
+156,Dengen Tenshi Taisen Mahjong: Shangri-La,DC,Marvelous Interactive  ,Marvelous  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Nov 99  ,N/A
+157,Denpa Shounen-teki Kenshou Seikatsu: Nasubi no Heya,DC,Hudson Soft  ,Hudson  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jul 99  ,N/A
+158,Densha de Go! 2,DC,Taito  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jan 00  ,N/A
+159,Derby Tsuku 2,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 01  ,N/A
+160,deSPIRIA,DC,Atlus  ,Atlus Co.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Sep 00  ,N/A
+161,DiGiCharat Fantasy,DC,Broccoli  ,Broccoli  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 01  ,N/A
+162,Digital Keiba Shinbun My Trick Man,DC,Shouei  ,Shouei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Apr 99  ,N/A
+163,Dino Crisis,DC,Capcom  ,Capcom Production Studio 4  ,N/A  ,7.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Nov 00  ,N/A
+164,Disney's 102 Dalmatians: Puppies to the Rescue,DC,Eidos Interactive  ,Crystal Dynamics  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 00  ,N/A
+165,Disney's Dinosaur,DC,Ubisoft  ,Disney Interactive  ,N/A  ,5.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Nov 00  ,N/A
+166,Disney's Donald Duck: Goin' Quackers,DC,Ubisoft  ,Disney Interactive Studios  ,N/A  ,7.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 00  ,N/A
+167,Doguu Senki: Haou,DC,Victor Interactive  ,Victor Interactive Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 00  ,N/A
+168,Doki Doki Idol Star Seeker Remix,DC,G.Rev  ,G.Rev  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jan 02  ,N/A
+169,Dousoukai 2: Again & Refrain,DC,NEC Interchannel   ,Fairy Tale  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jun 02  ,N/A
+170,Draconus: Cult of the Wyrm,DC,Crave Entertainment  ,Treyarch  ,N/A  ,7.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 00  ,N/A
+171,Dream Passport,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 98  ,N/A
+172,Dream Studio,DC,Sega  ,Imagination Science  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 00  ,N/A
+173,DreamCast Generator Vol.2,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 00  ,N/A
+174,DreamFlyer,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Dec 99  ,N/A
+175,DreamOn Volume 1,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 99  ,N/A
+176,DreamOn Volume 2,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+177,Ducati World Racing Challenge,DC,Acclaim Entertainment  ,Attention To Detail  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Feb 01  ,N/A
+178,Ducati World Racing Challenge,DC,Acclaim Entertainment  ,Attention To Detail  ,N/A  ,2.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Feb 01  ,N/A
+179,DUX,DC,HuCast  ,HUCAST.net/KonTechs Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jun 09  ,N/A
+180,Dynamite Cop!,DC,Sega  ,Sega-AM1  ,N/A  ,5.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Nov 99  ,N/A
+181,E.O.S. - Exhibition of Speed,DC,Titus  ,Player 1  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 01  ,N/A
+182,Ecco the Dolphin: Defender of the Future,DC,Sega  ,Appaloosa Interactive  ,N/A  ,8.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 00  ,N/A
+183,ECW Hardcore Revolution,DC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,4.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Feb 00  ,N/A
+184,ECW: Anarchy Rulz,DC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,4.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Dec 00  ,N/A
+185,Eisei Meijin 3: Game Creator Yoshimura Nobuhiro no Zunou,DC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jul 99  ,N/A
+186,El Dorado Gate Volume 1,DC,Capcom  ,Capcom  ,N/A  ,7.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 00  ,N/A
+187,El Dorado Gate Volume 2,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Dec 00  ,N/A
+188,El Dorado Gate Volume 3,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Feb 01  ,N/A
+189,El Dorado Gate Volume 4,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Apr 01  ,N/A
+190,El Dorado Gate Volume 5,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Jun 01  ,N/A
+191,El Dorado Gate Volume 6,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 01  ,N/A
+192,El Dorado Gate Volume 7,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 01  ,N/A
+193,Elemental Gimmick Gear,DC,Vatical Entertainment  ,Birthday  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 99  ,N/A
+194,Elysian Shadows,DC,WaterMelon  ,Elysian Shadows Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+195,Elysion,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jul 02  ,N/A
+196,Erde: Nezu no Izuki no Shita de,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Aug 03  ,N/A
+197,es,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Apr 01  ,N/A
+198,ESPN International Track & Field,DC,Konami  ,KCEO  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 00  ,N/A
+199,ESPN NBA 2Night,DC,Konami  ,"Sunset Entertainment, Inc.  ",N/A  ,2.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 00  ,N/A
+200,European Super League,DC,Virgin Interactive  ,Virgin Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Mar 01  ,N/A
+201,Eve Zero: The Ark of the Matter,DC,NetVillage  ,NetVillage  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 01  ,N/A
+202,Ever17 〜the out of infinity〜,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 02  ,N/A
+203,Evil Dead: Hail to the King,DC,THQ  ,Heavy Iron Studios  ,N/A  ,5.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 00  ,N/A
+204,Evil Twin: Cyprien's Chronicles,DC,Unknown  ,In Utero  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+205,Evolution 2: Far Off Promise,DC,Ubisoft  ,Sting  ,N/A  ,5.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 00  ,N/A
+206,Evolution: The World of Sacred Device,DC,Ubisoft  ,Sting  ,N/A  ,6.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 99  ,N/A
+207,Exodus Guilty Neos,DC,Abel  ,Abel Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 01  ,N/A
+208,Expendable,DC,Infogrames  ,Rage Software  ,N/A  ,5.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+209,F1 Racing Championship,DC,Video System  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Feb 01  ,N/A
+210,F1 World Grand Prix,DC,Sega  ,Paradigm Entertainment  ,N/A  ,8.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Apr 00  ,N/A
+211,F1 World Grand Prix II,DC,Video System  ,Paradigm Entertainment  ,N/A  ,7.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 00  ,N/A
+212,F355 Challenge: Passione Rossa,DC,Acclaim Entertainment  ,Sega  ,N/A  ,8.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 00  ,N/A
+213,Fast Striker 1.5,DC,Unknown  ,NG:DEV.TEAM  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 10  ,N/A
+214,Fatal Fury: Mark of the Wolves,DC,Agetec  ,SNK Corporation  ,N/A  ,8.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Nov 01  ,N/A
+215,Fighting Force 2,DC,Eidos Interactive  ,Core Design Ltd.  ,N/A  ,4.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 99  ,N/A
+216,Fire Pro Wrestling D,DC,Spike  ,S-Neo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 01  ,N/A
+217,First Kiss * Monogatari 2,DC,Broccoli  ,Broccoli  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 02  ,N/A
+218,Floigan Bros. Episode 1,DC,Sega  ,Visual Concepts  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 01  ,N/A
+219,For Symphony: With All One's Heart,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 03  ,N/A
+220,Fragrance Tale,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 01  ,N/A
+221,Frame Gride,DC,From Software  ,From Software  ,N/A  ,8.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jul 99  ,N/A
+222,Frogger 2: Swampy's Revenge,DC,Hasbro Interactive  ,Hasbro Interactive  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 00  ,N/A
+223,Fur Fighters,DC,Acclaim Entertainment  ,Bizarre Creations  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jul 00  ,N/A
+224,Fushigi no Dungeon: Fuurai no Shiren Gaiden: Jokenji Asuka Kenzan!,DC,Sega  ,Neverland  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Feb 02  ,N/A
+225,Gaia Master Kessen! Seikiou Densetsu,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 01  ,N/A
+226,Gakkyuou Yamazaki: Yamazaki Oukoku Oofun Araso,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 99  ,N/A
+227,Gauntlet Legends,DC,Midway Games  ,Atari Games  ,N/A  ,6.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 00  ,N/A
+228,Get!! Colonies,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 00  ,N/A
+229,Giant Gram 2000: All-Japan Pro Wrestling 3,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 00  ,N/A
+230,Giant Gram: All Japan ProWrestling 2,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jun 99  ,N/A
+231,Giant Killers,DC,AAA  ,Smoking Guns Production  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th May 01  ,N/A
+232,Giga Wing,DC,Capcom  ,Takumi Corporation  ,N/A  ,6.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jul 00  ,N/A
+233,Giga Wing 2,DC,Capcom  ,Takumi Corporation  ,N/A  ,7.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 01  ,N/A
+234,Godzilla Generations: Maximum Impact,DC,Sega  ,Sega  ,N/A  ,2.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 99  ,N/A
+235,Golem no Maigo,DC,Caramel Pot  ,Caramel Pot  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Feb 00  ,N/A
+236,Golf Shiyouyo,DC,Bottom Up  ,Bottom Up  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Dec 99  ,N/A
+237,Golf Shiyouyo 2: Aratanaru Chousen,DC,SoftMax  ,SoftMax  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jan 01  ,N/A
+238,Golf Shiyouyo Adventure Hen,DC,SoftMax  ,SoftMax  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Aug 00  ,N/A
+239,Golf Shiyouyo Kouryaku Pack,DC,SoftMax  ,SoftMax  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 00  ,N/A
+240,Grand Theft Auto 2,DC,Rockstar Games  ,DMA Design  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 00  ,N/A
+241,Grandia 2,DC,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+242,Grauen no Torikago Kapitel 1: Keiyaku,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 99  ,N/A
+243,Grauen no Torikago Kapitel 2: Torikago,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 99  ,N/A
+244,Grauen no Torikago Kapitel 3: Kansei,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jan 00  ,N/A
+245,Grauen no Torikago Kapitel 4: Kaikou,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 00  ,N/A
+246,Grauen no Torikago Kapitel 5: Shoukuzai,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th May 00  ,N/A
+247,Grauen no Torikago Kapitel 6: Senritsu,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jul 00  ,N/A
+248,Guilty Gear X,DC,Sammy Corporation  ,Arc System Works  ,N/A  ,8.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 00  ,N/A
+249,Gun-Lord,DC,Unknown  ,NG:DEV.TEAM  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+250,Gunbird 2,DC,Capcom  ,Psikyo  ,N/A  ,7.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 00  ,N/A
+251,Gundam Side Story 0079: Rise from the Ashes,DC,Bandai  ,Bandai  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 00  ,N/A
+252,GunLord,DC,Unknown  ,NG:DEV.TEAM  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+253,GuruGuru Onsen 2,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 01  ,N/A
+254,GuruGuru Onsen 3,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Mar 02  ,N/A
+255,Hanagumi Taisen Columns 2,DC,Sega  ,Tenky  ,N/A  ,9.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Jan 00  ,N/A
+256,Happy Breeding,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Feb 03  ,N/A
+257,Happy Lesson: First Lesson,DC,Datam Polystar  ,fupac  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 00  ,N/A
+258,Harusame Youbi,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 01  ,N/A
+259,Headhunter,DC,Sega  ,Amuze  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Nov 01  ,N/A
+260,Heavy Metal: Geomatrix,DC,Capcom  ,Capcom  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Sep 01  ,N/A
+261,Hello Kitty no Magical Block,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 00  ,N/A
+262,Hello Kitty no Onnaru Mail,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Apr 00  ,N/A
+263,Hello Kitty no Waku Waku Quiz,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 00  ,N/A
+264,Hello Kitty: Lovely Fruit Park,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Nov 99  ,N/A
+265,Hidden & Dangerous,DC,TalonSoft  ,Unknown  ,N/A  ,6.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jul 00  ,N/A
+266,Himitsu: Tadagaita Natsu,DC,Starfish  ,Starfish  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 01  ,N/A
+267,Hoyle Casino,DC,Sierra Entertainment  ,Unknown  ,N/A  ,8.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+268,Hundred Swords,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Feb 01  ,N/A
+269,Hydro Thunder,DC,Midway Games  ,Eurocom Entertainment Software  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+270,Idol Janshi o Tsukucchaou,DC,Jaleco  ,Jaleco Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 99  ,N/A
+271,Ikaruga,DC,ESP  ,"Treasure Co., Ltd.  ",N/A  ,8.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Sep 02  ,N/A
+272,Illbleed,DC,AIA  ,Crazy Games  ,N/A  ,6.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Apr 01  ,N/A
+273,Incoming,DC,Interplay  ,Rage Software  ,N/A  ,6.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 99  ,N/A
+274,Industrial Spy: Operation Espionage,DC,UFO Interactive  ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 00  ,N/A
+275,Inoue Ryoko: Last Scene,DC,Datam Polystar  ,Datam Polystar  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Nov 01  ,N/A
+276,Inoue Ryoko: Roommate,DC,Datam Polystar  ,Datam Polystar  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jul 01  ,N/A
+277,Interlude,DC,NEC Interchannel   ,LongShot  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 03  ,N/A
+278,Iris,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Aug 03  ,N/A
+279,Iron Aces,DC,Xicat Interactive  ,Unknown  ,N/A  ,6.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Feb 01  ,N/A
+280,Izumo,DC,Shinbyou Planning  ,Studio e-go  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jan 04  ,N/A
+281,J-League Spectacle Soccer,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Feb 02  ,N/A
+282,Jeremy McGrath Supercross 2000,DC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,4.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Sep 99  ,N/A
+283,Jet Coaster Dream 2,DC,Bimboosoft  ,Bimboosoft  ,N/A  ,9.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Nov 00  ,N/A
+284,Jet Grind Radio,DC,Sega  ,Smilebit  ,N/A  ,9.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Oct 00  ,N/A
+285,Jimmy White's 2: Cueball,DC,Virgin Interactive  ,Awesome Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+286,Jinsei Game for Dreamcast,DC,Takara  ,Takara  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jun 00  ,N/A
+287,Jissen Pachi-Slot Hisshouhou!@VPACHI Kingdom,DC,MaxBet  ,MaxBet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 00  ,N/A
+288,Jojo's Bizarre Adventure,DC,Capcom  ,Capcom  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+289,Kaen Seibo: The Virgin on Megiddo,DC,Hiromi  ,Kobi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Aug 01  ,N/A
+290,Kaitou Apricot,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Mar 03  ,N/A
+291,Kao the Kangaroo,DC,Titus  ,X-Ray Interactive  ,N/A  ,6.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Feb 01  ,N/A
+292,Karous,DC,Milestone  ,MileStone Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Mar 07  ,N/A
+293,Kaze no Uta,DC,Kyarara  ,Milk Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Apr 04  ,N/A
+294,Kidou Senkan Nadesico: Nadesico the Mission,DC,ESP  ,ESP Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Aug 99  ,N/A
+295,Kidou Senshi Gundam: Renpou vs. Zeon DX,DC,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Apr 02  ,N/A
+296,Kimi ga Nozomu Eien,DC,Atypical Alchemists Associate  ,Atypical Alchemists Associate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 02  ,N/A
+297,KISS: Psycho Circus: The Nightmare Child,DC,Gathering of Developers  ,Tremor Entertainment  ,N/A  ,5.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Oct 00  ,N/A
+298,Kita e. Photo Memories,DC,Hudson Soft  ,Hudson  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Aug 99  ,N/A
+299,Kita e. White Illumination,DC,Hudson Soft  ,SegaSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Mar 99  ,N/A
+300,Kitaihei Gold,DC,NetVillage  ,NetVillage  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 99  ,N/A
+301,Kiteretsu Shounen's Gangagan,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Apr 00  ,N/A
+302,Konohana 2: Todoke Kanai Requiem,DC,Success  ,Vridge  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 02  ,N/A
+303,Konohana: True Report,DC,Success  ,Vridge  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 01  ,N/A
+304,Kuon no Kizuna: Sairin Mikotonori,DC,Fog  ,FOG (Full On Games)  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th May 00  ,N/A
+305,L.O.L.: Lack of Love,DC,ASCII Entertainment  ,Lovedelic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Nov 02  ,N/A
+306,Lake Masters PRO for Dreamcast Plus!,DC,Dazz  ,Dazz  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 00  ,N/A
+307,Langrisser Millennium,DC,NCS  ,NCS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Nov 99  ,N/A
+308,Last Hope,DC,RedSpot Games  ,NG:DEV.TEAM  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jan 07  ,N/A
+309,Last Hope: Pink Bullets,DC,Unknown  ,NG:DEV.TEAM  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 09  ,N/A
+310,Legacy Of Kain: Soul Reaver,DC,Eidos Interactive  ,Crystal Dynamics  ,N/A  ,9.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jan 00  ,N/A
+311,Looney Tunes: Space Race,DC,Infogrames  ,Infogrames Melbourne  ,N/A  ,7.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 00  ,N/A
+312,Love Hina: Smile Again,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Mar 01  ,N/A
+313,Love Hina: Totsuzen no Engeji Happening,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 00  ,N/A
+314,Ma-Gi: Marginal,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jul 03  ,N/A
+315,Maboroshi Tsukiyo,DC,Sims  ,SIMS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 99  ,N/A
+316,Macross M3,DC,Shoeisha  ,Shoeisha  ,N/A  ,4.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Feb 01  ,N/A
+317,Mag Force Racing,DC,Crave Entertainment  ,VCC Entertainment  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jul 00  ,N/A
+318,Magic: The Gathering,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 01  ,N/A
+319,Mahjong Taikai II Special,DC,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 99  ,N/A
+320,Majo no Ochakai,DC,NEC Interchannel   ,S-Neo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 03  ,N/A
+321,Maken X,DC,Atlus  ,Atlus Co.  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+322,Marie to Elie no Atelier: Salburg no Renkinjutsushi 1&2,DC,Kool Kizz  ,Gust  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 01  ,N/A
+323,Marionette Company,DC,Micro Cabin  ,Micro Cabin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Oct 99  ,N/A
+324,Marionette Company 2 Chu!,DC,Micro Cabin  ,Micro Cabin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th May 00  ,N/A
+325,Marionette Handler,DC,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jul 99  ,N/A
+326,Marionette Handler 2,DC,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 00  ,N/A
+327,Mars Matrix,DC,Capcom  ,Takumi  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 01  ,N/A
+328,Mat Hoffman's Pro BMX,DC,Activision  ,Runecraft  ,N/A  ,7.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Sep 01  ,N/A
+329,Max Steel,DC,Mattel Interactive  ,Treyarch  ,N/A  ,3.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 01  ,N/A
+330,Maximum Pool,DC,Sierra Entertainment  ,Dynamix  ,N/A  ,6.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 00  ,N/A
+331,MDK2,DC,Interplay  ,BioWare Corp.  ,N/A  ,8.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 00  ,N/A
+332,Mei * Puru,DC,Princess Soft  ,Oaks Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 02  ,N/A
+333,Memories Off 2nd,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 01  ,N/A
+334,Memories Off Complete,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 00  ,N/A
+335,Memories Off: Omoide ni Kawaru-Kun,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 02  ,N/A
+336,Mercurius Pretty: End of the Century,DC,NEC Interchannel   ,Stack  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Nov 00  ,N/A
+337,Metal Wolf,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jun 02  ,N/A
+338,Midway's Greatest Arcade Hits Volume 1,DC,Midway Games  ,Digital Eclipse  ,N/A  ,6.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jun 00  ,N/A
+339,Midway's Greatest Arcade Hits Volume 2,DC,Midway Games  ,Midway  ,N/A  ,7.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 01  ,N/A
+340,Milky Season,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 02  ,N/A
+341,Miss Moonlight,DC,Naxat Soft  ,Naxat Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 01  ,N/A
+342,Missing Parts 2: The Tantei Stories,DC,Fog  ,O-TWO inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 02  ,N/A
+343,Missing Parts 3: The Tantei Stories,DC,Fog  ,O-TWO inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 03  ,N/A
+344,Missing Parts: The Tantei Stories,DC,Fog  ,O-TWO inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jan 02  ,N/A
+345,Mizuiro,DC,NEC Interchannel   ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Mar 02  ,N/A
+346,Mobile Suit Gundam: Gihren's Greed - Blood of Zeon,DC,Bandai  ,Bandai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 00  ,N/A
+347,Moekan,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Dec 03  ,N/A
+348,Moho,DC,Take-Two Interactive  ,Lost Toys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Nov 00  ,N/A
+349,Monaco Grand Prix,DC,Ubisoft  ,Ubisoft  ,N/A  ,6.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 99  ,N/A
+350,Morita no Saikyou Reversi,DC,Random House  ,Random House  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Apr 99  ,N/A
+351,Morita no Saikyou Shogi,DC,Random House  ,Random House  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Apr 99  ,N/A
+352,Mortal Kombat Gold,DC,Midway Games  ,Eurocom Entertainment Software  ,N/A  ,5.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 99  ,N/A
+353,Motto Pro Yakyuu Team o Tsukurou!,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 00  ,N/A
+354,Mr. Driller,DC,Namco  ,Namco  ,N/A  ,7.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jun 00  ,N/A
+355,Ms. Pac-Man: Maze Madness,DC,Namco  ,Namco  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 00  ,N/A
+356,MTV Sports: Skateboarding Featuring Andy McDonald,DC,THQ  ,Darkblack  ,N/A  ,3.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 00  ,N/A
+357,Musapey's Choco Marker,DC,Ecole  ,Ecole  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 02  ,N/A
+358,My Merry May,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Apr 02  ,N/A
+359,My Merry May be,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 03  ,N/A
+360,Nakoruru: Anohito Kara no Okurimono,DC,Kool Kizz  ,Kool Kizz  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 02  ,N/A
+361,Namco Museum,DC,Namco  ,Mass Media  ,N/A  ,5.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jun 00  ,N/A
+362,Nanatsu no Hikan: Senritsu no Bishou,DC,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jan 00  ,N/A
+363,Napple Tale: Arsia in Daydream,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Oct 00  ,N/A
+364,NBA 2K1,DC,Sega  ,Visual Concepts  ,N/A  ,9.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 00  ,N/A
+365,NBA 2K2,DC,Sega  ,Visual Concepts  ,N/A  ,9.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 01  ,N/A
+366,NBA Hoopz,DC,Midway Games  ,Eurocom Entertainment Software  ,N/A  ,6.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Feb 01  ,N/A
+367,NBA Showtime: NBA on NBC,DC,Midway Games  ,Avalanche Software  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+368,NCAA College Football 2K2,DC,Sega  ,Visual Concepts  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 01  ,N/A
+369,Neo Golden Logres,DC,Success  ,LittleWing  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Oct 00  ,N/A
+370,Neppachi II@VPACHI: CR Harenchi Gauken,DC,Daikoku  ,Daikoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Jul 00  ,N/A
+371,Neppachi III@VPACHI: CR do Konjou Gale 2 - CR do Konjou Gale H,DC,Daikoku  ,Daikoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 00  ,N/A
+372,Neppachi IV@VPACHI: CR Aa! Hana no Ouendan 3,DC,Daikoku  ,Daikoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 00  ,N/A
+373,Neppachi V@VPACHI: CR Monster House,DC,Daikoku  ,Daikoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 00  ,N/A
+374,Neppachi VI@VPACHI,DC,Daikoku  ,Daikoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 01  ,N/A
+375,Neppachi: 10 Ren Chande Las Vegas Ryokou,DC,Daikoku  ,Daikoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Nov 99  ,N/A
+376,Net Versus Chess,DC,Atmark  ,Atmark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+377,Net Versus Hanafuda,DC,Atmark  ,Atmark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+378,Net Versus Igo,DC,Atmark  ,Atmark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+379,Net Versus Mahjong,DC,Atmark  ,Atmark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+380,Net Versus Renju Gomoku Narabe,DC,Atmark  ,Atmark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+381,Net Versus Reversi,DC,Atmark  ,Atmark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+382,Net Versus Shogi,DC,Atmark  ,Atmark  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 01  ,N/A
+383,Netto de Para,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jul 00  ,N/A
+384,Netto de Tennis,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Oct 00  ,N/A
+385,Netto Golf,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Oct 00  ,N/A
+386,Never7 〜the end of infinity〜,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 00  ,N/A
+387,NFL 2K2,DC,Sega  ,Visual Concepts  ,N/A  ,9.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 01  ,N/A
+388,NFL Blitz 2000,DC,Midway Games  ,Avalanche Software  ,N/A  ,8.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+389,NFL Blitz 2001,DC,Midway Games  ,Avalanche Software  ,N/A  ,8.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Sep 00  ,N/A
+390,NFL QB Club 2001,DC,Acclaim Entertainment  ,High Voltage Software  ,N/A  ,3.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 00  ,N/A
+391,NFL Quarterback Club 2000,DC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,2.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+392,NHL 2K,DC,Sega  ,Black Box  ,N/A  ,8.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Feb 00  ,N/A
+393,NHL 2K2,DC,Sega  ,Treyarch  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Feb 02  ,N/A
+394,Nightmare Creatures II,DC,Konami  ,Kalisto Entertainment  ,N/A  ,4.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 00  ,N/A
+395,Nijyuei,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 02  ,N/A
+396,Nippon Pro Mahjong Renmei Dankurai Nintei: Heisei Mahjong-Shou,DC,Micronet  ,Micronet  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Oct 00  ,N/A
+397,Nippon Pro Mahjong Renmei Kounin: Tetsuman Menkyo Minnaten,DC,Naxat Soft  ,Naxat Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 99  ,N/A
+398,Nishikaze no Kyoushikyouku,DC,SoftMax  ,SoftMax  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Feb 01  ,N/A
+399,Nobunaga no Yabou: Reppuuden,DC,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 99  ,N/A
+400,Nobunaga no Yabou: Shouseiroku with Power-Up Kit,DC,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Mar 99  ,N/A
+401,O-to-i-re: Dreamcast Sequencer,DC,Waka Mfg  ,Waka Mfg  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Dec 99  ,N/A
+402,Omikron: The Nomad Soul,DC,Eidos Interactive  ,Quantic Dream  ,N/A  ,6.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jun 00  ,N/A
+403,Onsei Ninshiki Mahjong: Jarman,DC,Visit  ,Visit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 00  ,N/A
+404,Ooga Booga,DC,Sega  ,Visual Concepts  ,N/A  ,7.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Sep 01  ,N/A
+405,Ookami Ichio Funtouki: Sakura Wars Kayou Show - Benitokage Yori,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Feb 00  ,N/A
+406,Orange Pocket,DC,Pione Soft  ,Elf  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 04  ,N/A
+407,Ouka Houshin,DC,ESP  ,ESP Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 99  ,N/A
+408,OutTrigger: International Counter Terrorism Special Force,DC,Sega  ,Sega-AM2  ,N/A  ,7.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jul 01  ,N/A
+409,Pachi-Slot Teiou: Dream Slot - Heiwa SP,DC,Media Entertainment  ,Media Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 01  ,N/A
+410,Pachi-Slot Teiou: Dream Slot Olympia SP,DC,Media Entertainment  ,Media Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 01  ,N/A
+411,Pachinko no Dendou: CR Nanashi,DC,Micro Cabin  ,Micro Cabin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 01  ,N/A
+412,Pandora no Yume,DC,NEC Interchannel   ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Sep 02  ,N/A
+413,Patisserie Nanyanko,DC,Pione Soft  ,Pione Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Sep 04  ,N/A
+414,Pia Carrot e Youkoso!! 2,DC,NEC Interchannel   ,Stack  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Feb 03  ,N/A
+415,Pia Carrot e Youkoso!! 3,DC,NEC Interchannel   ,Alpha Unit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Mar 03  ,N/A
+416,Pier Solar and the Great Architects,DC,WaterMelon  ,WaterMelon Development  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 15  ,N/A
+417,Pizzicato Polka: Suisei Genya,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jun 04  ,N/A
+418,Planet Ring,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+419,PlanetWeb Web Browser 1.0,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+420,PlanetWeb Web Browser 3.0,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 01  ,N/A
+421,Plasma Sword: Nightmare of Bilstein,DC,Capcom  ,Capcom  ,N/A  ,5.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 00  ,N/A
+422,Plus Plum,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Oct 99  ,N/A
+423,Pocke-Kano: Yumi - Shuzika - Fumio,DC,Datam Polystar  ,Datam Polystar  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jun 00  ,N/A
+424,POD: Speedzone,DC,Ubisoft  ,Ubisoft  ,N/A  ,5.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Dec 00  ,N/A
+425,Pop'n Music,DC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 99  ,N/A
+426,Pop'n Music 2,DC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Sep 99  ,N/A
+427,Pop'n Music 3 Append Disc,DC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Feb 00  ,N/A
+428,Pop'n Music 4 Append Disc,DC,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Oct 00  ,N/A
+429,Power Jet Racing 2001,DC,CRI  ,CSK Research Institute  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 01  ,N/A
+430,Power Stone 2,DC,Capcom  ,Capcom  ,N/A  ,8.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Aug 00  ,N/A
+431,Prince of Persia: Arabian Nights,DC,Mattel Interactive  ,Avalanche Software  ,N/A  ,7.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Dec 00  ,N/A
+432,Princess Holiday: Korogaru Ringo Tei Senya Ichiya,DC,Alchemist  ,August  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th May 03  ,N/A
+433,Princess Maker Collection,DC,NineLives  ,GeneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jul 01  ,N/A
+434,Prism Heart,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Nov 01  ,N/A
+435,Prismaticallization,DC,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Aug 00  ,N/A
+436,Pro Mahjong Kiwame D,DC,Athena  ,Athena  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 00  ,N/A
+437,Pro Pinball Trilogy,DC,Empire Interactive  ,Cunning Developments Empire Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jun 01  ,N/A
+438,Pro Yakyuu Team de Asobou Net!,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 00  ,N/A
+439,Pro Yakyuu Team de Asobou!,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 99  ,N/A
+440,Pro Yakyuu Team o Tsukurou! & Asobou!,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 01  ,N/A
+441,Project Justice,DC,Capcom  ,Capcom  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 01  ,N/A
+442,Psychic Force 2012,DC,Acclaim Entertainment  ,Taito Corporation  ,N/A  ,6.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+443,Psyvariar 2: The Will to Fabricate,DC,Success  ,Skonec  ,N/A  ,7.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 04  ,N/A
+444,Puyo Puyo 4,DC,Sega  ,Compile  ,N/A  ,8.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 99  ,N/A
+445,Puyo Puyo DA! featuring ELLENA System,DC,Compile  ,Compile  ,N/A  ,2.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 99  ,N/A
+446,Puyo Puyo Fever,DC,Sega  ,Milestone  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Feb 04  ,N/A
+447,Q*Bert,DC,Hasbro Interactive  ,Artech Digital Entertainment  ,N/A  ,5.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 00  ,N/A
+448,Quake III Arena,DC,Sega  ,Raster  ,N/A  ,9.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 00  ,N/A
+449,Quiz Aammegami-Sama Tatakau Tsubasa to Tomoni,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 00  ,N/A
+450,Radirgy,DC,Milestone  ,MileStone Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Feb 06  ,N/A
+451,Railroad Tycoon II Gold Edition,DC,Gathering of Developers  ,Tremor Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 00  ,N/A
+452,Rainbow Cotton,DC,Success  ,Success  ,N/A  ,5.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jan 00  ,N/A
+453,Rayman 2: The Great Escape,DC,Ubisoft  ,Ubisoft Montpellier  ,N/A  ,9.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Mar 00  ,N/A
+454,Razor Freestyle Scooter,DC,Crave Entertainment  ,Titanium Studios  ,N/A  ,6.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 01  ,N/A
+455,Re-Volt,DC,Acclaim Entertainment  ,Probe Entertainment Limited  ,N/A  ,7.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 99  ,N/A
+456,Ready 2 Rumble Boxing,DC,Midway Games  ,Midway Games  ,N/A  ,8.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Sep 99  ,N/A
+457,Ready 2 Rumble Boxing: Round 2,DC,Midway Games  ,Midway Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 00  ,N/A
+458,Real Sound: Kaze no Regret,DC,Warp  ,Warp  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Mar 99  ,N/A
+459,Record of Lodoss War,DC,Conspiracy Entertainment  ,Neverland Company  ,N/A  ,7.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 01  ,N/A
+460,Red Dog: Superior Firepower,DC,Crave Entertainment  ,Argonaut Games  ,N/A  ,6.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 00  ,N/A
+461,Redux: Dark Matters,DC,HuCast  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jan 14  ,N/A
+462,Reel Fishing Wild,DC,Natsume  ,West One  ,N/A  ,5.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 01  ,N/A
+463,Renai Chu! Happy Perfect,DC,GN Software  ,fupac  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 03  ,N/A
+464,Rent A Hero No.1,DC,Sega  ,Sega  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th May 00  ,N/A
+465,Resident Evil 2,DC,Capcom  ,Capcom  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Dec 00  ,N/A
+466,Resident Evil 3: Nemesis,DC,Capcom  ,Capcom  ,N/A  ,8.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Nov 00  ,N/A
+467,Revive... Sosei,DC,Data East  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Oct 99  ,N/A
+468,Rez,DC,Sega  ,United Game Artists  ,N/A  ,9.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jan 02  ,N/A
+469,Rippin' Riders,DC,Sega  ,UEP Systems  ,N/A  ,6.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+470,Roadsters,DC,Titus  ,Player 1  ,N/A  ,4.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 00  ,N/A
+471,Roommania #203,DC,Sega  ,Sega  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jan 00  ,N/A
+472,Roommate Asami: Okusama wa Joshikousei Director's Edition,DC,Datam Polystar  ,fupac  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 02  ,N/A
+473,Roommate Novel: Sato Yuka,DC,Datam Polystar  ,fupac  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 00  ,N/A
+474,Run-Dim as Black Soul,DC,Idea Factory  ,Digital Dream Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 01  ,N/A
+475,Rune Caster,DC,Vision Games  ,Hudson  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Aug 00  ,N/A
+476,Rune Jade,DC,Hudson Soft  ,Hudson  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Aug 00  ,N/A
+477,Rush Rush Rally Racing,DC,RedSpot Games  ,Senile Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Nov 09  ,N/A
+478,Sakura Momoko Gekijou: Kojikoji,DC,Marvelous Interactive  ,Marvelous  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Apr 00  ,N/A
+479,"Sakura Taisen 4: Koi Seyo, Otome",DC,Sega  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Mar 02  ,N/A
+480,Sakura Taisen Online,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 01  ,N/A
+481,Sakura Wars Complete Box,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Mar 02  ,N/A
+482,Sakura Wars: Kinematron Hanagumi Mail,DC,Sega  ,Overworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Dec 00  ,N/A
+483,Samba De Amigo,DC,Sega  ,Sonic Team  ,N/A  ,7.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Oct 00  ,N/A
+484,Samba De Amigo Ver. 2000,DC,Sega  ,Sonic Team  ,N/A  ,9.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 00  ,N/A
+485,San Francisco Rush  2049,DC,Midway Games  ,Midway  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 00  ,N/A
+486,San Goku Shi VI,DC,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Mar 99  ,N/A
+487,San Goku Shi VI with Power-Up Kit,DC,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Apr 00  ,N/A
+488,Seaman: Kindan no Pet 2001,DC,Viva Media  ,VIVARIUM Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 00  ,N/A
+489,Sega Bass Fishing,DC,Sega  ,SIMS  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 99  ,N/A
+490,Sega Bass Fishing 2,DC,Sega  ,Wow Entertainment  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 01  ,N/A
+491,Sega DreamCast Generator: Playable Bits and Video Clips Vol.1,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+492,Sega Marine Fishing,DC,Sega  ,Wow Entertainment  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Aug 00  ,N/A
+493,Sega Smash Pack Volume 1,DC,Sega  ,Sega  ,N/A  ,5.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jan 01  ,N/A
+494,Sega Swirl,DC,Sega  ,Tremor Entertainment  ,N/A  ,8.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+495,Sega Tetris,DC,Sega  ,Wow Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Nov 00  ,N/A
+496,Sega Worldwide Soccer 2000,DC,Sega  ,Silicon Dreams  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 99  ,N/A
+497,Sega Worldwide Soccer 2000 Euro Edition,DC,Sega  ,Silicon Dreams  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 00  ,N/A
+498,Segagaga,DC,Sega  ,Hitmaker  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Mar 01  ,N/A
+499,Seirai Hata RayBlade,DC,Winky Soft  ,Winky Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 00  ,N/A
+500,Sekai Fushigi Hakken! Troya,DC,TBS  ,TBS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jul 99  ,N/A
+501,Sengoku Turb,DC,NEC  ,NEC Interchannel  ,N/A  ,5.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Jan 99  ,N/A
+502,Sengoku Turb F.I.D,DC,NEC Interchannel   ,NEC  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 99  ,N/A
+503,Sentimental Graffiti Yakusoku,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Dec 03  ,N/A
+504,Seventh Cross Evolution,DC,UFO Interactive  ,Atypical Alchemists Associate  ,N/A  ,4.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 98  ,N/A
+505,Shadow Man,DC,Acclaim Entertainment  ,Acclaim Studios Teesside  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 99  ,08th Oct 18
+506,Shanghai Dynasty,DC,Activision  ,Success  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Mar 00  ,N/A
+507,Shikigami no Shiro II,DC,MediaQuest   ,Alfa System  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Mar 04  ,N/A
+508,Shin Honkaku Hanafuda,DC,Altron  ,Altron  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jul 99  ,N/A
+509,Shin Nippon Pro Wrestling: Toukon Retsuden 4,DC,Tomy Corporation  ,Tomy Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Sep 99  ,N/A
+510,Shinseiki Evangelion: Ayanami Rei Ikusei Keikaku,DC,Broccoli  ,Broccoli  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Apr 02  ,N/A
+511,Shinseiki Evangelion: Typing E-Keikaku,DC,Gainax Network Systems  ,Gainax  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Apr 01  ,N/A
+512,Shinseiki Evangelion: Typing Hokan Keikaku,DC,Gainax Network Systems  ,Gainax  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 01  ,N/A
+513,Shirotsume Kusa Hanashi: Episode of the Clovers,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 03  ,N/A
+514,Silent Scope,DC,Konami  ,KCET  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 00  ,N/A
+515,Silver,DC,Infogrames  ,Spiral House  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 00  ,N/A
+516,Sister Princess,DC,Media Works  ,Stack  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 02  ,N/A
+517,Slave Zero,DC,Infogrames  ,Accolade  ,N/A  ,5.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+518,Sno-Cross Championship Racing,DC,Crave Entertainment  ,UDS  ,N/A  ,4.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 00  ,N/A
+519,Snow,DC,NEC Interchannel   ,NEC Interchannel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Sep 03  ,N/A
+520,Soccer Tsuku Tokudai Gou 2: J-League Pro Soccer Club o Tsukurou,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 01  ,N/A
+521,Soldier of Fortune,DC,Crave Entertainment  ,Runecraft  ,N/A  ,7.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jul 01  ,N/A
+522,Sonic Shuffle,DC,Sega  ,Sega  ,N/A  ,5.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 00  ,N/A
+523,Sorcerian,DC,Victor Interactive  ,Nihon Falcom Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Apr 00  ,N/A
+524,Soul Fighter,DC,Mindscape  ,Toka  ,N/A  ,4.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+525,South Park Rally,DC,Acclaim Entertainment  ,Tantalus Interactive  ,N/A  ,3.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 00  ,N/A
+526,South Park: Chef's Luv Shack,DC,Acclaim Entertainment  ,Acclaim Studios Austin  ,N/A  ,4.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 99  ,N/A
+527,Space Channel 5,DC,Sega  ,United Game Artists  ,N/A  ,8.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jun 00  ,N/A
+528,Space Channel 5 Part 2,DC,Sega  ,United Game Artists  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Feb 02  ,N/A
+529,Spawn: In the Demon's Hand,DC,Capcom  ,Capcom  ,N/A  ,5.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 00  ,N/A
+530,Spec Ops II: Omega Squad,DC,Ripcord Games  ,Runecraft  ,N/A  ,5.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 00  ,N/A
+531,Speed Devils,DC,Ubisoft  ,Ubisoft  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Oct 99  ,N/A
+532,Speed Devils Online Racing,DC,Ubisoft  ,Ubisoft  ,N/A  ,7.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 00  ,N/A
+533,Spider-Man,DC,Activision  ,Treyarch  ,N/A  ,8.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Apr 01  ,N/A
+534,Spirit Of Speed 1937,DC,Acclaim Entertainment  ,Acclaim  ,N/A  ,1.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 00  ,N/A
+535,Sports Jam,DC,Agetec  ,Wow Entertainment  ,N/A  ,7.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jul 01  ,N/A
+536,Star Wars Episode 1: Jedi Power Battles,DC,LucasArts  ,LucasArts  ,N/A  ,7.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Oct 00  ,N/A
+537,Star Wars Episode I Racer,DC,LucasArts  ,LucasArts  ,N/A  ,6.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Apr 00  ,N/A
+538,Star Wars: Demolition,DC,LucasArts  ,"Luxoflux, Inc.  ",N/A  ,6.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 00  ,N/A
+539,StarLancer,DC,Crave Entertainment  ,Digital Anvil  ,N/A  ,7.5  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 00  ,N/A
+540,Street Fighter Alpha 3,DC,Capcom  ,Capcom  ,N/A  ,8.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 00  ,N/A
+541,Street Fighter III: 3rd Strike,DC,Capcom  ,Capcom  ,N/A  ,7.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 00  ,N/A
+542,Street Fighter III: Double Impact,DC,Capcom  ,Capcom  ,N/A  ,8.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jun 00  ,N/A
+543,Striker Pro 2000,DC,Atari  ,Rage Software  ,N/A  ,6.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 00  ,N/A
+544,Stunt GP,DC,Atari  ,Team17 Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jun 01  ,N/A
+545,Stupid Invaders,DC,Ubisoft  ,Xilam  ,N/A  ,7.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 01  ,N/A
+546,Sturmwind,DC,RedSpot Games  ,Duranik  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 11  ,N/A
+547,Suigetsu Mayoi-Gokoro,DC,KID  ,KID Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Oct 04  ,N/A
+548,Suika,DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jul 02  ,N/A
+549,Sunrise Eiyuutan,DC,Sunrise Interactive  ,Atelier-Sai  ,N/A  ,4.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 99  ,N/A
+550,Super Euro Soccer 2000,DC,Imagineer  ,Rage Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Apr 00  ,N/A
+551,Super Magnetic Neo,DC,Crave Entertainment  ,Genki  ,N/A  ,6.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jun 00  ,N/A
+552,Super Producers,DC,Hudson Soft  ,Hudson  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Nov 99  ,N/A
+553,Super Puzzle Fighter II X for Matching Service,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jul 01  ,N/A
+554,Super Robot Taisen α for DreamCast,DC,Banpresto  ,Banpresto  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 01  ,N/A
+555,Super Runabout: San Francisco Edition,DC,Climax Entertainment  ,Climax Entertainment  ,N/A  ,6.1  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Oct 00  ,N/A
+556,Super Street Fighter II X for Matching Service,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 00  ,N/A
+557,Surf Rocket Racers,DC,Crave Entertainment  ,CRI  ,N/A  ,5.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 01  ,N/A
+558,Suzuki Alstare Extreme Racing,DC,Ubisoft  ,Criterion Games  ,N/A  ,6.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Nov 99  ,N/A
+559,Sweet Season,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 03  ,N/A
+560,Sword of the Berserk: Guts' Rage,DC,Eidos Interactive  ,Yuke's Future Media Creators  ,N/A  ,7.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Feb 00  ,N/A
+561,Sydney 2000,DC,Eidos Interactive  ,Attention To Detail  ,N/A  ,5.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 00  ,N/A
+562,Taisen Net Gimmick: Capcom & Psikyo All Stars,DC,Capcom  ,Psikyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 01  ,N/A
+563,Tako no Marine,DC,Micro Cabin  ,Micro Cabin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 02  ,N/A
+564,Tamakyuu,DC,Unknown  ,S-Neo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+565,Tanaka Torahiko no Uru Toraryuu Shogi,DC,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Nov 99  ,N/A
+566,Tantei Shinshi Dash!,DC,Abel  ,Abel Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 00  ,N/A
+567,Taxi 2,DC,Ubisoft  ,Blue Sphere Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 00  ,N/A
+568,Tech Romancer,DC,Capcom  ,Capcom  ,N/A  ,8.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 00  ,N/A
+569,Tee Off,DC,Acclaim Entertainment  ,Bottoms Up  ,N/A  ,7.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 99  ,N/A
+570,Tennis 2K2,DC,Sega  ,Hitmaker  ,N/A  ,8.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 01  ,N/A
+571,"Tenohirao, Taiyouni",DC,Princess Soft  ,Princess Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Mar 04  ,N/A
+572,Tentama: 1st Sunnyside,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 01  ,N/A
+573,Test Drive 6,DC,Infogrames  ,Pitbull Syndicate  ,N/A  ,4.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 99  ,N/A
+574,Test Drive Le Mans,DC,Infogrames  ,Melbourne House Pty Ltd.  ,N/A  ,8.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 00  ,N/A
+575,Test Drive V-Rally,DC,Atari  ,Eden Studios  ,N/A  ,6.9  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Jul 00  ,N/A
+576,Tetris 4D,DC,Bullet Proof Software  ,Bullet Proof Software  ,N/A  ,5.8  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 98  ,N/A
+577,The Grinch,DC,Konami  ,Artificial Mind and Movement  ,N/A  ,5.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 00  ,N/A
+578,The King of Fighters 2000,DC,Playmore  ,Playmore Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 02  ,N/A
+579,The King of Fighters 2001,DC,Playmore  ,Eolith  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 02  ,N/A
+580,The King of Fighters 2002,DC,Playmore  ,Eolith  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jun 03  ,N/A
+581,The Last Blade 2: Heart of the Samurai,DC,Agetec  ,SNK Corporation  ,N/A  ,8.0  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Aug 01  ,N/A
+582,The Renai Adventure: Bitter Sweet Fools,DC,D3 Publisher  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 02  ,N/A
+583,The Renai Adventure: Okaeri!!,DC,D3 Publisher  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 02  ,N/A
+584,The Renai Simulation 2: Fureai,DC,D3 Publisher  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 02  ,N/A
+585,The Renai Simulation: Natsuiro Celebration,DC,D3 Publisher  ,HuneX  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 02  ,N/A
+586,The Ring: Terror's Realm,DC,Atari  ,"Asmik Ace Entertainment, Inc  ",N/A  ,3.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Aug 00  ,N/A
+587,The Shinri Game,DC,Visit  ,Visit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 01  ,N/A
+588,Time Stalkers,DC,Sega  ,Climax Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 99  ,N/A
+589,TNN Motorsports HardCore Heat,DC,ASC Games  ,CRI  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+590,Tokusatsu Bouken Katsugeki Super Hero Retsuden,DC,Banpresto  ,ALU  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jul 00  ,N/A
+591,Tokyo Bus Annai: Bijin Bug Guide Tenjou Pack,DC,Fortyfive  ,Fortyfive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 00  ,N/A
+592,Tokyo Bus Guide,DC,Fortyfive  ,Fortyfive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 99  ,N/A
+593,Tokyo Xtreme Racer 2,DC,Crave Entertainment  ,Genki  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 00  ,N/A
+594,Tom Clancy's Rainbow Six,DC,Majesco  ,Pipe Dream Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th May 00  ,N/A
+595,Tom Clancy's Rainbow Six: Rogue Spear,DC,Red Storm Entertainment  ,Pipe Dream Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 00  ,N/A
+596,Tomb Raider Chronicles,DC,Eidos Interactive  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 00  ,N/A
+597,Tomb Raider: The Last Revelation,DC,Eidos Interactive  ,Core Design Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Apr 01  ,N/A
+598,Tony Hawk's Pro Skater,DC,Crave Entertainment  ,Treyarch  ,N/A  ,9.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jun 00  ,N/A
+599,Tony Hawk's Pro Skater 2,DC,Activision  ,Treyarch  ,N/A  ,9.7  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Nov 00  ,N/A
+600,Toy Commander,DC,Sega  ,No Cliche  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 99  ,N/A
+601,Toy Racer,DC,Sega  ,No Cliche  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 00  ,N/A
+602,Toy Story 2: Buzz Lightyear to the Rescue!,DC,Activision  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jun 00  ,N/A
+603,Treasure Strike,DC,KID  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Feb 00  ,N/A
+604,TrickStyle,DC,Acclaim Entertainment  ,Criterion Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 99  ,N/A
+605,Tricolore Crise,DC,Victor Interactive  ,Victor Interactive Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 00  ,N/A
+606,Trizeal,DC,Triangle Service  ,Triangle Service  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Apr 05  ,N/A
+607,Tsuki wa Higashi ni Ha wa Nishi na: Operation Sanctuary,DC,Alchemist  ,Alchemist  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jun 04  ,N/A
+608,Twinkle Star Sprites,DC,SNK  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 00  ,N/A
+609,Typing of the Date,DC,Hudson Soft  ,Hudson Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 01  ,N/A
+610,UEFA Dream Soccer,DC,Sega  ,Silicon Dreams  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Dec 00  ,N/A
+611,Ultimate Fighting Championship,DC,Crave Entertainment  ,Anchor  ,N/A  ,8.6  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 00  ,N/A
+612,Under Defeat,DC,Sega  ,G.rev Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 06  ,N/A
+613,Undercover AD2025 Kei,DC,Pulse Entertainment  ,Pulse Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jan 00  ,N/A
+614,Unreal Tournament,DC,Infogrames  ,Secret Level  ,N/A  ,9.3  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 01  ,N/A
+615,Urban Chaos,DC,Eidos Interactive  ,Mucky Foot Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 00  ,N/A
+616,Utau * Tumbling Dice,DC,Ecole  ,Reindeer  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jun 04  ,N/A
+617,Vampire Chronicle for Matching Service,DC,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 00  ,N/A
+618,Vanishing Point,DC,Acclaim Entertainment  ,Clockwork Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 00  ,N/A
+619,Vermilion Desert,DC,Riverhillsoft  ,River Hill Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Dec 99  ,N/A
+620,Vigilante 8: 2nd Offense,DC,Activision  ,"Luxoflux, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 99  ,N/A
+621,Virtua Athlete 2000,DC,Agetec  ,Hitmaker  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 01  ,N/A
+622,Virtua Cop 2,DC,Sega  ,Sega-AM2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Mar 00  ,N/A
+623,Virtua Tennis,DC,Sega  ,Hitmaker  ,N/A  ,9.2  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+624,Wacky Races,DC,Infogrames  ,Infogrames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 00  ,N/A
+625,Walt Disney World Quest: Magical Racing Tour,DC,Eidos Interactive  ,Crystal Dynamics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jul 00  ,N/A
+626,Weakness Hero Torauman,DC,Fortyfive  ,Fortyfive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 02  ,N/A
+627,Web Mystery: Yochi Yume o Kenru Neko,DC,Mebius  ,Mebius  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Apr 99  ,N/A
+628,Wetrix+,DC,Xicat Interactive  ,Zed Two Limited  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+629,What's Shenmue,DC,Sega  ,Sega-AM2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Aug 99  ,N/A
+630,Who Wants to be a Millionaire,DC,Eidos Interactive  ,Hothouse Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Sep 00  ,N/A
+631,Who Wants to Beat Up a Millionaire,DC,Berkeley  ,Berkeley  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+632,Wild Metal,DC,Rockstar Games  ,DMA Design  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 00  ,N/A
+633,Wind and Water: Puzzle Battles,DC,RedSpot Games  ,Yuan Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 08  ,N/A
+634,Wind: a Breath of Heart,DC,Alchemist  ,Alchemist  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jan 03  ,N/A
+635,Winning Post 4 Program 2000,DC,KOEI  ,Koei  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 00  ,N/A
+636,Woody Woodpecker Racing,DC,Unknown  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+637,World Neverland 2 Plus,DC,Riverhillsoft  ,Riverhillsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 00  ,N/A
+638,World Neverland Plus: Orurudo Oukoku Monogatari,DC,Riverhillsoft  ,Riverhillsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jul 99  ,N/A
+639,World Series Baseball 2K1,DC,Sega  ,Wow Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jul 00  ,N/A
+640,World Series Baseball 2K2,DC,Sega  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 01  ,N/A
+641,Worms Armageddon,DC,Hasbro Interactive  ,Team17 Software  ,N/A  ,8.4  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Dec 99  ,N/A
+642,Worms World Party,DC,Titus  ,Team17 Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Jun 01  ,N/A
+643,WWF Attitude,DC,Acclaim Entertainment  ,Acclaim Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 99  ,N/A
+644,WWF Royal Rumble,DC,THQ  ,Yuke's Future Media Creators  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Aug 00  ,N/A
+645,Xtreme Sports,DC,Infogrames  ,Innerloop  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 00  ,N/A
+646,Yoshia no Oka de Nekoronde...,DC,Naxat Soft  ,Naxat Soft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 01  ,N/A
+647,Yukawa Moto Senmu no Okatara Ikushi,DC,Sega  ,Smilebit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 99  ,N/A
+648,Yuki Katari,DC,Takuyo  ,Takuyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 02  ,N/A
+649,Yume no Tsubasa: Fate of Heart,DC,KID  ,KID  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 01  ,N/A
+650,Yume Uma Ken '99 Internet,DC,Shangri-La  ,Shangri-La  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Oct 99  ,N/A
+651,Yuukyuu Gensou Kyoku 3: Perpetual Blue,DC,Media Works  ,Media Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Dec 99  ,N/A
+652,Zero Gunner 2,DC,Psikyo  ,Psikyo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 01  ,N/A
+653,Zombie Revenge,DC,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 99  ,N/A
+654,Zusar Vasar,DC,Real Vision  ,Real Vision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jul 00  ,N/A
+655,Xeno Crisis,DC,Unknown  ,Bitmap Bureau  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Feb 19

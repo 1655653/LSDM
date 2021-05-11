@@ -1,0 +1,19 @@
+postgres per caricare il global
+pentaho come aggregatore
+
+non dimentichiamo di vedere bene la formalizzazione
+EG.: nell'ER abbiamo un po' di chiavi anche composite
+capire cosa succede in caso di sovrapposizioni
+Che succede se a volte non abbiamo coordinate e nome oppure sono ripetute?
+Di questa query calcolate le certain answers, IE connettere con i temi del corso e domande varie
+La cosa importante è che oltre alla parte tecnologica capire anche che succede in caso di due città con lo stesso nome, che è un tema importante dell'integrazione
+Il global schema raccoglie le informazioni che volevate, non una copia uno a uno delle sorgenti
+EG.: il nome del videogioco ripetuto nelle varie tuple
+
+Purtroppo, non abbiamo i tempo di parlare dei NULL di sql rispetto a (?)
+se voi fate una query sql coi null, lui ha un comportamente singolare: SQL coi null fa un casino, perchè usa una logica a tre valori. Vedete come vi vengono meglio le query: se sono effettivamente rappresentabili con dei NULL, quindi il risultato della query è ragionevole metteteci un null, oppure se esce un casino lo disaggregate, scomponete la tabella. Ultima opzione è metterci un valore specifico (tipo NA o -1 o 0).
+Ragionate bene se calcolate le certain answers di quella coi null.
+Non è un task di data federation, ma di integrazione.
+
+potrebbe valere la pena integrarlo anche con il progetto del professor lembo.
+Perchè di lavoro già ce n'è abbastanza quindi può essere interessante riutilizzarlo.

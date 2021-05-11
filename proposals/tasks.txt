@@ -1,0 +1,10 @@
+quale nazione (o città) ha / quale publisher
+	prodotto piu giochi 
+	guadagnato di piu  nei tornei 
+	guadagnato di piu  nelle vendite
+	range anni
+quale console ha 
+	avuto piu giochi [remunerativi]
+anni piu proficui	
+	
+	

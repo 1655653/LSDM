@@ -1,0 +1,502 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,Pac-Man,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,7.70m,N/A,N/A,N/A,N/A,N/A,01st Mar 82  ,N/A
+2,Asteroids,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,4.31m,4.00m,0.26m,N/A,0.05m,01st Jan 81  ,N/A
+3,Pitfall!,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,4.00m,N/A,N/A,N/A,N/A,N/A,20th Apr 82  ,N/A
+4,Missile Command,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,2.76m,2.56m,0.17m,N/A,0.03m,01st Jan 81  ,N/A
+5,Frogger,2600,Parker Bros.  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,2.20m,2.06m,0.12m,N/A,0.02m,01st Jan 82  ,N/A
+6,Demon Attack,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,2.13m,1.99m,0.12m,N/A,0.02m,01st Jan 82  ,N/A
+7,Space Invaders,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,2.00m,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+8,E.T.: The Extra Terrestrial,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.97m,1.84m,0.11m,N/A,0.02m,01st Jan 82  ,N/A
+9,Ms. Pac-Man,2600,Atari  ,General Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,1.65m,1.54m,0.10m,N/A,0.02m,01st Jan 82  ,N/A
+10,Dig Dug,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.64m,1.52m,0.10m,N/A,0.02m,01st Jan 83  ,N/A
+11,River Raid,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,1.60m,1.49m,0.09m,N/A,0.02m,01st Jan 82  ,N/A
+12,Mario Bros.,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.59m,1.48m,0.09m,N/A,0.02m,01st Oct 83  ,N/A
+13,Donkey Kong,2600,Coleco  ,Nintendo  ,N/A  ,N/A  ,N/A  ,N/A,1.46m,1.36m,0.08m,N/A,0.02m,01st Jan 82  ,N/A
+14,Centipede,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.36m,1.26m,0.08m,N/A,0.01m,01st Jan 82  ,N/A
+15,Pitfall II: Lost Caverns,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,1.31m,1.22m,0.07m,N/A,0.02m,16th Sep 83  ,N/A
+16,Adventure,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.30m,1.21m,0.08m,N/A,0.01m,01st Jan 78  ,N/A
+17,Atlantis,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,1.27m,1.18m,0.08m,N/A,0.01m,01st Jan 82  ,N/A
+18,Combat,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.25m,1.17m,0.07m,N/A,0.01m,01st Jan 77  ,N/A
+19,Pole Position,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.18m,1.10m,0.07m,N/A,0.01m,01st Jan 83  ,N/A
+20,Kaboom!,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,1.15m,1.07m,0.07m,N/A,0.01m,01st Jan 81  ,N/A
+21,Moon Patrol,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.12m,1.05m,0.06m,N/A,0.01m,01st Jan 83  ,N/A
+22,Megamania,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,1.10m,1.03m,0.06m,N/A,0.01m,01st Jan 82  ,N/A
+23,Jungle Hunt,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.10m,1.03m,0.06m,N/A,0.01m,01st Jan 83  ,N/A
+24,Joust,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.08m,1.01m,0.06m,N/A,0.01m,01st Jan 83  ,N/A
+25,Cosmic Ark,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,1.05m,0.99m,0.05m,N/A,0.01m,01st Jan 82  ,N/A
+26,Defender,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,1.05m,0.99m,0.05m,N/A,0.01m,01st Jan 81  ,N/A
+27,Air-Sea Battle,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.98m,0.91m,0.06m,N/A,0.01m,01st Jan 77  ,N/A
+28,Donkey Kong Junior,2600,Coleco  ,Nintendo  ,N/A  ,N/A  ,N/A  ,N/A,0.97m,0.90m,0.05m,N/A,0.01m,01st Jan 83  ,N/A
+29,Spider-Man,2600,Parker Bros.  ,Parker Bros.  ,N/A  ,N/A  ,N/A  ,N/A,0.93m,0.87m,0.05m,N/A,0.01m,01st Jan 82  ,N/A
+30,Enduro,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.87m,0.81m,0.05m,N/A,0.01m,01st Jan 83  ,N/A
+31,Custer's Revenge,2600,Mystique  ,Mystique  ,N/A  ,N/A  ,N/A  ,N/A,0.82m,0.76m,0.05m,N/A,0.01m,01st Jan 82  ,N/A
+32,Alien,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,0.79m,0.74m,0.04m,N/A,0.01m,01st Jan 82  ,N/A
+33,Yars' Revenge,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.78m,0.73m,0.04m,N/A,0.01m,01st May 82  ,N/A
+34,Jr. Pac-Man,2600,Atari  ,General Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.78m,0.72m,0.05m,N/A,0.01m,01st Jan 84  ,N/A
+35,Galaxian,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.77m,0.72m,0.05m,N/A,0.01m,01st Jan 83  ,N/A
+36,Air Raid,2600,Men-A-Vision  ,Men-A-Vision  ,N/A  ,N/A  ,N/A  ,N/A,0.77m,0.72m,0.04m,N/A,0.01m,01st Jan 82  ,N/A
+37,Boxing,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.77m,0.72m,0.04m,N/A,0.01m,17th Jun 80  ,N/A
+38,Crystal Castles,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.77m,0.72m,0.04m,N/A,0.01m,01st Jan 84  ,N/A
+39,Berzerk,2600,Atari  ,Stern Electronics  ,N/A  ,N/A  ,N/A  ,N/A,0.73m,0.68m,0.04m,N/A,0.01m,01st Jan 82  ,N/A
+40,Kangaroo,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.72m,0.67m,0.04m,N/A,0.01m,01st Jan 83  ,N/A
+41,King Kong,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,0.69m,0.65m,0.04m,N/A,0.01m,01st Jan 82  ,N/A
+42,Adventures of Tron,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.67m,0.63m,0.03m,N/A,0.01m,01st Jan 82  ,N/A
+43,Keystone Kapers,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.66m,0.62m,0.04m,N/A,0.01m,01st Jan 83  ,N/A
+44,Kung-Fu Master,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.65m,0.60m,0.04m,N/A,0.01m,12th May 87  ,N/A
+45,X-Man,2600,Unknown  ,Universal Gamex  ,N/A  ,N/A  ,N/A  ,N/A,0.63m,0.58m,0.04m,N/A,0.01m,01st Jan 83  ,N/A
+46,Battlezone,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.62m,0.58m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+47,Halloween,2600,Unknown  ,Wizard Video Games  ,N/A  ,N/A  ,N/A  ,N/A,0.62m,0.58m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+48,BurgerTime,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.59m,0.55m,0.03m,N/A,0.01m,01st Jan 82  ,N/A
+49,Smurf: Rescue In Gargamel's Castle,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,0.59m,0.55m,0.03m,N/A,0.01m,01st Jan 82  ,N/A
+50,Q*bert,2600,Parker Bros.  ,Gottlieb  ,N/A  ,N/A  ,N/A  ,N/A,0.58m,0.55m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+51,The Activision Decathlon,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.55m,0.52m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+52,Action Force,2600,CPG Products  ,Parker Bros.  ,N/A  ,N/A  ,N/A  ,N/A,0.54m,0.50m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+53,Popeye,2600,Parker Bros.  ,Parker Bros.  ,N/A  ,N/A  ,N/A  ,N/A,0.54m,0.50m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+54,Fishing Derby,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.51m,0.48m,0.03m,N/A,0.01m,01st Jan 80  ,N/A
+55,River Raid II,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.51m,0.47m,0.03m,N/A,0.01m,28th Jul 88  ,N/A
+56,Midnight Magic,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.47m,0.03m,N/A,0.01m,01st Jan 84  ,N/A
+57,Chopper Command,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.47m,0.03m,N/A,0.01m,15th Jun 82  ,N/A
+58,RealSports Tennis,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.46m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+59,Gauntlet,2600,Answer Software  ,Answer Software  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.46m,0.03m,N/A,0.01m,01st Jan 83  ,N/A
+60,Raiders of the Lost Ark,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.46m,0.03m,N/A,0.01m,01st Jan 82  ,N/A
+61,Ice Hockey,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.49m,0.46m,0.03m,N/A,0.01m,01st Jan 81  ,N/A
+62,Millipede,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.45m,0.03m,N/A,0.01m,01st Jan 84  ,N/A
+63,Grand Prix,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.45m,0.03m,N/A,0.00m,01st Jan 82  ,N/A
+64,Double Dragon,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.47m,0.45m,0.02m,N/A,0.01m,23rd Jul 89  ,N/A
+65,Karate,2600,Unknown  ,Ultravision  ,N/A  ,N/A  ,N/A  ,N/A,0.47m,0.44m,0.03m,N/A,0.00m,01st Jan 80  ,N/A
+66,Commando,2600,Activision  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,0.47m,0.44m,0.02m,N/A,0.00m,01st Jan 88  ,N/A
+67,Circus Atari,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.46m,0.43m,0.03m,N/A,0.00m,01st Jan 78  ,N/A
+68,Gremlins,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.46m,0.43m,0.03m,N/A,0.00m,01st Jan 84  ,N/A
+69,Ghostbusters,2600,Activision  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.42m,0.03m,N/A,0.00m,10th May 85  ,N/A
+70,Phoenix,2600,Atari  ,Centuri  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.42m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+71,Maze Craze: A Game of Cops 'n Robbers,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.42m,0.02m,N/A,0.00m,01st Jan 78  ,N/A
+72,Defender II,2600,Atari  ,"Williams Electronic Games, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,0.45m,0.42m,0.02m,N/A,0.00m,01st Jan 88  ,N/A
+73,Jawbreaker,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.42m,0.03m,N/A,0.00m,01st Jan 82  ,N/A
+74,Super Breakout,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,0.41m,0.03m,N/A,0.00m,01st Jan 78  ,N/A
+75,Barnstorming,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.43m,0.40m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+76,Pengo,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.38m,0.02m,N/A,0.00m,01st Jan 84  ,N/A
+77,Mouse Trap,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.38m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+78,Congo Bongo,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.37m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+79,Bump 'n' Jump,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.37m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+80,Laser Blast,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.37m,0.02m,N/A,0.00m,01st Mar 81  ,N/A
+81,Airlock,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.36m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+82,Hangman,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.35m,0.02m,N/A,0.00m,01st Jan 78  ,N/A
+83,Gravitar,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.35m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+84,Solaris,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,0.35m,0.02m,N/A,0.00m,13th Jul 86  ,N/A
+85,Dragonfire,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,0.37m,0.35m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+86,Frogs And Flies,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.36m,0.33m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+87,Freeway,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.32m,0.02m,N/A,0.00m,01st Jan 81  ,N/A
+88,Alien's Return,2600,ITT Family Games  ,Gem International Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.32m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+89,Frostbite,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.32m,0.02m,N/A,0.00m,14th Aug 83  ,N/A
+90,Fantastic Voyage,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.32m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+91,Bank Heist,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.32m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+92,Carnival,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.32m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+93,Frogger II: Threeedeep!,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.31m,0.02m,N/A,0.00m,01st Jan 84  ,N/A
+94,Fireball,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.30m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+95,Dragster,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.32m,0.30m,0.02m,N/A,0.00m,01st Jan 80  ,N/A
+96,Frankenstein's Monster,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,0.32m,0.30m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+97,Mountain King,2600,CBS Electronics  ,CBS Electronics  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,0.29m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+98,Slot Machine,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,0.29m,0.02m,N/A,0.00m,01st Jan 79  ,N/A
+99,Astroblast,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,0.29m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+100,RealSports Boxing,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.28m,0.02m,N/A,0.00m,01st Jan 87  ,N/A
+101,Dolphin,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.27m,0.02m,N/A,0.00m,27th Dec 83  ,N/A
+102,Fast Food,2600,Unknown  ,Telesys  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.27m,0.02m,N/A,0.00m,01st Jan 82  ,N/A
+103,Polaris,2600,Tigervision  ,Taito  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.26m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+104,Mr. Do!,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.26m,0.02m,N/A,0.00m,01st Jan 83  ,N/A
+105,Indy 500,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.26m,0.01m,N/A,0.00m,01st Oct 77  ,N/A
+106,Beamrider,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.26m,0.01m,N/A,0.00m,24th Jan 84  ,N/A
+107,Bridge,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.25m,0.02m,N/A,0.00m,01st Dec 80  ,N/A
+108,Flag Capture,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.25m,0.02m,N/A,0.00m,01st Jan 78  ,N/A
+109,RealSports Football,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.24m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+110,Desert Falcon,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.24m,0.01m,N/A,0.00m,14th Jun 87  ,N/A
+111,Porky's,2600,20th Century Fox Video Games  ,Dunhill Electronic Media Corp  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.23m,0.01m,N/A,0.00m,01st Jan 83  ,N/A
+112,Front Line,2600,Taito  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.22m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+113,Checkers,2600,Atari  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.22m,0.01m,N/A,0.00m,01st Jul 80  ,N/A
+114,Dark Cavern,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.22m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+115,Rampage,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.22m,0.01m,N/A,0.00m,01st Jan 89  ,N/A
+116,Assault,2600,Bomb  ,Bomb  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.21m,0.01m,N/A,0.00m,01st Jan 83  ,N/A
+117,Deadly Duck,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.21m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+118,Reactor,2600,Parker Bros.  ,Parker Bros.  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.21m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+119,Crazy Climber,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.21m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+120,Breakaway IV,2600,Sears   ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.20m,0.01m,N/A,0.00m,01st Jan 78  ,N/A
+121,Ghostbusters II,2600,Unknown  ,Salu Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.20m,0.01m,N/A,0.00m,01st Jan 70  ,N/A
+122,RealSports Baseball,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.20m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+123,International Soccer,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.18m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+124,Armor Ambush,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.15m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+125,Death Trap,2600,Avalon Interactive  ,Avalon Hill  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.15m,0.01m,N/A,0.00m,01st Jan 83  ,N/A
+126,Mr. Do!'s Castle,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.15m,0.01m,N/A,0.00m,01st Jan 84  ,N/A
+127,Home Run,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.14m,0.01m,N/A,0.00m,01st Jan 78  ,N/A
+128,KLAX,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.14m,0.01m,N/A,0.00m,01st Jan 90  ,N/A
+129,Pressure Cooker,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.14m,0.01m,N/A,0.00m,01st Jan 83  ,N/A
+130,Krull,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.13m,0.01m,N/A,0.00m,01st Jan 83  ,N/A
+131,RealSports Volleyball,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.12m,0.01m,N/A,0.00m,01st Jan 82  ,N/A
+132,Super Football,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.07m,0.00m,N/A,0.00m,01st Jan 88  ,N/A
+133,Super Baseball,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.07m,0.00m,N/A,0.00m,01st Jan 88  ,N/A
+134,3-D Tic-Tac-Toe,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+135,Acid Drop,2600,Salu  ,Salu  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 92  ,N/A
+136,Air Raiders,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+137,Alpha Beam with Ernie,2600,Atari  ,"Children's Computer Workshop, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+138,Amidar,2600,Parker Bros.  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+139,Anteater,2600,Stern  ,Stern  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+140,Artillery Duel,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+141,Astrochase,2600,Unknown  ,Parker Bros.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+142,Aufruhr im Zoo,2600,Quelle  ,Quelle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+143,Bachelor Party,2600,Mystique  ,Mystique  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+144,Bachelorette Party/Burning Desire,2600,Playaround  ,Playaround  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+145,Backgammon,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+146,Basic Math,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 77  ,N/A
+147,BASIC Programming,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+148,Basketball,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+149,Beany Bopper,2600,20th Century Fox Video Games  ,Sirius Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+150,Beat 'Em & Eat 'Em,2600,Mystique  ,Mystique  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+151,Berenstain Bears,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+152,Bermuda Triangle,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+153,Big Bird's Egg Catch,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+154,Blackjack,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 77  ,N/A
+155,Blue Print,2600,CBS Electronics  ,CBS Electronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+156,BMX Airmaster,2600,Unknown  ,TNT Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+157,Bobby is Going Home,2600,Bit Corporation  ,Bit Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+158,Bobby's Cosmic Adventure,2600,"Telegames, Inc.  ","Telegames, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 90  ,N/A
+159,Boing!,2600,First Star Software  ,First Star Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+160,Bowling,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+161,Brain Games,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+162,Breakout,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+163,Buck Rogers: Planet of Zoom,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+164,Bugs,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+165,Bumper Bash,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+166,Busy Police,2600,Unknown  ,Zellers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+167,Cakewalk,2600,"CommaVid, Inc.  ","CommaVid, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+168,California Games,2600,Epyx  ,Epyx  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+169,Canyon Bomber,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+170,Casino,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+171,Challenge,2600,Unknown  ,Funvision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 80  ,N/A
+172,Chase the Chuckwagon,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+173,China Syndrome,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+174,Chuck Norris Superkicks,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+175,Coconuts,2600,Unknown  ,Telesys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+176,Codebreaker,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+177,Combat Two,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 01  ,N/A
+178,Commando Raid,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+179,Communist Mutants From Space,2600,Arcadia Corporation  ,Arcadia Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+180,Concentration,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+181,Condor Attack,2600,Unknown  ,Ultravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+182,Cookie Monster Munch,2600,Atari  ,"Children's Computer Workshop, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+183,Cosmic Commuter,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 84  ,N/A
+184,Cosmic Corridor,2600,Unknown  ,Zimag  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+185,Cosmic Creeps,2600,Unknown  ,Telesys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+186,Cosmic Swarm,2600,"CommaVid, Inc.  ","CommaVid, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+187,Crackpots,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 83  ,N/A
+188,Crash Dive,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+189,Cross Force,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+190,Crossbow,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 87  ,N/A
+191,Cruise Missile,2600,Unknown  ,Froggo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+192,Crypts of Chaos,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+193,Dancing Plates,2600,Bit Corporation  ,Quelle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+194,Dark Chambers,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+195,Demolition Herby,2600,Unknown  ,Telesys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+196,Demons To Diamonds,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+197,Dice Puzzle,2600,Panda Entertainment  ,Panda Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+198,Dishaster,2600,Unknown  ,Zimag  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+199,Dodge 'Em,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+200,Double Dunk,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+201,Double-Ender: Artillery Duel / Ghost Manor,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+202,Double-Ender: Artillery Duel / Super Kung-Fu,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+203,Double-Ender: Chuck Norris Superkicks / Ghost Manor,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+204,Double-Ender: Chuck Norris Superkicks / Spike's Peak,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+205,Double-Ender: Chuck Norris Superkicks/Artillery Duel,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,07th Jan 18
+206,Double-Ender: Robin Hood / Sir Lancelot,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+207,Double-Ender: Spike's Peak/Artillery Duel,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,08th Jan 18
+208,Double-Ender: Spike's Peak/Ghost Manor,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,07th Jan 18
+209,Double-Ender: Super Kung-Fu/Robin Hood,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,07th Jan 18
+210,Double-Ender: Tomarc the Barbarian / Motocross Racer,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+211,Dragonstomper,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+212,Eggomania,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+213,Elevator Action,2600,Atari  ,Taito Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 01  ,N/A
+214,Eli's Ladder,2600,Unknown  ,Simage  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+215,Encounter At L-5,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+216,Entity,2600,CGE Services Corporation  ,CGE Services  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 03  ,N/A
+217,Entombed,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+218,Escape From The Mindmaster,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+219,Espial,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+220,Exocet,2600,Panda Entertainment  ,Panda Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+221,Fast Eddie,2600,20th Century Fox Video Games  ,Sirius Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+222,Fatal Run,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+223,Fathom,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+224,Final Approach,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+225,Fire Fighter,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+226,Fire Fly,2600,Mythicon  ,Mythicon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+227,Flash Gordon,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+228,Football,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+229,Forest,2600,Unknown  ,Sancho  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+230,Fun With Numbers,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 77  ,N/A
+231,G.I. Joe: Cobra Strike,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+232,Gangster Alley,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+233,Gas Hog,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+234,Ghost Manor,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+235,Glacier Patrol,2600,Telegames  ,Sunrise Software Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+236,Glib,2600,Unknown  ,Selchow & Righter  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+237,Golf,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+238,Gopher,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+239,Gorf,2600,CBS Electronics  ,CBS Electronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+240,Great Escape,2600,Bomb  ,Bomb  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+241,Guardian,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+242,Gunslinger,2600,Sears   ,"Telegames, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+243,Gyruss,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+244,H.E.R.O.,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 84  ,N/A
+245,Harbor Escape,2600,Panda Entertainment  ,Panda Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+246,Haunted House,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+247,Hot Action Pack,2600,Activision  ,HES Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+248,Human Cannonball,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+249,Hunt & Score,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 80  ,N/A
+250,I Want My Mommy,2600,Unknown  ,Zimag  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+251,Ikari Warriors,2600,Data East  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+252,Infiltrate,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+253,James Bond 007,2600,Parker Bros.  ,Parker Brothers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+254,Journey Escape,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+255,Jungle Fever/Knight on the Town,2600,Playaround  ,Playaround  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+256,Killer Satellites,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+257,Kool-Aid Man,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+258,Kung Fu Superkicks: Pursuit of The Ninja,2600,Telegames  ,"Telegames, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 87  ,N/A
+259,Laser Gates,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+260,Laser Volley,2600,Zellers  ,Zellers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+261,Lilly Adventure,2600,Unknown  ,Quelle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+262,Lochjaw,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+263,Lock 'N' Chase,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+264,London Blitz,2600,Unknown  ,Avalon Hill  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+265,Lost Luggage,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+266,M*A*S*H,2600,20th Century Fox Video Games  ,20th Century Fox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+267,MAD,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+268,MagiCard,2600,"CommaVid, Inc.  ","CommaVid, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+269,Malagai,2600,Answer Software  ,Answer Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+270,Mangia',2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+271,Marauder,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+272,Marine Wars,2600,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+273,Master Builder,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+274,Masters of the Universe: Power of He-Man,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+275,Math Gran Prix,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+276,Maze,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+277,Maze Mania: A Game of Cops 'n Robbers,2600,Sears   ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+278,Megaforce,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+279,Megamania,2600,Unknown  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Jan 18
+280,Memory Match,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+281,Miner 2049er,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+282,Miner 2049er Volume II,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 83  ,N/A
+283,Mines of Minos,2600,"CommaVid, Inc.  ","CommaVid, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+284,Miniature Golf,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 79  ,N/A
+285,Mission 3000,2600,Bit Corporation  ,Quelle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+286,Mission 3000 A.D.,2600,Bit Corporation  ,Quelle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+287,Mission Survive,2600,Unknown  ,Video Gems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+288,Mogul Maniac,2600,Unknown  ,Amiga  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+289,Montezuma's Revenge featuring Panama Joe,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+290,Moonsweeper,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+291,Moto Rodeo,2600,Atari  ,Axlon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+292,Motocross Racer,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+293,Mr. Postman,2600,Bit Corporation  ,Bit Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+294,Name This Game,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+295,Night Driver,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 78  ,N/A
+296,Nightmare,2600,Unknown  ,Sancho  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+297,No Escape!,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+298,Obelix,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 86  ,N/A
+299,Ocean City Defender,2600,Unknown  ,Zellers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+300,Octopus,2600,Unknown  ,Carrere Video  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+301,Off The Wall,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+302,Oink!,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Dec 82  ,N/A
+303,Omega Race,2600,CBS Electronics  ,CBS Electronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+304,Oscar's Trash Race,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+305,Othello,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+306,Out Of Control,2600,Avalon Interactive  ,Avalon Hill  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+307,Outer Space,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+308,Outlaw,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+309,Pac-Kong,2600,Quelle  ,Goliath Video System  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+310,Party Mix,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+311,Pele's Championship Soccer,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 80  ,N/A
+312,Pepsi Invaders,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+313,Personal Game Programmer,2600,Answer Software  ,Answer Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+314,Pete Rose Baseball,2600,Absolute Entertainment  ,Absolute Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 88  ,N/A
+315,Phaser Patrol,2600,Unknown  ,Arcadia  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+316,Pick 'n Pile,2600,Unknown  ,Salu  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+317,Picnic,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+318,Piece O'Cake,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+319,Pigs in Space,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+320,Pinball,2600,Unknown  ,Zellers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+321,Planet Patrol,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+322,Plaque Attack,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Feb 83  ,N/A
+323,Poker Plus,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+324,Pong Sports,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 77  ,N/A
+325,Pooyan,2600,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+326,Private Eye,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 83  ,N/A
+327,Q*bert's Qubes,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+328,Qb,2600,XYPE  ,XYPE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 01  ,N/A
+329,Quadrun,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+330,Quest For Quintana Roo,2600,Sunrise Interactive  ,Sunrise Software Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+331,Quick Step,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+332,Rabbit Transit,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+333,Race: Auto Racing,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 77  ,N/A
+334,Racing Pak,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+335,Racquetball,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+336,Radar,2600,Unknown  ,Zellers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+337,Radar Lock,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+338,Raft Rider,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+339,Ram It,2600,Unknown  ,Telesys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+340,RealSports Basketball,2600,CGE Services Corporation  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 02  ,N/A
+341,RealSports Soccer,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+342,Rescue Terra I,2600,Unknown  ,Venture Vision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+343,Revenge of The Beefsteak Tomatoes,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+344,Riddle of The Sphinx,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+345,River Patrol,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+346,Road Runner,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+347,Robin Hood,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+348,Robot Commando Raid,2600,Vidtec  ,Vidtec  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+349,Robot Tank,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Mar 83  ,N/A
+350,Roc'N Rope,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+351,Rock 'N Roll Escape,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+352,Room of Doom,2600,"CommaVid, Inc.  ","CommaVid, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+353,Rubik's Cube,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+354,Scuba Diver,2600,Panda Entertainment  ,Panda Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+355,Sea Battle,2600,Unknown  ,INTV  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+356,Sea Dragon,2600,Unknown  ,Adventure International  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+357,Sea Hawk,2600,Unknown  ,Froggo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+358,Sea Hunt,2600,Unknown  ,Froggo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+359,Sea Monster,2600,Bit Corporation  ,Bit Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+360,Seaquest,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+361,Secret Quest,2600,Atari  ,Axlon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 89  ,N/A
+362,Sentinel,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+363,Shootin' Gallery,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+364,Shuttle Orbiter,2600,Unknown  ,Avalon Hill  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+365,Sir Lancelot,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+366,Skate Boardin': A Radical Adventure,2600,Absolute Entertainment  ,Absolute Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 87  ,N/A
+367,Skeet Shoot,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+368,Ski Hunt,2600,Unknown  ,Homevision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+369,Skiing,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 80  ,N/A
+370,Skin Diver,2600,Unknown  ,Sancho  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+371,Sky Diver,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+372,Sky Jinks,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+373,Sky Skipper,2600,Parker Bros.  ,Parker Bros.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+374,Slot Racers,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+375,Slots,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+376,Smurfs Save The Day,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+377,Snail Against Squirrel,2600,Bit Corporation  ,Bit Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Aug 83  ,N/A
+378,Sneak 'N Peek,2600,Vidtec  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+379,Snoopy & The Red Baron,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+380,Solar Fox,2600,CBS Electronics  ,Bally Midway  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+381,Solar Storm,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+382,Sorcerer,2600,Mythicon  ,Mythicon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+383,Sorcerer's Apprentice,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+384,SoundX,2600,Unknown  ,Ed Federmeyer  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 94  ,N/A
+385,Space Attack,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+386,Space Canyon,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+387,Space Cavern,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+388,Space Combat,2600,Unknown  ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+389,Space Jockey,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+390,Space Shuttle: A Journey Into Space,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+391,Space Tunnel,2600,Bit Corporation  ,Bit Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+392,Space War,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+393,Spacechase,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+394,Spacemaster X-7,2600,20th Century Fox Video Games  ,Sirius Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+395,Speedway II,2600,Sears   ,Telegames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+396,Spider Fighter,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+397,Spiderdroid,2600,Unknown  ,Froggo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+398,Spike's Peak,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+399,Spitfire Attack,2600,Milton Bradley  ,Milton Bradley  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+400,Sports Action Pack,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+401,Springer,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+402,Sprintmaster,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+403,Spy Hunter,2600,Sega  ,Bally Midway  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+404,Squeeze Box,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+405,Sssnake,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+406,Stampede,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+407,Star Fox,2600,Mythicon  ,Mythicon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+408,Star Raiders,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+409,Star Ship,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 77  ,N/A
+410,Star Strike,2600,Mattel Interactive  ,Mattel Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+411,Star Trek: Strategic Operations Simulator,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+412,Star Voyager,2600,I.Magic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+413,Star Wars Return of The Jedi: Death Star Battle,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+414,Star Wars: Jedi Arena,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+415,Star Wars: The Arcade Game,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+416,Star Wars: The Empire Strikes Back,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd May 82  ,N/A
+417,Stargate,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+418,Stargunner,2600,Unknown  ,Telesys  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+419,Starmaster,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jun 82  ,N/A
+420,Steeplechase,2600,Sears   ,Sears  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+421,Stellar Track,2600,Sears   ,Sears  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+422,Strategy X,2600,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+423,Strawberry Shortcake: Musical Match-ups,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+424,Street Racer,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+425,Stronghold,2600,"CommaVid, Inc.  ","CommaVid, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+426,Stuntman,2600,Panda Entertainment  ,Panda Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+427,Sub Scan,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+428,Submarine Commander,2600,Sears   ,Sears  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+429,Subterranea,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+430,Suicide Mission,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+431,Summer Games,2600,Epyx  ,Epyx  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 87  ,N/A
+432,Super Action Pack,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+433,Super Challenge Baseball,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+434,Super Challenge Football,2600,Mattel Interactive  ,Mattel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+435,Super Cobra,2600,Parker Bros.  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+436,Superman,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+437,Surfer's Paradise but Danger below!,2600,Unknown  ,Video Gems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+438,Surround,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+439,Survival Island,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+440,Survival Run,2600,Milton Bradley  ,Milton Bradley  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+441,Sword of Saros,2600,Unknown  ,Starpath Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+442,Swordfight,2600,Unknown  ,INTV  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 00  ,N/A
+443,Swordquest: EarthWorld,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+444,Swordquest: FireWorld,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+445,Swordquest: WaterWorld,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+446,Tac-Scan,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+447,Tanks But No Tanks,2600,Unknown  ,Zimag  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+448,Tape Worm,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+449,Tapper,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+450,Task Force,2600,Unknown  ,Froggo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+451,Tax Avoiders,2600,Unknown  ,Dunhill Electronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+452,Taz,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+453,Tennis,2600,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+454,Texas Chainsaw Massacre,2600,Unknown  ,Wizard Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Mar 83  ,N/A
+455,The Challenge of... Nexar,2600,Spectravision  ,Spectravision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+456,The Earth Dies Screaming,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+457,The Music Machine,2600,Unknown  ,Sparrow  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+458,Threshold,2600,Tigervision  ,Tigervision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+459,Thunderground,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+460,Time Pilot,2600,Coleco  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+461,Time Warp,2600,Unknown  ,Zellers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+462,Title Match Pro Wrestling,2600,Absolute Entertainment  ,Absolute Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 87  ,N/A
+463,Tomarc The Barbarian,2600,Xonox  ,Xonox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+464,Tomcat: The F-14 Fighter Simulator,2600,Absolute Entertainment  ,Absolute Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+465,Towering Inferno,2600,US Games  ,US Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+466,Track & Field,2600,Atari  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+467,Trick Shot,2600,Imagic  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+468,Tron Deadly Discs,2600,Mattel Interactive  ,Mattel Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+469,Tunnel Runner,2600,CBS Electronics  ,CBS Electronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+470,Turmoil,2600,20th Century Fox Video Games  ,20th Century Fox Video Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+471,Tutankham,2600,Stern  ,Parker Bros  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+472,Universal Chaos,2600,Telegames  ,"Telegames, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 88  ,N/A
+473,Up 'n Down,2600,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 84  ,N/A
+474,Vanguard,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+475,Venture,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+476,Video Checkers,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+477,Video Chess,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 78  ,N/A
+478,Video Jogger,2600,Unknown  ,Exus  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+479,Video Life,2600,"CommaVid, Inc.  ","CommaVid, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+480,Video Olympics,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 77  ,N/A
+481,Video Pinball,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+482,Video Reflex,2600,Unknown  ,Exus  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+483,Vulture Attack,2600,Unknown  ,K-Tel Vision  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+484,Wabbit,2600,Apollo  ,Apollo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+485,Wall Ball,2600,Avalon Interactive  ,Avalon Hill  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+486,Wall Defender,2600,Bomb  ,Bomb  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+487,Warlords,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 81  ,N/A
+488,Warplock,2600,Data Age  ,Data Age  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+489,Wing War,2600,Activision  ,Imagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+490,Winter Games,2600,Epyx  ,Epyx  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 87  ,N/A
+491,Wizard of Wor,2600,CBS Electronics  ,CBS Electronics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+492,Word Zapper,2600,Vidtec  ,Vidtec  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+493,Worm War I,2600,20th Century Fox Video Games  ,Sirius (Japan)  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+494,Xenophobe,2600,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 90  ,N/A
+495,Z-Tack,2600,Bomb  ,Bomb  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 83  ,N/A
+496,Zaxxon,2600,Coleco  ,Coleco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 82  ,N/A
+497,DatabaseTestingEU,2600,Unknown  ,TalonSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Jan 18
+498,DatabaseTestingJP,2600,H2F Informationssysteme GmbH  ,TalonSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 17  ,07th Jan 18
+499,DatabaseTestingNA,2600,Unknown  ,TalonSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Jan 18
+500,Gibbéri:sh',2600,Unknown  ,EA  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Jan 18
+501,TestingGame,2600,Unknown  ,TalonSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Jan 18

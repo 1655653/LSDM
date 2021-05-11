@@ -1,0 +1,1501 @@
+position,game,console,publisher,developer,vgchart_score,critic_score,user_score,total_shipped,total_sales,na_sales,pal_sales,japan_sales,other_sales,release_date,last_update
+1,Grand Theft Auto V,XOne,Rockstar Games  ,Rockstar North  ,N/A  ,9.0  ,9.0  ,N/A,8.72m,4.70m,3.25m,0.01m,0.76m,18th Nov 14  ,11th Apr 18
+2,Call of Duty: Black Ops 3,XOne,Activision  ,Treyarch  ,N/A  ,N/A  ,N/A  ,N/A,7.37m,4.63m,2.04m,0.02m,0.68m,06th Nov 15  ,14th Jan 18
+3,Call of Duty: WWII,XOne,Activision  ,Sledgehammer Games  ,N/A  ,N/A  ,N/A  ,N/A,6.23m,3.75m,1.91m,N/A,0.57m,03rd Nov 17  ,30th Dec 17
+4,Red Dead Redemption 2,XOne,Rockstar Games  ,Rockstar Games  ,N/A  ,N/A  ,N/A  ,N/A,5.77m,3.76m,1.47m,N/A,0.54m,26th Oct 18  ,02nd Nov 18
+5,Minecraft,XOne,Microsoft Studios  ,Mojang  ,N/A  ,N/A  ,N/A  ,N/A,5.43m,3.23m,1.71m,N/A,0.49m,18th Nov 14  ,14th Sep 18
+6,Call of Duty: Advanced Warfare,XOne,Activision  ,Sledgehammer Games  ,N/A  ,8.3  ,N/A  ,N/A,5.22m,3.25m,1.49m,0.01m,0.48m,04th Nov 14  ,01st Jan 18
+7,Battlefield 1,XOne,Electronic Arts  ,EA DICE  ,N/A  ,9.3  ,N/A  ,N/A,5.13m,3.37m,1.26m,0.02m,0.48m,21st Oct 16  ,24th Mar 18
+8,Fallout 4,XOne,Bethesda Softworks  ,Bethesda Game Studios  ,N/A  ,8.4  ,N/A  ,N/A,5.03m,2.94m,1.62m,0.02m,0.45m,10th Nov 15  ,24th Mar 18
+9,Halo 5: Guardians,XOne,Microsoft Studios  ,343 Industries  ,N/A  ,8.6  ,N/A  ,5.00m,N/A,N/A,N/A,N/A,N/A,27th Oct 15  ,24th Mar 18
+10,Call of Duty: Black Ops IIII,XOne,Activision  ,Treyarch  ,N/A  ,N/A  ,N/A  ,N/A,4.85m,3.27m,1.12m,N/A,0.46m,12th Oct 18  ,07th Nov 18
+11,Call of Duty: Infinite Warfare,XOne,Activision  ,Infinity Ward  ,N/A  ,N/A  ,N/A  ,N/A,4.79m,2.91m,1.44m,N/A,0.44m,04th Nov 16  ,24th Mar 18
+12,The Witcher 3: Wild Hunt,XOne,Warner Bros. Interactive Entertainment  ,CD Projekt Red Studio  ,N/A  ,N/A  ,N/A  ,4.30m,N/A,N/A,N/A,N/A,N/A,19th May 15  ,24th Mar 18
+13,Star Wars Battlefront (2015),XOne,Electronic Arts  ,EA DICE  ,N/A  ,6.9  ,N/A  ,N/A,4.15m,2.49m,1.26m,0.02m,0.38m,17th Nov 15  ,24th Mar 18
+14,FIFA 17,XOne,Electronic Arts  ,EA Canada  ,N/A  ,8.8  ,N/A  ,N/A,3.71m,1.04m,2.40m,N/A,0.27m,27th Sep 16  ,28th Mar 18
+15,Assassin's Creed: Unity,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,3.58m,2.34m,0.90m,0.00m,0.34m,11th Nov 14  ,04th May 18
+16,Halo: The Master Chief Collection,XOne,Microsoft Studios  ,343 Industries  ,N/A  ,N/A  ,N/A  ,N/A,3.44m,2.06m,1.04m,0.03m,0.31m,11th Nov 14  ,24th Mar 18
+17,Destiny,XOne,Activision  ,Bungie  ,N/A  ,8.3  ,N/A  ,N/A,3.41m,2.17m,0.92m,N/A,0.32m,09th Sep 14  ,12th Jan 18
+18,Gears of War 4,XOne,Microsoft Studios  ,The Coalition  ,N/A  ,N/A  ,N/A  ,N/A,3.38m,2.17m,0.90m,N/A,0.32m,11th Oct 16  ,13th Jan 18
+19,FIFA 16,XOne,EA Sports  ,EA Canada  ,N/A  ,8.5  ,N/A  ,N/A,3.25m,0.92m,2.10m,N/A,0.24m,22nd Sep 15  ,01st Apr 18
+20,FIFA 18,XOne,EA Sports  ,EA Vancouver  ,N/A  ,8.0  ,N/A  ,N/A,3.14m,0.98m,1.92m,N/A,0.23m,29th Sep 17  ,02nd Apr 18
+21,Titanfall,XOne,Electronic Arts  ,Respawn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,3.11m,1.88m,0.91m,0.04m,0.28m,11th Mar 14  ,12th Jan 18
+22,Call of Duty: Ghosts,XOne,Activision  ,Infinity Ward  ,N/A  ,7.5  ,N/A  ,N/A,3.07m,1.92m,0.86m,N/A,0.28m,22nd Nov 13  ,21st Mar 18
+23,Dead Rising 3,XOne,Microsoft Studios  ,Capcom  ,7.9  ,N/A  ,N/A  ,2.90m,N/A,N/A,N/A,N/A,N/A,22nd Nov 13  ,24th Mar 18
+24,Overwatch,XOne,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,8.7  ,N/A  ,N/A,2.72m,1.63m,0.84m,N/A,0.25m,24th May 16  ,24th Mar 18
+25,Tom Clancy's Rainbow Six: Siege,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,2.71m,1.62m,0.84m,N/A,0.25m,01st Dec 15  ,09th Jan 18
+26,Tom Clancy's The Division,XOne,Ubisoft  ,Massive Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,2.59m,1.54m,0.82m,N/A,0.24m,08th Mar 16  ,04th May 18
+27,Forza Horizon 3,XOne,Microsoft Studios  ,Playground Games  ,N/A  ,9.0  ,N/A  ,2.50m,N/A,N/A,N/A,N/A,N/A,27th Sep 16  ,13th Jan 18
+28,Assassin's Creed Origins,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,2.47m,1.34m,0.92m,N/A,0.22m,27th Oct 17  ,10th Jan 18
+29,Madden NFL 16,XOne,EA Sports  ,EA Tiburon  ,N/A  ,8.4  ,N/A  ,N/A,2.47m,2.13m,0.08m,N/A,0.26m,25th Aug 15  ,31st Mar 18
+30,Madden NFL 17,XOne,EA Sports  ,EA Tiburon  ,N/A  ,8.1  ,N/A  ,N/A,2.44m,2.14m,0.04m,N/A,0.26m,23rd Aug 16  ,01st Apr 18
+31,NBA 2K16,XOne,2K Sports  ,Visual Concepts  ,N/A  ,8.3  ,N/A  ,N/A,2.41m,2.01m,0.15m,N/A,0.25m,29th Sep 15  ,28th Mar 18
+32,Forza Motorsport 5,XOne,Microsoft Studios  ,Turn 10 Studios  ,N/A  ,N/A  ,N/A  ,N/A,2.40m,1.28m,0.90m,0.01m,0.21m,22nd Nov 13  ,15th Jan 18
+33,Destiny 2,XOne,Activision  ,Bungie  ,N/A  ,N/A  ,N/A  ,N/A,2.35m,1.66m,0.47m,N/A,0.23m,06th Sep 17  ,20th Apr 18
+34,Assassin's Creed IV: Black Flag,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,8.3  ,N/A  ,N/A,2.32m,1.51m,0.59m,N/A,0.22m,22nd Nov 13  ,14th Mar 18
+35,FIFA 19,XOne,Electronic Arts  ,EA Sports  ,N/A  ,N/A  ,N/A  ,N/A,2.22m,0.56m,1.50m,N/A,0.16m,28th Sep 18  ,12th Sep 18
+36,FIFA 15,XOne,EA Sports  ,EA Canada  ,N/A  ,7.9  ,N/A  ,N/A,2.19m,0.64m,1.39m,N/A,0.16m,23rd Sep 14  ,23rd Mar 18
+37,PlayerUnknown's Battlegrounds,XOne,Microsoft Studios  ,PUBG Corporation  ,N/A  ,N/A  ,N/A  ,N/A,2.17m,1.29m,0.69m,N/A,0.20m,12th Dec 17  ,16th Jan 18
+38,Battlefield 4,XOne,Electronic Arts  ,EA DICE  ,N/A  ,N/A  ,N/A  ,N/A,2.09m,1.26m,0.65m,N/A,0.19m,22nd Nov 13  ,05th Jan 18
+39,NBA 2K17,XOne,2K Sports  ,Visual Concepts  ,N/A  ,8.8  ,N/A  ,N/A,2.04m,1.70m,0.12m,N/A,0.21m,16th Sep 16  ,28th Mar 18
+40,NBA 2K18,XOne,2K Sports  ,Visual Concepts  ,N/A  ,7.7  ,N/A  ,N/A,2.02m,1.67m,0.14m,N/A,0.21m,19th Sep 17  ,02nd Apr 18
+41,Star Wars Battlefront II (2017),XOne,Electronic Arts  ,EA DICE  ,N/A  ,N/A  ,N/A  ,N/A,1.92m,1.15m,0.59m,N/A,0.17m,17th Nov 17  ,29th Dec 17
+42,Madden NFL 18,XOne,EA Sports  ,EA Tiburon  ,N/A  ,8.8  ,N/A  ,N/A,1.91m,1.63m,0.07m,N/A,0.20m,25th Aug 17  ,03rd Apr 18
+43,Forza Horizon 4,XOne,Microsoft Studios  ,Playground Games  ,N/A  ,9.2  ,N/A  ,N/A,1.84m,0.74m,0.95m,0.01m,0.15m,02nd Oct 18  ,01st Oct 18
+44,The Elder Scrolls V: Skyrim Special Edition,XOne,Bethesda Softworks  ,Bethesda Softworks  ,N/A  ,8.1  ,N/A  ,N/A,1.83m,1.13m,0.53m,N/A,0.17m,28th Oct 16  ,01st Apr 18
+45,Far Cry 5,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,7.2  ,N/A  ,N/A,1.78m,1.14m,0.47m,N/A,0.17m,27th Mar 18  ,28th Feb 18
+46,Mortal Kombat X,XOne,Warner Bros. Interactive Entertainment  ,NetherRealm Studios  ,N/A  ,N/A  ,N/A  ,N/A,1.74m,1.34m,0.23m,N/A,0.18m,14th Apr 15  ,04th Jan 18
+47,NBA 2K15,XOne,2K Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,1.74m,1.39m,0.18m,N/A,0.18m,07th Oct 14  ,04th Jan 18
+48,NBA 2K19,XOne,2K Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,1.74m,1.47m,0.08m,N/A,0.18m,11th Sep 18  ,28th Jul 18
+49,Far Cry 4,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,8.5  ,N/A  ,N/A,1.68m,0.85m,0.68m,0.02m,0.14m,18th Nov 14  ,23rd Jan 18
+50,Watch Dogs,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,1.64m,0.91m,0.59m,N/A,0.15m,27th May 14  ,15th Mar 18
+51,Tom Clancy's Ghost Recon Wildlands,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,7.7  ,N/A  ,N/A,1.61m,0.98m,0.48m,N/A,0.15m,07th Mar 17  ,01st Apr 18
+52,Madden NFL 15,XOne,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,1.60m,1.34m,0.10m,N/A,0.17m,26th Aug 14  ,04th Jan 18
+53,Batman: Arkham Knight,XOne,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,N/A  ,N/A  ,N/A  ,N/A,1.58m,0.97m,0.46m,N/A,0.14m,23rd Jun 15  ,04th Jan 18
+54,Battlefield V,XOne,Electronic Arts  ,EA DICE  ,N/A  ,N/A  ,N/A  ,N/A,1.55m,1.05m,0.35m,N/A,0.15m,20th Nov 18  ,19th Dec 18
+55,Forza Motorsport 7,XOne,Microsoft Studios  ,Turn 10 Studios  ,N/A  ,8.9  ,N/A  ,N/A,1.52m,0.58m,0.81m,0.01m,0.12m,03rd Oct 17  ,12th Jan 18
+56,Madden NFL 19,XOne,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,1.51m,1.33m,0.02m,N/A,0.16m,10th Aug 18  ,27th Feb 18
+57,ARK: Survival Evolved,XOne,Studio Wildcard  ,Studio Wildcard  ,N/A  ,N/A  ,N/A  ,1.50m,N/A,N/A,N/A,N/A,N/A,29th Aug 17  ,22nd Sep 18
+58,Dying Light,XOne,Warner Bros. Interactive Entertainment  ,Techland  ,N/A  ,N/A  ,N/A  ,N/A,1.47m,1.01m,0.31m,0.01m,0.14m,06th Feb 16  ,04th May 18
+59,Ryse: Son of Rome,XOne,Microsoft Studios  ,Crytek  ,N/A  ,N/A  ,N/A  ,N/A,1.47m,0.84m,0.49m,0.00m,0.13m,22nd Nov 13  ,24th Mar 18
+60,Forza Horizon 2,XOne,Microsoft Studios  ,Playground Games  ,N/A  ,N/A  ,N/A  ,N/A,1.46m,0.56m,0.79m,0.01m,0.11m,30th Sep 14  ,24th Mar 18
+61,Doom (2016),XOne,Bethesda Softworks  ,id Software  ,N/A  ,N/A  ,N/A  ,N/A,1.45m,0.76m,0.57m,N/A,0.13m,13th May 16  ,N/A
+62,Assassin's Creed Syndicate,XOne,Ubisoft  ,Ubisoft Quebec  ,N/A  ,N/A  ,N/A  ,N/A,1.44m,0.71m,0.61m,N/A,0.12m,23rd Oct 15  ,14th Jan 18
+63,Middle-Earth: Shadow of Mordor,XOne,Warner Bros. Interactive Entertainment  ,Monolith Productions  ,N/A  ,N/A  ,N/A  ,N/A,1.42m,0.77m,0.52m,0.01m,0.12m,30th Sep 14  ,04th May 18
+64,Assassin's Creed Odyssey,XOne,Ubisoft  ,Ubisoft Quebec  ,N/A  ,N/A  ,N/A  ,N/A,1.39m,0.91m,0.35m,N/A,0.13m,05th Oct 18  ,17th Nov 18
+65,Rocket League,XOne,505 Games  ,Psyonix Studios  ,N/A  ,8.0  ,N/A  ,N/A,1.38m,0.52m,0.75m,N/A,0.11m,05th Jul 16  ,04th Apr 18
+66,The Elder Scrolls Online: Tamriel Unlimited,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,1.38m,0.86m,0.39m,N/A,0.13m,09th Jun 15  ,15th Sep 18
+67,Titanfall 2,XOne,Electronic Arts  ,Respawn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,1.37m,0.88m,0.37m,N/A,0.13m,28th Oct 16  ,29th Jun 18
+68,Watch Dogs 2,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,1.35m,0.71m,0.53m,N/A,0.12m,15th Nov 16  ,N/A
+69,FIFA 14,XOne,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,1.31m,0.44m,0.78m,N/A,0.10m,22nd Nov 13  ,15th Sep 18
+70,Destiny: The Taken King,XOne,Activision  ,Bungie  ,N/A  ,N/A  ,N/A  ,N/A,1.27m,0.91m,0.23m,N/A,0.12m,15th Sep 15  ,20th Apr 18
+71,Battlefield: Hardline,XOne,Electronic Arts  ,EA DICE  ,N/A  ,N/A  ,N/A  ,N/A,1.24m,0.73m,0.39m,0.01m,0.11m,17th Mar 15  ,11th Apr 18
+72,Dark Souls III,XOne,Namco Bandai Games  ,From Software  ,N/A  ,N/A  ,N/A  ,1.24m,N/A,N/A,N/A,N/A,N/A,12th Apr 16  ,11th Nov 18
+73,Sunset Overdrive,XOne,Microsoft Studios  ,Insomniac Games  ,N/A  ,8.0  ,N/A  ,N/A,1.16m,0.64m,0.42m,0.00m,0.10m,28th Oct 14  ,06th Jan 18
+74,Middle-Earth: Shadow of War,XOne,Warner Bros. Interactive Entertainment  ,Monolith Productions  ,N/A  ,N/A  ,N/A  ,N/A,1.15m,0.75m,0.29m,N/A,0.11m,10th Oct 17  ,10th Jan 18
+75,Lego Marvel Super Heroes,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,1.15m,0.61m,0.44m,N/A,0.10m,22nd Nov 13  ,01st Dec 18
+76,Final Fantasy XV,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,1.14m,0.72m,0.30m,0.01m,0.11m,29th Nov 16  ,03rd May 18
+77,Mafia III,XOne,2K Games  ,Hangar 13  ,N/A  ,6.8  ,N/A  ,N/A,1.11m,0.54m,0.48m,N/A,0.09m,07th Oct 16  ,02nd Apr 18
+78,Dragon Ball: Xenoverse 2,XOne,Namco Bandai Games  ,Dimps Corporation  ,N/A  ,N/A  ,N/A  ,1.10m,N/A,N/A,N/A,N/A,N/A,25th Oct 16  ,03rd Mar 18
+79,Diablo III: Ultimate Evil Edition,XOne,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,1.04m,0.62m,0.32m,N/A,0.09m,19th Aug 14  ,25th Mar 19
+80,Resident Evil VII: Biohazard,XOne,Capcom  ,Capcom  ,N/A  ,7.9  ,N/A  ,1.04m,N/A,N/A,N/A,N/A,N/A,24th Jan 17  ,15th Jan 18
+81,Just Cause 3,XOne,Square Enix  ,Avalanche Studios  ,N/A  ,7.0  ,N/A  ,N/A,1.01m,0.52m,0.41m,N/A,0.09m,01st Dec 15  ,04th Apr 18
+82,Far Cry: Primal,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,7.8  ,N/A  ,N/A,1.00m,0.51m,0.41m,N/A,0.09m,23rd Feb 16  ,03rd Apr 18
+83,Forza Motorsport 6,XOne,Microsoft Studios  ,Turn 10 Studios  ,N/A  ,N/A  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,15th Sep 15  ,12th Jan 18
+84,Gears of War: Ultimate Edition,XOne,Microsoft Studios  ,The Coalition  ,N/A  ,N/A  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,25th Aug 15  ,10th Aug 18
+85,Rise of the Tomb Raider,XOne,Square Enix  ,Crystal Dynamics  ,N/A  ,N/A  ,N/A  ,1.00m,N/A,N/A,N/A,N/A,N/A,10th Nov 15  ,11th Apr 18
+86,Dragon Age: Inquisition,XOne,Electronic Arts  ,BioWare Edmonton  ,N/A  ,N/A  ,N/A  ,N/A,0.99m,0.63m,0.27m,0.00m,0.09m,18th Nov 14  ,05th Jan 19
+87,Sea of Thieves,XOne,Microsoft Studios  ,Rare Ltd.  ,N/A  ,6.9  ,7.0  ,N/A,0.96m,0.60m,0.27m,N/A,0.09m,20th Mar 18  ,25th Sep 18
+88,NBA 2K14,XOne,2K Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,0.94m,0.72m,0.12m,N/A,0.09m,22nd Nov 13  ,05th Jan 18
+89,Fallout 76,XOne,Bethesda Softworks  ,Bethesda Game Studios  ,N/A  ,5.1  ,N/A  ,N/A,0.93m,0.59m,0.26m,N/A,0.09m,14th Nov 18  ,02nd Nov 18
+90,Monster Hunter: World,XOne,Capcom  ,Capcom  ,8.0  ,9.4  ,N/A  ,N/A,0.93m,0.67m,0.17m,N/A,0.09m,26th Jan 18  ,30th Jan 18
+91,Injustice 2,XOne,Warner Bros. Interactive Entertainment  ,NetherRealm Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.89m,0.65m,0.16m,N/A,0.09m,16th May 17  ,06th Jan 18
+92,For Honor,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.87m,0.57m,0.21m,N/A,0.08m,14th Feb 17  ,05th Jan 18
+93,Dead Rising 4,XOne,Microsoft Studios  ,Capcom  ,N/A  ,N/A  ,N/A  ,0.87m,N/A,N/A,N/A,N/A,N/A,06th Dec 16  ,25th Sep 18
+94,Dishonored 2,XOne,Bethesda Softworks  ,Arkane Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.86m,0.47m,0.31m,N/A,0.08m,10th Nov 16  ,16th Jul 19
+95,Plants vs. Zombies: Garden Warfare 2,XOne,Electronic Arts  ,PopCap Games  ,N/A  ,N/A  ,N/A  ,N/A,0.86m,0.47m,0.32m,N/A,0.08m,23rd Feb 16  ,23rd May 18
+96,Madden NFL 25,XOne,EA Sports  ,EA Tiburon  ,N/A  ,7.1  ,N/A  ,N/A,0.83m,0.69m,0.06m,N/A,0.09m,22nd Nov 13  ,06th Jan 18
+97,Metal Gear Solid V: The Phantom Pain,XOne,Konami Digital Entertainment  ,Kojima Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.83m,0.49m,0.25m,0.02m,0.07m,01st Sep 15  ,04th May 18
+98,Guitar Hero Live,XOne,Activision  ,FreeStyleGames  ,N/A  ,N/A  ,N/A  ,N/A,0.83m,0.52m,0.23m,N/A,0.08m,20th Oct 15  ,15th Mar 18
+99,Shadow of the Tomb Raider,XOne,Square Enix  ,Eidos Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.78m,0.46m,0.25m,N/A,0.07m,14th Sep 18  ,12th Sep 18
+100,LEGO Jurassic World,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.78m,0.44m,0.27m,N/A,0.07m,12th Jun 15  ,06th Apr 18
+101,Rare Replay,XOne,Microsoft Studios  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.78m,0.42m,0.27m,0.01m,0.07m,04th Aug 15  ,25th Sep 18
+102,Mass Effect: Andromeda,XOne,Electronic Arts  ,BioWare Corp.  ,N/A  ,N/A  ,N/A  ,N/A,0.78m,0.50m,0.20m,N/A,0.07m,21st Mar 17  ,03rd Jul 18
+103,Minecraft: Story Mode,XOne,Mojang  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.77m,0.46m,0.24m,N/A,0.07m,27th Oct 15  ,13th Jan 18
+104,Fortnite,XOne,Gearbox Software  ,Epic Games  ,N/A  ,N/A  ,N/A  ,N/A,0.77m,0.60m,0.09m,N/A,0.08m,21st Jul 17  ,19th Jun 18
+105,Quantum Break,XOne,Microsoft Studios  ,Remedy Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.76m,0.42m,0.25m,0.02m,0.07m,05th Apr 16  ,25th Sep 18
+106,Wolfenstein: The New Order,XOne,Bethesda Softworks  ,MachineGames  ,N/A  ,N/A  ,N/A  ,N/A,0.75m,0.39m,0.30m,N/A,0.06m,20th May 14  ,25th Mar 19
+107,Rock Band 4,XOne,Harmonix Music Systems  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.75m,0.62m,0.05m,N/A,0.08m,06th Oct 15  ,23rd May 18
+108,Need for Speed (2015),XOne,Electronic Arts  ,Ghost Games  ,N/A  ,6.7  ,N/A  ,N/A,0.74m,0.35m,0.33m,N/A,0.06m,03rd Nov 15  ,03rd Apr 18
+109,The Sims 4,XOne,Electronic Arts  ,Maxis  ,N/A  ,N/A  ,N/A  ,N/A,0.73m,0.42m,0.24m,N/A,0.07m,17th Nov 17  ,29th Dec 17
+110,Need for Speed: Payback,XOne,Electronic Arts  ,Ghost Games  ,N/A  ,5.9  ,N/A  ,N/A,0.73m,0.42m,0.24m,N/A,0.07m,10th Nov 17  ,04th Apr 18
+111,LEGO Dimensions,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.72m,0.47m,0.18m,N/A,0.07m,27th Sep 15  ,19th Mar 18
+112,The Crew,XOne,Ubisoft  ,Ubisoft Reflections  ,N/A  ,N/A  ,N/A  ,N/A,0.71m,0.32m,0.34m,N/A,0.06m,02nd Dec 14  ,04th Jan 18
+113,Plants vs Zombies: Garden Warfare,XOne,Electronic Arts  ,PopCap Games  ,N/A  ,7.6  ,N/A  ,N/A,0.71m,0.39m,0.25m,0.00m,0.06m,25th Feb 14  ,05th Feb 18
+114,Need for Speed Rivals,XOne,Electronic Arts  ,Ghost Games  ,N/A  ,N/A  ,N/A  ,N/A,0.70m,0.45m,0.19m,N/A,0.07m,22nd Nov 13  ,16th Jan 18
+115,Wolfenstein II: The New Colossus,XOne,Bethesda Softworks  ,MachineGames  ,N/A  ,N/A  ,N/A  ,N/A,0.70m,0.45m,0.19m,N/A,0.07m,27th Oct 17  ,N/A
+116,The Evil Within,XOne,Bethesda Softworks  ,Tango Gameworks  ,N/A  ,7.9  ,N/A  ,N/A,0.69m,0.36m,0.27m,0.00m,0.06m,14th Oct 14  ,13th Mar 18
+117,LEGO Worlds,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.69m,0.28m,0.35m,N/A,0.05m,07th Mar 17  ,N/A
+118,Borderlands: The Handsome Collection,XOne,2K Games  ,Gearbox Software  ,N/A  ,N/A  ,N/A  ,N/A,0.68m,0.49m,0.13m,N/A,0.07m,24th Mar 15  ,N/A
+119,Evolve,XOne,2K Games  ,Turtle Rock Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.67m,0.40m,0.20m,N/A,0.06m,10th Feb 15  ,10th May 18
+120,WWE 2K18,XOne,2K Sports  ,Yuke's  ,N/A  ,N/A  ,N/A  ,N/A,0.66m,0.35m,0.25m,N/A,0.06m,17th Oct 17  ,N/A
+121,Tomb Raider: Definitive Edition,XOne,Square Enix  ,Crystal Dynamics  ,N/A  ,N/A  ,N/A  ,N/A,0.66m,0.38m,0.22m,N/A,0.06m,28th Jan 14  ,13th Jun 18
+122,Spyro Reignited Trilogy,XOne,Activision  ,Toys for Bob  ,N/A  ,N/A  ,N/A  ,N/A,0.65m,0.36m,0.24m,N/A,0.06m,13th Nov 18  ,08th Apr 18
+123,The LEGO Movie Videogame,XOne,Warner Bros. Interactive Entertainment  ,TT Fusion  ,N/A  ,N/A  ,N/A  ,N/A,0.65m,0.42m,0.17m,N/A,0.06m,07th Feb 14  ,20th Mar 18
+124,Crash Bandicoot N. Sane Trilogy,XOne,Activision  ,Vicarious Visions  ,N/A  ,N/A  ,N/A  ,N/A,0.65m,0.23m,0.37m,N/A,0.05m,29th Jun 18  ,07th Nov 18
+125,WWE 2K16,XOne,Take-Two Interactive  ,Yuke's  ,N/A  ,N/A  ,N/A  ,N/A,0.63m,0.34m,0.24m,N/A,0.06m,27th Oct 15  ,11th Apr 18
+126,Kinect Sports Rivals,XOne,Microsoft Studios  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,0.62m,0.30m,0.25m,0.02m,0.05m,08th Apr 14  ,25th Sep 18
+127,South Park: The Fractured But Whole,XOne,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,N/A  ,N/A  ,N/A,0.62m,0.40m,0.17m,N/A,0.06m,17th Oct 17  ,06th Apr 18
+128,WWE 2K15,XOne,2K Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,0.61m,0.32m,0.23m,N/A,0.05m,18th Nov 14  ,06th Jan 18
+129,EA Sports UFC 2,XOne,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.61m,0.36m,0.19m,N/A,0.06m,15th Mar 16  ,20th Apr 18
+130,NHL 17,XOne,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.60m,0.52m,0.01m,N/A,0.06m,13th Sep 16  ,N/A
+131,Tekken 7,XOne,Namco Bandai Games  ,Namco Bandai Games  ,N/A  ,N/A  ,N/A  ,N/A,0.58m,0.30m,0.23m,N/A,0.05m,02nd Jun 17  ,15th Jan 18
+132,LEGO Marvel Super Heroes 2,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.57m,0.32m,0.20m,N/A,0.05m,14th Nov 17  ,11th Feb 18
+133,WWE 2K17,XOne,2K Games  ,Yuke's  ,N/A  ,N/A  ,N/A  ,N/A,0.57m,0.26m,0.26m,N/A,0.05m,11th Oct 16  ,05th Apr 18
+134,Disney Infinity 2.0: Marvel Super Heroes,XOne,Disney Interactive Studios  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.55m,0.35m,0.15m,N/A,0.05m,23rd Sep 14  ,06th Feb 18
+135,Just Dance 2015,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,8.1  ,N/A  ,N/A,0.54m,0.36m,0.13m,N/A,0.05m,21st Oct 14  ,03rd Apr 18
+136,Dragon Ball FighterZ,XOne,Namco Bandai Games  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,0.52m,0.38m,0.09m,N/A,0.05m,26th Jan 18  ,02nd Apr 18
+137,Alien: Isolation,XOne,Sega  ,Creative Assembly  ,N/A  ,N/A  ,N/A  ,N/A,0.52m,0.23m,0.25m,N/A,0.04m,07th Oct 14  ,05th Jan 18
+138,Halo Wars 2,XOne,Microsoft Studios  ,Creative Assembly  ,N/A  ,N/A  ,N/A  ,N/A,0.51m,0.31m,0.15m,N/A,0.05m,21st Feb 17  ,24th Feb 18
+139,NHL 16,XOne,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.51m,0.41m,0.05m,N/A,0.05m,15th Sep 15  ,N/A
+140,Lego Star Wars: The Force Awakens,XOne,Warner Bros. Interactive Entertainment  ,TT Fusion  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.24m,0.22m,N/A,0.04m,28th Jun 16  ,31st Mar 18
+141,Mad Max (2013),XOne,Warner Bros. Interactive Entertainment  ,Avalanche Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.50m,0.29m,0.16m,N/A,0.05m,01st Sep 15  ,05th Jan 18
+142,LEGO Marvel's Avengers,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.26m,0.18m,N/A,0.04m,26th Jan 16  ,06th Apr 18
+143,WWE 2K19,XOne,2K Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.30m,0.14m,N/A,0.04m,09th Oct 18  ,22nd Jun 18
+144,Zoo Tycoon (2013),XOne,Microsoft Studios  ,Frontier Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.25m,0.18m,N/A,0.04m,22nd Nov 13  ,25th Sep 18
+145,Steep,XOne,Ubisoft  ,Ubisoft Annecy  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.24m,0.20m,N/A,0.04m,02nd Dec 16  ,N/A
+146,Thief,XOne,Square Enix  ,Eidos Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.26m,0.17m,N/A,0.04m,25th Feb 14  ,04th Jan 18
+147,Just Dance 2014,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.31m,0.12m,N/A,0.04m,22nd Nov 13  ,08th Mar 18
+148,EA Sports UFC,XOne,Electronic Arts  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.48m,0.30m,0.13m,N/A,0.04m,17th Jun 14  ,05th Jan 18
+149,BioShock: The Collection,XOne,2K Games  ,"Blind Squirrel Digital, Inc  ",N/A  ,N/A  ,N/A  ,N/A,0.48m,0.35m,0.08m,N/A,0.05m,13th Sep 16  ,30th Apr 18
+150,Disney Infinity 3.0,XOne,Disney Interactive Studios  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.46m,0.30m,0.12m,N/A,0.04m,30th Aug 15  ,20th Mar 18
+151,State of Decay 2,XOne,Microsoft Studios  ,Undead Labs  ,6.0  ,7.0  ,N/A  ,N/A,0.46m,0.27m,0.14m,N/A,0.04m,22nd May 18  ,25th Sep 18
+152,Prey (2017),XOne,Bethesda Softworks  ,Arkane Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.21m,0.20m,N/A,0.04m,05th May 17  ,18th Jan 18
+153,Skylanders: Trap Team,XOne,Activision  ,Toys for Bob  ,N/A  ,N/A  ,N/A  ,N/A,0.45m,0.34m,0.07m,N/A,0.04m,05th Oct 14  ,17th Mar 18
+154,Lego Batman 3: Beyond Gotham,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,0.24m,0.17m,N/A,0.04m,11th Nov 14  ,01st Dec 18
+155,EA Sports UFC 3,XOne,EA Sports  ,EA Vancouver  ,N/A  ,N/A  ,N/A  ,N/A,0.44m,0.30m,0.10m,N/A,0.04m,02nd Feb 18  ,11th Feb 18
+156,Rocksmith 2014,XOne,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,9.0  ,N/A  ,N/A,0.43m,0.31m,0.08m,N/A,0.04m,04th Oct 16  ,08th Mar 18
+157,Sniper Elite III,XOne,505 Games  ,Rebellion Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.43m,0.27m,0.12m,N/A,0.04m,01st Jul 14  ,22nd Sep 18
+158,Hello Neighbor,XOne,Gearbox Software  ,Dynamic Pixels  ,N/A  ,N/A  ,N/A  ,N/A,0.42m,0.27m,0.11m,N/A,0.04m,08th Dec 17  ,31st Dec 17
+159,NHL 15,XOne,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.42m,0.32m,0.06m,N/A,0.04m,09th Sep 14  ,10th Jan 18
+160,Project CARS,XOne,Bandai Namco Games  ,Slightly Mad Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.41m,0.21m,0.16m,N/A,0.04m,12th May 15  ,05th Jan 18
+161,Destiny: The Collection,XOne,Activision  ,Bungie  ,N/A  ,N/A  ,N/A  ,N/A,0.41m,0.25m,0.12m,N/A,0.04m,19th Sep 16  ,14th Sep 18
+162,Skylanders: SuperChargers,XOne,Activision  ,Vicarious Visions  ,N/A  ,N/A  ,N/A  ,N/A,0.40m,0.31m,0.05m,N/A,0.04m,20th Sep 15  ,06th Apr 18
+163,Deus Ex: Mankind Divided,XOne,Square Enix  ,Eidos Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.25m,0.11m,N/A,0.04m,23rd Aug 16  ,18th Jan 18
+164,NHL 18,XOne,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.32m,0.03m,N/A,0.04m,15th Sep 17  ,N/A
+165,The Evil Within 2,XOne,Bethesda Softworks  ,Tango Gameworks  ,N/A  ,N/A  ,N/A  ,N/A,0.39m,0.25m,0.10m,N/A,0.04m,13th Oct 17  ,10th May 18
+166,Rayman Legends,XOne,Ubisoft  ,Ubisoft Montpellier  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.13m,0.22m,N/A,0.03m,18th Feb 14  ,20th Mar 18
+167,Just Dance 2016,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.38m,0.30m,0.04m,N/A,0.04m,20th Oct 15  ,05th Apr 18
+168,Skylanders SWAP Force,XOne,Activision  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.35m,0.25m,0.07m,N/A,0.03m,22nd Nov 13  ,N/A
+169,Naruto Shippuden: Ultimate Ninja Storm 4,XOne,Namco Bandai Games  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,0.35m,0.25m,0.07m,N/A,0.03m,09th Feb 16  ,22nd Sep 18
+170,Dragon Ball: Xenoverse,XOne,Namco Bandai Games  ,Dimps Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.35m,0.21m,0.11m,N/A,0.03m,24th Feb 15  ,11th Sep 18
+171,Marvel vs. Capcom: Infinite,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.26m,0.05m,N/A,0.03m,19th Sep 17  ,22nd Sep 18
+172,Just Dance 2017,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.34m,0.25m,0.05m,N/A,0.03m,25th Oct 16  ,06th Apr 18
+173,The Lego Ninjago Movie Videogame,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.21m,0.09m,N/A,0.03m,22nd Sep 17  ,29th May 18
+174,The Crew 2,XOne,Ubisoft  ,Ivory Tower  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.20m,0.10m,N/A,0.03m,29th Jun 18  ,19th Jul 18
+175,Farming Simulator 17,XOne,Focus Home Interactive  ,Giants Software  ,N/A  ,N/A  ,N/A  ,N/A,0.33m,0.19m,0.11m,N/A,0.03m,25th Oct 16  ,06th Apr 18
+176,LEGO The Incredibles,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,6.0  ,N/A  ,N/A  ,N/A,0.32m,0.19m,0.10m,N/A,0.03m,15th Jun 18  ,06th Nov 18
+177,Farming Simulator 19,XOne,Focus Home Interactive  ,Giants Software  ,N/A  ,N/A  ,N/A  ,N/A,0.32m,0.19m,0.09m,N/A,0.03m,20th Nov 18  ,19th Dec 18
+178,METRO Redux,XOne,Deep Silver  ,4a-games  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,0.15m,0.14m,N/A,0.03m,26th Aug 14  ,31st May 18
+179,Hitman,XOne,Square Enix  ,IO Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.31m,0.20m,0.08m,N/A,0.03m,31st Jan 17  ,01st May 18
+180,LEGO City Undercover,XOne,Warner Bros. Interactive Entertainment  ,TT Fusion  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.15m,0.12m,N/A,0.03m,04th Apr 17  ,24th May 18
+181,SoulCalibur VI,XOne,Bandai Namco Games  ,Project Soul  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.26m,0.01m,N/A,0.03m,19th Oct 18  ,07th Nov 18
+182,LEGO DC Super-Villains,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,7.0  ,N/A  ,N/A  ,N/A,0.30m,0.20m,0.07m,N/A,0.03m,16th Oct 18  ,04th Jun 18
+183,Final Fantasy Type-0 HD,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.20m,0.07m,N/A,0.03m,17th Mar 15  ,21st Jan 18
+184,Sniper Elite 4,XOne,Rebellion Developments  ,Rebellion Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.30m,0.18m,0.09m,N/A,0.03m,14th Feb 17  ,29th May 18
+185,NHL 19,XOne,EA Sports  ,EA Canada  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.26m,N/A,N/A,0.03m,14th Sep 18  ,23rd Jun 18
+186,Just Cause 4,XOne,Square Enix  ,Avalanche Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.17m,0.09m,N/A,0.03m,04th Dec 18  ,19th Dec 18
+187,Sonic Forces,XOne,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,0.29m,0.15m,0.11m,N/A,0.03m,07th Nov 17  ,11th Feb 18
+188,Dark Souls II: Scholar of the First Sin,XOne,Namco Bandai Games  ,From Software  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.19m,0.07m,N/A,0.03m,07th Apr 15  ,09th Mar 18
+189,Battleborn,XOne,2K Games  ,Gearbox Software  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.20m,0.05m,N/A,0.03m,03rd May 16  ,N/A
+190,Rory McIlroy PGA Tour,XOne,Electronic Arts  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.28m,0.16m,0.09m,N/A,0.02m,14th Jul 15  ,24th May 18
+191,Assassin's Creed The Ezio Collection,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.13m,0.12m,N/A,0.02m,15th Nov 16  ,N/A
+192,LEGO The Hobbit,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.13m,0.13m,N/A,0.02m,08th Apr 14  ,15th Mar 18
+193,Metal Gear Solid V: Ground Zeroes,XOne,Konami Digital Entertainment  ,Kojima Productions  ,N/A  ,7.7  ,N/A  ,N/A,0.27m,0.13m,0.13m,N/A,0.02m,18th Mar 14  ,22nd Mar 18
+194,Minecraft: Story Mode - Season Two,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.17m,0.08m,N/A,0.02m,19th Sep 17  ,07th Aug 18
+195,Skylanders Imaginators,XOne,Activision  ,Toys for Bob  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.19m,0.05m,N/A,0.03m,16th Oct 16  ,26th Mar 18
+196,Friday the 13th: The Game,XOne,Gun Media  ,IllFonic  ,N/A  ,N/A  ,N/A  ,N/A,0.27m,0.21m,0.03m,N/A,0.03m,13th Oct 17  ,30th May 18
+197,Mega Man Legacy Collection,XOne,Capcom  ,Digital Eclipse Software  ,N/A  ,N/A  ,N/A  ,0.27m,N/A,N/A,N/A,N/A,N/A,25th Aug 15  ,29th May 18
+198,Jurassic World Evolution,XOne,Frontier Developments  ,Frontier Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.15m,0.09m,N/A,0.02m,03rd Jul 18  ,20th Apr 18
+199,ReCore,XOne,Microsoft Studios  ,Armature Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.26m,0.16m,0.06m,0.01m,0.02m,13th Sep 16  ,01st Oct 18
+200,F1 2015,XOne,Codemasters  ,Codemasters Birmingham  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.09m,0.15m,N/A,0.02m,21st Jul 15  ,23rd May 18
+201,L.A. Noire,XOne,Rockstar Games  ,Team Bondi  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.14m,0.09m,N/A,0.02m,14th Nov 17  ,19th Jun 18
+202,Trials Fusion,XOne,Ubisoft  ,RedLynx  ,N/A  ,N/A  ,N/A  ,N/A,0.25m,0.12m,0.10m,N/A,0.02m,01st Jan 15  ,25th May 18
+203,Call of Duty: Modern Warfare Remastered,XOne,Activision  ,Infinity Ward  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.16m,0.06m,N/A,0.02m,27th Jul 17  ,14th Jan 18
+204,Zumba Fitness: World Party,XOne,Majesco Entertainment  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.17m,0.05m,N/A,0.02m,22nd Nov 13  ,01st Apr 18
+205,Saints Row IV: Re-Elected,XOne,Deep Silver  ,Volition Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.13m,0.09m,N/A,0.02m,27th Jan 15  ,26th Apr 18
+206,Farming Simulator 2015,XOne,Focus Home Interactive  ,Giants Software  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.13m,0.09m,N/A,0.02m,19th May 15  ,11th Apr 18
+207,A Way Out,XOne,Electronic Arts  ,Hazelight  ,N/A  ,8.1  ,N/A  ,N/A,0.24m,0.17m,0.05m,N/A,0.02m,23rd Mar 18  ,24th Mar 18
+208,NBA Live 14,XOne,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.24m,0.19m,0.02m,N/A,0.02m,22nd Nov 13  ,19th Oct 18
+209,Payday 2,XOne,505 Games  ,Overkill Software  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,0.14m,0.07m,N/A,0.02m,16th Jun 15  ,08th Jan 18
+210,No Man's Sky,XOne,505 Games  ,Hello Games  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,0.17m,0.04m,N/A,0.02m,24th Jul 18  ,04th Apr 18
+211,DiRT 4,XOne,Deep Silver  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,0.23m,0.11m,0.10m,N/A,0.02m,06th Jun 17  ,23rd Nov 18
+212,NBA Live 15,XOne,Electronic Arts  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.18m,0.02m,N/A,0.02m,28th Oct 14  ,30th May 18
+213,F1 2016,XOne,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.09m,0.12m,N/A,0.02m,19th Aug 16  ,14th May 18
+214,Deadpool,XOne,Activision  ,High Moon Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.17m,0.03m,N/A,0.02m,18th Nov 15  ,22nd Jan 18
+215,The Amazing Spider-Man 2 (2014),XOne,Activision  ,Beenox  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.12m,0.08m,N/A,0.02m,29th Apr 14  ,19th Mar 18
+216,Kingdom Come: Deliverance,XOne,Deep Silver  ,Warhorse Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.14m,0.06m,N/A,0.02m,13th Feb 18  ,10th Jan 18
+217,LEGO Harry Potter Collection,XOne,Warner Bros. Interactive Entertainment  ,Traveller's Tales  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.14m,0.06m,N/A,0.02m,30th Oct 18  ,27th Oct 18
+218,Lords of the Fallen,XOne,Namco Bandai Games  ,DECK13 Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.10m,0.10m,N/A,0.02m,28th Oct 14  ,10th May 18
+219,Hitman 2,XOne,Warner Bros. Interactive Entertainment  ,IO Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.22m,0.14m,0.06m,N/A,0.02m,13th Nov 18  ,22nd Nov 18
+220,Super Lucky's Tale,XOne,Microsoft Studios  ,Playful Corp.  ,N/A  ,6.5  ,N/A  ,N/A,0.22m,0.13m,0.07m,N/A,0.02m,07th Nov 17  ,18th Jan 18
+221,DiRT Rally,XOne,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.12m,0.08m,N/A,0.02m,05th Apr 16  ,N/A
+222,Just Dance 2018,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.15m,0.04m,N/A,0.02m,24th Oct 17  ,06th Apr 18
+223,Homefront: The Revolution,XOne,Deep Silver  ,Dambuster Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.10m,0.09m,N/A,0.02m,17th May 16  ,24th May 18
+224,State of Decay: Year One Survival Edition,XOne,Microsoft Studios  ,Undead Labs  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.14m,0.05m,N/A,0.02m,28th Apr 15  ,25th Sep 18
+225,NBA Live 18,XOne,EA Sports  ,EA Sports  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.18m,N/A,N/A,0.02m,15th Sep 17  ,30th May 18
+226,theHunter: Call of the Wild,XOne,THQ Nordic  ,Expansive Worlds  ,N/A  ,N/A  ,N/A  ,N/A,0.21m,0.18m,N/A,N/A,0.02m,02nd Oct 17  ,19th Jun 18
+227,Sleeping Dogs: Definitive Edition,XOne,Square Enix  ,United Front Games  ,N/A  ,7.5  ,N/A  ,N/A,0.20m,0.10m,0.09m,N/A,0.02m,14th Oct 14  ,01st May 18
+228,Project CARS 2,XOne,Namco Bandai Games  ,Slightly Mad Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.01m,0.18m,N/A,0.01m,22nd Sep 17  ,N/A
+229,Batman: Return to Arkham,XOne,Warner Bros. Interactive Entertainment  ,Rocksteady Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.20m,0.12m,0.06m,N/A,0.02m,18th Oct 16  ,10th Jun 18
+230,Dishonored: Definitive Edition,XOne,Bethesda Softworks  ,Arkane Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.13m,0.05m,N/A,0.02m,25th Aug 15  ,04th Apr 18
+231,One Piece: Burning Blood,XOne,Namco Bandai Games  ,Spike Chunsoft  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.11m,0.07m,N/A,0.02m,31st May 16  ,23rd May 18
+232,Fantasia: Music Evolved,XOne,Disney Interactive Studios  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.14m,0.03m,N/A,0.02m,21st Oct 14  ,24th Nov 18
+233,Mirror's Edge Catalyst,XOne,Electronic Arts  ,EA DICE  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.11m,0.06m,N/A,0.02m,07th Jun 16  ,04th Sep 18
+234,Naruto to Boruto: Shinobi Striker,XOne,Bandai Namco Games  ,Soleil Software Studio Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.17m,N/A,N/A,0.02m,31st Aug 18  ,12th Sep 18
+235,XCOM 2,XOne,2K Games  ,Firaxis Games  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.15m,0.02m,N/A,0.02m,27th Sep 16  ,29th May 18
+236,F1 2017,XOne,Deep Silver  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,0.19m,0.04m,0.13m,N/A,0.01m,25th Aug 17  ,23rd May 18
+237,Shape Up,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.08m,0.09m,N/A,0.01m,11th Nov 14  ,19th Jun 18
+238,Cities: Skylines,XOne,Koch Media  ,Colossal Order  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.13m,0.03m,N/A,0.02m,21st Apr 17  ,14th Jan 18
+239,Sniper: Ghost Warrior 3,XOne,City Interactive  ,City Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.18m,0.11m,0.05m,N/A,0.02m,25th Apr 17  ,29th May 18
+240,Project Spark,XOne,Microsoft Studios  ,Team Dakota  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.11m,0.05m,N/A,0.02m,07th Oct 14  ,09th Aug 18
+241,Rush: A Disney Pixar Adventure,XOne,Microsoft Studios  ,Asobo Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.15m,N/A,N/A,0.02m,31st Oct 17  ,25th Sep 18
+242,Fighter Within,XOne,Ubisoft  ,Daoka  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.08m,0.07m,N/A,0.01m,19th Nov 13  ,04th Nov 18
+243,F1 2018,XOne,Codemasters  ,Codemasters Birmingham  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.05m,0.10m,N/A,0.01m,24th Aug 18  ,26th Sep 18
+244,Murdered: Soul Suspect,XOne,Square Enix  ,Airtight Games  ,N/A  ,N/A  ,N/A  ,N/A,0.17m,0.08m,0.07m,N/A,0.01m,03rd Jun 14  ,06th Aug 18
+245,Pac-Man Championship Edition 2 + Arcade Game Series,XOne,Namco Bandai Games  ,Namco Bandai Games  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.15m,N/A,N/A,0.02m,01st Nov 16  ,19th Jun 18
+246,Angry Birds: Star Wars,XOne,Activision  ,Exient Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.11m,0.04m,N/A,0.02m,22nd Nov 13  ,16th Mar 18
+247,Little Nightmares,XOne,Namco Bandai Games  ,Tarsier Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.12m,0.03m,N/A,0.02m,28th Apr 17  ,20th Feb 19
+248,The Walking Dead: Season One,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.08m,0.06m,N/A,0.01m,14th Oct 14  ,N/A
+249,Bendy and the Ink Machine,XOne,Rooster Teeth Games  ,TheMeatly Games  ,N/A  ,N/A  ,N/A  ,N/A,0.16m,0.14m,N/A,N/A,0.02m,20th Nov 18  ,19th Dec 18
+250,Wolfenstein: The Old Blood,XOne,Bethesda Softworks  ,MachineGames  ,N/A  ,8.0  ,N/A  ,N/A,0.15m,0.07m,0.07m,N/A,0.01m,05th May 15  ,21st Apr 18
+251,Just Dance 2019,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.13m,0.01m,N/A,0.02m,23rd Oct 18  ,28th Sep 18
+252,Pro Evolution Soccer 2015,XOne,Konami Digital Entertainment  ,PES Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.04m,0.10m,N/A,0.01m,11th Nov 14  ,14th Apr 18
+253,Transformer: Rise of the Dark Spark,XOne,Activision  ,Edge of Reality  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.10m,0.03m,N/A,0.01m,24th Jun 14  ,27th Dec 18
+254,NBA Live 19,XOne,Electronic Arts  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.13m,N/A,N/A,0.02m,07th Sep 18  ,13th Jun 18
+255,The Escapists 2,XOne,Sold Out  ,Team17 Software  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.05m,0.08m,N/A,0.01m,22nd Aug 17  ,22nd Feb 19
+256,Transformers: Devastation,XOne,Activision  ,PlatinumGames  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.10m,0.04m,N/A,0.01m,06th Oct 15  ,14th Apr 18
+257,Spintires: MudRunner,XOne,Focus Home Interactive  ,Saber Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.11m,0.02m,N/A,0.01m,31st Oct 17  ,30th May 18
+258,DmC Devil May Cry: Definitive Edition,XOne,Capcom  ,QLOC  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.09m,0.04m,N/A,0.01m,10th Mar 15  ,01st May 18
+259,Attack on Titan,XOne,Tecmo Koei  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,0.15m,0.06m,0.07m,N/A,0.01m,30th Aug 16  ,11th Sep 18
+260,Tony Hawk's Pro Skater 5,XOne,Activision  ,Robomodo  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.02m,N/A,0.01m,29th Sep 15  ,15th Apr 18
+261,Naruto Shippuden: Ultimate Ninja Storm Legacy,XOne,Namco Bandai Games  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.11m,0.02m,N/A,0.01m,25th Aug 17  ,N/A
+262,The Walking Dead: Season Two,XOne,Telltale Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.08m,0.05m,N/A,0.01m,21st Oct 14  ,N/A
+263,Resident Evil: Revelations 2,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.10m,0.02m,N/A,0.01m,20th Mar 15  ,15th Apr 18
+264,Dishonored: Death of the Outsider,XOne,Bethesda Softworks  ,Arkane Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.07m,0.06m,N/A,0.01m,15th Sep 17  ,03rd Mar 18
+265,Ultimate Marvel vs. Capcom 3,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.12m,N/A,N/A,0.01m,07th Mar 17  ,N/A
+266,My Hero One's Justice,XOne,Bandai Namco Entertainment  ,Byking  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.12m,N/A,N/A,0.01m,26th Oct 18  ,12th Sep 18
+267,The Elder Scrolls Online: Morrowind,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.14m,0.09m,0.03m,N/A,0.01m,06th Jun 17  ,15th Sep 18
+268,R.B.I. Baseball 18,XOne,MLB Advanced Media  ,MLB Advanced Media  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.12m,N/A,N/A,0.01m,20th Mar 18  ,27th Feb 18
+269,Destiny 2: Forsaken,XOne,Activision  ,Bungie  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.08m,0.04m,N/A,0.01m,04th Sep 18  ,07th Aug 18
+270,Hasbro Family Fun Pack,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.10m,0.02m,N/A,0.01m,20th Oct 15  ,19th Jun 18
+271,Rocksmith 2014 Edition Remastered,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.12m,N/A,N/A,0.01m,04th Oct 16  ,19th Jun 18
+272,Song of the Deep,XOne,Insomniac Games  ,Insomniac Games  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.12m,N/A,N/A,0.01m,12th Jul 16  ,N/A
+273,NBA Live 16,XOne,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.11m,0.01m,N/A,0.01m,29th Sep 15  ,30th May 18
+274,Outlast Trinity,XOne,Warner Bros. Interactive Entertainment  ,Red Barrels  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.10m,0.02m,N/A,0.01m,25th Apr 17  ,N/A
+275,Sonic Mania,XOne,Sega  ,PagodaWest Games  ,N/A  ,N/A  ,N/A  ,N/A,0.13m,0.09m,0.03m,N/A,0.01m,15th Aug 17  ,15th Aug 18
+276,Dead by Daylight,XOne,505 Games  ,Behaviour Interactive Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.08m,0.03m,N/A,0.01m,20th Jun 17  ,13th Feb 19
+277,Darksiders III,XOne,THQ Nordic  ,Gunfire Games  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.11m,N/A,N/A,0.01m,27th Nov 18  ,19th Dec 18
+278,Vampyr,XOne,Focus Home Interactive  ,DONTNOD Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.07m,0.04m,N/A,0.01m,05th Jun 18  ,08th Feb 18
+279,The Walking Dead - The Telltale Series: A New Frontier,XOne,Warner Bros. Interactive Entertainment  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.10m,0.01m,N/A,0.01m,28th Feb 17  ,N/A
+280,NASCAR Heat 2,XOne,704Games  ,Monster Games  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.11m,N/A,N/A,0.01m,12th Sep 17  ,25th Jun 18
+281,Life is Strange,XOne,Square Enix  ,DONTNOD Entertainment  ,8.3  ,N/A  ,N/A  ,N/A,0.12m,0.08m,0.03m,N/A,0.01m,19th Jan 16  ,07th Jan 18
+282,Wolfenstein The Two Pack,XOne,Bethesda Softworks  ,MachineGames  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.11m,N/A,N/A,0.01m,22nd Aug 17  ,04th Jul 18
+283,The Surge,XOne,Focus Home Interactive  ,DECK13 Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.07m,0.04m,N/A,0.01m,16th May 17  ,06th Jan 18
+284,Naruto Shippuden Ultimate Ninja Storm 4: Road to Boruto,XOne,Namco Bandai Games  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.11m,N/A,N/A,0.01m,03rd Feb 17  ,25th Jun 18
+285,Pro Evolution Soccer 2016,XOne,Konami Digital Entertainment  ,PES Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.05m,0.06m,N/A,0.01m,15th Sep 15  ,14th Apr 18
+286,Pro Evolution Soccer 2018,XOne,Konami Digital Entertainment  ,Konami Digital Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.06m,0.05m,N/A,0.01m,12th Sep 17  ,24th Apr 18
+287,7 Days to Die,XOne,Telltale Games  ,The Fun Pimps  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.09m,0.02m,N/A,0.01m,28th Jun 16  ,31st May 18
+288,Zombie Army Trilogy,XOne,Rebellion Developments  ,Rebellion Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.12m,0.05m,0.05m,N/A,0.01m,06th Mar 15  ,30th May 18
+289,The Elder Scrolls Online: Summerset,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.09m,0.01m,N/A,0.01m,21st May 18  ,15th Sep 18
+290,Prototype: Biohazard Bundle,XOne,Activision  ,Activision  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.10m,N/A,N/A,0.01m,11th Oct 16  ,N/A
+291,Ride,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.05m,0.05m,N/A,0.01m,23rd Jun 15  ,24th Apr 18
+292,Agents of Mayhem,XOne,Deep Silver  ,Volition Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.07m,0.03m,N/A,0.01m,15th Aug 17  ,24th Jun 18
+293,Burnout Paradise Remastered,XOne,Electronic Arts  ,Stellar Entertainment  ,N/A  ,8.0  ,N/A  ,N/A,0.11m,0.06m,0.04m,N/A,0.01m,16th Mar 18  ,24th Feb 18
+294,Metal Gear Solid V: The Definitive Experience,XOne,Konami Digital Entertainment  ,Kojima Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.10m,N/A,N/A,0.01m,11th Oct 16  ,29th May 18
+295,Killer Instinct (2013),XOne,Microsoft Studios  ,Iron Galaxy  ,N/A  ,N/A  ,N/A  ,N/A,0.11m,0.07m,0.03m,N/A,0.01m,23rd Sep 14  ,09th Aug 18
+296,Dark Souls: Remastered,XOne,Bandai Namco Entertainment  ,From Software  ,N/A  ,8.0  ,N/A  ,N/A,0.11m,0.07m,0.03m,N/A,0.01m,25th May 18  ,05th Jun 18
+297,MXGP 2,XOne,Milestone S.r.l  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.07m,0.02m,N/A,0.01m,21st Jun 16  ,19th Jun 18
+298,NASCAR Heat 3,XOne,704Games  ,Monster Games  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.09m,N/A,N/A,0.01m,07th Sep 18  ,09th Jul 18
+299,Starlink: Battle for Atlas,XOne,Ubisoft  ,Ubisoft Toronto  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.09m,N/A,N/A,0.01m,16th Oct 18  ,22nd Mar 19
+300,NASCAR Heat Evolution,XOne,Dusenberry Martin Racing  ,Monster Games  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.09m,N/A,N/A,0.01m,13th Sep 16  ,N/A
+301,Hellblade: Senua's Sacrifice,XOne,Microsoft Studios  ,Ninja Theory  ,N/A  ,N/A  ,N/A  ,0.10m,N/A,N/A,N/A,N/A,N/A,04th Dec 18  ,02nd Nov 18
+302,TrackMania Turbo,XOne,Ubisoft  ,Nadeo  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.05m,0.04m,N/A,0.01m,22nd Mar 16  ,29th May 18
+303,Divinity: Original Sin,XOne,Focus Home Interactive  ,Larian Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.06m,0.03m,N/A,0.01m,27th Oct 15  ,N/A
+304,Sega Genesis Classics,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.06m,0.03m,N/A,0.01m,29th May 18  ,22nd Sep 18
+305,Dead or Alive 5 Last Round,XOne,Tecmo Koei  ,Team Ninja  ,N/A  ,7.5  ,N/A  ,N/A,0.10m,0.05m,0.03m,0.01m,0.01m,17th Feb 15  ,20th Nov 18
+306,Pro Evolution Soccer 2017,XOne,Konami Digital Entertainment  ,PES Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.05m,0.03m,N/A,0.01m,13th Sep 16  ,14th Apr 18
+307,Resident Evil: Origins Collection,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.07m,0.02m,N/A,0.01m,19th Jan 16  ,04th Sep 18
+308,Sword Art Online: Fatal Bullet,XOne,Namco Bandai Games  ,Dimps Corporation  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.09m,N/A,N/A,0.01m,23rd Feb 18  ,23rd Feb 18
+309,Yooka-Laylee,XOne,Sold Out  ,Playtonic Games  ,N/A  ,N/A  ,9.3  ,N/A,0.10m,0.05m,0.04m,N/A,0.01m,11th Apr 17  ,31st May 18
+310,Real Farm,XOne,Soedesco  ,Triangle Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,N/A,N/A,0.01m,27th Oct 17  ,07th Aug 18
+311,Slime Rancher,XOne,Skybound Games  ,Monomi Park  ,N/A  ,N/A  ,N/A  ,N/A,0.10m,0.08m,N/A,N/A,0.01m,04th Sep 18  ,07th Aug 18
+312,Nickelodeon Kart Racers,XOne,GameMill Entertainment  ,Bamtang  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.08m,N/A,N/A,0.01m,23rd Oct 18  ,21st Sep 20
+313,We Happy Few,XOne,Gearbox Software  ,Compulsion Games  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.07m,0.01m,N/A,0.01m,10th Aug 18  ,17th Sep 18
+314,Duke Nukem 3D: 20th Anniversary World Tour,XOne,Gearbox Software  ,Gearbox Software  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.08m,N/A,N/A,0.01m,18th Oct 16  ,23rd Nov 18
+315,Life Is Strange: Before the Storm,XOne,Square Enix  ,Deck Nine  ,N/A  ,N/A  ,2.7  ,N/A,0.09m,0.07m,0.00m,N/A,0.01m,06th Mar 18  ,09th Jul 18
+316,The Wolf Among Us,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.06m,0.02m,N/A,0.01m,04th Nov 14  ,N/A
+317,Attack on Titan 2,XOne,Koei Tecmo  ,Omega Force  ,N/A  ,7.0  ,N/A  ,N/A,0.09m,0.08m,N/A,N/A,0.01m,20th Mar 18  ,30th Mar 18
+318,Rugby 15,XOne,Maximum Games  ,HB Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.03m,0.05m,N/A,0.01m,24th Feb 15  ,17th Sep 18
+319,MXGP 3: The Official Motocross Videogame,XOne,Milestone  ,Milestone  ,N/A  ,N/A  ,N/A  ,N/A,0.09m,0.06m,0.02m,N/A,0.01m,20th Jun 17  ,25th Jun 18
+320,Bladestorm: Nightmare,XOne,Tecmo Koei  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.02m,N/A,0.01m,03rd Mar 15  ,30th May 18
+321,Monster Energy Supercross - The Official Videogame,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.08m,N/A,N/A,0.01m,13th Feb 18  ,23rd Mar 18
+322,America's Greatest Game Shows: Wheel of Fortune & Jeopardy!,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.08m,N/A,N/A,0.01m,07th Nov 17  ,02nd Aug 18
+323,TT Isle of Man: Ride on the Edge,XOne,Big Ben Interactive  ,Kylotonn  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.05m,0.03m,N/A,0.01m,06th Mar 18  ,07th Mar 18
+324,Dead Island Definitive Collection,XOne,Deep Silver  ,Techland  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.05m,0.03m,N/A,0.01m,31st May 16  ,N/A
+325,Ride 2,XOne,Milestone S.r.l  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.01m,N/A,0.01m,14th Feb 17  ,25th Jun 18
+326,Elite: Dangerous,XOne,Frontier Developments  ,Frontier Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.07m,N/A,N/A,0.01m,27th Jun 17  ,15th Jun 18
+327,Just Dance: Disney Party 2,XOne,Ubisoft  ,Ubisoft San Francisco  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.01m,N/A,0.01m,20th Oct 15  ,07th Apr 18
+328,Bulletstorm: Full Clip Edition,XOne,Gearbox Software  ,People Can Fly  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.01m,N/A,0.01m,07th Apr 17  ,25th Jun 18
+329,Micro Machines: World Series,XOne,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.02m,0.05m,N/A,0.01m,30th Jun 17  ,30th May 18
+330,Darksiders II: Deathinitive Edition,XOne,Nordic Games  ,Gunfire Games  ,N/A  ,7.5  ,N/A  ,N/A,0.08m,0.05m,0.03m,N/A,0.01m,30th Oct 15  ,02nd Oct 18
+331,Dynasty Warriors 9,XOne,Tecmo Koei  ,Omega Force  ,7.0  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.01m,N/A,0.01m,13th Feb 18  ,31st Dec 17
+332,Sherlock Holmes: Crimes & Punishments,XOne,Focus Home Interactive  ,Frogwares  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.03m,0.04m,N/A,0.01m,30th Sep 14  ,18th Apr 18
+333,Overcooked! 2,XOne,Sold Out  ,Ghost Town Games  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.07m,0.00m,N/A,0.01m,07th Aug 18  ,14th Jun 18
+334,MX vs ATV All Out,XOne,THQ Nordic  ,Rainbow Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.07m,N/A,N/A,0.01m,27th Mar 18  ,23rd Mar 18
+335,Toy Soldiers: War Chest,XOne,Ubisoft  ,Signal Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.07m,N/A,N/A,0.01m,11th Aug 15  ,25th Jun 18
+336,BlazBlue: Chrono Phantasma Extend,XOne,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.06m,0.01m,N/A,0.01m,30th Jun 15  ,03rd Jun 18
+337,Metal Gear Survive,XOne,Konami Digital Entertainment  ,Konami Digital Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.08m,0.05m,0.01m,N/A,0.01m,20th Feb 18  ,25th Feb 18
+338,Shovel Knight,XOne,Yacht Club Games  ,Yacht Club Games  ,N/A  ,N/A  ,N/A  ,0.08m,N/A,N/A,N/A,N/A,N/A,13th Oct 15  ,21st Nov 18
+339,The Golf Club,XOne,Maximum Games  ,HB Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.07m,N/A,N/A,0.01m,28th Apr 15  ,10th Nov 18
+340,Batman: A Telltale Game Series,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,0.01m,N/A,0.01m,13th Sep 16  ,16th Apr 18
+341,Constructor HD,XOne,Deep Silver  ,System 3  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.07m,N/A,N/A,0.01m,11th Jul 17  ,11th Aug 18
+342,Teenage Mutant Ninja Turtles: Mutants in Manhattan,XOne,Activision  ,PlatinumGames  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.01m,24th May 16  ,15th Apr 18
+343,Valentino Rossi: The Game,XOne,Namco Bandai Games  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.02m,N/A,0.01m,26th Jul 16  ,25th Jun 18
+344,Disneyland Adventures,XOne,Microsoft Studios  ,Asobo Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.01m,31st Oct 17  ,25th Sep 18
+345,Shenmue I & II,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.01m,21st Aug 18  ,28th Jul 18
+346,Dynasty Warriors 8: Empires,XOne,Tecmo Koei  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.04m,0.02m,N/A,0.01m,24th Jan 15  ,N/A
+347,Subnautica,XOne,Gearbox Software  ,Unknown Worlds Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,N/A,N/A,0.01m,04th Dec 18  ,16th Jul 18
+348,Resident Evil 6,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,N/A,N/A,0.01m,29th Mar 16  ,30th Mar 18
+349,Street Fighter 30th Anniversary Collection,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.05m,0.01m,N/A,0.01m,29th May 18  ,07th Nov 18
+350,Ghostbusters (2016),XOne,Activision  ,FireForge Games  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,N/A,N/A,0.01m,12th Jul 16  ,17th Sep 18
+351,Hello Neighbor: Hide & Seek,XOne,Gearbox Software  ,Dynamic Pixels  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,N/A,N/A,0.01m,07th Dec 18  ,22nd Sep 18
+352,R.B.I. Baseball 2017,XOne,MLB.com  ,MLB.com  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,N/A,N/A,0.01m,28th Mar 17  ,25th Jun 18
+353,Spintires: MudRunner - American Wilds,XOne,Focus Home Interactive  ,Saber Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.07m,0.06m,N/A,N/A,0.01m,23rd Oct 18  ,19th Feb 19
+354,Aven Colony,XOne,Sold Out  ,Mothership Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.06m,N/A,N/A,0.01m,01st Aug 17  ,25th Jun 18
+355,Adventure Time: Finn & Jake Investigations,XOne,Little Orbit  ,Vicious Cycle  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.04m,0.02m,N/A,0.01m,20th Oct 15  ,17th Mar 18
+356,Atari Flashback Classics: Volume 1,XOne,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.06m,N/A,N/A,0.01m,12th Oct 16  ,N/A
+357,MotoGP 17,XOne,Koch Media  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.04m,0.02m,N/A,0.01m,11th Jul 17  ,25th Jun 18
+358,Mega Man 11,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.06m,N/A,N/A,0.01m,02nd Oct 18  ,04th Jun 18
+359,Wasteland 2,XOne,Deep Silver  ,InXile Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.01m,13th Oct 15  ,N/A
+360,Conan Exiles,XOne,Maximum Games  ,Funcom Oslo A/S  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.01m,08th May 18  ,18th Mar 18
+361,MX vs ATV Supercross Encore 2017 Track Edition,XOne,THQ Nordic  ,Rainbow Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,04th Jan 17  ,27th Jun 18
+362,NBA 2K Playgrounds 2,XOne,2K Games  ,Saber Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,16th Oct 18  ,11th Sep 18
+363,Cartoon Network: Battle Crashers,XOne,GameMill Entertainment  ,Magic Pockets  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.01m,N/A,0.01m,08th Nov 16  ,25th Sep 20
+364,Hasbro Family Fun Pack Conquest Edition,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,15th Nov 16  ,N/A
+365,Sherlock Holmes: The Devil's Daughter,XOne,Bigben Interactive  ,Bigben Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,25th Oct 16  ,27th Jun 18
+366,MX vs. ATV Supercross Encore,XOne,Nordic Games  ,Rainbow Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,27th Oct 15  ,27th Jun 18
+367,Killing Floor 2,XOne,Tripwire Interactive  ,Tripwire Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,29th Aug 17  ,30th May 18
+368,R.B.I. Baseball 2016,XOne,MLB.com  ,MLB.com  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,05th Apr 16  ,27th Jun 18
+369,Okami HD,XOne,Capcom  ,Clover Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,12th Dec 17  ,07th Feb 18
+370,Rapala Fishing Pro Series,XOne,GameMill  ,"Concrete Software, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,24th Oct 17  ,07th Aug 18
+371,Arslan: The Warriors of Legend,XOne,Tecmo Koei  ,Koei Tecmo Games  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,0.00m,N/A,0.01m,09th Feb 16  ,31st Jul 18
+372,Golf Club 2,XOne,Maximum Games  ,HB Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,27th Jun 17  ,03rd Jul 18
+373,Mark McMorris Infinite Air,XOne,Maximum Games  ,HB Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,25th Oct 16  ,27th Jun 18
+374,Atari Flashback Classics: Volume 2,XOne,Atari  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,12th Oct 16  ,27th Jun 18
+375,Hunting Simulator,XOne,Bigben Interactive  ,Maximum Games  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,11th Jul 17  ,28th Jun 18
+376,Styx: Shards of Darkness,XOne,Focus Home Interactive  ,Cyanide Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.06m,0.05m,N/A,N/A,0.01m,14th Mar 17  ,06th Jan 18
+377,The Invisible Hours,XOne,Tequila Works  ,Tequila Works  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,24th Apr 18  ,17th Sep 18
+378,Marvel's Guardians of the Galaxy: The Telltale Series,XOne,Warner Bros. Interactive Entertainment  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,02nd May 17  ,27th Jun 18
+379,Call of Cthulhu,XOne,Focus Home Interactive  ,Cyanide  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,30th Oct 18  ,23rd Mar 19
+380,Baja: Edge of Control HD,XOne,THQ Nordic  ,2XL Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,14th Sep 17  ,29th Jun 18
+381,The Long Dark,XOne,Skybound Games  ,Hinterland Studio Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,04th Sep 18  ,07th Aug 18
+382,Pro Evolution Soccer 2019,XOne,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.02m,0.02m,N/A,0.00m,28th Aug 18  ,26th Sep 18
+383,Strange Brigade,XOne,Rebellion Developments  ,Rebellion Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.01m,28th Aug 18  ,26th Apr 18
+384,Agatha Christie's The ABC Murders,XOne,Unfinished Pixel  ,Artefacts Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.00m,N/A,0.01m,23rd Feb 16  ,27th Jun 18
+385,Brothers: A Tale of Two Sons,XOne,505 Games  ,Starbreeze Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.01m,01st Sep 15  ,27th Jun 18
+386,Golf Club 2019,XOne,2K Games  ,HB Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,13th Nov 18  ,11th Sep 18
+387,The Banner Saga Trilogy - Bonus Edition,XOne,505 Games  ,Stoic Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,27th Jul 18  ,20th Apr 18
+388,The Walking Dead: A Telltale Series Collection,XOne,Warner Bros. Interactive Entertainment  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.05m,N/A,N/A,0.01m,05th Dec 17  ,N/A
+389,Rugby 18,XOne,Koch Media  ,EKO Software  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,24th Oct 17  ,07th Aug 18
+390,Has-Been Heroes,XOne,GameTrust  ,Frozenbyte  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,28th Mar 17  ,N/A
+391,Deformers,XOne,Ready at Dawn  ,Ready at Dawn  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,21st Apr 17  ,N/A
+392,Extinction,XOne,Maximum Games  ,Iron Galaxy  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,10th Apr 18  ,01st Feb 18
+393,Resident Evil 4,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,30th Aug 16  ,04th Sep 18
+394,The Technomancer,XOne,Focus Home Interactive  ,Spiders  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.03m,0.02m,N/A,0.00m,28th Jun 16  ,27th Jun 18
+395,Surviving Mars,XOne,Maximum Games  ,Haemimont Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,15th Mar 18  ,18th Mar 18
+396,Cars 3: Driven to Win,XOne,Warner Bros. Interactive Entertainment  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,13th Jun 17  ,14th Jan 18
+397,Red Faction: Guerrilla Re-Mars-tered,XOne,THQ Nordic  ,Volition  ,5.0  ,N/A  ,N/A  ,N/A,0.05m,0.04m,0.01m,N/A,0.00m,03rd Jul 18  ,20th Apr 18
+398,Pillars of Eternity,XOne,Paradox Interactive   ,Obsidian Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,29th Aug 17  ,27th Jun 18
+399,Just Sing,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,06th Sep 16  ,27th Jun 18
+400,Carnival Games,XOne,2K Games  ,Cat Daddy Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,06th Nov 18  ,22nd Sep 18
+401,Mighty No. 9,XOne,Eidos Interactive Ltd  ,Comcept  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,01st Jul 15  ,04th Jul 18
+402,Batman: The Enemy Within,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,03rd Oct 17  ,29th Jun 18
+403,WRC 7,XOne,Bigben Interactive  ,Kylotonn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,03rd Oct 17  ,06th Jan 18
+404,King's Quest: The Complete Collection,XOne,Activision  ,The Odd Gentlemen  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,24th Oct 16  ,18th Dec 18
+405,Fishing Sim World,XOne,Dovetail Games  ,Dovetail Games  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,18th Sep 18  ,02nd Aug 18
+406,Ashes Cricket,XOne,Koch Media  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,N/A,0.04m,N/A,0.00m,16th Nov 17  ,04th Jan 18
+407,Marvel Pinball: Epic Collection Volume 1,XOne,Nighthawk Interactive  ,Nighthawk Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,08th Nov 16  ,27th Jun 18
+408,Atari Flashback Classics: Volume 3,XOne,Funbox Media  ,Atari  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.01m,28th Sep 18  ,27th Oct 18
+409,Gravel,XOne,Milestone S.r.l.  ,Milestone S.r.l  ,N/A  ,N/A  ,N/A  ,N/A,0.05m,0.04m,N/A,N/A,0.00m,27th Feb 18  ,13th Jan 18
+410,Road Rage,XOne,Maximum Games  ,Team 6 Games Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,14th Nov 17  ,19th Jan 18
+411,Devil May Cry HD Collection,XOne,Capcom  ,Capcom  ,6.0  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,13th Mar 18  ,29th Jan 18
+412,Paw Patrol on a Roll,XOne,Outright Games  ,Outright Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,23rd Oct 18  ,07th Aug 18
+413,Dragon's Dogma: Dark Arisen,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,03rd Oct 17  ,22nd Mar 19
+414,Deer Hunter Reloaded,XOne,GameMill Entertainment  ,GameMill  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,24th Oct 17  ,N/A
+415,Overcooked,XOne,Sold Out  ,Ghost Town Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,15th Nov 16  ,28th Jun 18
+416,Hotel Transylvania 3: Monsters Overboard,XOne,Outright Games  ,Torus Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,10th Jul 18  ,24th Mar 19
+417,Resident Evil 5,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,12th Jul 16  ,04th Sep 18
+418,Darksiders: Warmastered Edition,XOne,THQ Nordic  ,Kaiko  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,22nd Nov 16  ,31st Mar 18
+419,Valkyria Revolution,XOne,Sega  ,Media.Vision  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,27th Jun 17  ,21st Jan 18
+420,Adventure Time: Pirates of the Enchiridion,XOne,Outright Games  ,Outright Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,17th Jul 18  ,17th Mar 19
+421,Game of Thrones: A Telltale Games Series,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,03rd Dec 14  ,04th Jan 19
+422,Scribblenauts Mega Pack,XOne,Warner Bros. Interactive Entertainment  ,Shiver Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,18th Sep 18  ,20th Feb 19
+423,Terraria,XOne,505 Games  ,Re-Logic  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,0.04m,N/A,0.00m,02nd Dec 14  ,19th Mar 18
+424,Mega Man X Legacy Collection 1+2,XOne,Capcom Entertainment  ,Digital Eclipse Software  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,24th Jul 18  ,18th Aug 18
+425,Elex,XOne,THQ Nordic  ,Piranha Bytes  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,17th Oct 17  ,30th Jun 18
+426,Dark Souls Trilogy,XOne,Namco Bandai  ,From Software  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,19th Oct 18  ,24th Aug 18
+427,Battle Chasers: Nightwar,XOne,THQ Nordic  ,Airship Syndicate  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,03rd Oct 17  ,22nd Sep 18
+428,Don't Starve: Giant Edition,XOne,505 Games  ,Klei Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.04m,N/A,N/A,0.00m,17th Apr 18  ,12th Jan 18
+429,Mutant Football League: Dynasty Edition,XOne,Nighthawk Interactive  ,Digital Dreams  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,30th Oct 18  ,08th Nov 18
+430,Dead Rising 2,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,27th Sep 16  ,N/A
+431,Don Bradman Cricket 14,XOne,Tru Blu Entertainment  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,0.04m,N/A,0.00m,01st Apr 15  ,N/A
+432,Shadows Awakening,XOne,Kalypso Media  ,Games Farm  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,04th Sep 18  ,08th Jun 18
+433,Monster Jam: Crush It,XOne,GameMill  ,GameMill  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,17th Jan 17  ,N/A
+434,Shadow Warrior (2013),XOne,Devolver Digital  ,Flying Wild Hog  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,N/A,0.04m,N/A,0.00m,21st Oct 14  ,16th Nov 18
+435,Dead Alliance,XOne,Maximum Games  ,IllFonic  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,29th Aug 17  ,17th Sep 18
+436,Warriors Orochi 3,XOne,Tecmo Koei  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.01m,0.03m,N/A,0.00m,02nd Sep 14  ,30th Jun 18
+437,Dead Rising,XOne,Capcom  ,Capcom Production Studio 1  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,13th Sep 16  ,N/A
+438,Assassin's Creed Rogue Remastered,XOne,Ubisoft  ,Ubisoft  ,6.0  ,6.0  ,N/A  ,N/A,0.04m,N/A,0.03m,N/A,0.00m,20th Mar 18  ,29th Jan 18
+439,Valkyria Chronicles 4,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,25th Sep 18  ,19th Jun 18
+440,Scribblenauts: Showdown,XOne,Warner Bros. Interactive  ,Shiver Games  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,06th Mar 18  ,03rd Apr 18
+441,Sine Mora EX,XOne,THQ Nordic  ,Digital Reality  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,08th Aug 17  ,15th Aug 18
+442,Warriors  Orochi 4,XOne,Koei Tecmo  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,16th Oct 18  ,11th Nov 18
+443,Tennis World Tour,XOne,Bigben Interactive  ,Breakpoint Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.04m,0.03m,N/A,N/A,0.00m,22nd May 18  ,26th Sep 18
+444,WRC 6,XOne,Namco Bandai Games  ,Bigben Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,03rd Mar 17  ,12th Aug 18
+445,Onrush,XOne,Deep Silver  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,05th Jun 18  ,04th Mar 18
+446,Earthfall,XOne,Gearbox Software  ,Holospark  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,13th Jul 18  ,25th May 18
+447,Ride 3,XOne,Bandai Namco Entertainment  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,30th Nov 18  ,21st Mar 19
+448,8-Bit Armies,XOne,Soedesco  ,Petroglyph Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,21st Sep 18  ,28th Jun 18
+449,Immortal Unchained,XOne,Sold Out  ,Toadman Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,07th Sep 18  ,20th Apr 18
+450,Railway Empire,XOne,Kalypso Media  ,Gaming Minds Studios  ,N/A  ,N/A  ,8.3  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,30th Jan 18  ,07th Jan 18
+451,MXGP Pro,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,10th Jul 18  ,26th Apr 18
+452,Black Mirror,XOne,THQ Nordic  ,KING Art Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,28th Nov 17  ,20th Aug 18
+453,Pure Farming 2018,XOne,Techland  ,Ice Flames  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,13th Mar 18  ,19th Jul 18
+454,World of Final Fantasy Maxima,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,06th Nov 18  ,13th Sep 18
+455,MotoGP 15,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,N/A,0.03m,N/A,0.00m,24th Jun 15  ,24th Apr 18
+456,Raid: World War II,XOne,505 Games  ,Lion Game Lion  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,10th Oct 17  ,11th Aug 18
+457,Train Sim World,XOne,Maximum Games  ,Dovetail Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,24th Jul 18  ,08th Jun 18
+458,Divinity: Original Sin II,XOne,Bandai Namco Entertainment  ,Larian Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,31st Aug 18  ,04th Jun 18
+459,Super Bomberman R,XOne,Konami Digital Entertainment  ,HexaDrive  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,12th Jun 18  ,24th Sep 18
+460,Carmageddon: Max Damage,XOne,Stainless Games  ,Stainless Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,0.01m,N/A,0.00m,01st Jan 17  ,N/A
+461,INSIDE / LIMBO Double Pack,XOne,505 Games  ,Playdead  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,12th Sep 17  ,07th Aug 18
+462,Warhammer: The End Times - Vermintide,XOne,Games Workshop  ,Fatshark  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.03m,N/A,N/A,0.00m,04th Oct 16  ,11th Aug 18
+463,Stardew Valley,XOne,505 Games  ,ConcernedApe  ,N/A  ,8.8  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.00m,11th Apr 17  ,21st Mar 18
+464,Shining Resonance Refrain,XOne,Sega  ,Media.Vision  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.00m,10th Jul 18  ,15th Sep 18
+465,Beast Quest,XOne,Maximum Games  ,Torus Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.00m,13th Mar 18  ,08th Jan 18
+466,Ben 10 (2017),XOne,Outright Games  ,Torus Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.00m,14th Nov 17  ,21st Jan 19
+467,The Raven Remastered,XOne,THQ Nordic  ,KING Art Games  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.00m,13th Mar 18  ,29th Jan 18
+468,The Pillars of the Earth,XOne,Kalypso Media  ,Daedalic Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.00m,28th Nov 17  ,15th Sep 18
+469,Rime,XOne,Grey Box  ,Tequila Works  ,N/A  ,N/A  ,N/A  ,N/A,0.03m,0.02m,N/A,N/A,0.00m,26th May 17  ,11th Aug 18
+470,Worms: WMD,XOne,Team17 Digital Ltd  ,Team17 Digital Ltd  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,23rd Aug 16  ,12th Aug 18
+471,Syberia III,XOne,Microids  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,25th Apr 17  ,12th Aug 18
+472,Agony,XOne,Maximum Games  ,Madmind Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,29th May 18  ,30th Apr 18
+473,Moto Racer 4,XOne,Microids  ,Microids  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,24th Jan 17  ,N/A
+474,Sudden Strike 4,XOne,Kalypso Media  ,Kite Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,26th Jun 18  ,24th Mar 18
+475,Bridge Constructor Portal,XOne,Nighthawk Interactive  ,ClockStone  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,28th Aug 18  ,09th Jul 18
+476,Rugby League Live 4,XOne,Tru Blu Entertainment  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.02m,N/A,0.00m,28th Jul 17  ,13th Aug 18
+477,ABZU,XOne,505 Games  ,Giant Squid Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,31st Jan 17  ,01st Aug 18
+478,Pharaonic,XOne,Soedesco  ,Milkstone Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,29th Sep 17  ,13th Aug 18
+479,ATV Drift & Tricks,XOne,Microids  ,Artefacts Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,20th Nov 18  ,31st Oct 18
+480,Titan Quest,XOne,THQ Nordic  ,THQ Nordic  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,20th Mar 18  ,31st Mar 18
+481,Geometry Wars 3: Dimensions Evolved,XOne,Activision  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,11th Oct 16  ,N/A
+482,Override: Mech City Brawl,XOne,Modus Games  ,The Balance Inc  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,04th Dec 18  ,28th Mar 19
+483,Resident Evil: Revelations,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,29th Aug 17  ,16th Mar 18
+484,Broken Sword 5: The Serpent's Curse,XOne,Revolution Software  ,Revolution Software  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.02m,N/A,0.00m,04th Sep 15  ,13th Aug 18
+485,Rugby World Cup 2015,XOne,Big Ben Interactive  ,HB Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.02m,N/A,0.00m,04th Sep 15  ,19th Apr 18
+486,The Crew: Wild Run,XOne,Ubisoft  ,Ivory Tower  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.02m,N/A,0.00m,17th Nov 15  ,04th Jan 18
+487,Prison Architect,XOne,Introversion Software  ,Introversion Software  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,28th Jun 16  ,18th Aug 18
+488,South Park: The Stick of Truth,XOne,Ubisoft  ,Obsidian Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,13th Feb 18  ,19th Mar 18
+489,The Dwarves,XOne,THQ Nordic  ,KING Art Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,01st Dec 16  ,18th Aug 18
+490,Big Buck Hunter Arcade,XOne,GameMill Entertainment  ,Play Mechanix  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,25th Oct 16  ,02nd Oct 20
+491,8 to Glory: The Official Game of the PBR,XOne,THQ Nordic  ,Three Gates  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,30th Oct 18  ,30th Sep 18
+492,This Is the Police 2,XOne,THQ Nordic  ,Weappy Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,25th Sep 18  ,24th Mar 19
+493,Redout,XOne,505 Games  ,Nicalis  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,29th Aug 17  ,15th Aug 18
+494,Troll and I,XOne,Maximum Games  ,Spiral House  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,21st Mar 17  ,20th Aug 18
+495,Portal Knights,XOne,505 Games  ,Keen Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,23rd May 17  ,03rd Jul 18
+496,Past Cure,XOne,Phantom 8 Studio  ,Phantom 8 Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,23rd Feb 18  ,08th Jan 18
+497,Shaq-Fu: A Legend Reborn,XOne,Wired Productions  ,Big Deez Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,05th Jun 18  ,18th Mar 19
+498,Psycho-Pass: Mandatory Happiness,XOne,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,N/A,0.02m,N/A,01st Jan 15  ,11th Sep 18
+499,Space Hulk Tactics,XOne,Focus Home Interactive  ,Cyanide  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,09th Oct 18  ,28th Jun 18
+500,Tropico 5,XOne,Kalypso Media  ,Haemimont Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,24th May 16  ,20th Aug 18
+501,Back to the Future: The Game,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.02m,N/A,0.00m,13th Oct 15  ,23rd Apr 18
+502,Saints Row: Gat out of Hell,XOne,Deep Silver  ,Volition Inc.  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.02m,N/A,0.00m,20th Jan 15  ,N/A
+503,Mega Man Legacy Collection 2,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,08th Aug 17  ,20th Aug 18
+504,Dungeons 3,XOne,Kalypso Media  ,Realmforge Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,17th Oct 17  ,03rd Mar 18
+505,Rad Rodgers,XOne,THQ Nordic  ,3D Realms  ,5.0  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,21st Feb 18  ,08th Jan 18
+506,Blackguards 2,XOne,Kalypso Media  ,Daedalic Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,19th Sep 17  ,15th Sep 18
+507,Rogue Trooper Redux,XOne,Rebellion  ,TickTock Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,17th Oct 17  ,13th Sep 18
+508,"Warhammer 40,000: Inquisitor - Martyr",XOne,Neocore Games  ,Neocore Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.02m,N/A,N/A,0.00m,28th Aug 18  ,24th Mar 18
+509,Vikings: Wolves of Midgard,XOne,Kalypso Media  ,Games Farm  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,N/A,N/A,0.00m,28th Mar 17  ,06th Feb 18
+510,The Inner World: The Last Wind Monk,XOne,Kalypso Media  ,Studio Fizbin  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,N/A,N/A,0.00m,24th Oct 17  ,15th Sep 18
+511,Assetto Corsa,XOne,505 Games  ,Kunos Simulazioni  ,N/A  ,6.0  ,N/A  ,N/A,0.02m,N/A,0.01m,N/A,0.00m,30th Aug 16  ,17th Sep 18
+512,Le Tour de France 2017,XOne,Focus Home Interactive  ,Cyanide Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.01m,N/A,0.00m,15th Jun 17  ,12th Aug 18
+513,Crayola Scoot,XOne,Outright Games  ,Outright Games  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,N/A,N/A,0.00m,16th Oct 18  ,07th Aug 18
+514,Lock's Quest,XOne,THQ Nordic  ,5TH Cell  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,N/A,N/A,0.00m,30th May 17  ,11th Sep 18
+515,Dakar 18,XOne,Deep Silver  ,Bigmoon Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,0.01m,N/A,N/A,0.00m,25th Sep 18  ,22nd Jul 18
+516,WRC 5: FIA World Rally Championship,XOne,Bigben Interactive  ,Kylotonn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.02m,N/A,0.01m,N/A,0.00m,24th Nov 15  ,24th Apr 18
+517,Yoku's Island Express,XOne,Villa Gorilla  ,Villa Gorilla  ,N/A  ,9.0  ,N/A  ,N/A,0.02m,0.01m,N/A,N/A,0.00m,19th Jun 18  ,31st Mar 19
+518,FlatOut 4: Total Insanity,XOne,Strategy First  ,Kylotonn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,05th May 17  ,15th Sep 18
+519,Tempest 4000,XOne,Atari  ,Llamasoft  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,27th Jul 18  ,09th May 18
+520,Shadow Tactics: Blades of the Shogun,XOne,Kalypso Media  ,Mimimi Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,01st Aug 17  ,15th Sep 18
+521,The Town of Light,XOne,THQ Nordic  ,LKA  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,24th Mar 17  ,01st Feb 18
+522,Goat Simulator: The Bundle,XOne,Koch Media  ,Coffee Stain Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,04th Mar 16  ,11th Sep 18
+523,Project Highrise: Architect's Edition,XOne,Kalypso Media  ,SomaSim  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,13th Nov 18  ,22nd Mar 19
+524,Mothergunship,XOne,Sold Out  ,Grip Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,24th Aug 18  ,03rd Apr 18
+525,Rugby League Live 3,XOne,Tru Blu Entertainment  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,17th Sep 15  ,19th Apr 18
+526,Assassin's Creed Chronicles,XOne,Ubisoft  ,Climax Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,09th Feb 16  ,03rd Jul 18
+527,Sébastien Loeb Rally EVO,XOne,Square Enix  ,Milestone S.r.l  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,22nd Mar 16  ,13th Sep 18
+528,Rugby Challenge 3,XOne,Alternative Software  ,Wicked Witch Software  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,22nd Apr 16  ,18th Apr 18
+529,Rabbids Invasion: The Interactive TV Show,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,18th Nov 14  ,03rd Jan 19
+530,Zombi,XOne,Ubisoft  ,Ubisoft Montpellier  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,21st Jan 16  ,17th Jan 18
+531,This War of Mine,XOne,11 bit studios  ,11 bit studios  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,29th Jan 16  ,N/A
+532,Battle Worlds: Kronos,XOne,Nordic Games  ,KING Art Games  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,10th May 16  ,01st Aug 18
+533,ScreamRide,XOne,Microsoft Studios  ,Frontier Developments  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,03rd Mar 15  ,24th Apr 18
+534,Torment: Tides of Numenera,XOne,Techland  ,InXile Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,28th Feb 17  ,09th Aug 18
+535,V-Rally 4,XOne,Bigben Interactive  ,Kylotonn  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,11th Sep 18  ,22nd Mar 19
+536,Jagged Alliance: Rage!,XOne,THQ Nordic  ,Cliffhanger Productions  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.01m,N/A,N/A,0.00m,07th Dec 18  ,11th Sep 18
+537,Ziggurat,XOne,Milkstone Studios  ,Milkstone Studios  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,N/A,0.01m,N/A,0.00m,20th Mar 15  ,14th Sep 18
+538,ATV Renegades,XOne,Nighthawk Interactive  ,Nighthawk Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.00m,N/A,N/A,0.00m,18th Apr 17  ,14th Sep 18
+539,This Is The Police,XOne,THQ Nordic  ,Weappy Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.01m,0.00m,N/A,N/A,0.00m,22nd Mar 17  ,15th Sep 18
+540,Valhalla Hills: Definitive Edition,XOne,Kalypso Media  ,Daedalic Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,0.00m,N/A,N/A,0.00m,25th Apr 17  ,15th Sep 18
+541,Handball 16,XOne,Bigben Interactive  ,EKO Software  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,27th Nov 15  ,24th Apr 18
+542,Blood Bowl 2,XOne,Focus Home Interactive  ,Cyanide Studio  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,29th May 15  ,15th Sep 18
+543,The Peanuts Movie: Snoopy's Grand Adventure,XOne,Activision  ,Behaviour Interactive  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,03rd Nov 15  ,01st Apr 18
+544,Farming 2017 - The Simulation,XOne,UIG Entertainment  ,UIG Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,19th Aug 16  ,09th Apr 18
+545,Kung Fu Panda: Showdown of Legendary Legends,XOne,Little Orbit  ,Little Orbit  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,01st Dec 15  ,09th Apr 18
+546,Strider (2014),XOne,Capcom  ,Double Helix Games  ,N/A  ,N/A  ,N/A  ,N/A,0.00m,N/A,0.00m,N/A,0.00m,19th Feb 14  ,03rd Jan 19
+547,#IDARB,XOne,Other Ocean Interactive  ,Other Ocean Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 15  ,N/A
+548,A Boy and His Blob,XOne,Unknown  ,WayForward Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+549,Ace Combat 7: Skies Unknown,XOne,Bandai Namco Games  ,Namco Bandai Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jan 19  ,25th Jan 19
+550,AereA,XOne,Soedesco  ,Triangle Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jul 17  ,01st Aug 18
+551,Afro Samurai 2,XOne,Versus Evil  ,Redacted Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 15  ,N/A
+552,Agatha Christie: The ABC Murders,XOne,Microids  ,Artefacts Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Feb 16  ,01st Aug 18
+553,AirMech Arena,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th May 15  ,N/A
+554,Alekhine's Gun,XOne,Maximum Games  ,Maximum Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 16  ,01st Aug 18
+555,Another World,XOne,Adult Dream  ,DotEmu  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+556,Anthem,XOne,Electronic Arts  ,BioWare Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Feb 19  ,10th Jun 18
+557,Assassin's Creed Chronicles: China,XOne,Ubisoft  ,Climax Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Apr 15  ,30th Dec 18
+558,Assassin's Creed Chronicles: India,XOne,Ubisoft  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jan 16  ,N/A
+559,Assassin's Creed Chronicles: Russia,XOne,Ubisoft  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Feb 16  ,N/A
+560,Axiom Verge,XOne,Thomas Happ Games  ,Thomas Happ Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 17  ,N/A
+561,Azito x Tatsunoko Legends,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+562,Aztez,XOne,Team Colorblind  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,N/A
+563,BADLAND: Game of the Year Edition,XOne,Frogmind  ,Frogmind  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th May 15  ,08th Apr 19
+564,Below,XOne,Capybara Games  ,Capybara Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 18  ,09th Aug 18
+565,Beyond Eyes,XOne,Team17 Software  ,Tiger & Squid  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Aug 15  ,N/A
+566,Biomutant,XOne,THQ Nordic  ,Experiment 101  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 19  ,N/A
+567,Bladestorm: The Hundred Years' War,XOne,BioWare  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Mar 15  ,N/A
+568,Blue Estate,XOne,Focus Home Interactive  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,N/A
+569,Brothers in Arms: Furious 4,XOne,Ubisoft  ,Gearbox Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 18  ,N/A
+570,Buzz Buzz Bang,XOne,Unknown  ,keith curtis  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+571,Carmageddon: Reincarnation,XOne,Stainless Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st May 15  ,N/A
+572,Chaos;Child,XOne,5pb  ,5pb. Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Dec 14  ,24th Mar 19
+573,Chariot,XOne,Frima Studio  ,Frima Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,05th Jan 18
+574,Child of Light,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 14  ,30th Dec 18
+575,Cobalt,XOne,Mojang  ,Oxeye Game Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Feb 16  ,N/A
+576,Costume Quest 2,XOne,Double Fine Productions  ,Double Fine Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Oct 14  ,N/A
+577,Crackdown 3,XOne,Microsoft Studios  ,Sumo Digital Ltd  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 19  ,12th Aug 20
+578,Crimson Dragon,XOne,Microsoft Studios  ,Grounding Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 13  ,10th Aug 18
+579,Cross Reverie,XOne,Sinxsoft  ,Sinxsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Apr 17  ,N/A
+580,Cult County,XOne,Renegade Kid  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+581,Cuphead,XOne,Studio MDHR  ,Studio MDHR  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Sep 17  ,01st Aug 20
+582,D4: Dark Dreams Don't Die,XOne,Microsoft Studios  ,Access Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 13  ,10th Aug 18
+583,De-formers,XOne,GameTrust  ,Ready at Dawn  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+584,Dead Island 2,XOne,Deep Silver  ,Dambuster Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 18  ,20th Aug 19
+585,Dear Esther: Landmark Edition,XOne,Good Shepherd Entertainment  ,thechineseroom  ,N/A  ,N/A  ,4.1  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 16  ,12th Apr 19
+586,Defense Grid 2,XOne,505 Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 14  ,N/A
+587,Devil May Cry 4 Special Edition,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jun 15  ,11th Sep 18
+588,Divekick,XOne,Namco Networks America Inc.  ,Namco Networks America Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+589,Don Bradman Cricket 17,XOne,Tru Blu Entertainment  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Dec 16  ,N/A
+590,EA Sports PGA Tour,XOne,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 15  ,N/A
+591,Fable Legends,XOne,Microsoft Studios  ,Lionhead Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 16  ,N/A
+592,Fe,XOne,Electronic Arts  ,Zoink Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Feb 18  ,18th Jul 18
+593,Fenix Rage,XOne,Green Lava Studios  ,Green Lava Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,N/A
+594,FORCED,XOne,BetaDwarf  ,BetaDwarf  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+595,FRU,XOne,Through Games  ,Through Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jul 16  ,10th Aug 18
+596,Fruit Ninja Kinect 2,XOne,Halfbrick Studios  ,Halfbrick Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Mar 16  ,N/A
+597,Funk of Titans,XOne,A Crowd of Monsters  ,Atooi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jan 15  ,N/A
+598,Geometry Wars 3: Dimensions,XOne,Sierra Entertainment  ,Lucid Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Nov 14  ,N/A
+599,Get Even,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+600,Gigantic,XOne,Perfect World Entertainment  ,Motiga  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jul 17  ,N/A
+601,Gone Home,XOne,Majesco Entertainment  ,The Fullbright Company  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jan 16  ,22nd Jan 18
+602,Goosebumps: The Game,XOne,WayForward Technologies  ,WayForward Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Oct 15  ,N/A
+603,Guacamelee!,XOne,DrinkBox Studios  ,DrinkBox Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 14  ,07th Aug 18
+604,Gunscape,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,N/A
+605,Halo: Spartan Assault,XOne,Microsoft Studios  ,Vanguard Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Dec 13  ,27th Sep 18
+606,Hellraid,XOne,Techland  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+607,Human Element,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Oct 15  ,N/A
+608,Hyper Light Drifter,XOne,Rebellion Games  ,Rebellion Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 16  ,N/A
+609,Industry Giant II,XOne,UIG Entertainment  ,"Reactor, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Mar 17  ,21st Sep 18
+610,Inside,XOne,Playdead  ,Playdead  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+611,Inside My Radio,XOne,Seaven Studio  ,Seaven Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+612,Iron Harvest,XOne,Deep Silver  ,KING Art Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 20  ,27th Jan 20
+613,Kaiju Panic,XOne,Mechabit  ,Mechabit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+614,KickBeat,XOne,Zen Studios  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,N/A
+615,King of Wushu,XOne,Snail Game  ,Snail Game  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+616,Kingdom Hearts III,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jan 19  ,22nd Dec 17
+617,Knight Squad,XOne,Chainsawesome Games  ,Chainsawesome Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Nov 15  ,19th Jul 18
+618,Lara Croft and the Temple of Osiris,XOne,Square Enix  ,Crystal Dynamics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Dec 14  ,30th Jul 18
+619,Legend of Raven,XOne,Nicalis  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 14  ,N/A
+620,Lifeless Planet,XOne,Williams Entertainment Inc.  ,Williams Entertainment Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th May 15  ,N/A
+621,LIMBO,XOne,Playdead  ,Playdead  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Dec 14  ,N/A
+622,LocoCycle,XOne,Microsoft Studios  ,Twisted Pixel Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 13  ,09th Aug 18
+623,Lovers in a Dangerous Spacetime,XOne,Asteroid Base  ,Asteroid Base  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+624,Magic Duels: Origin,XOne,Wizards of the Coast  ,Wizards of the Coast  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+625,Max: The Curse of Brotherhood,XOne,Microsoft Studios  ,Press Play  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 13  ,23rd Mar 19
+626,Mercury,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+627,Metro Exodus,XOne,Deep Silver  ,4a-games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 19  ,01st Jan 18
+628,Monochroma,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 14  ,N/A
+629,Moons Of Madness,XOne,Funcom   ,Rock Pocket Ltd  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Mar 20  ,16th Jan 20
+630,Mount & Blade: Warband,XOne,Koch Media  ,Taleworlds  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Sep 16  ,15th Sep 18
+631,Mystereet F: The Detectives' Curtain Call,XOne,5pb  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,N/A
+632,Nero,XOne,Game Grinder  ,Game Grinder  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+633,Never Alone,XOne,E-Line Media  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Nov 14  ,N/A
+634,Neverwinter,XOne,Perfect World Entertainment  ,Cryptic Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 15  ,N/A
+635,No Time to Explain,XOne,TinyBuild Games  ,TinyBuild Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jul 15  ,N/A
+636,Not a Hero,XOne,Devolver Digital  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 15  ,N/A
+637,Oceanhorn: Monster of Uncharted Seas,XOne,FDG Entertainment  ,Cornfox & Brothers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Sep 16  ,20th Apr 19
+638,Oddworld: Abe's Oddysee New N' Tasty!,XOne,Oddworld Inhabitants  ,Just Add Water  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Mar 15  ,N/A
+639,Ori and the Blind Forest,XOne,Microsoft Studios  ,Moon Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Mar 15  ,04th Jan 18
+640,Overlord: Fellowship of Evil,XOne,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Oct 15  ,N/A
+641,Pathologic,XOne,Ice-pick Lodge  ,Ice-pick Lodge  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+642,Peggle 2,XOne,Electronic Arts  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Dec 13  ,N/A
+643,Phantom Dust,XOne,Microsoft Studios  ,Code Mystics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 17  ,09th Aug 18
+644,Pier Solar and the Great Architects,XOne,WaterMelon  ,WaterMelon Development  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 14  ,N/A
+645,Pinball FX 2,XOne,Zen Studios  ,Zen Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 14  ,N/A
+646,Pit People,XOne,The Behemoth  ,The Behemoth  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Mar 18  ,11th Sep 18
+647,Plague Inc.,XOne,Ndemic Creations  ,Ndemic Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+648,Pneuma: Breath of Life,XOne,Deco Digital  ,Deco Digital  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Feb 15  ,N/A
+649,Powerstar Golf,XOne,Microsoft Studios  ,Zoe Mode  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 13  ,09th Aug 18
+650,Pro Cycling Manager 2016,XOne,Focus Home Interactive  ,Cyanide Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jun 16  ,30th Jun 18
+651,Professional Farmer 2016,XOne,Namco Bandai Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 15  ,N/A
+652,Professional Lumberjack 2016,XOne,Namco Bandai Games  ,UIG Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Mar 15  ,18th Jun 18
+653,Pure Pool,XOne,Triniti Interactive  ,VooFoo Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,31st Jan 18
+654,Puyo Puyo Tetris,XOne,Sega  ,Sonic Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 14  ,04th Jul 18
+655,R.B.I. Baseball 14,XOne,MLB.com  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 14  ,N/A
+656,R.B.I. Baseball 15,XOne,MLB.com  ,MLB.com  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st May 15  ,11th Aug 18
+657,Raiden V,XOne,Moss  ,Moss  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 16  ,27th Apr 18
+658,Raven's Cry,XOne,TopWare Interactive  ,Reality Pump Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Nov 14  ,30th Jul 18
+659,Razor Global Domination Pro Tour,XOne,Renegade Kid  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 16  ,N/A
+660,Red Goddess,XOne,Yanim Studio  ,Yanim Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 18  ,07th Sep 18
+661,Reus,XOne,Soedesco  ,Abbey Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Oct 16  ,07th Aug 18
+662,Rock of Ages II: Bigger and Boulder,XOne,Atlus  ,ACE Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 17  ,N/A
+663,Rogue Legacy,XOne,Cellar Door Games  ,Cellar Door Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th May 15  ,N/A
+664,Scalebound,XOne,Microsoft Studios  ,PlatinumGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 17  ,N/A
+665,Sea Animal Games for Toddlers and Kids with Jigsaw Puzzles,XOne,Ubisoft  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 13  ,N/A
+666,Shantae: Half-Genie Hero,XOne,WayForward Technologies  ,Way Forward Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Dec 16  ,30th Dec 18
+667,Shiftlings,XOne,Sierra Entertainment  ,Rock Pocket Ltd  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Mar 15  ,N/A
+668,Shiness: The Lightning Kingdom,XOne,Focus Home Interactive  ,Enigami SAS  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Apr 17  ,14th Sep 18
+669,Shooting Love Trilogy,XOne,Triangle Service  ,Triangle Service  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 15  ,N/A
+670,SlashDash,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,N/A
+671,Slender: The Arrival,XOne,Unknown  ,Polytron Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Mar 15  ,N/A
+672,Source,XOne,Fenix Fire  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jul 15  ,N/A
+673,Space Engineers,XOne,Keen Software House  ,Keen Software House  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Apr 20  ,N/A
+674,Space Hulk: Deathwing,XOne,Focus Home Interactive  ,Cyanide Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 18  ,N/A
+675,Spectra,XOne,Gateway Interactive  ,Gateway Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th May 15  ,09th Aug 18
+676,Spectra 8bit Racing,XOne,NetherRealm Studios / Other Ocean Interactive  ,NetherRealm Studios / Other Ocean Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+677,Spellforce Universe,XOne,Konami Digital Entertainment  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Mar 14  ,N/A
+678,Stranger of Sword City,XOne,Experience Inc.  ,Experience Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 16  ,28th Jul 18
+679,Strike Suit Zero,XOne,Born Ready Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Apr 14  ,N/A
+680,Super Dungeon Bros,XOne,Wired Productions  ,React Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Nov 16  ,16th Sep 18
+681,Super Time Force,XOne,Capybara Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 14  ,N/A
+682,SUPERHOT,XOne,SUPERHOT Team  ,SUPERHOT Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd May 16  ,07th Sep 18
+683,Tachyon Project,XOne,Eclipse Games  ,Eclipse Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jul 15  ,N/A
+684,Tales from the Borderlands,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Nov 14  ,N/A
+685,Tembo the Badass Elephant,XOne,Sega  ,Game Freak  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jul 15  ,N/A
+686,Tetris Ultimate,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 14  ,29th Jul 18
+687,The Banner Saga,XOne,Versus Evil  ,Stoic Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jan 16  ,N/A
+688,The Banner Saga 2,XOne,Versus Evil  ,Stoic Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 16  ,N/A
+689,The Binding of Isaac: Rebirth,XOne,Nicalis  ,Nicalis  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jul 15  ,06th Aug 18
+690,The Book of Unwritten Tales 2,XOne,Nordic Games  ,KING Art Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Sep 15  ,17th Dec 18
+691,The Escapists,XOne,Team17 Software  ,Mouldy Toof Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Feb 15  ,N/A
+692,The Escapists: The Walking Dead,XOne,Team17 Software  ,Team17 Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 15  ,21st Sep 18
+693,The Legend of Korra (2014),XOne,Activision  ,PlatinumGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 14  ,N/A
+694,The Sexy Brutale,XOne,Tequila Works  ,Tequila Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Apr 17  ,N/A
+695,The Walking Dead: Michonne,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 16  ,N/A
+696,The Walking Dead: Season Three,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+697,There Came an Echo,XOne,Iridium  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Feb 15  ,N/A
+698,Threes!,XOne,Sirvo LLC  ,Sirvo LLC  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Dec 14  ,N/A
+699,Unmechanical,XOne,Grip Games  ,Grip Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jan 15  ,N/A
+700,Unravel,XOne,Electronic Arts  ,ColdWood Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Feb 16  ,N/A
+701,Valiant Hearts: The Great War,XOne,Ubisoft  ,Ubisoft Montpellier  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jun 14  ,06th Jan 18
+702,We Sing (2016),XOne,THQ Nordic  ,THQ Nordic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 16  ,07th Sep 18
+703,Whore of the Orient,XOne,Warner Bros. Interactive Entertainment  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+704,Wonder Boy: The Dragon's Trap (Remake),XOne,DotEmu  ,Lizardcube  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Apr 17  ,10th Aug 18
+705,WonderFlick,XOne,Level 5  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,N/A
+706,Woodcutter Simulator 2016,XOne,Namco Bandai Games  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 15  ,N/A
+707,Woolfe: The Red Hood Diaries,XOne,GriN Multimedia  ,GriN Multimedia  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,N/A
+708,World to the West,XOne,Rain Games  ,Rain Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th May 17  ,07th Sep 18
+709,Worms Battlegrounds,XOne,Team17 Software  ,Team17  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 15  ,25th May 18
+710,Wulverblade,XOne,Darkwind Media  ,Darkwind Media  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jan 18  ,N/A
+711,Xbox Fitness,XOne,Microsoft Studios  ,Sumo Digital  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 13  ,09th Aug 18
+712,Gears 5: Hivebusters,XOne,Unknown  ,The Coalition  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jan 21
+713,The Dark Pictures: Man of Medan,XOne,Bandai Namco Entertainment  ,Bandai Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 19  ,12th Apr 19
+714,The Infectious Madness of Doctor Dekker,XOne,Wales Interactive Ltd.  ,D'Avekki Studios Limited  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jun 18  ,04th Jun 18
+715,12 Minutes,XOne,Annapurna Interactive  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,21st Jun 19
+716,198X,XOne,Hi-Bit Studios  , Hi-Bit Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,05th Jun 19
+717,2064: Read Only Memories,XOne,MidBoss  ,MidBoss  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jan 17  ,13th Apr 19
+718,3 out of 10: Season One,XOne,Unknown  ,Terrible Posture Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Mar 21
+719,39 Days to Mars,XOne,It's Anecdotal  ,It's Anecdotal  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Jun 19  ,14th May 19
+720,7th Sector,XOne,Sometimes You  ,Sergey Noskov  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Feb 20  ,23rd Jan 20
+721,99Vidas,XOne,Unknown  ,QUByte Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Mar 19
+722,A Hat in Time,XOne,Humble Bundle  ,Gears for Breakfast  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Dec 17  ,31st Jul 18
+723,A King's Tale: Final Fantasy XV,XOne,Square Enix  ,Empty Clip Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Nov 16  ,18th Dec 18
+724,A Plague Tale: Innocence,XOne,Focus Home Interactive  ,Asobo Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 19  ,01st Apr 19
+725,A Rat’s Quest: The Way Back Home,XOne,HandyGames  ,The Dreamerians  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,05th Aug 19
+726,ACA NEOGEO 2020 SUPER BASEBALL,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Apr 18  ,21st Apr 19
+727,ACA NEOGEO AERO FIGHTERS 2,XOne,Hamster Corporation  ,Video System  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Aug 17  ,02nd Apr 18
+728,ACA NEOGEO AERO FIGHTERS 3,XOne,Hamster Corporation  ,Video System  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 18  ,01st Apr 18
+729,ACA NEOGEO ALPHA MISSION II,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Apr 17  ,02nd Apr 18
+730,ACA NEOGEO ART OF FIGHTING,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 17  ,02nd Apr 18
+731,ACA NEOGEO ART OF FIGHTING 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jun 17  ,02nd Apr 18
+732,ACA NEOGEO ART OF FIGHTING 3,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 18  ,05th Aug 18
+733,ACA NEOGEO BASEBALL STARS PROFESSIONAL,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th May 18  ,05th Aug 18
+734,ACA NEOGEO BLAZING STAR,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Feb 18  ,01st Apr 18
+735,ACA NEOGEO BLUE'S JOURNEY,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Sep 17  ,02nd Apr 18
+736,ACA NEOGEO BURNING FIGHT,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Sep 17  ,02nd Apr 18
+737,ACA NEOGEO FATAL FURY,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Mar 17  ,02nd Apr 18
+738,ACA NEOGEO FATAL FURY 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Apr 17  ,02nd Apr 18
+739,ACA NEOGEO FATAL FURY 3,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 17  ,02nd Apr 18
+740,ACA NEOGEO FATAL FURY SPECIAL,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Jul 17  ,02nd Apr 18
+741,ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS,XOne,Hamster Corporation  ,SunSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Apr 17  ,02nd Apr 18
+742,ACA NEOGEO GHOST PILOTS,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Apr 18  ,05th Aug 18
+743,ACA NEOGEO Gururin,XOne,Hamster Corporation  ,FACE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Apr 18  ,05th Aug 18
+744,ACA NEOGEO KARNOV'S REVENGE,XOne,Hamster Corporation  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Nov 17  ,02nd Apr 18
+745,ACA NEOGEO KING OF THE MONSTERS,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jun 17  ,02nd Apr 18
+746,ACA NEOGEO LAST RESORT,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd May 17  ,02nd Apr 18
+747,ACA NEOGEO LEAGUE BOWLING,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jul 18  ,05th Aug 18
+748,ACA NEOGEO MAGICAL DROP II,XOne,Hamster Corporation  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jun 17  ,02nd Apr 18
+749,ACA NEOGEO MAGICAL DROP III,XOne,Hamster Corporation  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Feb 18  ,01st Apr 18
+750,ACA NEOGEO MAGICIAN LORD,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Aug 17  ,03rd Apr 18
+751,ACA NEOGEO METAL SLUG,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Mar 17  ,03rd Apr 18
+752,ACA NEOGEO METAL SLUG 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jun 17  ,03rd Apr 18
+753,ACA NEOGEO METAL SLUG 3,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 17  ,03rd Apr 18
+754,ACA NEOGEO METAL SLUG X,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Oct 17  ,03rd Apr 18
+755,ACA NEOGEO Money Puzzle Exchanger,XOne,Hamster Corporation  ,FACE  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 18  ,05th Aug 18
+756,ACA NEOGEO MUTATION NATION,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Oct 17  ,03rd Apr 18
+757,ACA NEOGEO NAM-1975,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Mar 17  ,03rd Apr 18
+758,ACA NEOGEO NEO TURF MASTERS,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Feb 17  ,03rd Apr 18
+759,ACA NEOGEO NINJA COMBAT,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 18  ,05th Aug 18
+760,ACA NEOGEO OVER TOP,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Apr 17  ,03rd Apr 18
+761,ACA NEOGEO POWER SPIKES II,XOne,Hamster Corporation  ,Video System  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jan 18  ,03rd Apr 18
+762,ACA NEOGEO PREHISTORIC ISLE 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Aug 18  ,05th Aug 18
+763,ACA NEOGEO PULSTAR,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Jul 17  ,03rd Apr 18
+764,ACA NEOGEO PUZZLED,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Aug 17  ,03rd Apr 18
+765,ACA NEOGEO REAL BOUT FATAL FURY,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Oct 17  ,03rd Apr 18
+766,ACA NEOGEO REAL BOUT FATAL FURY 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Mar 18  ,01st Apr 18
+767,ACA NEOGEO REAL BOUT FATAL FURY SPECIAL,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Dec 17  ,04th Apr 18
+768,ACA NEOGEO RIDING HERO,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Jun 18  ,05th Aug 18
+769,ACA NEOGEO ROBO ARMY,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Oct 17  ,04th Apr 18
+770,ACA NEOGEO SAMURAI SHODOWN,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd May 17  ,04th Apr 18
+771,ACA NEOGEO SAMURAI SHODOWN II,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Sep 17  ,04th Apr 18
+772,ACA NEOGEO SAMURAI SHODOWN III,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 18  ,03rd Apr 18
+773,ACA NEOGEO SAMURAI SHODOWN IV,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Apr 18  ,05th Aug 18
+774,ACA NEOGEO SAMURAI SHODOWN V,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jul 18  ,05th Aug 18
+775,ACA NEOGEO SENGOKU,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Mar 17  ,03rd Apr 18
+776,ACA NEOGEO SENGOKU 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Apr 17  ,01st Apr 18
+777,ACA NEOGEO SENGOKU 3,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Mar 18  ,01st Apr 18
+778,ACA NEOGEO SHOCK TROOPERS,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jan 18  ,04th Apr 18
+779,ACA NEOGEO SHOCK TROOPERS 2nd Squad,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 18  ,01st Apr 18
+780,ACA NEOGEO SOCCER BRAWL,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 17  ,04th Apr 18
+781,ACA NEOGEO SPIN MASTER,XOne,Hamster Corporation  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Sep 17  ,03rd Apr 18
+782,ACA NEOGEO STAKES WINNER,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd May 18  ,05th Aug 18
+783,ACA NEOGEO STREET HOOP,XOne,Hamster Corporation  ,Data East  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Nov 17  ,04th Apr 18
+784,ACA NEOGEO SUPER SIDEKICKS,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jul 17  ,03rd Apr 18
+785,ACA NEOGEO SUPER SIDEKICKS 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th May 18  ,05th Aug 18
+786,ACA NEOGEO SUPER SIDEKICKS 3 : THE NEXT GLORY,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Jun 18  ,05th Aug 18
+787,ACA NEOGEO THE KING OF FIGHTERS '94,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Mar 17  ,02nd Apr 18
+788,ACA NEOGEO THE KING OF FIGHTERS '95,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Mar 17  ,02nd Apr 18
+789,ACA NEOGEO THE KING OF FIGHTERS '96,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Aug 17  ,02nd Apr 18
+790,ACA NEOGEO THE KING OF FIGHTERS '97,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Nov 17  ,02nd Apr 18
+791,ACA NEOGEO THE KING OF FIGHTERS '98,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jan 18  ,03rd Apr 18
+792,ACA NEOGEO THE KING OF FIGHTERS '99,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Apr 18  ,05th Aug 18
+793,ACA NEOGEO THE KING OF FIGHTERS 2000,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 18  ,05th Aug 18
+794,ACA NEOGEO THE LAST BLADE,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th May 17  ,03rd Apr 18
+795,ACA NEOGEO THE LAST BLADE 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 18  ,01st Apr 18
+796,ACA NEOGEO THE SUPER SPY,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jul 18  ,05th Aug 18
+797,ACA NEOGEO TOP HUNTER RODDY & CATHY,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Dec 17  ,02nd Apr 18
+798,ACA NEOGEO TOP PLAYERS GOLF,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 18  ,05th Aug 18
+799,ACA NEOGEO WAKU WAKU 7,XOne,Hamster Corporation  ,SunSoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 17  ,01st Apr 18
+800,ACA NEOGEO WORLD HEROES,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Feb 18  ,01st Apr 18
+801,ACA NEOGEO WORLD HEROES 2,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th May 17  ,01st Apr 18
+802,ACA NEOGEO WORLD HEROES 2 JET,XOne,Hamster Corporation  ,SNK Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Nov 17  ,01st Apr 18
+803,ACA NEOGEO ZED BLADE,XOne,Hamster Corporation  ,NMK  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jul 17  ,02nd Apr 18
+804,Achtung! Cthulhu Tactics,XOne,Unknown  ,Auroch Digital  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,25th Jul 18
+805,AFL Evolution 2,XOne,Unknown  ,Wicked Witch Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st May 20
+806,Afterparty,XOne,Unknown  ,Night School Studio  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Nov 19
+807,Age of Wonders: Planetfall,XOne,Paradox Interactive   ,Triumph Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Aug 19  ,06th May 19
+808,AlienCruise,XOne,E-Home Entertainment  ,Cotton Game  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Mar 19  ,23rd Mar 19
+809,Alvastia Chronicles,XOne,Kemco  ,Exe Create Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jan 19  ,24th Mar 19
+810,Alwa's Legacy,XOne,Unknown  ,Elden Pixels  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,27th Sep 20
+811,American Ninja Warrior: Challenge,XOne,GameMill Entertainment  ,Gaming Corps AB  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 19  ,22nd Sep 20
+812,Among The Sleep,XOne,Krillbite Studio  ,Krillbite Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Jun 16  ,19th May 19
+813,Ancestors Legacy,XOne,Unknown  ,Destructive Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,14th Aug 19
+814,Ancestors: The Humankind Odyssey,XOne, Private Division  ,Panache Digital Games  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Dec 19  ,09th Apr 19
+815,Anodyne,XOne,Analgesic Productions  ,Analgesic Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Sep 18  ,09th Apr 19
+816,AO International Tennis,XOne,Big Ant Studios  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th May 18  ,25th May 18
+817,AO Tennis 2,XOne,Big Ben Interactive  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jan 20  ,27th Dec 19
+818,Apex Legends,XOne,Electronic Arts  ,Respawn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Feb 19  ,15th Mar 19
+819,Arcade Spirits,XOne,PQube  ,Fiction Factory Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Aug 19
+820,Aritana and the Harpy's Feather,XOne,Duaik Entretenimento  ,Duaik Entretenimento  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 15  ,02nd Aug 18
+821,Ary and the Secret of Seasons,XOne,Modus Games  ,eXiin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Sep 20  ,10th Aug 19
+822,Asdivine Dios,XOne,Kemco  ,Kemco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jun 19  ,09th Jun 19
+823,Asdivine Hearts II,XOne,Kemco  ,Exe Create Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Dec 18  ,23rd Mar 19
+824,Ashen (2018),XOne,Annapurna Interactive  ,Aurora44  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Dec 18  ,19th Dec 18
+825,Assassin's Creed III Remastered,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Mar 19  ,14th Feb 19
+826,Assassin's Creed Valhalla,XOne,Ubisoft  ,Ubisoft  ,8.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,30th Apr 20
+827,Asterix & Obelix XXL 3: The Crystal Menhir,XOne,Microids  ,OSome Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 19  ,15th Aug 19
+828,Asterix and Obelix XXL2,XOne,Microids  ,Microids  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Nov 18  ,19th Feb 19
+829,At Sundown: Shots in the Dark,XOne,Versus Evil  ,Mild Beast Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jan 19  ,20th Jan 19
+830,ATLAS,XOne,Studio Wildcard  ,Studio Wildcard  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 19  ,12th Dec 18
+831,Atomic Heart,XOne,Unknown  ,Mundfish  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,20th Mar 19
+832,Attack of the Earthlings,XOne,Wales Interactive Ltd.  ,Team Junkfish  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Mar 19  ,24th Mar 19
+833,Attack on Titan 2: Final Battle,XOne,Koei Tecmo  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jul 19  ,13th Jun 19
+834,AVICII Invector,XOne,Wired Productions  ,Wired Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Dec 19  ,17th Aug 20
+835,Back 4 Blood,XOne,Unknown  ,Turtle Rock Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,06th Nov 19
+836,Back to Bed,XOne,Bedtime Digital Games  ,Bedtime Digital Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Oct 14  ,14th May 19
+837,Balan Wonderworld,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+838,Baldur's Gate II: Enhanced Edition,XOne,Beamdog  ,Overhaul Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,08th Jun 19
+839,Baldur's Gate: Enhanced Edition,XOne,Skybound Games  ,Overhaul Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,08th Jun 19
+840,Baldur's Gate: Siege of Dragonspear,XOne,Beamdog  ,Beamdog  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,08th Jun 19
+841,Bard's Gold,XOne,Pixel Lantern  ,Pixel Lantern  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jun 16  ,28th Apr 19
+842,Battletoads (2020),XOne,Xbox Game Studios  ,Dlala Studios  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Aug 20  ,18th Dec 19
+843,Bayonetta & Vanquish 10th Anniversary Bundle,XOne,Sega  ,PlatinumGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Feb 20  ,11th Dec 19
+844,Beach Buggy Racing 2: Island Adventure,XOne,Unknown  ,Vector Unit  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,17th Mar 21
+845,Bee Simulator,XOne,Unknown  ,Varsav Games Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,03rd Aug 18
+846,Ben-Hur,XOne,AOL  ,Krome Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Aug 16  ,22nd Jan 18
+847,Bite the Bullet,XOne,Graffiti  ,Mega Cat Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Aug 20  ,13th Aug 19
+848,Black Book,XOne,HypeTrain Digital  ,Morteshka  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Jan 20
+849,Black Desert,XOne,Pearl Abyss  ,Pearl Abyss  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Mar 19  ,07th Jan 19
+850,Blackhole: Complete Edition,XOne,1C Company  ,FiolaSoft Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Aug 17  ,01st Aug 18
+851,Blair Witch,XOne,Microsoft Game Studios  ,Bloober Team  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 19  ,08th Jul 19
+852,Blasphemous,XOne,Team 17  ,The Game Kitchen  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,17th Aug 19
+853,Blazing Chrome,XOne,The Arcade Crew  ,JoyMasher  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jul 19  ,07th Jul 19
+854,Bleeding Edge,XOne,Xbox Game Studios  ,Ninja Theory  ,8.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Mar 20  ,04th Aug 20
+855,Bless Unleashed,XOne,Neowiz Corporation  ,Round8 Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Mar 20  ,29th Sep 20
+856,Bloodstained: Curse of the Moon,XOne,Unknown  ,Inti Creates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,05th Jun 18
+857,Bloodstained: Curse of the Moon 2,XOne,Inti Creates  ,Inti Creates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 20  ,27th Jun 20
+858,Bloodstained: Ritual of the Night,XOne,"505 Games US, Inc.  ",Way Forward Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jun 19  ,08th Apr 19
+859,Blue Fire,XOne,Graffiti  ,Robi Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,04th Aug 20
+860,Bomber Crew,XOne,Curve Digital  ,Runner Duck  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 18  ,03rd Jan 19
+861,Borderlands 3,XOne,2K Games  ,Gearbox Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Sep 19  ,08th Apr 19
+862,Borderlands: Game of the Year Edition,XOne,Unknown  ,Gearbox Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Mar 19
+863,Bouncy Bullets,XOne,Ratalaika Games  ,Ratalaika Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jul 19  ,13th Jul 19
+864,Bounty Battle,XOne,Unknown  ,DarkScreen Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Sep 20
+865,BPM: Bullets Per Minute,XOne,Awe Interactive  ,Awe Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,29th Jul 20
+866,Brawlout,XOne,Unknown  ,Angry Mob Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Feb 18
+867,Bright Memory: Infinite,XOne,Playism  ,FYQD Personal Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,20th Mar 19
+868,Cake Bash,XOne,Unknown  ,High Tea Frog  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Nov 20
+869,Call of Duty: Modern Warfare,XOne,Activision  ,Infinity Ward  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 19  ,01st Jun 19
+870,Call of Duty: Warzone,XOne,Activision  ,Infinity Ward  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Mar 20  ,28th Mar 20
+871,Call of the Sea,XOne,Raw Fury  ,Out of the Blue  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,07th May 20
+872,Capcom Beat 'Em Up Bundle,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Sep 18  ,19th Dec 18
+873,Carrion,XOne,Devolver Digital  ,Phobia Game Studio  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jul 20  ,23rd May 20
+874,Castle Crashers Remastered,XOne,The Behemoth  ,The Behemoth  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 15  ,18th Nov 18
+875,Castlevania Anniversary Collection,XOne,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th May 19  ,14th May 19
+876,Cecile,XOne,Unknown  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Jul 18
+877,Celeste,XOne,Matt Makes Games Inc.  ,Matt Thorson  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jan 18  ,11th Jan 18
+878,Children of Morta,XOne,11 bit studios  ,Dead Mage Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Oct 19  ,10th Aug 19
+879,Chivalry 2,XOne,Tripwire Interactive  ,Torn Banner Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,18th Jun 20
+880,Chorus: Rise as One,XOne,Unknown  ,Fishlabs Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th May 20
+881,Chroma Squad,XOne,Unknown  ,Behold Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Mar 19
+882,Chronos: Before the Ashes,XOne,THQ Nordic  ,Gunfire Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,21st Sep 20
+883,Cinders,XOne,Crunching Koalas  ,MoaCube  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Aug 20  ,20th Aug 20
+884,Circuit Superstars,XOne,Unknown  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Jun 19
+885,Citizens of Space,XOne,Unknown  ,Eden Industries  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Jun 19
+886,Close to the Sun,XOne,Wired Productions  ,Storm in a Teacup  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,19th May 19
+887,Cloudpunk,XOne,Maple Whispering Limited  ,Ion Lands  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Oct 20  ,07th Sep 20
+888,Clustertruck,XOne,TinyBuild Games  ,Landfall  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 16  ,01st Mar 18
+889,Cobra Kai: The Karate Kid Saga Continues,XOne,GameMill Entertainment  ,GameMill Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Oct 20  ,31st Jan 21
+890,Code Shifter,XOne,Arc System Works  ,Arc System Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,10th Jan 20
+891,Code Vein,XOne,Bandai Namco Entertainment  ,Bandai Namco Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,17th Jun 18
+892,Conan Chop Chop,XOne,Unknown  ,Funcom Oslo A/S  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Jun 19
+893,Contra Anniversary Collection,XOne,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jun 19  ,13th Jun 19
+894,Contra: Rogue Corps,XOne,Konami  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,12th Jun 19
+895,Control,XOne,505 Games  ,Remedy  ,9.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 19  ,26th May 19
+896,Control: AWE,XOne,505 Games  ,Remedy Entertainment  ,8.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 20  ,27th Sep 20
+897,"Cook, Serve, Delicious! 2!!",XOne,Vertigo Gaming Inc.  ,Vertigo Gaming Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Apr 19  ,04th Apr 19
+898,"Cook, Serve, Delicious! 3?!",XOne,Vertigo Gaming Inc.  ,Vertigo Gaming Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Oct 20  ,10th Aug 19
+899,Crash Bandicoot 4: It’s About Time,XOne,Activision  ,Toys for Bob  ,8.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Oct 20  ,20th Jun 20
+900,Crash Team Racing Nitro-Fueled,XOne,Activision  ,Beenox  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 19  ,01st May 19
+901,Creature in the Well,XOne,Unknown  ,Flight School Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Sep 19
+902,Cricket 19 - The Official Game of the Ashes,XOne,Big Ant Studios  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 19  ,02nd May 19
+903,Cris Tales,XOne,Modus Games  ,Dreams Uncorporated  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,10th Aug 19
+904,CrossCode,XOne,DECK13 Interactive GmbH  ,Radical Fish Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jul 20  ,08th Apr 19
+905,Crossfire X,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Jun 19
+906,CrossfireX,XOne,Smilegate Megaport  ,Remedy Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,12th Aug 20
+907,Crusader Kings III,XOne,Paradox Interactive   ,Paradox Development  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,29th Oct 19
+908,Crypt of the NecroDancer,XOne,Brace Yourself Games  ,Brace Yourself Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Feb 17  ,06th Aug 18
+909,Crysis Remastered,XOne,Crytek  ,Crytek  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Sep 20  ,26th May 20
+910,Curse of the Sea Rats,XOne,Petoons Studio  ,Petoons Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st May 21  ,17th Aug 19
+911,Cyber Shadow,XOne,Yacht Club Games  ,Mechanical Head Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Jul 20
+912,Cyberpunk 2077,XOne,CD Projekt Red Studio  ,CD Projekt Red Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Nov 20  ,10th Jun 19
+913,Dance Central Spotlight,XOne,Microsoft Studios  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Sep 14  ,16th Nov 18
+914,Dandara,XOne,Unknown  ,Long Hat House  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Mar 19
+915,Dangerous Driving,XOne,Three Fields Entertainment  ,Three Fields Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Apr 19  ,15th Apr 19
+916,Dangerous Driving 2,XOne,Three Fields Entertainment  ,Three Fields Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,07th Jul 20
+917,Dark Devotion,XOne,Unknown  ,Hibernian Workshop  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Nov 19
+918,Dark Envoy,XOne,Event Horizon Software  ,Event Horizon Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,09th Aug 19
+919,Darkest Dungeon,XOne,Red Hook Studios  ,Red Hook Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 18  ,31st Jan 18
+920,Darkest Dungeon 2,XOne,Merge Games  ,Red Hook Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,27th Jun 19
+921,Darksiders Genesis,XOne,THQ Nordic  ,Airship Syndicate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Feb 20  ,08th Jun 19
+922,Darkwood,XOne,Unknown  ,Acid Wizard Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th May 19
+923,Dauntless,XOne,Phoenix Labs  ,Phoenix Labs  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st May 19  ,06th Dec 18
+924,Daymare: 1998,XOne,Destructive Creations  ,Invader Studios  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,16th Aug 19
+925,de Blob,XOne,THQ Nordic  ,Blue Tongue  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Nov 17  ,13th Feb 18
+926,Dead Cells,XOne,Merge Games  ,Motion Twin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Aug 18  ,06th Aug 18
+927,Dead or Alive 6,XOne,Koei Tecmo  ,Team Ninja  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 19  ,21st Mar 19
+928,Dead or School,XOne,Unknown  ,Nanafushi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,15th Jul 18
+929,Deadlight: Director's Cut,XOne,Deep Silver  ,Tequila Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 16  ,24th Mar 19
+930,Death Mark,XOne,Unknown  ,Experience Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,17th Mar 19
+931,Death Road to Canada,XOne,Unknown  ,Rocketcat Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,31st Jan 18
+932,Decay of Logos,XOne,Rising Star Games  ,Amplify Creations  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 19  ,10th Aug 19
+933,Deep Rock Galactic,XOne,Coffee Stain Studios  ,Ghost Ship Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th May 20  ,01st May 20
+934,Degrees of Separation,XOne,Unknown  ,Moondrop  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Feb 19
+935,Deliver Us The Moon,XOne,Unknown  ,KeokeN Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,27th Oct 19
+936,Demon Turf,XOne,Fabraz  ,Fabraz  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,18th Jun 20
+937,Descent (2019),XOne,Unknown  ,Descendent Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,11th Nov 18
+938,Desperados III,XOne,THQ Nordic  ,Mimimi Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jun 20  ,09th Apr 19
+939,Destiny 2: Beyond Light,XOne,Bungie Software  ,Bungie  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,08th Sep 20
+940,Destiny 2: Shadowkeep,XOne,Bungie Software  ,Bungie  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Sep 19  ,21st Jul 19
+941,Destroy All Humans!,XOne,THQ Nordic  ,Black Forest Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jul 20  ,18th Jun 19
+942,Devil May Cry 5,XOne,Capcom  ,Capcom  ,9.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Mar 19  ,21st Mar 19
+943,Devil’s Hunt,XOne,1C Company  ,Layopi Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,07th Aug 19
+944,Dex,XOne,Dreadlocks Ltd  ,Dreadlocks Ltd  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jul 16  ,06th Aug 18
+945,Diablo II: Resurrected,XOne,Blizzard Entertainment  ,Vicarious Visions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,20th Feb 21
+946,Diablo IV,XOne,Blizzard Entertainment  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,02nd Nov 19
+947,Die for Valhalla!,XOne,Unknown  ,Monster Couch  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Jul 18
+948,Digimon Survive,XOne,Bandai Namco Entertainment  ,WitchCraft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,10th Apr 19
+949,DiRT 5,XOne,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Nov 20  ,07th May 20
+950,DiRT Rally 2.0,XOne,Deep Silver  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 19  ,17th Dec 18
+951,Disco Dodgeball Remix,XOne,Unknown  ,Zen Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,14th May 18
+952,Disco Elysium,XOne,ZA/UM  ,ZA/UM  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,31st May 20
+953,Disintegration,XOne,Private Division  ,V1 Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jun 20  ,17th Oct 19
+954,Doom,XOne,Bethesda Softworks  ,id Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 19  ,30th Jul 19
+955,Doom 3,XOne,Bethesda Softworks  ,id Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 19  ,30th Jul 19
+956,Doom 64,XOne,Bethesda Softworks  ,Nightdive Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 20  ,22nd Jan 20
+957,Doom Eternal,XOne,Bethesda Softworks  ,id Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Mar 20  ,08th Jul 19
+958,Doom Eternal: The Ancient Gods - Part One,XOne,Unknown  ,id Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,12th Nov 20
+959,Doom Eternal: The Ancient Gods - Part Two,XOne,Unknown  ,id Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Apr 21
+960,Doom II,XOne,Bethesda Softworks  ,id Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 19  ,30th Jul 19
+961,Down in Bermuda,XOne,Unknown  ,Yak & co  ,5.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,27th Jan 21
+962,Dragon Ball Z: Kakarot,XOne,Bandai Namco Games  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jan 20  ,23rd Jul 19
+963,Dragon Quest XI S: Definitive Edition,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 20  ,24th Jul 20
+964,Dragons: Dawn of New Riders,XOne,Unknown  ,Outright Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,11th Nov 18
+965,Draugen,XOne,Unknown  ,Red Thread Games  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Mar 20
+966,Dungeon of the Endless,XOne,Sega  ,Amplitude Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Mar 16  ,07th Aug 19
+967,Dying Light 2,XOne,Techland  ,Techland  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,19th Jun 19
+968,EA Sports UFC 4,XOne,EA Sports  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 20  ,14th Jul 20
+969,Earthlock: Festival of Magic,XOne,Unknown  ,Snowcastle Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Jan 18
+970,Echo Generation,XOne,Cococucumber  ,Cococucumber  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+971,eFootball Pro Evolution Soccer 2020,XOne,Konami  ,PES Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 19  ,13th Jun 19
+972,Elden Ring,XOne,Bandai Namco Entertainment  ,From Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,27th Jun 19
+973,ELEA,XOne,Unknown  ,Kyodai  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,29th Jan 20
+974,Empire of Sin,XOne,Paradox Interactive   ,Romero Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,12th Jun 19
+975,Etherborn,XOne,Unknown  ,Altered Matter  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Aug 19
+976,Everwild,XOne,Xbox Game Studios  ,Rare Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,23rd Jul 20
+977,Evoland Legendary Edition,XOne,Unknown  ,Shiro Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Jan 19
+978,Exception,XOne,Traxmaster Software  ,Traxmaster Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Aug 19  ,11th Aug 19
+979,Exomecha,XOne,TwistedRed  ,TwistedRed  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+980,F1 2019,XOne,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 19  ,04th May 19
+981,F1 2020,XOne,Codemasters  ,Codemasters Birmingham  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 20  ,16th Apr 20
+982,Fable Fortune,XOne,Mediatonic  ,Mediatonic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Feb 18  ,12th Aug 18
+983,Fall Guys: Ultimate Knockout,XOne,Unknown  ,Mediatonic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Feb 21
+984,Far Cry 6,XOne,Ubisoft  ,Ubisoft Toronto  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Feb 21  ,21st Aug 20
+985,Far Cry: New Dawn,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 19  ,12th Dec 18
+986,FAR: Lone Sails,XOne,Mixtvision  ,Okomotive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Apr 19  ,31st Mar 19
+987,Fast & Furious Crossroads,XOne,Bandai Namco Entertainment  ,Slightly Mad Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Aug 20  ,08th Jan 20
+988,Fell Seal: Arbiter's Mark,XOne,Unknown  ,6 Eyes Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,14th Sep 19
+989,Feudal Alloy,XOne,Attu Games  ,Attu Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th May 19  ,14th May 19
+990,FIFA 20,XOne,EA Sports  ,Electronic Arts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 19  ,10th Jun 19
+991,FIFA 21,XOne,Electronic Arts  ,EA Vancouver  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Oct 20  ,19th Jun 20
+992,Final Fantasy IX,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Feb 19  ,14th Feb 19
+993,Final Fantasy VII,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,23rd Mar 19
+994,Final Fantasy VIII Remastered,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,11th Jun 19
+995,Final Fantasy X / X-2 HD Remaster,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Apr 19  ,22nd Mar 19
+996,Final Fantasy XII: The Zodiac Age,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 19  ,01st Apr 19
+997,Final Fantasy XV Multiplayer: Comrades,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 18  ,18th Dec 18
+998,Final Fantasy XV Pocket Edition HD,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 18  ,18th Dec 18
+999,Five Nights at Freddy's,XOne,Unknown  ,Scott Cawthon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Nov 19
+1000,Five Nights at Freddy's 2,XOne,Unknown  ,Scott Cawthon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Nov 19
+1001,Five Nights at Freddy's 3,XOne,Unknown  ,Scott Cawthon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Nov 19
+1002,Five Nights at Freddy's 4,XOne,Unknown  ,Scott Cawthon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Nov 19
+1003,Flashback,XOne,Microids  ,Paul Cuisset  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 18  ,31st Oct 18
+1004,Flipper Mechanic,XOne,SimFabric  ,SimFabric  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,15th Jun 20
+1005,Fortnite: Save the World,XOne,Unknown  ,Epic Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Apr 19
+1006,Forza Horizon 2 Presents Fast & Furious,XOne,Microsoft Studios  ,Playground Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Mar 15  ,15th Oct 18
+1007,Four Legerrior,XOne,Kemco  ,Kemco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th May 19  ,06th May 19
+1008,Frane: Dragons' Odyssey,XOne,Kemco  ,Kemco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Apr 19  ,06th May 19
+1009,Frost,XOne,Unknown  ,Studio des Tenebres  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,03rd Jul 18
+1010,Frostpunk,XOne,11 bit studios  ,11 bit studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Oct 19  ,28th May 19
+1011,Fuga,XOne,Unknown  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Jul 18
+1012,Fury Unleashed,XOne,Unknown  ,Awesome Games Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th May 20
+1013,Fuser,XOne,NCSoft  ,Harmonix Music Systems  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,02nd Jun 20
+1014,G.I. Joe: Operation Blackout,XOne,GameMill Entertainment  ,Fair Play Labs  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,31st Jan 21
+1015,Garfield Kart: Furious Racing,XOne,Microids  ,Microids  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 19  ,01st Aug 19
+1016,Gears 5,XOne,Microsoft Studios  ,The Coalition  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 19  ,09th Jun 19
+1017,Gears Tactics,XOne,Xbox Game Studios  ,Splash Damage  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,11th Apr 20
+1018,Generation Zero,XOne,THQ Nordic  ,Avalanche Studios  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,18th Mar 19
+1019,Genesis Alpha One,XOne,Team17 Digital Ltd  ,Radiation Blue  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 19  ,02nd Aug 18
+1020,Georifters,XOne,Another Indie  ,Busy Toaster  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,05th Aug 19
+1021,Ghostbusters: The Video Game Remastered,XOne,Saber Interactive  ,Mad Dog Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 19  ,08th Aug 19
+1022,Ghostrunner,XOne,505 Games  ,One More Level  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Oct 20  ,15th Sep 20
+1023,Golf With Your Friends,XOne,Team 17  ,Blacklight Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th May 20  ,30th Apr 20
+1024,Gotham Knights,XOne,Warner Bros. Interactive Entertainment  ,Warner Bros. Interactive Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,22nd Aug 20
+1025,GreedFall,XOne,Focus Home Interactive  ,Spiders  ,8.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 19  ,12th Aug 19
+1026,GRID,XOne,Codemasters  ,Codemasters  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Oct 19  ,28th May 19
+1027,Gridiron Champions,XOne,iMackulate Vision Gaming  ,iMackulate Vision Gaming  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,18th Oct 19
+1028,GRIP: Combat Racing,XOne,U&I Entertainment  ,Caged Element  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Nov 18  ,11th Sep 18
+1029,Grounded,XOne,Xbox Game Studios  ,Obsidian Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jul 20  ,14th Nov 19
+1030,Gunvolt Chronicles: Luminous Avenger iX,XOne,Inti Creates  ,Inti Creates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Dec 19  ,24th Dec 19
+1031,Gwent: The Witcher Card Game,XOne,CD Projekt Red Studio  ,CD Projekt Red Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 18  ,19th Dec 18
+1032,Halo Infinite,XOne,Microsoft Studios  ,343 Industries  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,19th Jun 19
+1033,Halo Wars: Definitive Edition,XOne,Microsoft Studios  ,Behaviour Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Apr 17  ,26th Sep 18
+1034,Headspun,XOne,Unknown  ,Superstring  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,03rd Sep 19
+1035,Hellpoint,XOne,TinyBuild Games  ,Cradle Games  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 20  ,04th Jun 20
+1036,Her Majesty's SPIFFING,XOne,Unknown  ,Billy Goat Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Feb 18
+1037,Hitman 3,XOne,IO Interactive  ,IO Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,12th Jun 20
+1038,Hitman HD Enhanced Collection,XOne,IO Interactive  ,IO Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jan 19  ,23rd Mar 19
+1039,Hogwarts Legacy,XOne,Warner Bros. Interactive Entertainment  ,Avalanche Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,16th Sep 20
+1040,Home Sweet Home (2017),XOne,Mastiff  ,"YGGDRAZIL GROUP CO.,LTD  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Oct 18  ,07th Aug 18
+1041,Horizon Chase Turbo,XOne,AQUIRIS  ,Aquiris Game Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 18  ,08th Mar 19
+1042,Hue,XOne,Unknown  ,Fiddlesticks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Dec 20
+1043,Human: Fall Flat,XOne,Curve Digital  ,No Brakes Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th May 17  ,19th Apr 19
+1044,Hunt: Showdown,XOne,Crytek  ,Crytek  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Sep 19  ,20th Jan 20
+1045,Hyper Scape,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Aug 20  ,08th Jul 20
+1046,HyperBrawl Tournament,XOne,Unknown  ,Milky Tea  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Oct 20
+1047,I Am Bread,XOne,Bossa Studios  ,Bossa Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jan 17  ,11th Aug 18
+1048,Ice Age: Scrat's Nutty Adventure,XOne,Bandai Namco Entertainment  ,Just Add Water  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Oct 19  ,12th Sep 19
+1049,Icewind Dale: Enhanced Edition,XOne,Atari  ,Overhaul Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,08th Jun 19
+1050,Ikenfell,XOne,Humble Bundle  ,Happy Ray Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 20  ,05th Sep 20
+1051,Immortal Realms: Vampire Wars,XOne,Kalypso Media  ,Palindrome Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 20  ,12th May 20
+1052,Immortal Redneck,XOne,CremaGames  ,CremaGames  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Feb 18  ,07th Mar 18
+1053,Immortals Fenyx Rising,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 20  ,20th Sep 20
+1054,Indivisible,XOne,505 Games  ,Lab Zero Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 19  ,11th Apr 19
+1055,Infinite Minigolf,XOne,Zen Studios  ,Zen Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jul 17  ,20th Jan 18
+1056,Infinite: Beyond The Mind,XOne,Blowfish Studios  ,Emilie COYO  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th May 20  ,06th May 20
+1057,Infinity Runner,XOne,Wales Interactive Ltd.  ,Wales Interactive Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Apr 15  ,08th Aug 18
+1058,Infliction,XOne,Caustic Reality  ,Caustic Reality  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,25th Jul 19
+1059,InnerSpace,XOne,Aspyr  ,PolyKnight Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jan 18  ,27th Feb 18
+1060,Insurgency: Sandstorm,XOne,Focus Home Interactive  ,New World Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Dec 20  ,12th Dec 18
+1061,Ion Fury,XOne,3D Realms  ,Voidpoint  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 20  ,12th Aug 19
+1062,Irony Curtain: From Matryoshka,XOne,Unknown  ,Artifex Mundi  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,25th Jul 18
+1063,Island Saver,XOne,Unknown  ,Stormcloud Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th May 20
+1064,Ittle Dew 2,XOne,Nicalis  ,Ludosity Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 16  ,16th Feb 19
+1065,Jotun: Valhalla Edition,XOne,Unknown  ,Thunder Lotus Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,06th Jan 18
+1066,Journey To the Savage Planet,XOne,505 Games  ,Typhoon Studios  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jan 20  ,11th Apr 19
+1067,Jumanji: The Video Game,XOne,Unknown  ,Funsolve  ,3.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Nov 19
+1068,Jump Force,XOne,Bandai Namco Entertainment  ,Spike Chunsoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Feb 18  ,11th Jun 18
+1069,Just Dance 2020,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 19  ,25th Jul 19
+1070,Just Dance 2021,XOne,Ubisoft  ,Ubisoft Paris  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Nov 20  ,27th Aug 20
+1071,Kalimba,XOne,Microsoft Studios  ,Press Play  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 14  ,09th Aug 18
+1072,Katamari Damacy Reroll,XOne,Bandai Namco Entertainment  ,Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Nov 20  ,18th Sep 20
+1073,Kentucky Route Zero: TV Edition,XOne,Annapurna Interactive  ,Cardboard Computer  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jan 20  ,16th Jun 19
+1074,Kerbal Space Program 2,XOne,Squad  ,Squad  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,24th Oct 19
+1075,Killer Instinct 2 Classic,XOne,Microsoft Studios  ,Code Mystics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 14  ,15th Oct 18
+1076,Killer Instinct Classic,XOne,Microsoft Studios  ,Code Mystics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 13  ,15th Oct 18
+1077,Killer Instinct: Definitive Edition,XOne,Microsoft Studios  ,Iron Galaxy  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 16  ,25th May 18
+1078,Killer Queen Black,XOne,"Liquid Bit, LLC  ","Liquid Bit, LLC  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Oct 19  ,13th Sep 19
+1079,King's Bounty II,XOne,Deep Silver  ,1C Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Apr 21  ,28th Aug 20
+1080,Kingdom Hearts HD II.8 Final Chapter Prologue,XOne,Square  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Feb 20  ,13th Feb 20
+1081,Kingdom Hearts: Melody of Memory,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 20  ,18th Sep 20
+1082,Kingdoms of Amalur: Re-Reckoning,XOne,THQ Nordic  ,Kaiko  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Sep 20  ,09th Jul 20
+1083,Kings of Lorn: The Fall of Ebris,XOne, TeamKill Media  , TeamKill Media  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Sep 19  ,06th Jul 19
+1084,King’s Bounty II,XOne,1C Entertainment  ,1C Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,20th Aug 19
+1085,Knee Deep,XOne,Unknown  ,Prologue Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,06th Jan 18
+1086,Knights of Pen and Paper +1 Edition,XOne,Unknown  ,Behold Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,20th Mar 19
+1087,Knockout City,XOne,Unknown  ,Velan Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Feb 21
+1088,Konami Anniversary Collection: Arcade Classics,XOne,Unknown  ,Konami  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Mar 19
+1089,KungFu Kickball,XOne,Blowfish Studios  ,WhaleFood Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,17th Aug 19
+1090,LA Cops,XOne,Team17 Software  ,Modern Dream  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 15  ,11th Aug 18
+1091,La-Mulana 2,XOne,Active Gaming Media  ,Nigoro  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,08th Apr 19
+1092,Last Stop,XOne,Annapurna Interactive  ,Variable State  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,08th Jun 20
+1093,Late Shift,XOne,Unknown  ,CtrlMovie  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Apr 19
+1094,LEGO Star Wars: The Skywalker Saga,XOne,Warner Bros. Interactive Entertainment  ,TT Fusion  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Oct 21  ,10th Jun 19
+1095,Leisure Suit Larry: Wet Dreams Don't Dry,XOne,Unknown  ,CrazyBunch  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,14th Oct 20
+1096,Let's Sing 2016,XOne,Ravenscourt  ,Voxler  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 15  ,07th Apr 18
+1097,Levelhead,XOne,Unknown  ,Butterscotch Shenanigans  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Jan 21
+1098,Life is Strange 2,XOne,Square Enix  ,Dotnod Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 18  ,24th Mar 19
+1099,Little Nightmares 2,XOne,Bandai Namco Entertainment  ,Tarsier Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Feb 21  ,29th Oct 19
+1100,Little Town Hero,XOne,Unknown  ,Game Freak  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,26th Jul 20
+1101,Lornsword Winter Chronicle,XOne,Tower Five  ,Tower Five  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 19  ,14th Aug 19
+1102,Lost Ember,XOne,Mooneye Studios  ,Mooneye Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jul 19  ,11th Apr 19
+1103,Lost in Random,XOne,Unknown  ,Zoink Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Jun 20
+1104,Lost Wing,XOne,2Awesome Studio  ,BoxFrog Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jul 20  ,25th Jul 19
+1105,Lovely Planet,XOne,TinyBuild Games  ,QUICKTEQUILA  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Jan 16  ,08th Aug 18
+1106,Lumo,XOne,Rising Star Games  ,Triple Eh?  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Jun 16  ,18th Mar 19
+1107,Machinarium,XOne,Unknown  ,Amanita Design  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Apr 20
+1108,Madden NFL 20,XOne,EA Sports  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Aug 19  ,26th Apr 19
+1109,Madden NFL 21,XOne,Electronic Arts  ,EA Tiburon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 20  ,07th May 20
+1110,Mafia: Definitive Edition,XOne,Unknown  ,Hangar 13  ,8.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Oct 20
+1111,Mafia: Trilogy,XOne,2K Games  ,Hangar 13  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Sep 20  ,13th May 20
+1112,Magic 2015 - Duels of the Planeswalker,XOne,Microsoft Studios  ,Stainless Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Nov 15  ,15th Oct 18
+1113,Maneater,XOne,Tripwire Interactive  ,Tripwire Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd May 20  ,16th Dec 19
+1114,Marooners,XOne,M2H  ,M2H  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Feb 18  ,19th Mar 18
+1115,Marvel's Avengers,XOne,Square Enix  ,Crystal Dynamics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 20  ,18th Jun 19
+1116,Mass Effect Legendary Edition,XOne,Unknown  ,BioWare  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Apr 21
+1117,Mega Coin Squad,XOne,Adult Swim  ,Big Pixel Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th May 15  ,08th Aug 18
+1118,Mega Man Zero/ZX Legacy Collection,XOne,Capcom  ,Inti Creates  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 20  ,30th Oct 19
+1119,Memorrha,XOne,StickyStoneStudio  ,StickyStoneStudio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Sep 19  ,07th Jul 19
+1120,Metal Wolf Chaos XD,XOne,Devolver Digital  ,From Software  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Aug 19  ,06th Jul 19
+1121,Metal: Hellsinger,XOne,Funcom   ,The Outsiders  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,18th Jun 20
+1122,Microsoft Flight Simulator (2020),XOne,Xbox Game Studios  ,Asobo Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,04th Aug 20
+1123,Mighty Fight Federation,XOne,"Komi Games, Inc  ","Komi Games, Inc  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,05th Aug 19
+1124,Mighty Switch Force! Collection,XOne,Unknown  ,WayForward  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Jul 19
+1125,Minecraft: Dungeons,XOne,Microsoft Game Studios  ,Mojang  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th May 20  ,09th Jun 19
+1126,Minute of Islands,XOne,Mixtvision  ,Studio Fizbin  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,12th Aug 19
+1127,Monster Boy and the Cursed Kingdom,XOne,FDG Entertainment  ,Game Atelier  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Nov 18  ,19th Dec 18
+1128,Monster Energy Supercross - The Official Videogame 2,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Feb 19  ,19th Oct 18
+1129,Monster Energy Supercross - The Official Videogame 3,XOne,Unknown  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Jan 21
+1130,Monster Energy Supercross - The Official Videogame 4,XOne,Unknown  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Jan 21
+1131,Monster Hunter World: Iceborne,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 19  ,13th Jun 19
+1132,Monster Jam Steel Titans,XOne,THQ Nordic  ,Rainbow Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th May 19  ,15th Apr 19
+1133,Monster Slayers,XOne,Unknown  ,Nerdook Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Apr 19
+1134,Monstrum,XOne,Soedesco  ,Team Junkfish  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 19  ,17th Aug 18
+1135,Moonlighter,XOne,11 bit studios  ,Digital Sun  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th May 18  ,03rd Jun 18
+1136,Mortal Kombat 11,XOne,Warner Bros. Interactive Entertainment  ,NetherRealm Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Apr 19  ,31st Mar 19
+1137,Mortal Kombat 11: Aftermath,XOne,Unknown  ,NetherRealm Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,29th May 20
+1138,Mortal Shell,XOne,Playstack  ,Cold Symmetry  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Aug 20  ,16th Aug 20
+1139,Mosaic,XOne,Raw Fury  ,Krillbite Studio  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jan 20  ,17th Aug 18
+1140,MotoGP 18,XOne,Milestone S.r.l.  ,Milestone S.r.l  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Jun 18  ,02nd Jan 19
+1141,MotoGP 19,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Jun 19  ,10th Jun 19
+1142,MotoGP 20,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Apr 20  ,13th Apr 20
+1143,Moving Out,XOne,Team 17  ,DevM Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 20  ,27th Apr 20
+1144,Mulaka,XOne,Unknown  ,Lienzo  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Feb 18
+1145,Mutant Year Zero: Road to Eden,XOne,Funcom   ,The Bearded Ladies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Dec 18  ,06th Jul 19
+1146,Mutant Year Zero: Seed of Evil,XOne,Unknown  ,Funcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Jun 19
+1147,My Aunt is a Witch,XOne,Unknown  ,Sometimes You  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Dec 20
+1148,My Friend Pedro,XOne,Devolver Digital  ,DeadToast Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Dec 19  ,30th Mar 20
+1149,My Hero One’s Justice 2,XOne,Bandai Namco Entertainment  ,Byking  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Mar 20  ,06th Dec 19
+1150,My Little Riding Champion,XOne,Bigben Interactive  ,Caipirinha Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Nov 18  ,03rd Jan 19
+1151,My Memory of Us,XOne,IMGN PRO  ,Juggler Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Oct 18  ,24th Mar 19
+1152,My Time At Portia,XOne,Team 17  ,Pathea Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Apr 19  ,15th Apr 19
+1153,N.E.R.O.: Nothing Ever Remains Obscure,XOne,Unknown  ,Storm in a Teacup  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Aug 18
+1154,Naruto Shippuden: Ultimate Ninja Storm Trilogy,XOne,Bandai Namco Games  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Aug 17  ,03rd Mar 18
+1155,NASCAR Heat 5,XOne,Motorsport Games  ,704Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 20  ,03rd Jun 20
+1156,NBA 2K20,XOne,2K Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Sep 19  ,21st Jul 19
+1157,NBA 2K21,XOne,2K Sports  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 20  ,14th Jun 20
+1158,Need for Speed Heat,XOne,Electronic Arts  ,Ghost Games  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Nov 19  ,01st Oct 19
+1159,"Neko Ghost, Jump!",XOne,Burgos Games  ,Burgos Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Jan 20
+1160,Neon City Riders,XOne,Bromio  ,Mecha Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,07th Dec 19
+1161,Neon Junctions,XOne,9 Eyes Game Studio  ,9 Eyes Game Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Jun 19  ,25th Jun 19
+1162,Neverwinter Nights: Enhanced Edition,XOne,Beamdog  ,BioWare  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 19  ,16th Jun 19
+1163,New Super Lucky's Tale,XOne,Microsoft Studios  ,Playful Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 20  ,10th Jun 20
+1164,Newt One,XOne,DevNAri  ,DevNAri  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 19  ,05th Aug 19
+1165,Nexomon: Extinction,XOne,Unknown  ,"LIME TURTLE, INC.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,17th Jan 21
+1166,Next Up Hero,XOne,Aspyr  ,Digital Continue  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 18  ,01st Jul 18
+1167,NHL 20,XOne,EA Sports  ,EA Vancouver  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Sep 19  ,06th Jul 19
+1168,NHL 21,XOne,EA Sports  ,EA Vancouver  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Oct 20  ,22nd Jul 20
+1169,Ni no Kuni: Wrath of the White Witch Remastered,XOne,Namco Bandai Games  ,Level 5  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 19  ,13th Jun 19
+1170,Nickelodeon Kart Racers 2: Grand Prix,XOne,GameMill Entertainment  ,Bamtang  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Oct 20  ,23rd Sep 20
+1171,Nidhogg 2,XOne,Messhof  ,Messhof  ,N/A  ,N/A  ,8.0  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Jul 18  ,09th Sep 18
+1172,NieR Replicant ver.1.22474487139...,XOne,Unknown  ,Toylogic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Mar 21
+1173,NieR: Automata,XOne,Square Enix  ,PlatinumGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 18  ,05th Aug 20
+1174,Night In The Woods,XOne,Finji  ,Infinite Fall  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Dec 17  ,16th Jan 18
+1175,Ninja Gaiden: Master Collection,XOne,Unknown  ,Koei Tecmo Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Feb 21
+1176,Ninja JaJaMaru Collection,XOne,Unknown  ,City Connection  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,31st Jul 19
+1177,Ninjin: Clash of Carrots,XOne,Modus Games  ,Pocket Trap  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 18  ,20th Apr 19
+1178,No Straight Roads,XOne,Unknown  ,Metronomik  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Sep 20
+1179,Nom Nom Apocalypse,XOne,Unknown  ,Deadleaf Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,12th Mar 20
+1180,NORTH,XOne,Unknown  ,Badland Studio  ,N/A  ,N/A  ,1.9  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,06th May 19
+1181,Obduction,XOne,Unknown  ,Cyan Worlds  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Apr 20
+1182,Odallus: The Dark Call,XOne,Unknown  ,JoyMasher  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Mar 19
+1183,Oh...Sir! The Insult Simulator,XOne,Vile Monarch  ,Vile Monarch  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Aug 17  ,25th Jan 18
+1184,Olija,XOne,Unknown  ,Skeleton Crew Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Jan 21
+1185,OlliOlli,XOne,Curve Digital  ,Roll7  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Mar 15  ,05th Apr 19
+1186,OlliOlli2: XL Edition,XOne,Team17 Digital Ltd  ,Roll7  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th May 16  ,05th Apr 19
+1187,Olympic Games Tokyo 2020 - The Official Video Game,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,08th Apr 19
+1188,Omen of Sorrow,XOne,Unknown  ,AOne Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,17th Aug 18
+1189,One Night Stand,XOne,Kinmoku  ,Kinmoku  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 19  ,11th Jun 19
+1190,One Piece: Pirate Warriors 4,XOne,Bandai Namco Entertainment  ,Omega Force  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Mar 20  ,11th Jul 19
+1191,One Piece: World Seeker,XOne,Bandai Namco Entertainment  ,Ganbarion  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 19  ,22nd Mar 19
+1192,One Punch Man: A Hero Nobody Knows,XOne,Bandai Namco Entertainment  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Feb 20  ,26th Jul 19
+1193,Oniken: Unstoppable Edition,XOne,Unknown  ,JoyMasher  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Mar 19
+1194,Onimusha Warlords,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jan 18  ,11th Sep 18
+1195,Onimusha: Warlords,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jan 19  ,29th Dec 18
+1196,Ooblets,XOne,Glumberland  ,Glumberland  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,08th Aug 19
+1197,Ori and the Blind Forest: Definitive Edition,XOne,Microsoft Studios  ,Moon Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Mar 16  ,04th Aug 20
+1198,Ori and the Will of the Wisps,XOne,Xbox Game Studios  ,Moon Studios  ,9.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Mar 20  ,04th Aug 20
+1199,Othercide,XOne,Unknown  ,Lightbulb Crew  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Aug 20
+1200,Outcast: Second Contact,XOne,Bigben Interactive  ,Bigben Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 17  ,12th Sep 18
+1201,Outer Wilds,XOne,Annapurna Interactive  ,Mobius Digital  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 19  ,24th May 19
+1202,Outlast II,XOne,Unknown  ,Red Barrels  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,31st Dec 17
+1203,Outriders,XOne,Square Enix  ,People Can Fly  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Feb 21  ,20th Jun 19
+1204,Outward,XOne,Deep Silver  ,Nine Dots Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Feb 19  ,30th Dec 18
+1205,Overkill's The Walking Dead,XOne,505 Games  ,Overkill Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,06th Feb 19  ,13th Jun 18
+1206,Override 2: Super Mech League,XOne,Unknown  ,The Balance Inc  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Jan 21
+1207,Overwatch 2,XOne,Unknown  ,Blizzard Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,02nd Nov 19
+1208,Owlboy,XOne,D-Pad Studio  ,D-Pad Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Feb 18  ,06th Jan 18
+1209,Oxenfree,XOne,Night School Studio  ,Night School Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jan 16  ,17th Dec 17
+1210,Pac-Man 256,XOne,Bandai Namco Entertainment  ,Bandai Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jun 16  ,16th Nov 19
+1211,Paladins,XOne,Hi-Rez Studios  ,Hi-Rez Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd May 17  ,09th Jun 19
+1212,Pang Adventures,XOne,Unknown  ,DotEmu  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,06th Jan 19
+1213,Panzer Dragoon: Remake,XOne,Unknown  ,MegaPixel Studio S.A.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Feb 21
+1214,Pass The Punch,XOne,Sumo Digital  ,Sumo Digital  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,07th Aug 19
+1215,Path of Exile,XOne,Grinding Gear Games  ,Grinding Gear Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Aug 17  ,03rd Jan 18
+1216,PGA Tour 2K21,XOne,2K Sports  ,HB Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 20  ,16th May 20
+1217,Phantasy Star Online 2,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Apr 20  ,11th May 20
+1218,Phantasy Star Online 2: New Genesis,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+1219,Phoenix Point,XOne,Snapshot Games  ,Snapshot Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,08th Apr 19
+1220,Phoenix Wright: Ace Attorney Trilogy,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Apr 19  ,09th Mar 19
+1221,Phogs!,XOne,Unknown  ,Bit Loom Studios  ,5.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,26th Dec 20
+1222,Pinball FX 3,XOne,Zen Studios  ,Zen Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Sep 17  ,31st Dec 17
+1223,PixARK,XOne,Snail Game  ,Snail Games USA  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st May 19  ,08th Apr 19
+1224,Pixel Piracy,XOne,505 Games  ,Quadro Delta  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Feb 16  ,09th Aug 18
+1225,Planescape: Torment: Enhanced Edition,XOne,Beamdog  ,Black Isle Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,08th Jun 19
+1226,Planet Coaster: Console Edition,XOne,Frontier Developments  ,Frontier Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,24th Nov 19
+1227,Plants vs Zombies: Battle for Neighborville,XOne,Electronic Arts  ,PopCap Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Oct 19  ,13th Sep 19
+1228,Police Chase,XOne,Unknown  ,Toplitz Productions GmBh  ,1.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,30th Nov 19
+1229,Power Rangers: Battle for the Grid,XOne,nWay  ,nWay  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,24th Mar 19
+1230,Pro Fishing Simulator,XOne,Bigben Interactive  ,Sanuk Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Feb 19  ,30th Dec 18
+1231,Project CARS 3,XOne,Bandai Namco Entertainment  ,Slightly Mad Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 20  ,29th Jun 20
+1232,Project Resistance,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,08th Nov 19
+1233,Project Warlock,XOne,Crunching Koalas  ,Buckshot Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Jun 20  ,27th May 20
+1234,Project Witchstone,XOne,SpearHead Games  ,Spearhead Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,05th Aug 19
+1235,Projection: First Light,XOne,Blowfish Studios  ,Shadowplay Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Sep 20  ,29th Sep 20
+1236,Psychonauts 2,XOne,Starbreeze Studios  ,Starbreeze Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,12th Dec 18
+1237,Puyo Puyo Tetris 2,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Dec 20  ,27th Aug 20
+1238,Q*bert: Rebooted,XOne,LOOT Entertainment  ,Gonzo Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,12th Feb 16  ,09th Aug 18
+1239,R-Type Final 2,XOne,Unknown  ,Granzella  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Mar 21
+1240,RAD,XOne,Bandai Namco Entertainment  ,Double Fine Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Aug 19  ,14th Jun 19
+1241,Radical Rabbit Stew,XOne,Unknown  ,Pugstorm Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Mar 19
+1242,Rage 2,XOne,Bethesda Softworks  ,id Software  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th May 19  ,20th May 18
+1243,Raging Justice,XOne,Unknown  ,MakinGames Ltd  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,02nd Feb 18
+1244,Re:Turn – One Way Trip,XOne,Green Man Gaming  ,Red Ego Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Sep 20  ,08th Jul 20
+1245,ReCore: Definitive Edition,XOne,Microsoft Studios  ,Armature Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Aug 17  ,01st Oct 18
+1246,Red Wings: Aces of the Sky,XOne,Unknown  ,All in! Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Feb 20
+1247,RemiLore: Lost Girl in the Lands of Lore,XOne,Nicalis  ,Nicalis  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 19  ,22nd Mar 19
+1248,Remnant: From the Ashes,XOne,Perfect World Entertainment  ,Gunfire Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Aug 19  ,07th Jul 19
+1249,Remothered: Broken Porcelain,XOne,Modus Games  ,Stormind Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,25th Sep 20
+1250,Resident Evil,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Jan 15  ,04th Sep 18
+1251,Resident Evil 2,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Jan 19  ,06th Nov 18
+1252,Resident Evil 3,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Apr 20  ,10th Dec 19
+1253,Resident Evil 8: Village,XOne,Unknown  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Apr 21
+1254,Resident Evil Re:Verse,XOne,Unknown  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Feb 21
+1255,Resident Evil Zero,XOne,Capcom  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jan 16  ,04th Sep 18
+1256,Resident Evil: Resistance,XOne,Unknown  ,Capcom  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,11th Apr 20
+1257,Return of the Obra Dinn,XOne,3909 LLC  ,Lucas Pope  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Oct 19  ,22nd Oct 19
+1258,REZ PLZ,XOne,Long Neck Games  ,Long Neck Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Jul 20  ,14th Aug 19
+1259,RICO,XOne,Rising Star Games  ,Ground Shatter  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,22nd Sep 18
+1260,Ride 4,XOne,Milestone S.r.l.  ,Milestone S.r.l.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 20  ,14th Apr 20
+1261,Rigid Force Redux,XOne,Unknown  ,com8com1  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Jun 20
+1262,Riot: Civil Unrest,XOne,Merge Games  ,IV Productions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 19  ,03rd Jan 19
+1263,Risk of Rain 2,XOne,Gearbox Publishing  ,Hopoo Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Aug 20  ,29th May 20
+1264,River City Girls,XOne,WayForward Technologies  ,WayForward Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Sep 19  ,09th Aug 19
+1265,Riverbond,XOne,Cococucumber  ,Cococucumber  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 19  ,09th Aug 19
+1266,ROBLOX,XOne,Roblox Corporation  ,Roblox Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jan 16  ,22nd Jan 18
+1267,Rock of Ages III: Make & Break,XOne,Modus Games  ,ACE Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Jul 20  ,05th Jun 20
+1268,Rocket Arena,XOne,Electronic Arts  ,Final Strike Games  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Jul 20  ,19th Jun 20
+1269,Rogue Company,XOne,Hi-Rez Studios  ,First Watch Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,20th Jul 20
+1270,Romancing SaGa 3,XOne,Square Enix  ,Square Enix  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Nov 19  ,10th Jun 19
+1271,Roots of Pacha,XOne,Crytivo Games  ,Soda Den  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,16th Jun 20
+1272,RPG Maker MV,XOne,NIS America  ,Kadokawa Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Mar 19  ,23rd Dec 18
+1273,RPG Time: The Legend of Wright,XOne,Desk Works  ,Desk Works  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,09th Jun 19
+1274,Rugby 20,XOne,Big Ben Interactive  ,EKO Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jan 20  ,17th Jan 20
+1275,Rust,XOne,Facepunch Studios  ,Facepunch Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,24th Nov 19
+1276,Sable,XOne,Raw Fury  ,Shedworks  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,20th Jul 20
+1277,Sagebrush,XOne,Unknown  ,Redact Games  ,2.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Aug 19
+1278,Saints Row: The Third Remastered,XOne,THQ  ,Volition  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd May 20  ,13th Apr 20
+1279,Samurai Jack: Battle Through Time,XOne,Adult Swim  ,Soleil Software Studio Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Aug 20  ,21st Jul 20
+1280,Samurai Shodown,XOne,SNK  ,SNK Playmore  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jul 19  ,04th May 19
+1281,Samurai Warriors 5,XOne,Unknown  ,Koei Tecmo Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,18th Feb 21
+1282,Scarlet Nexus,XOne,Bandai Namco Entertainment  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,07th May 20
+1283,Scott Pilgrim vs. the World: The Game - Complete Edition,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,22nd Sep 20
+1284,ScourgeBringer,XOne,Unknown  ,Flying Oak Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Mar 21
+1285,Sea of Solitude,XOne,Electronic Arts  ,Jo-Mei Games  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jul 19  ,02nd Jun 19
+1286,Second Extinction,XOne,Systemic Reaction  ,Systemic Reaction  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,17th Jun 20
+1287,Secret Neighbor,XOne,TinyBuild Games  ,Dynamic Pixels  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 19  ,09th Dec 19
+1288,Sekiro: Shadows Die Twice,XOne,Activision  ,From Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Mar 19  ,11th Sep 18
+1289,Sephirothic Stories,XOne,Kemco  ,Exe Create Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 19  ,31st Mar 19
+1290,Session,XOne,Crea-ture Studios  ,Crea-ture Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 20  ,03rd Jun 19
+1291,Shadows: Awakening,XOne,Unknown  ,Games Farm  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Oct 18
+1292,Shantae and the Seven Sirens,XOne,WayForward  ,WayForward  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th May 20  ,02nd Oct 19
+1293,Shantae: Risky's Revenge,XOne,WayForward Technologies  ,WayForward Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,10th Jul 20
+1294,Sherlock Holmes: Chapter One,XOne,Frogwares  ,Frogwares  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,16th Jun 20
+1295,Shovel Knight Showdown,XOne,Unknown  ,Yacht Club Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Dec 19
+1296,Shovel Knight: King of Cards,XOne,Unknown  ,Yacht Club Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Dec 19
+1297,Simulacra,XOne,Unknown  ,Kaigan Games OÜ  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,28th Nov 19
+1298,Skater XL,XOne,Easy Day Studios Pty Ltd  ,Easy Day Studios Pty Ltd  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,16th Aug 19
+1299,Skull & Bones,XOne,Ubisoft  ,Ubisoft Singapore  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,20th Jun 19
+1300,Skully,XOne,Unknown  ,Finish Line Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,08th Aug 20
+1301,Sky Force Anniversary,XOne,Infinite Dreams Inc.  ,Infinite Dreams Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Dec 16  ,26th Nov 18
+1302,Sky Force Reloaded,XOne,Infinite Dreams Inc.  ,Infinite Dreams Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 17  ,28th Jan 18
+1303,Snake Pass,XOne,Sumo Digital  ,Sumo Digital  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Mar 17  ,10th Jan 18
+1304,Sniper Elite V2 Remastered,XOne,U&I Entertainment  ,Rebellion Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th May 19  ,13th May 19
+1305,Sniper: Ghost Warrior Contracts,XOne,City Interactive  ,City Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Nov 19  ,05th Jun 19
+1306,SnowRunner,XOne,Focus Home Interactive  ,Saber Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 20  ,30th Mar 20
+1307,So Many Me,XOne,ORiGO Games  ,"Extend Interactive Co., Ltd.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Jul 14  ,11th Aug 18
+1308,SolSeraph,XOne,Unknown  ,ACE Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,29th Jun 19
+1309,SOMA,XOne,Frictional Games  ,Frictional Games  ,N/A  ,N/A  ,9.0  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 17  ,06th Apr 19
+1310,Someday You'll Return,XOne,CBE Software s.r.o.  ,CBE Software s.r.o.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Apr 20  ,13th Feb 20
+1311,Spacebase Startopia,XOne,Kalypso Media  ,Realmforge Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 21  ,27th Jul 20
+1312,Sparkle 2,XOne,10tons Ltd  ,10tons Ltd  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jan 16  ,06th Apr 19
+1313,Sparklite,XOne,Unknown  ,Red Blue Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,14th Nov 19
+1314,Spellbreak,XOne,Proletariat Inc.  ,Proletariat Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 20  ,30th Aug 20
+1315,Spike Volleyball,XOne,Bigben Interactive  ,Black Sheep Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Feb 19  ,17th Dec 18
+1316,Spiritfarer,XOne,Thunder Lotus Games  ,Thunder Lotus Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,06th Aug 19
+1317,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,XOne,THQ Nordic  ,THQ Nordic  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Jun 20  ,29th Sep 20
+1318,Spy Chameleon - RGB Agent,XOne,Unfinished Pixel  ,Unfinished Pixel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd May 15  ,09th Aug 18
+1319,Spyro + Crash Remastered Game Bundle,XOne,Activision  ,Vicarious Visions  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 18  ,17th Dec 18
+1320,Star Child,XOne,Unknown  ,Playful Corp.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,14th Jun 18
+1321,Star Wars Jedi: Fallen Order,XOne,Electronic Arts  ,Respawn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Nov 19  ,13th Apr 19
+1322,Star Wars: Squadrons,XOne,Electronic Arts  ,Motive Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Oct 20  ,19th Jun 20
+1323,Steam Tactics,XOne,Unknown  ,Igor Rashkuev  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,31st Jul 20
+1324,SteamWorld Dig 2,XOne,Image & Form Games  ,Image & Form Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Nov 18  ,31st Mar 19
+1325,SteamWorld Dig: A Fistful of Dirt,XOne,Image & Form Games  ,Image & Form Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jun 15  ,30th Aug 18
+1326,Stela,XOne,Unknown  ,SkyBox Labs  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Oct 19
+1327,Stern Pinball Arcade,XOne,Alliance Digital Media  ,FarSight Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Nov 16  ,19th Feb 19
+1328,Steven Universe: Save the Light / OK K.O.! Let’s Play Heroes,XOne,Outright Games  ,Outright Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Mar 19  ,04th Aug 18
+1329,Stranded Sails: Explorers of the Cursed Islands,XOne,Unknown  ,Lemonbomb Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,27th Oct 19
+1330,Stranger Things 3: The Game,XOne,"Netflix, Inc.  ",BonusXP  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jul 19  ,06th Jun 19
+1331,Streets of Rage 4,XOne,DotEmu  ,Lizardcube  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Apr 20  ,25th Nov 19
+1332,Streets of Rogue,XOne,Unknown  ,Matt Dabrowski  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,15th Jul 19
+1333,Styx: Master of Shadows,XOne,Focus Home Interactive  ,Cyanide Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Oct 14  ,06th Jan 18
+1334,Submerged,XOne,Unknown  ,Uppercut Games  ,N/A  ,N/A  ,3.9  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Aug 19
+1335,Summer in Mara,XOne,Unknown  ,Chibig  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,31st Jan 21
+1336,Super Blood Hockey,XOne,Digerati  ,Loren Lemcke  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Jun 19  ,23rd Apr 19
+1337,Super Comboman,XOne,Flashman Games  ,Interabang Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Aug 17  ,11th Aug 18
+1338,Super Destronaut DX,XOne,Ratalaika Games  , Petite Games	  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jul 18  ,06th May 19
+1339,Super Meat Boy Forever,XOne,Team Meat  ,Team Meat  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Dec 20  ,01st Apr 19
+1340,Super Mega Baseball 3,XOne,Metalhead Software Inc.  ,Metalhead Software Inc.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th May 20  ,30th Apr 20
+1341,Super Monkey Ball: Banana Blitz HD,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Oct 19  ,23rd Jul 19
+1342,Super Mutant Alien Assault,XOne,Unknown  ,Cybernate  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Jul 19
+1343,Superhot: Mind Control Delete,XOne,SUPERHOT Team  ,SUPERHOT Team  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jul 20  ,13th Jul 20
+1344,Superliminal,XOne,Pillow Castle  ,Pillow Castle  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,07th Jul 20  ,01st Jul 20
+1345,Sword Art Online: Alicization Lycoris,XOne,Bandai Namco Entertainment  ,Bandai Namco  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Jul 20  ,30th Mar 19
+1346,Swordbreaker The Game,XOne,Unknown  ,DuCats Games Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Oct 20
+1347,Synergia,XOne,Unknown  ,Radi Art  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,13th Apr 21
+1348,System Shock (Remake),XOne,Nightdive Studios  ,Nightdive Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,21st Jun 19
+1349,Tacoma,XOne,The Fullbright Company  ,The Fullbright Company  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Aug 17  ,22nd Jan 18
+1350,Tales of Arise,XOne,Bandai Namco Entertainment  ,Bandai Namco Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,21st Jun 19
+1351,Tales of Vesperia: Definitive Edition,XOne,Bandai Namco Entertainment  ,Bandai Namco Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,11th Jan 19  ,23rd Jan 19
+1352,Tannenberg,XOne,M2H  ,M2H  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jul 20  ,02nd Jul 20
+1353,Taxi Chaos,XOne,Unknown  ,Team 6 Games Studio  ,3.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Mar 21
+1354,Team Sonic Racing,XOne,Sega  ,Sumo Digital  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st May 19  ,22nd Mar 19
+1355,Tears of Avia,XOne,CooCooSqueaky  ,CooCooSqueaky  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,24th Jul 19
+1356,Tell Me Why,XOne,Xbox Game Studios  ,DONTNOD Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 20  ,26th Nov 19
+1357,Telling Lies,XOne,Annapurna Interactive  ,Sam Barlow  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Apr 20  ,27th Apr 20
+1358,Tennis World Tour 2,XOne,Nacon  ,Big Ant Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 20  ,25th Sep 20
+1359,Terminator: Resistance,XOne,Reef Entertainment  ,Teyon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Dec 19  ,01st Oct 19
+1360,TETRA's Escape,XOne,Unknown  ,ABX Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Jul 18
+1361,Tetris Effect Connected,XOne,Enhance  ,"Tetris Online, Inc  ",7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,23rd Jul 20
+1362,The Adventures of Bertram Fiddle: Episode 1 - A Dreadly Business,XOne,Chorus Worldwide Games  ,Rumpus Animation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th May 19  ,06th May 19
+1363,The Aquatic Adventure of the Last Human,XOne,Digerati  ,YCJY  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jan 18  ,22nd Dec 18
+1364,The Artful Escape,XOne,Annapurna Interactive  ,Beethoven & Dinosaur  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,25th Nov 19
+1365,The Ascent,XOne,Curve Digital  ,Neon Giant  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,07th May 20
+1366,The Awesome Adventures of Captain Spirit,XOne,DONTNOD Entertainment  ,DONTNOD Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jun 18  ,11th Jun 18
+1367,The Bard’s Tale IV: Director's Cut,XOne,inXile Entertainment  ,InXile Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Aug 19  ,12th Jul 19
+1368,The Blackout Club,XOne,Unknown  ,Question  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th Sep 19
+1369,The Bradwell Conspiracy,XOne,Unknown  ,A Brave Plan  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Oct 19
+1370,The Church in the Darkness,XOne,Paranoid Productions  ,Paranoid Productions  ,3.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Aug 19  ,11th Jul 19
+1371,The Coma 2: Vicious Sisters,XOne,Digerati  ,Devespresso Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,14th Aug 19
+1372,The Complex,XOne,Unknown  ,Wales Interactive Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,20th Mar 20
+1373,The Council,XOne,Bigben Interactive  ,Big Bad Wolf  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Jan 19  ,18th Dec 18
+1374,The Culling II,XOne,Unknown  ,Xaviant  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Jul 18
+1375,The Dark Crystal: Age of Resistance Tactics,XOne,En Masse Entertainment  ,BonusXP  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Feb 20  ,11th Jun 19
+1376,The Dark Pictures Anthology: Little Hope,XOne,Bandai Namco Entertainment  ,Supermassive Games Ltd.  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Oct 20  ,29th May 20
+1377,The Elder Scrolls Online: Greymoor,XOne,Bethesda Softworks  ,ZeniMax Online Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 20  ,16th Jan 20
+1378,The Elder Scrolls: Legends,XOne,Unknown  ,Bethesda Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,11th Jun 18
+1379,The Falconeer,XOne,Unknown  ,Tomas Sala  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Dec 20
+1380,The Fall Part 2: Unbound,XOne,Unknown  ,Over the Moon  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,24th Jan 18
+1381,The Flame in the Flood,XOne,Unknown  ,The Molasses Flood  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,03rd Dec 19
+1382,The Good Life,XOne,White Owls  ,White Owls  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,13th Aug 20
+1383,The Gunk,XOne,Thunderful Publishing AB  ,Image & Form Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,23rd Jul 20
+1384,The Last Campfire,XOne,Hello Games  ,Hello Games  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,08th Jun 20
+1385,The Last Night,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,29th Dec 17
+1386,The LEGO Movie 2 Video Game,XOne,Warner Bros. Interactive  ,TT Fusion  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 19  ,22nd Mar 19
+1387,The Little Acre,XOne,Unknown  ,Pewter Games Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,06th Jan 18
+1388,The Lord of the Rings: Adventure Card Game,XOne,Asmodee Digital  ,Fantasy Flight Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 19  ,05th Aug 19
+1389,The Mummy Demastered,XOne,WayForward Technologies  ,WayForward Technologies  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Oct 17  ,N/A
+1390,The Occupation,XOne,Humble Bundle  ,White Paper Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Feb 19  ,11th Sep 18
+1391,The Outer Worlds,XOne,Private Division  ,Obsidian Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Oct 19  ,06th Jun 19
+1392,The Persistence,XOne,Perp Games  ,Firesprite  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st May 20  ,01st May 20
+1393,The Sinking City,XOne,Bigben Interactive  ,Frogwares  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Jun 19  ,04th May 19
+1394,The Sojourn,XOne,Iceberg Interactive  ,Shifting Tides  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,20th Sep 19  ,06th Aug 19
+1395,The Spectrum Retreat,XOne,Unknown  ,Dan Smith Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,16th Aug 18
+1396,The Station,XOne,Unknown  ,The Station  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Feb 18
+1397,The Surge 2,XOne,Focus Home Interactive  ,DECK13 Interactive  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Sep 19  ,24th Mar 19
+1398,The Survivalists,XOne,Team17  ,Team17  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,10th Dec 19
+1399,The Talos Principle,XOne,Devolver Digital  ,Croteam  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Aug 18  ,28th Dec 18
+1400,The Turing Test,XOne,Square Enix  ,Bulkhead Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 16  ,27th Jan 20
+1401,The Vanishing of Ethan Carter,XOne,The Astronauts  ,The Astronauts  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jan 18  ,12th Jan 18
+1402,The Walking Dead - A Telltale Series - The Final Season,XOne,Telltale Games  ,Telltale Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Jan 19  ,11th Sep 18
+1403,The Way,XOne,PlayWay  ,Puzzling Dream  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Apr 17  ,20th Apr 19
+1404,The Witness,XOne,"Thekla, Inc.  ","Thekla, Inc.  ",N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Sep 16  ,02nd May 18
+1405,This is the Zodiac Speaking,XOne,Unknown  ,Punch Punk Games  ,2.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Nov 20
+1406,Those Who Remain,XOne,Wired Productions  ,Camel 101  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,10th Aug 19
+1407,Thronebreaker: The Witcher Tales,XOne,Unknown  ,CD Projekt Red Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Feb 20
+1408,Through the Darkest of Times,XOne,Unknown  ,Paintbucket Games  ,7.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Sep 20
+1409,Thumper,XOne,Unknown  ,Drool  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,20th Feb 18
+1410,Tohu,XOne,Unknown  ,Fireart Games  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,30th Jan 21
+1411,Tokyo Ogre Gate,XOne,Unknown  ,CyberConnect2  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,19th Jul 18
+1412,Tom Clancy's Ghost Recon Breakpoint,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Oct 19  ,09th May 19
+1413,Tom Clancy's Rainbow Six: Quarantine,XOne,Ubisoft  ,Ubisoft Montreal  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,20th Jun 19
+1414,Tom Clancy?s The Division 2,XOne,Ubisoft  ,Massive Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Mar 19  ,21st Mar 19
+1415,Tomb Raider: Definitive Edition,XOne,Square Enix  ,Crystal Dynamics  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jan 14  ,30th Dec 17
+1416,Tony Hawk's Pro Skater 1 + 2,XOne,Activision  ,Vicarious Visions  ,8.0  ,N/A  ,8.6  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Sep 20  ,31st Jan 21
+1417,Torchlight II,XOne,Runic Games  ,Runic Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 19  ,03rd Sep 19
+1418,Torchlight III,XOne,Perfect World Entertainment  ,Echtra Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Oct 20  ,28th Jan 20
+1419,Tour de France 2018,XOne,Focus Home Interactive  ,Cyanide Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Jun 18  ,11th Aug 18
+1420,Tower of Guns,XOne,Unknown  ,Terrible Posture Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,22nd Apr 19
+1421,Trailblazers,XOne,Rising Star Games  ,Supergonk  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th May 18  ,22nd Sep 18
+1422,Transformers: Battlegrounds,XOne,Outright Games  ,Outright Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,23rd Oct 20  ,03rd Jul 20
+1423,Trash Sailors,XOne,Unknown  ,fluckyMachine  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Apr 21
+1424,Trials Rising,XOne,Ubisoft  ,Ubisoft  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Feb 19  ,25th Jan 19
+1425,Tricky Towers,XOne,WeirdBeard  ,WeirdBeard  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Sep 17  ,N/A
+1426,Trine 4: The Nightmare Prince,XOne,Modus Games  ,Frozenbyte  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 19  ,08th Jun 19
+1427,Tropico 6,XOne,Kalypso Media  ,Limbic Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,27th Sep 19  ,21st Jul 19
+1428,Trüberbrook,XOne,Headup Games  ,btf  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 19  ,03rd Jan 19
+1429,Truck Driver,XOne,Unknown  ,Triangle Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,26th Oct 18
+1430,Tunche,XOne,Unknown  ,LEAP Game Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Feb 21
+1431,Tunic,XOne,Finji  ,Andrew Shouldice  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Jan 19  ,11th Jun 18
+1432,Twin Mirror,XOne,Bandai Namco  ,DONTNOD Entertainment  ,4.5  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,09th Jun 19
+1433,Two Point Hospital,XOne,Sega  ,Two Point Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 20  ,24th Jul 19
+1434,Ultimate Fishing Simulator 2,XOne,Ultimate Games  ,MasterCode  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 21  ,17th Jun 20
+1435,Underhero,XOne,Unknown  ,Paper Castle Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,21st Mar 20
+1436,Unexplored: Unlocked Edition,XOne,Unknown  ,Ludomotion  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Aug 18
+1437,Unravel Two,XOne,Electronic Arts  ,ColdWood Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,09th Jun 18  ,10th Jun 18
+1438,Unravel Yarny Bundle,XOne,Electronic Arts  ,ColdWood Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jul 18  ,18th Dec 18
+1439,Unruly Heroes,XOne,Unknown  ,Magic Design Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,26th Jan 19
+1440,Untitled Goose Game,XOne,Panic  ,House House  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Dec 19  ,10th Dec 19
+1441,Valfaris,XOne,Big Sugar  ,Steel Mantis  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,12th Jun 19
+1442,Vambrace: Cold Soul,XOne,Headup Games  ,Devespresso Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 19  ,15th Aug 19
+1443,Vampire: The Masquerade - Bloodlines 2,XOne,Paradox Interactive   ,Hardsuit Labs  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Dec 21  ,16th Jun 19
+1444,Vampire: The Masquerade – Coteries of New York,XOne,Draw Distance  ,Draw Distance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Apr 20  ,29th Mar 20
+1445,Vampire: The Masquerade – Shadows of New York,XOne,Draw Distance  ,Draw Distance  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Sep 20  ,31st Jul 20
+1446,Vaporum,XOne,Merge Games  ,Fatbot Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Apr 19  ,14th May 19
+1447,Vasara Collection,XOne,QUByte Interactive  ,QUByte Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,14th Aug 19  ,09th Aug 19
+1448,Vesta,XOne,FinalBoss Games  ,FinalBoss Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,19th Jan 18  ,21st Jan 18
+1449,Victor Vran: Overkill Edition,XOne,Wired Productions  ,Haemimont Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th May 17  ,18th Mar 18
+1450,Vigil: The Longest Night,XOne,Another Indie  ,Glass Heart Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,14th Feb 21
+1451,Virginia,XOne,Unknown  ,Variable State  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,06th Jan 18
+1452,Voice Commander,XOne,Microsoft Studios  ,Microsoft Foundry Intern Program  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 14  ,12th Aug 18
+1453,Void Bastards,XOne,Humble Bundle  ,Blue Manchu  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th May 19  ,04th Jun 19
+1454,Voodoo Vince: Remastered,XOne,Microsoft Studios  ,Beep Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Apr 17  ,12th Aug 18
+1455,Warframe,XOne,Digital Extremes  ,Digital Extremes  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Sep 14  ,08th Jul 18
+1456,Wargroove,XOne,Chucklefish  ,Chucklefish  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Feb 19  ,24th Mar 19
+1457,Warhammer: Chaosbane,XOne,Bigben Interactive  ,EKO Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Jun 19  ,04th Apr 19
+1458,Warhammer: Vermintide 2,XOne,Unknown  ,Fatshark AB  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,10th Jun 19
+1459,WARSAW,XOne,Crunching Koalas  ,Pixelated Milk  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,02nd Oct 20  ,11th Sep 20
+1460,Wasteland 3,XOne,Xbox Game Studios  ,InXile Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 20  ,10th Jun 19
+1461,Wasteland Remastered,XOne,inXile Entertainment  ,Krome Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 20  ,24th Jan 20
+1462,Watch Dogs Legion,XOne,Ubisoft  ,Ubisoft  ,4.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,29th Oct 20  ,18th Jun 19
+1463,way to the woods,XOne,Unknown  ,Unknown  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,09th Jun 19
+1464,Ways to the Woods,XOne,Team 17  ,Anthony Tan  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 20  ,01st Aug 20
+1465,We Were Here Together,XOne,Total Mayhem Games  ,Total Mayhem Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,05th Jun 20  ,03rd Jun 20
+1466,Weakless,XOne,Punk Notion  ,Cubeish Games  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,14th Aug 19
+1467,Welcome to Elk,XOne,Triple Topping  ,Triple Topping  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,17th Sep 20  ,04th Sep 20
+1468,Werewolf: The Apocalypse – Earthblood,XOne,Bigben Interactive  ,Cyanide Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Feb 21  ,21st Jun 19
+1469,West of Dead,XOne,Unknown  ,Upstream Arcade  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,21st Jun 20
+1470,What Happened,XOne,Unknown  ,Genius Slackers  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,05th Aug 20
+1471,When the Past was Around,XOne,Unknown  ,Mojiken Studio  ,5.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,30th Dec 20
+1472,Whipseey and the Lost Atlas,XOne,Unknown  ,Daniel A. Ramirez  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,01st Sep 19
+1473,White Night,XOne,Unknown  ,OSome Studio  ,N/A  ,N/A  ,8.4  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,04th May 19
+1474,Who's Your Daddy?,XOne,Joe Williams  ,Joe Williams  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,01st Dec 19  ,17th Jun 19
+1475,Windbound,XOne,Deep Silver  , 5 Lives Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,28th Aug 20  ,06th Jul 20
+1476,Wolfenstein: Youngblood,XOne,Bethesda Softworks  ,MachineGames  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Jul 19  ,06th Apr 19
+1477,World War Z,XOne,Focus Home Interactive  ,Saber Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,16th Apr 19  ,20th Mar 19
+1478,Wrath: Aeon of Ruin,XOne,3D Realms  ,KillPixel  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,25th Feb 21  ,24th Aug 20
+1479,WRC 8,XOne,Bigben Interactive  ,Kylotonn Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Sep 19  ,25th Jan 19
+1480,WRC 9,XOne,Nacon  ,Kylotonn  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,03rd Sep 20  ,17th Jun 20
+1481,Wreckfest,XOne,THQ Nordic  ,Bugbear Entertainment  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Mar 19  ,19th Dec 18
+1482,WWE 2K Battlegrounds,XOne,2K Sports  ,Saber Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,18th Sep 20  ,09th Jul 20
+1483,WWE 2K20,XOne,2K Games  ,Visual Concepts  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,22nd Oct 19  ,09th Aug 19
+1484,X-Morph: Defense,XOne,EXOR Studios  ,EXOR Studios  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Aug 17  ,28th Apr 19
+1485,Xeno Crisis,XOne,Unknown  ,Bitmap Bureau  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,07th Feb 19
+1486,Xenon Racer,XOne,Soedesco  ,3DClouds.it  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,26th Mar 19  ,03rd Jan 19
+1487,Xenon Valkyrie+,XOne,COWCAT  ,Diabolical Mind  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Feb 18  ,01st Apr 19
+1488,XIII,XOne,Ubisoft  ,PlayMagic  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,10th Nov 20  ,06th Jul 20
+1489,Xuan Yuan Sword: The Gate of Firmament,XOne,E-Home Entertainment  ,DOMO Studio  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,24th Jan 18  ,24th Jan 18
+1490,Yakuza 0,XOne,Unknown  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,23rd Aug 20
+1491,Yakuza Kiwami,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,21st Apr 20  ,25th Apr 20
+1492,Yakuza Kiwami 2,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,30th Jul 20  ,14th Jul 20
+1493,Yakuza: Like A Dragon,XOne,Sega  ,Sega  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,13th Nov 20  ,07th May 20
+1494,Yooka-Laylee and the Impossible Lair,XOne,Team 17  ,Playtonic Games  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,08th Oct 19  ,08th Jun 19
+1495,Ys Origin,XOne,Unknown  ,Nihon Falcom Corporation  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,21st Feb 18
+1496,Yu-Gi-Oh! Legacy of the Duelist,XOne,Konami  ,Other Ocean Interactive  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Jul 15  ,20th Apr 19
+1497,Yuppie Psycho,XOne,Unknown  ,Baroque Decay  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,N/A  ,17th Apr 18
+1498,Zombie Army 4: Dead War,XOne,Rebellion Developments  ,Rebellion Games  ,6.0  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,04th Feb 20  ,12th Jul 19
+1499,Zombieland: Double Tap - Road Trip,XOne,GameMill Entertainment  ,High Voltage Software  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,15th Oct 19  ,25th Sep 20
+1500,Zoo Tycoon: Ultimate Animal Collection,XOne,Microsoft Studios  ,Frontier Developments  ,N/A  ,N/A  ,N/A  ,N/A,N/A,N/A,N/A,N/A,N/A,31st Oct 17  ,26th Sep 18
