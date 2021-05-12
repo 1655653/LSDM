@@ -1,10 +1,14 @@
-quale nazione (o città) ha / quale publisher
-	prodotto piu giochi 
-	guadagnato di piu  nei tornei 
+PROPOSED TASKS
+
+Below is a list of proposed tasks over the target schema:
+
+
+- quale nazione (o città) ha / quale publisher
+	prodotto piu giochi
+	guadagnato di piu  nei tornei
 	guadagnato di piu  nelle vendite
 	range anni
-quale console ha 
+- quale console ha
 	avuto piu giochi [remunerativi]
-anni piu proficui	
-	
-	
+- anni piu proficui
+- SOFTWARE HOUSES CON PIU SEDI

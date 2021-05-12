@@ -1,0 +1,23 @@
+SQL QUERIES
+
+Below is a list of relevant queries over the target schema:
+
+
+AMOUNT OF SOFTWARE HOUSES PER COUNTRY:
+
+select country, count(name)
+from softwarehouse
+join locatedin on softwarehouse.name = locatedin.softwarehouse
+join hascountry on locatedin.city = hascountry.city
+group by country
+order by count desc, country asc
+
+-----------------------------------------------------------
+
+LIST ALL VIDEOGAMES, PUBLISHER, CITY AND COUNTRY:
+
+select publish.videogame, publish.publisher, hascountry.city, hascountry.country
+from publish
+join locatedin on publish.publisher = locatedin.softwarehouse
+join hascountry on locatedin.city = hascountry.city
+order by videogame asc

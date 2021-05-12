@@ -488,16 +488,6 @@
   </connection>
   <order>
     <hop>
-      <from>IN: gamedev (CSV)</from>
-      <to>Insert Sw House</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>IN: gamedev (CSV)</from>
-      <to>WaitSwHouse</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>WaitSwHouse</from>
       <to>isPublisher?</to>
       <enabled>Y</enabled>
@@ -510,16 +500,6 @@
     <hop>
       <from>isPublisher?</from>
       <to>Insert Developer</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>IN: gamedev (CSV)</from>
-      <to>hasCountry?</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>IN: gamedev (CSV)</from>
-      <to>hasCity?</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -592,6 +572,31 @@
       <to>dummy 2</to>
       <enabled>Y</enabled>
     </hop>
+    <hop>
+      <from>IN: gamedev (CSV)</from>
+      <to>Normalize</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Normalize</from>
+      <to>Insert Sw House</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Normalize</from>
+      <to>hasCountry?</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Normalize</from>
+      <to>hasCity?</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Normalize</from>
+      <to>WaitSwHouse</to>
+      <enabled>Y</enabled>
+    </hop>
   </order>
   <step>
     <name>IN: gamedev (CSV)</name>
@@ -616,8 +621,8 @@
     <add_filename_result>N</add_filename_result>
     <parallel>N</parallel>
     <newline_possible>N</newline_possible>
-    <format>mixed</format>
-    <encoding/>
+    <format>DOS</format>
+    <encoding>UTF-8</encoding>
     <fields>
       <field>
         <name>X</name>
@@ -628,7 +633,7 @@
         <group>,</group>
         <length>11</length>
         <precision>8</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>Y</name>
@@ -639,7 +644,7 @@
         <group>,</group>
         <length>10</length>
         <precision>8</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>Name</name>
@@ -648,9 +653,9 @@
         <currency>$</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>39</length>
+        <length>100</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>Type</name>
@@ -661,7 +666,7 @@
         <group>,</group>
         <length>23</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>City</name>
@@ -670,9 +675,9 @@
         <currency>$</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>21</length>
+        <length>100</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>Country</name>
@@ -681,9 +686,9 @@
         <currency>$</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>14</length>
+        <length>100</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
       <field>
         <name>Site</name>
@@ -692,9 +697,9 @@
         <currency>$</currency>
         <decimal>.</decimal>
         <group>,</group>
-        <length>35</length>
+        <length>100</length>
         <precision>-1</precision>
-        <trim_type>none</trim_type>
+        <trim_type>both</trim_type>
       </field>
     </fields>
     <attributes/>
@@ -706,7 +711,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>176</xloc>
+      <xloc>96</xloc>
       <yloc>256</yloc>
       <draw>Y</draw>
     </GUI>
@@ -1444,6 +1449,98 @@
     <GUI>
       <xloc>672</xloc>
       <yloc>624</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Normalize</name>
+    <type>StringOperations</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>Name</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml>None</mask_xml>
+        <digits>none</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+      <field>
+        <in_stream_name>Type</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml>None</mask_xml>
+        <digits>none</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+      <field>
+        <in_stream_name>City</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml>None</mask_xml>
+        <digits>none</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+      <field>
+        <in_stream_name>Country</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml>None</mask_xml>
+        <digits>none</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+      <field>
+        <in_stream_name>Site</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml>None</mask_xml>
+        <digits>none</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>256</xloc>
+      <yloc>256</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
