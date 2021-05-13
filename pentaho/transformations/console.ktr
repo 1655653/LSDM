@@ -440,10 +440,10 @@
     <server>localhost</server>
     <type>POSTGRESQL</type>
     <access>Native</access>
-    <database>postgres</database>
+    <database>infint</database>
     <port>5432</port>
-    <username>postgres</username>
-    <password>Encrypted 2be98afc86aa7f2e4cb79ce10bef2aed5</password>
+    <username>infint</username>
+    <password>Encrypted 2be98afc86aa7f2e4cb79a77ed89ba1ce</password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
@@ -487,16 +487,6 @@
     </attributes>
   </connection>
   <order>
-    <hop>
-      <from>Text file input 2 2</from>
-      <to>remove position colum 2 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>all_vidya 2 2</from>
-      <to>remove position colum 2 2</to>
-      <enabled>Y</enabled>
-    </hop>
     <hop>
       <from>remove position colum 2 2</from>
       <to>Append streams 2</to>
@@ -544,7 +534,22 @@
     </hop>
     <hop>
       <from>Dummy (do nothing)</from>
+      <to>String operations</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>String operations</from>
       <to>Table output</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Text file input</from>
+      <to>remove position colum 2 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>all_vidya</from>
+      <to>remove position colum 2 2</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -725,7 +730,7 @@
     <defaultPathLeafToNull>Y</defaultPathLeafToNull>
     <rownum_field/>
     <file>
-      <name>${Internal.Entry.Current.Directory}/ds sparsi/metacritic.json</name>
+      <name>${Internal.Transformation.Filename.Directory}\..\..\data\metacritic.json</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
@@ -907,6 +912,46 @@
     </GUI>
   </step>
   <step>
+    <name>String operations</name>
+    <type>StringOperations</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>platform</in_stream_name>
+        <out_stream_name/>
+        <trim_type>entrambi</trim_type>
+        <lower_upper/>
+        <padding_type/>
+        <pad_char/>
+        <pad_len/>
+        <init_cap/>
+        <mask_xml/>
+        <digits/>
+        <remove_special_characters/>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>1200</xloc>
+      <yloc>304</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
     <name>Table output</name>
     <type>TableOutput</type>
     <description/>
@@ -919,7 +964,7 @@
     </partitioning>
     <connection>cn</connection>
     <schema/>
-    <table>CONSOLE</table>
+    <table>Console</table>
     <commit>1000</commit>
     <truncate>N</truncate>
     <ignore_errors>N</ignore_errors>
@@ -951,7 +996,164 @@
     </GUI>
   </step>
   <step>
-    <name>Text file input 2 2</name>
+    <name>Unique rows 3</name>
+    <type>Unique</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <count_rows>N</count_rows>
+    <count_field/>
+    <reject_duplicate_row>N</reject_duplicate_row>
+    <error_description/>
+    <fields>
+      <field>
+        <name>platform</name>
+        <case_insensitive>N</case_insensitive>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>784</xloc>
+      <yloc>208</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>remove position colum 2 2</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>position</name>
+      </field>
+      <field>
+        <name>game</name>
+      </field>
+      <field>
+        <name>console</name>
+        <rename>platform</rename>
+      </field>
+      <field>
+        <name>publisher</name>
+      </field>
+      <field>
+        <name>developer</name>
+      </field>
+      <field>
+        <name>vgchart_score</name>
+      </field>
+      <field>
+        <name>critic_score</name>
+      </field>
+      <field>
+        <name>user_score</name>
+      </field>
+      <field>
+        <name>total_shipped</name>
+      </field>
+      <field>
+        <name>total_sales</name>
+      </field>
+      <field>
+        <name>na_sales</name>
+      </field>
+      <field>
+        <name>pal_sales</name>
+      </field>
+      <field>
+        <name>japan_sales</name>
+      </field>
+      <field>
+        <name>other_sales</name>
+      </field>
+      <field>
+        <name>release_date</name>
+      </field>
+      <field>
+        <name>last_update</name>
+      </field>
+      <select_unspecified>N</select_unspecified>
+      <remove>
+        <name>position</name>
+      </remove>
+      <remove>
+        <name>game</name>
+      </remove>
+      <remove>
+        <name>publisher</name>
+      </remove>
+      <remove>
+        <name>developer</name>
+      </remove>
+      <remove>
+        <name>vgchart_score</name>
+      </remove>
+      <remove>
+        <name>critic_score</name>
+      </remove>
+      <remove>
+        <name>user_score</name>
+      </remove>
+      <remove>
+        <name>total_shipped</name>
+      </remove>
+      <remove>
+        <name>total_sales</name>
+      </remove>
+      <remove>
+        <name>na_sales</name>
+      </remove>
+      <remove>
+        <name>pal_sales</name>
+      </remove>
+      <remove>
+        <name>japan_sales</name>
+      </remove>
+      <remove>
+        <name>other_sales</name>
+      </remove>
+      <remove>
+        <name>release_date</name>
+      </remove>
+      <remove>
+        <name>last_update</name>
+      </remove>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>320</xloc>
+      <yloc>224</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Text file input</name>
     <type>TextFileInput</type>
     <description/>
     <distribute>N</distribute>
@@ -989,7 +1191,7 @@
     <length>Characters</length>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>${Internal.Entry.Current.Directory}/ds sparsi/console sales</name>
+      <name>${Internal.Transformation.Filename.Directory}\..\..\data\sales_by_console</name>
       <filemask/>
       <exclude_filemask>lista</exclude_filemask>
       <file_required>N</file_required>
@@ -1002,8 +1204,8 @@
     <fields>
       <field>
         <name>position</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>€</currency>
         <decimal>,</decimal>
         <group>.</group>
@@ -1275,48 +1477,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>144</xloc>
-      <yloc>352</yloc>
+      <xloc>64</xloc>
+      <yloc>256</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Unique rows 3</name>
-    <type>Unique</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <count_rows>N</count_rows>
-    <count_field/>
-    <reject_duplicate_row>N</reject_duplicate_row>
-    <error_description/>
-    <fields>
-      <field>
-        <name>platform</name>
-        <case_insensitive>N</case_insensitive>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>784</xloc>
-      <yloc>208</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>all_vidya 2 2</name>
+    <name>all_vidya</name>
     <type>CsvInput</type>
     <description/>
     <distribute>Y</distribute>
@@ -1326,7 +1493,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <filename>C:\Users\theta\Desktop\ds sparsi\vgsales-2021-04-09_16_51_31.csv</filename>
+    <filename>${Internal.Transformation.Filename.Directory}\..\..\data\vgsales-2021-04-09_16_51_31.csv</filename>
     <filename_field/>
     <rownum_field/>
     <include_filename>N</include_filename>
@@ -1343,8 +1510,8 @@
     <fields>
       <field>
         <name>position</name>
-        <type>Integer</type>
-        <format>#</format>
+        <type>String</type>
+        <format/>
         <currency>€</currency>
         <decimal>,</decimal>
         <group>.</group>
@@ -1527,130 +1694,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>144</xloc>
-      <yloc>224</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>remove position colum 2 2</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>position</name>
-      </field>
-      <field>
-        <name>game</name>
-      </field>
-      <field>
-        <name>console</name>
-        <rename>platform</rename>
-      </field>
-      <field>
-        <name>publisher</name>
-      </field>
-      <field>
-        <name>developer</name>
-      </field>
-      <field>
-        <name>vgchart_score</name>
-      </field>
-      <field>
-        <name>critic_score</name>
-      </field>
-      <field>
-        <name>user_score</name>
-      </field>
-      <field>
-        <name>total_shipped</name>
-      </field>
-      <field>
-        <name>total_sales</name>
-      </field>
-      <field>
-        <name>na_sales</name>
-      </field>
-      <field>
-        <name>pal_sales</name>
-      </field>
-      <field>
-        <name>japan_sales</name>
-      </field>
-      <field>
-        <name>other_sales</name>
-      </field>
-      <field>
-        <name>release_date</name>
-      </field>
-      <field>
-        <name>last_update</name>
-      </field>
-      <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>position</name>
-      </remove>
-      <remove>
-        <name>game</name>
-      </remove>
-      <remove>
-        <name>publisher</name>
-      </remove>
-      <remove>
-        <name>developer</name>
-      </remove>
-      <remove>
-        <name>vgchart_score</name>
-      </remove>
-      <remove>
-        <name>critic_score</name>
-      </remove>
-      <remove>
-        <name>user_score</name>
-      </remove>
-      <remove>
-        <name>total_shipped</name>
-      </remove>
-      <remove>
-        <name>total_sales</name>
-      </remove>
-      <remove>
-        <name>na_sales</name>
-      </remove>
-      <remove>
-        <name>pal_sales</name>
-      </remove>
-      <remove>
-        <name>japan_sales</name>
-      </remove>
-      <remove>
-        <name>other_sales</name>
-      </remove>
-      <remove>
-        <name>release_date</name>
-      </remove>
-      <remove>
-        <name>last_update</name>
-      </remove>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>320</xloc>
-      <yloc>224</yloc>
+      <xloc>64</xloc>
+      <yloc>352</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
