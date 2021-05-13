@@ -35,10 +35,13 @@ CREATE INDEX idx_Publisher_lookup ON Publisher(name);
 
 CREATE TABLE Videogame
 (
-	title VARCHAR(300) NOT NULL,
-	PRIMARY KEY (title)
-);
-CREATE INDEX idx_Videogame_lookup ON Videogame(title);
+  title VARCHAR(340),
+  genre VARCHAR(200),
+  PRIMARY KEY (title)
+)
+;
+CREATE INDEX idx_videogame_lookup ON Videogame(title);
+
 
 -- =============================================================
 
@@ -103,3 +106,52 @@ CREATE TABLE HasCountry
 	FOREIGN KEY (city) REFERENCES City(name),
 	FOREIGN KEY (country) REFERENCES Country(name)
 );
+-- =============================================================
+
+-- =============================================================
+
+CREATE TABLE Console
+(
+	platform VARCHAR(10),
+	PRIMARY KEY (platform)
+);
+
+
+-- =============================================================
+CREATE TABLE Released_for
+(
+  title VARCHAR(340)
+, platform VARCHAR(10)
+, release_date DOUBLE PRECISION
+, us DOUBLE PRECISION
+, ms DOUBLE PRECISION
+, sales DOUBLE PRECISION
+, PRIMARY KEY (title,platform)
+, FOREIGN KEY (title) REFERENCES Videogame(title)
+, FOREIGN KEY (platform) REFERENCES Console(platform)
+)
+;
+
+-- =============================================================
+
+CREATE TABLE Esport
+(
+  title VARCHAR(530)
+, TotalEarnings VARCHAR(120)
+, OnlineEarnings VARCHAR(120)
+, PRIMARY KEY (title)
+, FOREIGN KEY (title) REFERENCES Videogame(title)
+)
+;
+-- =============================================================
+CREATE TABLE Tournament
+(
+  title VARCHAR(300)
+, date TIMESTAMP
+, Earnings BIGINT
+, priced_players BIGINT
+, Nevents BIGINT
+, PRIMARY KEY (date,title)
+, FOREIGN KEY (title) REFERENCES Videogame(title)
+)
+;
