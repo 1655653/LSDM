@@ -404,7 +404,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>544</xloc>
+      <xloc>528</xloc>
       <yloc>288</yloc>
       <attributes_kjc/>
     </entry>
@@ -552,7 +552,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>544</xloc>
+      <xloc>528</xloc>
       <yloc>192</yloc>
       <attributes_kjc/>
     </entry>
@@ -682,8 +682,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>448</xloc>
-      <yloc>368</yloc>
+      <xloc>464</xloc>
+      <yloc>432</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -722,7 +722,7 @@
       <draw>Y</draw>
       <nr>0</nr>
       <xloc>544</xloc>
-      <yloc>448</yloc>
+      <yloc>432</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -760,7 +760,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>704</xloc>
+      <xloc>624</xloc>
       <yloc>432</yloc>
       <attributes_kjc/>
     </entry>
@@ -799,8 +799,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>784</xloc>
-      <yloc>448</yloc>
+      <xloc>704</xloc>
+      <yloc>432</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -838,8 +838,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>896</xloc>
-      <yloc>480</yloc>
+      <xloc>800</xloc>
+      <yloc>432</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
@@ -1027,6 +1027,15 @@
     <hop>
       <from>released_for</from>
       <to>tournament</to>
+      <from_nr>0</from_nr>
+      <to_nr>0</to_nr>
+      <enabled>Y</enabled>
+      <evaluation>Y</evaluation>
+      <unconditional>N</unconditional>
+    </hop>
+    <hop>
+      <from>tournament</from>
+      <to>Pre-Transforms</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>

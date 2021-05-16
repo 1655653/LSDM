@@ -7,8 +7,9 @@ Below is a list of proposed tasks over the target schema:
 	prodotto piu giochi
 	guadagnato di piu  nei tornei
 	guadagnato di piu  nelle vendite
-	range anni
+	range anni (EG.: quale ha guadagnato di più prima de del 2008, etc.)
+- SOFTWARE HOUSES CON PIU SEDI
+
 - quale console ha
 	avuto piu giochi [remunerativi]
 - anni piu proficui
-- SOFTWARE HOUSES CON PIU SEDI
