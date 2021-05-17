@@ -386,7 +386,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>272</xloc>
+      <xloc>240</xloc>
       <yloc>288</yloc>
       <attributes_kjc/>
     </entry>
@@ -404,7 +404,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>528</xloc>
+      <xloc>448</xloc>
       <yloc>288</yloc>
       <attributes_kjc/>
     </entry>
@@ -459,7 +459,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/t2_gamedev.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t02_gamedev.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -498,7 +498,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/t3_spvg.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t03_spvg.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -539,7 +539,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>272</xloc>
+      <xloc>240</xloc>
       <yloc>192</yloc>
       <attributes_kjc/>
     </entry>
@@ -552,7 +552,7 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>528</xloc>
+      <xloc>448</xloc>
       <yloc>192</yloc>
       <attributes_kjc/>
     </entry>
@@ -576,7 +576,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/t4_load_vgsales.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t04_load_vgsales.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -615,7 +615,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/t5_iterate_vgsales.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t05_iterate_vgsales.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -654,7 +654,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/videogame.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t08_videogame.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -682,8 +682,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>464</xloc>
-      <yloc>432</yloc>
+      <xloc>416</xloc>
+      <yloc>384</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -693,7 +693,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/console.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t09_console.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -721,8 +721,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>544</xloc>
-      <yloc>432</yloc>
+      <xloc>512</xloc>
+      <yloc>384</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -732,7 +732,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/eSport.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t10_eSport.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -760,8 +760,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>624</xloc>
-      <yloc>432</yloc>
+      <xloc>592</xloc>
+      <yloc>384</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -771,7 +771,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/released_for.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t11_released_for.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -799,8 +799,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>704</xloc>
-      <yloc>432</yloc>
+      <xloc>688</xloc>
+      <yloc>384</yloc>
       <attributes_kjc/>
     </entry>
     <entry>
@@ -810,7 +810,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>${Internal.Job.Filename.Directory}/../transformations/tournament_and_made_tournament.ktr</filename>
+      <filename>${Internal.Job.Filename.Directory}/../transformations/t12_tournament.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -838,8 +838,8 @@
       <parallel>N</parallel>
       <draw>Y</draw>
       <nr>0</nr>
-      <xloc>800</xloc>
-      <yloc>432</yloc>
+      <xloc>784</xloc>
+      <yloc>384</yloc>
       <attributes_kjc/>
     </entry>
   </entries>
