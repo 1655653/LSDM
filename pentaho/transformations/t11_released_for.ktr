@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>released_for</name>
+    <name>t11_released_for</name>
     <description/>
     <extended_description/>
     <trans_version/>
     <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
     <directory>/</directory>
     <parameters>
     </parameters>
@@ -434,6 +435,112 @@
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
+    <notepad>
+      <note>concatenate: total shipped, total_sales</note>
+      <xloc>688</xloc>
+      <yloc>128</yloc>
+      <width>262</width>
+      <heigth>30</heigth>
+      <fontname>Segoe UI</fontname>
+      <fontsize>9</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>clean FULL OUTER
+join nulls</note>
+      <xloc>1344</xloc>
+      <yloc>112</yloc>
+      <width>131</width>
+      <heigth>50</heigth>
+      <fontname>Segoe UI</fontname>
+      <fontsize>9</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>format release_date</note>
+      <xloc>1504</xloc>
+      <yloc>128</yloc>
+      <width>140</width>
+      <heigth>30</heigth>
+      <fontname>Segoe UI</fontname>
+      <fontsize>9</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>VGChartz</note>
+      <xloc>80</xloc>
+      <yloc>64</yloc>
+      <width>72</width>
+      <heigth>30</heigth>
+      <fontname>Segoe UI</fontname>
+      <fontsize>9</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
+    <notepad>
+      <note>Metacritic</note>
+      <xloc>608</xloc>
+      <yloc>288</yloc>
+      <width>75</width>
+      <heigth>30</heigth>
+      <fontname>Segoe UI</fontname>
+      <fontsize>9</fontsize>
+      <fontbold>N</fontbold>
+      <fontitalic>N</fontitalic>
+      <fontcolorred>0</fontcolorred>
+      <fontcolorgreen>0</fontcolorgreen>
+      <fontcolorblue>0</fontcolorblue>
+      <backgroundcolorred>255</backgroundcolorred>
+      <backgroundcolorgreen>205</backgroundcolorgreen>
+      <backgroundcolorblue>112</backgroundcolorblue>
+      <bordercolorred>100</bordercolorred>
+      <bordercolorgreen>100</bordercolorgreen>
+      <bordercolorblue>100</bordercolorblue>
+      <drawshadow>Y</drawshadow>
+    </notepad>
   </notepads>
   <connection>
     <name>cn</name>
@@ -488,73 +595,28 @@
   </connection>
   <order>
     <hop>
-      <from>remove position colum</from>
-      <to>Sorted merge</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Sorted merge</from>
-      <to>String operations 3 2 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>String operations 3 2 2</from>
-      <to>Sort rows by name and console</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>JSON input</from>
-      <to>String operations 3 2 2 2</to>
+      <to>Clean 3</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>String operations 3 2 2 2</from>
-      <to>Sort rows by name and console 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Sort rows by name and console</from>
-      <to>Concat ship and sales</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Concat ship and sales</from>
-      <to>Replace N/A</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Replace N/A</from>
-      <to>Concat sales</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Concat sales</from>
-      <to>Select values</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values</from>
-      <to>vgchartz clean</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>vgchartz clean</from>
-      <to>Replace in string</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Replace in string</from>
-      <to>Select values 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>videogame sql</from>
+      <from>IN: Videogame</from>
       <to>Merge join</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Sort rows by name and console 2</from>
+      <from>Project 4</from>
+      <to>Merge join 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sort</from>
       <to>Merge join</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Merge join 2</from>
+      <to>Project</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -563,224 +625,148 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Select values 2</from>
-      <to>Merge join 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Merge join 2</from>
-      <to>Select values 3</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Formula</from>
-      <to>Select values 4</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values 4</from>
-      <to>Unique rows</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values 3</from>
-      <to>Replace in string 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Replace in string 2</from>
+      <from>Normalize 3</from>
       <to>Formula</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
+      <from>Project</from>
+      <to>Normalize 3</to>
+      <enabled>N</enabled>
+    </hop>
+    <hop>
+      <from>Project</from>
+      <to>Normalize 3</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
       <from>Unique rows</from>
-      <to>Replace in string 3</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Replace in string 3</from>
-      <to>String operations</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>String operations</from>
-      <to>Select values 5</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values 5</from>
-      <to>Formula 2</to>
+      <to>Normalize 2</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
       <from>Formula 2</from>
-      <to>Select values 6</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values 6</from>
-      <to>Formula 3</to>
+      <to>Project 2</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
       <from>Formula 3</from>
-      <to>Select values 7</to>
+      <to>Project 3</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Select values 7</from>
+      <from>Project 3</from>
       <to>Filter rows</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Filter rows</from>
-      <to>Dummy (do nothing)</to>
+      <from>Clean 2</from>
+      <to>Project 4</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>IN: vgsales-consoles (CSV)</from>
+      <to>Project 5</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>IN: vgsales (CSV)</from>
+      <to>Project 6</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Concat</from>
+      <to>Clean 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Clean 4</from>
+      <to>Sort 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sort 2</from>
+      <to>Sorted merge</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Clean 5</from>
+      <to>Sort 4</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sort 4</from>
+      <to>Sorted merge</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Normalize 2</from>
+      <to>Clean</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Project 2</from>
+      <to>Formula 3</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Formula</from>
+      <to>Unique rows</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Clean</from>
+      <to>Formula 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Project 5</from>
+      <to>Normalize</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Normalize</from>
+      <to>Clean 4</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Clean 3</from>
+      <to>Normalize 6</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Normalize 6</from>
+      <to>Sort</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
       <from>Filter rows</from>
-      <to>Dummy (do nothing) 2</to>
+      <to>Remove Duplicates</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Replace in string 3 3</from>
-      <to>Sort rows 6 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Dummy (do nothing)</from>
-      <to>Replace in string 3 3</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Sort rows 6 2</from>
-      <to>Select values 8</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values 8</from>
-      <to>Unique rows 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>videogame sql 2</from>
-      <to>Merge join 3</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Unique rows 2</from>
-      <to>Merge join 3</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Merge join 3</from>
-      <to>Select values 9</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Select values 9</from>
+      <from>Remove Duplicates</from>
       <to>Table output</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Text file input</from>
-      <to>remove position colum</to>
+      <from>Project 6</from>
+      <to>Normalize 5</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>all_vidya</from>
-      <to>remove position colum</to>
+      <from>Normalize 5</from>
+      <to>Clean 5</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Sorted merge</from>
+      <to>Concat</to>
       <enabled>Y</enabled>
     </hop>
   </order>
   <step>
-    <name>Concat sales</name>
-    <type>ConcatFields</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <separator/>
-    <enclosure/>
-    <enclosure_forced>N</enclosure_forced>
-    <enclosure_fix_disabled>N</enclosure_fix_disabled>
-    <header>N</header>
-    <footer>N</footer>
-    <format>DOS</format>
-    <compression>None</compression>
-    <encoding/>
-    <endedLine/>
-    <fileNameInField>N</fileNameInField>
-    <fileNameField/>
-    <create_parent_folder>Y</create_parent_folder>
-    <file>
-      <name/>
-      <servlet_output>N</servlet_output>
-      <do_not_open_new_file_init>Y</do_not_open_new_file_init>
-      <extention>txt</extention>
-      <append>N</append>
-      <split>N</split>
-      <haspartno>N</haspartno>
-      <add_date>N</add_date>
-      <add_time>N</add_time>
-      <SpecifyFormat>N</SpecifyFormat>
-      <date_time_format/>
-      <add_to_result_filenames>Y</add_to_result_filenames>
-      <pad>N</pad>
-      <fast_dump>N</fast_dump>
-      <splitevery>0</splitevery>
-    </file>
-    <fields>
-      <field>
-        <name>total_sales2</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-      <field>
-        <name>total_sales2_1</name>
-        <type>String</type>
-        <format/>
-        <currency/>
-        <decimal/>
-        <group/>
-        <nullif/>
-        <trim_type>both</trim_type>
-        <length>-1</length>
-        <precision>-1</precision>
-      </field>
-    </fields>
-    <ConcatFields>
-      <targetFieldName>ao</targetFieldName>
-      <targetFieldLength>0</targetFieldLength>
-      <removeSelectedFields>Y</removeSelectedFields>
-    </ConcatFields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>976</xloc>
-      <yloc>0</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Concat ship and sales</name>
+    <name>Concat</name>
     <type>ConcatFields</type>
     <description/>
     <distribute>Y</distribute>
@@ -849,7 +835,7 @@
     <ConcatFields>
       <targetFieldName>sales</targetFieldName>
       <targetFieldLength>10</targetFieldLength>
-      <removeSelectedFields>N</removeSelectedFields>
+      <removeSelectedFields>Y</removeSelectedFields>
     </ConcatFields>
     <attributes/>
     <cluster_schema/>
@@ -860,58 +846,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>768</xloc>
-      <yloc>0</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Dummy (do nothing)</name>
-    <type>Dummy</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>48</xloc>
-      <yloc>736</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Dummy (do nothing) 2</name>
-    <type>Dummy</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>208</xloc>
-      <yloc>688</yloc>
+      <xloc>752</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -926,8 +862,8 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <send_true_to>Dummy (do nothing) 2</send_true_to>
-    <send_false_to>Dummy (do nothing)</send_false_to>
+    <send_true_to/>
+    <send_false_to>Remove Duplicates</send_false_to>
     <compare>
       <condition>
         <negated>N</negated>
@@ -996,8 +932,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>96</xloc>
-      <yloc>544</yloc>
+      <xloc>1712</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1013,28 +949,28 @@
       <schema_name/>
     </partitioning>
     <formula>
-      <field_name>c</field_name>
-      <formula_string>IFNA([console];IFNA([platform];"null"))</formula_string>
+      <field_name>platform</field_name>
+      <formula_string>IFNA([platform_1];IFNA([platform];"null"))</formula_string>
       <value_type>String</value_type>
       <value_length>-1</value_length>
       <value_precision>-1</value_precision>
-      <replace_field/>
+      <replace_field>platform</replace_field>
     </formula>
     <formula>
-      <field_name>t</field_name>
+      <field_name>title</field_name>
       <formula_string>IFNA([title];IFNA([title_2];"null"))</formula_string>
       <value_type>String</value_type>
       <value_length>-1</value_length>
       <value_precision>-1</value_precision>
-      <replace_field/>
+      <replace_field>title</replace_field>
     </formula>
     <formula>
-      <field_name>r</field_name>
+      <field_name>relase_date</field_name>
       <formula_string>IFNA([release];IFNA([release_date];"null"))</formula_string>
       <value_type>String</value_type>
       <value_length>-1</value_length>
       <value_precision>-1</value_precision>
-      <replace_field/>
+      <replace_field>release_date</replace_field>
     </formula>
     <attributes/>
     <cluster_schema/>
@@ -1045,8 +981,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1184</xloc>
-      <yloc>448</yloc>
+      <xloc>1392</xloc>
+      <yloc>352</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1062,12 +998,12 @@
       <schema_name/>
     </partitioning>
     <formula>
-      <field_name>r</field_name>
+      <field_name>release_date</field_name>
       <formula_string>IF([release_date]&lt;22;CONCATENATE("20";[release_date]);CONCATENATE("19";[release_date]))</formula_string>
       <value_type>String</value_type>
       <value_length>-1</value_length>
       <value_precision>-1</value_precision>
-      <replace_field/>
+      <replace_field>release_date</replace_field>
     </formula>
     <attributes/>
     <cluster_schema/>
@@ -1078,8 +1014,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>512</xloc>
-      <yloc>624</yloc>
+      <xloc>1552</xloc>
+      <yloc>432</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1095,12 +1031,12 @@
       <schema_name/>
     </partitioning>
     <formula>
-      <field_name> as</field_name>
-      <formula_string>IF([releaseDate]=20;"";[releaseDate])</formula_string>
+      <field_name>release_date</field_name>
+      <formula_string>IF([release_date]=20;"";[release_date])</formula_string>
       <value_type>Integer</value_type>
       <value_length>-1</value_length>
       <value_precision>-1</value_precision>
-      <replace_field/>
+      <replace_field>release_date</replace_field>
     </formula>
     <attributes/>
     <cluster_schema/>
@@ -1111,8 +1047,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>288</xloc>
-      <yloc>624</yloc>
+      <xloc>1552</xloc>
+      <yloc>592</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1233,8 +1169,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>112</xloc>
-      <yloc>320</yloc>
+      <xloc>624</xloc>
+      <yloc>352</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1242,7 +1178,7 @@
     <name>Merge join</name>
     <type>MergeJoin</type>
     <description/>
-    <distribute>Y</distribute>
+    <distribute>N</distribute>
     <custom_distribution/>
     <copies>1</copies>
     <partitioning>
@@ -1250,8 +1186,8 @@
       <schema_name/>
     </partitioning>
     <join_type>INNER</join_type>
-    <step1>videogame sql</step1>
-    <step2>Sort rows by name and console 2</step2>
+    <step1>IN: Videogame</step1>
+    <step2>Sort</step2>
     <keys_1>
       <key>title</key>
     </keys_1>
@@ -1267,8 +1203,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>576</xloc>
-      <yloc>384</yloc>
+      <xloc>1072</xloc>
+      <yloc>416</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1276,7 +1212,7 @@
     <name>Merge join 2</name>
     <type>MergeJoin</type>
     <description/>
-    <distribute>Y</distribute>
+    <distribute>N</distribute>
     <custom_distribution/>
     <copies>1</copies>
     <partitioning>
@@ -1285,14 +1221,14 @@
     </partitioning>
     <join_type>FULL OUTER</join_type>
     <step1>Merge join</step1>
-    <step2>Select values 2</step2>
+    <step2>Project 4</step2>
     <keys_1>
       <key>title</key>
       <key>platform</key>
     </keys_1>
     <keys_2>
       <key>title</key>
-      <key>console</key>
+      <key>platform</key>
     </keys_2>
     <attributes/>
     <cluster_schema/>
@@ -1303,137 +1239,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>784</xloc>
-      <yloc>416</yloc>
+      <xloc>1248</xloc>
+      <yloc>320</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Merge join 3</name>
-    <type>MergeJoin</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <join_type>INNER</join_type>
-    <step1>videogame sql 2</step1>
-    <step2>Unique rows 2</step2>
-    <keys_1>
-      <key>title</key>
-    </keys_1>
-    <keys_2>
-      <key>title</key>
-    </keys_2>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>736</xloc>
-      <yloc>848</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Replace N/A</name>
-    <type>ReplaceString</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <in_stream_name>total_shipped</in_stream_name>
-        <out_stream_name>total_sales2</out_stream_name>
-        <use_regex>no</use_regex>
-        <replace_string>N/A</replace_string>
-        <replace_by_string/>
-        <set_empty_string>N</set_empty_string>
-        <replace_field_by_string/>
-        <whole_word>no</whole_word>
-        <case_sensitive>no</case_sensitive>
-        <is_unicode>no</is_unicode>
-      </field>
-      <field>
-        <in_stream_name>total_sales</in_stream_name>
-        <out_stream_name>total_sales2</out_stream_name>
-        <use_regex>no</use_regex>
-        <replace_string>N/A</replace_string>
-        <replace_by_string/>
-        <set_empty_string>N</set_empty_string>
-        <replace_field_by_string/>
-        <whole_word>no</whole_word>
-        <case_sensitive>no</case_sensitive>
-        <is_unicode>no</is_unicode>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>864</xloc>
-      <yloc>0</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Replace in string</name>
-    <type>ReplaceString</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <in_stream_name>sales</in_stream_name>
-        <out_stream_name/>
-        <use_regex>yes</use_regex>
-        <replace_string>m</replace_string>
-        <replace_by_string/>
-        <set_empty_string>N</set_empty_string>
-        <replace_field_by_string/>
-        <whole_word>no</whole_word>
-        <case_sensitive>no</case_sensitive>
-        <is_unicode>no</is_unicode>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>1104</xloc>
-      <yloc>240</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Replace in string 2</name>
+    <name>Normalize 3</name>
     <type>ReplaceString</type>
     <description/>
     <distribute>Y</distribute>
@@ -1478,13 +1290,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1056</xloc>
-      <yloc>464</yloc>
+      <xloc>1392</xloc>
+      <yloc>272</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Replace in string 3</name>
+    <name>Normalize 2</name>
     <type>ReplaceString</type>
     <description/>
     <distribute>Y</distribute>
@@ -1496,7 +1308,7 @@
     </partitioning>
     <fields>
       <field>
-        <in_stream_name>r</in_stream_name>
+        <in_stream_name>release_date</in_stream_name>
         <out_stream_name/>
         <use_regex>yes</use_regex>
         <replace_string>N.*</replace_string>
@@ -1541,14 +1353,14 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1040</xloc>
-      <yloc>592</yloc>
+      <xloc>1552</xloc>
+      <yloc>272</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Replace in string 3 3</name>
-    <type>ReplaceString</type>
+    <name>Project 4</name>
+    <type>SelectValues</type>
     <description/>
     <distribute>Y</distribute>
     <custom_distribution/>
@@ -1559,99 +1371,21 @@
     </partitioning>
     <fields>
       <field>
-        <in_stream_name>title</in_stream_name>
-        <out_stream_name/>
-        <use_regex>yes</use_regex>
-        <replace_string>\p{Punct}</replace_string>
-        <replace_by_string/>
-        <set_empty_string>N</set_empty_string>
-        <replace_field_by_string/>
-        <whole_word>no</whole_word>
-        <case_sensitive>no</case_sensitive>
-        <is_unicode>no</is_unicode>
+        <name>title</name>
+        <rename/>
       </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>176</xloc>
-      <yloc>896</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>total_shipped</name>
-      </remove>
-      <remove>
-        <name>total_sales</name>
-      </remove>
-      <remove>
-        <name>na_sales</name>
-      </remove>
-      <remove>
-        <name>pal_sales</name>
-      </remove>
-      <remove>
-        <name>japan_sales</name>
-      </remove>
-      <remove>
-        <name>other_sales</name>
-      </remove>
-      <remove>
+      <field>
+        <name>platform</name>
+        <rename/>
+      </field>
+      <field>
+        <name>release_date</name>
+        <rename/>
+      </field>
+      <field>
         <name>sales</name>
-      </remove>
-      <remove>
-        <name>publisher</name>
-      </remove>
-      <remove>
-        <name>developer</name>
-      </remove>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>1008</xloc>
-      <yloc>96</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values 2</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
+        <rename/>
+      </field>
       <select_unspecified>N</select_unspecified>
       <meta>
         <name>sales</name>
@@ -1671,9 +1405,9 @@
         <storage_type/>
       </meta>
       <meta>
-        <name>game</name>
+        <name>title</name>
         <rename>title</rename>
-        <type>None</type>
+        <type>String</type>
         <length>140</length>
         <precision>-2</precision>
         <conversion_mask/>
@@ -1697,13 +1431,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>896</xloc>
-      <yloc>320</yloc>
+      <xloc>1072</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Select values 3</name>
+    <name>Project</name>
     <type>SelectValues</type>
     <description/>
     <distribute>Y</distribute>
@@ -1716,38 +1450,41 @@
     <fields>
       <field>
         <name>title</name>
+        <rename/>
       </field>
       <field>
         <name>title_2</name>
+        <rename/>
       </field>
       <field>
         <name>platform</name>
+        <rename/>
       </field>
       <field>
-        <name>console</name>
+        <name>platform_1</name>
+        <rename/>
       </field>
       <field>
         <name>us</name>
+        <rename/>
       </field>
       <field>
         <name>ms</name>
+        <rename/>
       </field>
       <field>
         <name>release</name>
+        <rename/>
       </field>
       <field>
         <name>release_date</name>
+        <rename/>
       </field>
       <field>
         <name>sales</name>
-      </field>
-      <field>
-        <name>title_1</name>
+        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>title_1</name>
-      </remove>
       <meta>
         <name>release</name>
         <rename>release</rename>
@@ -1775,13 +1512,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>944</xloc>
-      <yloc>480</yloc>
+      <xloc>1392</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Select values 4</name>
+    <name>Project 2</name>
     <type>SelectValues</type>
     <description/>
     <distribute>Y</distribute>
@@ -1793,219 +1530,99 @@
     </partitioning>
     <fields>
       <field>
-        <name>t</name>
-        <rename>vName</rename>
-      </field>
-      <field>
-        <name>c</name>
-        <rename>cName</rename>
-      </field>
-      <field>
-        <name>r</name>
-      </field>
-      <field>
         <name>title</name>
-      </field>
-      <field>
-        <name>title_2</name>
+        <rename/>
       </field>
       <field>
         <name>platform</name>
-      </field>
-      <field>
-        <name>console</name>
+        <rename/>
       </field>
       <field>
         <name>us</name>
+        <rename/>
       </field>
       <field>
         <name>ms</name>
-      </field>
-      <field>
-        <name>release</name>
-      </field>
-      <field>
-        <name>release_date</name>
+        <rename/>
       </field>
       <field>
         <name>sales</name>
+        <rename/>
+      </field>
+      <field>
+        <name>release_date</name>
+        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
-      <remove>
+      <meta>
+        <name>release_date</name>
+        <rename>release_date</rename>
+        <type>Integer</type>
+        <length>-2</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>1552</xloc>
+      <yloc>512</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Project 3</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
         <name>title</name>
-      </remove>
-      <remove>
-        <name>title_2</name>
-      </remove>
-      <remove>
+        <rename/>
+      </field>
+      <field>
         <name>platform</name>
-      </remove>
-      <remove>
-        <name>console</name>
-      </remove>
-      <remove>
-        <name>release</name>
-      </remove>
-      <remove>
-        <name>release_date</name>
-      </remove>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>1328</xloc>
-      <yloc>480</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values 5</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>vName</name>
-        <rename>videogameName</rename>
-      </field>
-      <field>
-        <name>cName</name>
-        <rename>consoleName</rename>
-      </field>
-      <field>
-        <name>r</name>
-        <rename>release_date</rename>
-      </field>
-      <field>
-        <name>us</name>
-      </field>
-      <field>
-        <name>ms</name>
-      </field>
-      <field>
-        <name>sales</name>
-      </field>
-      <select_unspecified>N</select_unspecified>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>688</xloc>
-      <yloc>624</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values 6</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>videogameName</name>
-      </field>
-      <field>
-        <name>consoleName</name>
+        <rename/>
       </field>
       <field>
         <name>release_date</name>
+        <rename/>
       </field>
       <field>
         <name>us</name>
+        <rename/>
       </field>
       <field>
         <name>ms</name>
-      </field>
-      <field>
-        <name>r</name>
-        <rename>releaseDate</rename>
+        <rename/>
       </field>
       <field>
         <name>sales</name>
+        <rename/>
       </field>
       <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>release_date</name>
-      </remove>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>384</xloc>
-      <yloc>624</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values 7</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>videogameName</name>
-        <rename>title</rename>
-      </field>
-      <field>
-        <name>consoleName</name>
-        <rename>platform</rename>
-      </field>
-      <field>
-        <name> as</name>
-        <rename>release_date</rename>
-      </field>
-      <field>
-        <name>us</name>
-      </field>
-      <field>
-        <name>ms</name>
-      </field>
-      <field>
-        <name>releaseDate</name>
-      </field>
-      <field>
-        <name>sales</name>
-      </field>
-      <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>releaseDate</name>
-      </remove>
       <meta>
         <name>us</name>
         <rename>us</rename>
@@ -2050,219 +1667,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>192</xloc>
-      <yloc>624</yloc>
+      <xloc>1552</xloc>
+      <yloc>672</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Select values 8</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>title</name>
-      </field>
-      <field>
-        <name>platform</name>
-      </field>
-      <field>
-        <name>release_date</name>
-      </field>
-      <field>
-        <name>us</name>
-      </field>
-      <field>
-        <name>ms</name>
-      </field>
-      <field>
-        <name>sales</name>
-      </field>
-      <select_unspecified>N</select_unspecified>
-      <meta>
-        <name>title</name>
-        <rename>title</rename>
-        <type>String</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>platform</name>
-        <rename>platform</rename>
-        <type>String</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>release_date</name>
-        <rename>release_date</rename>
-        <type>None</type>
-        <length>-2</length>
-        <precision>0</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>us</name>
-        <rename>us</rename>
-        <type>None</type>
-        <length>-2</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>ms</name>
-        <rename>ms</rename>
-        <type>None</type>
-        <length>-2</length>
-        <precision>0</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>sales</name>
-        <rename>sales</rename>
-        <type>None</type>
-        <length>0</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>384</xloc>
-      <yloc>768</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values 9</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>title</name>
-      </field>
-      <field>
-        <name>genre</name>
-      </field>
-      <field>
-        <name>title_1</name>
-      </field>
-      <field>
-        <name>platform</name>
-      </field>
-      <field>
-        <name>release_date</name>
-      </field>
-      <field>
-        <name>us</name>
-      </field>
-      <field>
-        <name>ms</name>
-      </field>
-      <field>
-        <name>sales</name>
-      </field>
-      <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>genre</name>
-      </remove>
-      <remove>
-        <name>title_1</name>
-      </remove>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>864</xloc>
-      <yloc>832</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Sort rows 6 2</name>
+    <name>Sort</name>
     <type>SortRows</type>
     <description/>
     <distribute>Y</distribute>
@@ -2298,180 +1709,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>272</xloc>
-      <yloc>896</yloc>
+      <xloc>912</xloc>
+      <yloc>352</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Sort rows by name and console</name>
-    <type>SortRows</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <directory>%%java.io.tmpdir%%</directory>
-    <prefix>out</prefix>
-    <sort_size>1000000</sort_size>
-    <free_memory/>
-    <compress>N</compress>
-    <compress_variable/>
-    <unique_rows>N</unique_rows>
-    <fields>
-      <field>
-        <name>game</name>
-        <ascending>Y</ascending>
-        <case_sensitive>N</case_sensitive>
-        <collator_enabled>N</collator_enabled>
-        <collator_strength>0</collator_strength>
-        <presorted>N</presorted>
-      </field>
-      <field>
-        <name>console</name>
-        <ascending>Y</ascending>
-        <case_sensitive>N</case_sensitive>
-        <collator_enabled>N</collator_enabled>
-        <collator_strength>0</collator_strength>
-        <presorted>N</presorted>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>608</xloc>
-      <yloc>16</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Sort rows by name and console 2</name>
-    <type>SortRows</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <directory>%%java.io.tmpdir%%</directory>
-    <prefix>out</prefix>
-    <sort_size>1000000</sort_size>
-    <free_memory/>
-    <compress>N</compress>
-    <compress_variable/>
-    <unique_rows>N</unique_rows>
-    <fields>
-      <field>
-        <name>title</name>
-        <ascending>Y</ascending>
-        <case_sensitive>N</case_sensitive>
-        <collator_enabled>N</collator_enabled>
-        <collator_strength>0</collator_strength>
-        <presorted>N</presorted>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>352</xloc>
-      <yloc>320</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Sorted merge</name>
-    <type>SortedMerge</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>game</name>
-        <ascending>Y</ascending>
-      </field>
-      <field>
-        <name>console</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>publisher</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>developer</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>total_shipped</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>total_sales</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>na_sales</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>pal_sales</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>japan_sales</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>other_sales</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>release_date</name>
-        <ascending>N</ascending>
-      </field>
-      <field>
-        <name>last_update</name>
-        <ascending>N</ascending>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>384</xloc>
-      <yloc>16</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>String operations</name>
+    <name>Clean</name>
     <type>StringOperations</type>
     <description/>
     <distribute>Y</distribute>
@@ -2483,10 +1727,10 @@
     </partitioning>
     <fields>
       <field>
-        <in_stream_name>r</in_stream_name>
+        <in_stream_name>release_date</in_stream_name>
         <out_stream_name/>
-        <trim_type>entrambi</trim_type>
-        <lower_upper/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
         <padding_type/>
         <pad_char/>
         <pad_len/>
@@ -2505,53 +1749,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>896</xloc>
-      <yloc>640</yloc>
+      <xloc>1552</xloc>
+      <yloc>352</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>String operations 3 2 2</name>
-    <type>StringOperations</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <in_stream_name>game</in_stream_name>
-        <out_stream_name/>
-        <trim_type>entrambi</trim_type>
-        <lower_upper>minuscolo</lower_upper>
-        <padding_type>nessuno</padding_type>
-        <pad_char/>
-        <pad_len/>
-        <init_cap>N</init_cap>
-        <mask_xml>Nessuno</mask_xml>
-        <digits>nessuno</digits>
-        <remove_special_characters>nessuno</remove_special_characters>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>496</xloc>
-      <yloc>16</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>String operations 3 2 2 2</name>
+    <name>Clean 3</name>
     <type>StringOperations</type>
     <description/>
     <distribute>Y</distribute>
@@ -2565,8 +1769,8 @@
       <field>
         <in_stream_name>title</in_stream_name>
         <out_stream_name/>
-        <trim_type>entrambi</trim_type>
-        <lower_upper>minuscolo</lower_upper>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
         <padding_type/>
         <pad_char/>
         <pad_len/>
@@ -2585,8 +1789,48 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>208</xloc>
+      <xloc>720</xloc>
       <yloc>352</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Clean 4</name>
+    <type>StringOperations</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>title</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type/>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml/>
+        <digits/>
+        <remove_special_characters/>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>416</xloc>
+      <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -2605,7 +1849,7 @@
     <schema/>
     <table>Released_for</table>
     <commit>1000</commit>
-    <truncate>N</truncate>
+    <truncate>Y</truncate>
     <ignore_errors>N</ignore_errors>
     <use_batch>Y</use_batch>
     <specify_fields>N</specify_fields>
@@ -2629,380 +1873,13 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1120</xloc>
-      <yloc>768</yloc>
+      <xloc>1968</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Unique rows</name>
-    <type>Unique</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <count_rows>N</count_rows>
-    <count_field/>
-    <reject_duplicate_row>N</reject_duplicate_row>
-    <error_description/>
-    <fields>
-      <field>
-        <name>vName</name>
-        <case_insensitive>N</case_insensitive>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>1152</xloc>
-      <yloc>560</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Unique rows 2</name>
-    <type>Unique</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <count_rows>N</count_rows>
-    <count_field/>
-    <reject_duplicate_row>N</reject_duplicate_row>
-    <error_description/>
-    <fields>
-      <field>
-        <name>title</name>
-        <case_insensitive>N</case_insensitive>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>544</xloc>
-      <yloc>864</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>remove position colum</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>position</name>
-      </field>
-      <field>
-        <name>game</name>
-      </field>
-      <field>
-        <name>console</name>
-      </field>
-      <field>
-        <name>publisher</name>
-      </field>
-      <field>
-        <name>developer</name>
-      </field>
-      <field>
-        <name>vgchart_score</name>
-      </field>
-      <field>
-        <name>critic_score</name>
-      </field>
-      <field>
-        <name>user_score</name>
-      </field>
-      <field>
-        <name>total_shipped</name>
-      </field>
-      <field>
-        <name>total_sales</name>
-      </field>
-      <field>
-        <name>na_sales</name>
-      </field>
-      <field>
-        <name>pal_sales</name>
-      </field>
-      <field>
-        <name>japan_sales</name>
-      </field>
-      <field>
-        <name>other_sales</name>
-      </field>
-      <field>
-        <name>release_date</name>
-      </field>
-      <field>
-        <name>last_update</name>
-      </field>
-      <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>position</name>
-      </remove>
-      <remove>
-        <name>vgchart_score</name>
-      </remove>
-      <remove>
-        <name>critic_score</name>
-      </remove>
-      <remove>
-        <name>user_score</name>
-      </remove>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>240</xloc>
-      <yloc>48</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>vgchartz clean</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <field>
-        <name>game</name>
-      </field>
-      <field>
-        <name>console</name>
-      </field>
-      <field>
-        <name>release_date</name>
-      </field>
-      <field>
-        <name>last_update</name>
-      </field>
-      <field>
-        <name>ao</name>
-        <rename>sales</rename>
-      </field>
-      <select_unspecified>N</select_unspecified>
-      <remove>
-        <name>last_update</name>
-      </remove>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>1056</xloc>
-      <yloc>160</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>videogame sql</name>
-    <type>TableInput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <sql>SELECT * FROM videogame </sql>
-    <limit>0</limit>
-    <lookup/>
-    <execute_each_row>N</execute_each_row>
-    <variables_active>N</variables_active>
-    <lazy_conversion_active>N</lazy_conversion_active>
-    <cached_row_meta_active>N</cached_row_meta_active>
-    <row-meta>
-      <value-meta>
-        <type>String</type>
-        <storagetype>normal</storagetype>
-        <name>title</name>
-        <length>140</length>
-        <precision>-1</precision>
-        <origin>console sql 2</origin>
-        <comments>title</comments>
-        <conversion_Mask/>
-        <decimal_symbol>,</decimal_symbol>
-        <grouping_symbol>.</grouping_symbol>
-        <currency_symbol/>
-        <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>it_IT</date_format_locale>
-        <date_format_timezone>Europe/Berlin</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-      <value-meta>
-        <type>String</type>
-        <storagetype>normal</storagetype>
-        <name>genre</name>
-        <length>2147483647</length>
-        <precision>-1</precision>
-        <origin>console sql 2</origin>
-        <comments>genre</comments>
-        <conversion_Mask/>
-        <decimal_symbol>,</decimal_symbol>
-        <grouping_symbol>.</grouping_symbol>
-        <currency_symbol/>
-        <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>it_IT</date_format_locale>
-        <date_format_timezone>Europe/Berlin</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-    </row-meta>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>384</xloc>
-      <yloc>432</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>videogame sql 2</name>
-    <type>TableInput</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <sql>SELECT * FROM videogame </sql>
-    <limit>0</limit>
-    <lookup/>
-    <execute_each_row>N</execute_each_row>
-    <variables_active>N</variables_active>
-    <lazy_conversion_active>N</lazy_conversion_active>
-    <cached_row_meta_active>N</cached_row_meta_active>
-    <row-meta>
-      <value-meta>
-        <type>String</type>
-        <storagetype>normal</storagetype>
-        <name>title</name>
-        <length>140</length>
-        <precision>-1</precision>
-        <origin>console sql 2</origin>
-        <comments>title</comments>
-        <conversion_Mask/>
-        <decimal_symbol>,</decimal_symbol>
-        <grouping_symbol>.</grouping_symbol>
-        <currency_symbol/>
-        <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>it_IT</date_format_locale>
-        <date_format_timezone>Europe/Berlin</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-      <value-meta>
-        <type>String</type>
-        <storagetype>normal</storagetype>
-        <name>genre</name>
-        <length>2147483647</length>
-        <precision>-1</precision>
-        <origin>console sql 2</origin>
-        <comments>genre</comments>
-        <conversion_Mask/>
-        <decimal_symbol>,</decimal_symbol>
-        <grouping_symbol>.</grouping_symbol>
-        <currency_symbol/>
-        <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>it_IT</date_format_locale>
-        <date_format_timezone>Europe/Berlin</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-    </row-meta>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>640</xloc>
-      <yloc>736</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Text file input</name>
+    <name>IN: vgsales-consoles (CSV)</name>
     <type>TextFileInput</type>
     <description/>
     <distribute>N</distribute>
@@ -3326,13 +2203,48 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>80</xloc>
-      <yloc>0</yloc>
+      <xloc>96</xloc>
+      <yloc>128</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>all_vidya</name>
+    <name>Unique rows</name>
+    <type>Unique</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <count_rows>N</count_rows>
+    <count_field/>
+    <reject_duplicate_row>N</reject_duplicate_row>
+    <error_description/>
+    <fields>
+      <field>
+        <name>title</name>
+        <case_insensitive>N</case_insensitive>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>1552</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>IN: vgsales (CSV)</name>
     <type>CsvInput</type>
     <description/>
     <distribute>Y</distribute>
@@ -3543,8 +2455,697 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>80</xloc>
-      <yloc>96</yloc>
+      <xloc>96</xloc>
+      <yloc>240</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Project 5</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>game</name>
+        <rename>title</rename>
+      </field>
+      <field>
+        <name>console</name>
+        <rename>platform</rename>
+      </field>
+      <field>
+        <name>total_shipped</name>
+        <rename/>
+      </field>
+      <field>
+        <name>total_sales</name>
+        <rename/>
+      </field>
+      <field>
+        <name>release_date</name>
+        <rename/>
+      </field>
+      <select_unspecified>N</select_unspecified>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>240</xloc>
+      <yloc>128</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>IN: Videogame</name>
+    <type>TableInput</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <connection>cn</connection>
+    <sql>SELECT * FROM videogame </sql>
+    <limit>0</limit>
+    <lookup/>
+    <execute_each_row>N</execute_each_row>
+    <variables_active>N</variables_active>
+    <lazy_conversion_active>N</lazy_conversion_active>
+    <cached_row_meta_active>N</cached_row_meta_active>
+    <row-meta>
+      <value-meta>
+        <type>String</type>
+        <storagetype>normal</storagetype>
+        <name>title</name>
+        <length>340</length>
+        <precision>-1</precision>
+        <origin>Videogame</origin>
+        <comments>title</comments>
+        <conversion_Mask/>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>it_IT</date_format_locale>
+        <date_format_timezone>Europe/Berlin</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+      <value-meta>
+        <type>String</type>
+        <storagetype>normal</storagetype>
+        <name>genre</name>
+        <length>200</length>
+        <precision>-1</precision>
+        <origin>Videogame</origin>
+        <comments>genre</comments>
+        <conversion_Mask/>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>it_IT</date_format_locale>
+        <date_format_timezone>Europe/Berlin</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+    </row-meta>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>912</xloc>
+      <yloc>464</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Clean 2</name>
+    <type>StringOperations</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>sales</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type/>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml/>
+        <digits/>
+        <remove_special_characters/>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>848</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Clean 5</name>
+    <type>StringOperations</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>title</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type/>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml/>
+        <digits/>
+        <remove_special_characters/>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>416</xloc>
+      <yloc>240</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Project 6</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>game</name>
+        <rename>title</rename>
+      </field>
+      <field>
+        <name>console</name>
+        <rename>platform</rename>
+      </field>
+      <field>
+        <name>total_shipped</name>
+        <rename/>
+      </field>
+      <field>
+        <name>total_sales</name>
+        <rename/>
+      </field>
+      <field>
+        <name>release_date</name>
+        <rename/>
+      </field>
+      <select_unspecified>N</select_unspecified>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>240</xloc>
+      <yloc>240</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Sorted merge</name>
+    <type>SortedMerge</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>title</name>
+        <ascending>Y</ascending>
+      </field>
+      <field>
+        <name>platform</name>
+        <ascending>Y</ascending>
+      </field>
+      <field>
+        <name>total_shipped</name>
+        <ascending>N</ascending>
+      </field>
+      <field>
+        <name>total_sales</name>
+        <ascending>N</ascending>
+      </field>
+      <field>
+        <name>release_date</name>
+        <ascending>N</ascending>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>656</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Sort 2</name>
+    <type>SortRows</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>out</prefix>
+    <sort_size>1000000</sort_size>
+    <free_memory/>
+    <compress>N</compress>
+    <compress_variable/>
+    <unique_rows>N</unique_rows>
+    <fields>
+      <field>
+        <name>title</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <collator_enabled>N</collator_enabled>
+        <collator_strength>0</collator_strength>
+        <presorted>N</presorted>
+      </field>
+      <field>
+        <name>platform</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <collator_enabled>N</collator_enabled>
+        <collator_strength>0</collator_strength>
+        <presorted>N</presorted>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>512</xloc>
+      <yloc>128</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Sort 4</name>
+    <type>SortRows</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <directory>%%java.io.tmpdir%%</directory>
+    <prefix>out</prefix>
+    <sort_size>1000000</sort_size>
+    <free_memory/>
+    <compress>N</compress>
+    <compress_variable/>
+    <unique_rows>N</unique_rows>
+    <fields>
+      <field>
+        <name>title</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <collator_enabled>N</collator_enabled>
+        <collator_strength>0</collator_strength>
+        <presorted>N</presorted>
+      </field>
+      <field>
+        <name>platform</name>
+        <ascending>Y</ascending>
+        <case_sensitive>N</case_sensitive>
+        <collator_enabled>N</collator_enabled>
+        <collator_strength>0</collator_strength>
+        <presorted>N</presorted>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>512</xloc>
+      <yloc>240</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Normalize</name>
+    <type>ReplaceString</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>title</in_stream_name>
+        <out_stream_name/>
+        <use_regex>yes</use_regex>
+        <replace_string>\p{Punct}</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_shipped</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>N/A</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_shipped</in_stream_name>
+        <out_stream_name/>
+        <use_regex>yes</use_regex>
+        <replace_string>m</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_sales</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>N/A</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_sales</in_stream_name>
+        <out_stream_name/>
+        <use_regex>yes</use_regex>
+        <replace_string>m</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>336</xloc>
+      <yloc>128</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Normalize 6</name>
+    <type>ReplaceString</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>title</in_stream_name>
+        <out_stream_name/>
+        <use_regex>yes</use_regex>
+        <replace_string>\p{Punct}</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>816</xloc>
+      <yloc>352</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Remove Duplicates</name>
+    <type>UniqueRowsByHashSet</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <store_values>Y</store_values>
+    <reject_duplicate_row>N</reject_duplicate_row>
+    <error_description/>
+    <fields>
+      <field>
+        <name>title</name>
+      </field>
+      <field>
+        <name>platform</name>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>1840</xloc>
+      <yloc>336</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Remove Duplicates</name>
+    <type>UniqueRowsByHashSet</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <store_values>Y</store_values>
+    <reject_duplicate_row>N</reject_duplicate_row>
+    <error_description/>
+    <fields>
+      <field>
+        <name>title</name>
+      </field>
+      <field>
+        <name>platform</name>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>1840</xloc>
+      <yloc>336</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Normalize 5</name>
+    <type>ReplaceString</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>title</in_stream_name>
+        <out_stream_name/>
+        <use_regex>yes</use_regex>
+        <replace_string>\p{Punct}</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_shipped</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>N/A</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_shipped</in_stream_name>
+        <out_stream_name/>
+        <use_regex>yes</use_regex>
+        <replace_string>m</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_sales</in_stream_name>
+        <out_stream_name/>
+        <use_regex>no</use_regex>
+        <replace_string>N/A</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+      <field>
+        <in_stream_name>total_sales</in_stream_name>
+        <out_stream_name/>
+        <use_regex>yes</use_regex>
+        <replace_string>m</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>336</xloc>
+      <yloc>240</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
