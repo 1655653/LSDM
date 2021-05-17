@@ -21,3 +21,37 @@ from publish
 join locatedin on publish.publisher = locatedin.softwarehouse
 join hascountry on locatedin.city = hascountry.city
 order by videogame asc
+
+------------------------------------------------------------
+LIST OF THE MOST RELEASED GAMES IN GENERAL
+
+select count(title),platform
+from released_for 
+group by(platform)
+order by (count(title)) DESC
+
+------------------------------------------------------------
+LIST OF THE CONSOLE WITH THE MOST SELLS
+
+select t1.platform, max(t1.sales)as most_sells, foo.title as title_most_selled,count(foo.title) as Ngames 
+from released_for as t1
+inner join (
+	select title, sales, platform
+	from released_for as t2
+	where (platform, sales) IN 
+	(select platform, max(sales)
+		from released_for
+		group by(platform)
+	)
+) as foo
+on t1.platform = foo.platform
+group by(t1.platform,foo.title)
+order by (most_sells) DESC
+-----------------------------------------------------------
+LIST OF YEARS MOST PROLIFICENT
+
+SELECT release_date, max(sales) as total_sells
+from released_for
+where release_date notnull and sales notnull
+group by(release_date)
+order by(max(sales)) DESC
