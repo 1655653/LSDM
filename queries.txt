@@ -65,6 +65,20 @@ order by count(*) desc
 
 -----------------------------------------------------------
 
+COUNTRIES WHO EARNED THE MOST FROM TOURNAMENTS
+
+select country, concat(ceil(sum(cast(totalearnings as decimal))/1000000),' mln')
+from (
+	select distinct country, totalearnings
+	from hascountry
+	join locatedin on hascountry.city = locatedin.city
+	join publish on locatedin.softwarehouse = publish.publisher
+	join esport on videogame=title) as x
+group by country
+order by sum(cast(totalearnings as decimal)) desc
+
+-----------------------------------------------------------
+
 COUNTRIES WHO EARNED THE MOST FROM SALES
 
 select country, concat(round(sum(sales)),' mln')
@@ -115,6 +129,18 @@ order by count(*) desc
 
 -----------------------------------------------------------
 
+PUBLISHERS WHO EARNED THE MOST FROM TOURNAMENTS
+
+select publisher, concat(ceil(sum(cast(totalearnings as decimal))/1000000),' mln')
+from (
+	select publisher, totalearnings
+	from esport
+	join publish on title = publish.videogame) as x
+group by publisher
+order by sum(cast(totalearnings as decimal)) desc
+
+-----------------------------------------------------------
+
 PUBLISHERS WHO EARNED THE MOST FROM SALES
 
 select publisher, concat(ceil(sum(sales)),' mln')
@@ -147,3 +173,4 @@ having round(sum(sales)) >= (
 	group by publisher
 	order by round(sum(sales)) desc limit 1)
 order by release_date desc
+

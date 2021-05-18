@@ -4,12 +4,12 @@ Below is a list of proposed tasks over the target schema:
 
 Alessio:
 [X] quale nazione ha prodotto piu giochi
-[] quale nazione ha guadagnato di piu nei tornei
+[X] quale nazione ha guadagnato di piu nei tornei
 [X] quale nazione ha guadagnato di piu nelle vendite
 [X] quale nazione ha guadagnato di piu nelle vendite per anno
 
 [X] quale publisher ha prodotto piu giochi
-[] quale publisher ha guadagnato di piu nei tornei
+[X] quale publisher ha guadagnato di piu nei tornei
 [X] quale publisher ha guadagnato di piu nelle vendite
 [X] quale publisher ha guadagnato di piu nelle vendite per anno
 
