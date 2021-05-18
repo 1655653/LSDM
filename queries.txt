@@ -1,5 +1,4 @@
 SQL QUERIES
-
 Below is a list of relevant queries over the target schema:
 
 
@@ -12,25 +11,17 @@ join hascountry on locatedin.city = hascountry.city
 group by country
 order by count desc, country asc
 
------------------------------------------------------------
-
-LIST ALL VIDEOGAMES, PUBLISHER, CITY AND COUNTRY:
-
-select publish.videogame, publish.publisher, hascountry.city, hascountry.country
-from publish
-join locatedin on publish.publisher = locatedin.softwarehouse
-join hascountry on locatedin.city = hascountry.city
-order by videogame asc
-
 ------------------------------------------------------------
-LIST OF THE MOST RELEASED GAMES IN GENERAL
+
+LIST CONSOLES IN DECREASING ORDER OF RELEASED GAMES
 
 select count(title),platform
 from released_for 
-group by(platform)
+group by (platform)
 order by (count(title)) DESC
 
 ------------------------------------------------------------
+
 LIST OF THE CONSOLE WITH THE MOST SELLS
 
 select t1.platform, max(t1.sales)as most_sells, foo.title as title_most_selled,count(foo.title) as Ngames 
@@ -47,7 +38,9 @@ inner join (
 on t1.platform = foo.platform
 group by(t1.platform,foo.title)
 order by (most_sells) DESC
+
 -----------------------------------------------------------
+
 LIST OF YEARS MOST PROLIFICENT
 
 SELECT release_date, max(sales) as total_sells
@@ -55,3 +48,102 @@ from released_for
 where release_date notnull and sales notnull
 group by(release_date)
 order by(max(sales)) DESC
+
+-----------------------------------------------------------
+
+COUNTRIES WHO PUBLISHED MOST VIDEOGAMES
+
+select country, count(*)
+from (
+	select distinct country, videogame
+	from hascountry
+	join locatedin on hascountry.city = locatedin.city
+	join publish on locatedin.softwarehouse = publish.publisher
+) as x
+group by country
+order by count(*) desc
+
+-----------------------------------------------------------
+
+COUNTRIES WHO EARNED THE MOST FROM SALES
+
+select country, concat(round(sum(sales)),' mln')
+from (
+	select distinct country, sales
+	from hascountry
+	join locatedin on hascountry.city = locatedin.city
+	join publish on locatedin.softwarehouse = publish.publisher
+	join released_for on videogame=title
+	where sales notnull
+) as x
+group by country
+order by sum(sales) desc
+
+-----------------------------------------------------------
+
+COUNTRIES WHO EARNED THE MOST FROM SALES PER YEAR (7s)
+
+select release_date, country, concat(ceil(sum(sales)),' mln')
+from (select distinct country, sales, release_date
+	from hascountry
+	join locatedin on hascountry.city = locatedin.city
+	join publish on locatedin.softwarehouse = publish.publisher
+	join released_for on videogame=title
+	where sales notnull and release_date notnull) as x
+group by country, x.release_date
+having round(sum(sales)) >= (
+	select round(sum(sales))
+	from (select distinct country, sales, release_date
+		from hascountry
+		join locatedin on hascountry.city = locatedin.city
+		join publish on locatedin.softwarehouse = publish.publisher
+		join released_for on videogame=title
+		where sales notnull and release_date notnull) as y
+	where x.release_date = y.release_date
+	group by country
+	order by round(sum(sales)) desc limit 1)
+order by release_date desc
+
+-----------------------------------------------------------
+
+PUBLISHER WHO PUBLISHED MOST VIDEOGAMES
+
+select publisher, count(*)
+from publish
+group by publisher
+order by count(*) desc
+
+-----------------------------------------------------------
+
+PUBLISHERS WHO EARNED THE MOST FROM SALES
+
+select publisher, concat(ceil(sum(sales)),' mln')
+from (
+	select distinct publisher, sales
+	from publish
+	join released_for on videogame=title
+	where sales notnull
+) as x
+group by publisher
+order by sum(sales) desc
+
+-----------------------------------------------------------
+
+PUBLISHERS WHO EARNED THE MOST FROM SALES PER YEAR (36s)
+
+select release_date, publisher, concat(ceil(sum(sales)),' mln')
+from (select distinct publisher, sales, release_date
+	from publish
+	join released_for on videogame=title
+	where sales notnull and release_date notnull) as x
+group by publisher, release_date
+having round(sum(sales)) >= (
+	select round(sum(sales))
+	from (select distinct publisher, sales, release_date
+		from publish
+		join released_for on videogame=title
+		where sales notnull and release_date notnull) as y
+	where x.release_date = y.release_date
+	group by publisher
+	order by round(sum(sales)) desc limit 1)
+order by release_date desc
