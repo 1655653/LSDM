@@ -494,11 +494,6 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>hasPublisher?</from>
-      <to>no</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>yes</from>
       <to>Insert Sw House</to>
       <enabled>Y</enabled>
@@ -520,7 +515,27 @@
     </hop>
     <hop>
       <from>Normalize</from>
+      <to>Cleaning (I)</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Cleaning (I)</from>
       <to>hasPublisher?</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Wait 2</from>
+      <to>Insert Publish</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Wait</from>
+      <to>Wait 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>Wait</from>
+      <to>Insert Videogame</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -551,7 +566,7 @@
     <encoding>UTF-8</encoding>
     <fields>
       <field>
-        <name>Title</name>
+        <name>title</name>
         <type>String</type>
         <format/>
         <currency>$</currency>
@@ -628,7 +643,7 @@
         <trim_type>both</trim_type>
       </field>
       <field>
-        <name>Metadata.Publishers</name>
+        <name>publisher</name>
         <type>String</type>
         <format/>
         <currency>$</currency>
@@ -637,314 +652,6 @@
         <length>100</length>
         <precision>-1</precision>
         <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Metadata.Sequel?</name>
-        <type>Boolean</type>
-        <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Metrics.Review Score</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>none</trim_type>
-      </field>
-      <field>
-        <name>Metrics.Sales</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>4</length>
-        <precision>2</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Metrics.Used Price</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>5</length>
-        <precision>2</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Release.Console</name>
-        <type>String</type>
-        <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>11</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Release.Rating</name>
-        <type>String</type>
-        <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Release.Re-release?</name>
-        <type>Boolean</type>
-        <format/>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>-1</length>
-        <precision>-1</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Release.Year</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.All PlayStyles.Average</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.All PlayStyles.Leisure</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.All PlayStyles.Median</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.All PlayStyles.Polled</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.All PlayStyles.Rushed</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Completionists.Average</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Completionists.Leisure</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>15</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Completionists.Median</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Completionists.Polled</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Completionists.Rushed</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main + Extras.Average</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main + Extras.Leisure</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main + Extras.Median</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main + Extras.Polled</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main + Extras.Rushed</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main Story.Average</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main Story.Leisure</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main Story.Median</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main Story.Polled</name>
-        <type>Integer</type>
-        <format>#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>15</length>
-        <precision>0</precision>
-        <trim_type>both</trim_type>
-      </field>
-      <field>
-        <name>Length.Main Story.Rushed</name>
-        <type>Number</type>
-        <format>#.#</format>
-        <currency>$</currency>
-        <decimal>.</decimal>
-        <group>,</group>
-        <length>18</length>
-        <precision>16</precision>
-        <trim_type>none</trim_type>
       </field>
     </fields>
     <attributes/>
@@ -956,8 +663,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>96</xloc>
-      <yloc>272</yloc>
+      <xloc>112</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -979,14 +686,14 @@
       <schema/>
       <table>Publisher</table>
       <key>
-        <name>Metadata.Publishers</name>
+        <name>publisher</name>
         <field>name</field>
         <condition>=</condition>
         <name2/>
       </key>
       <value>
         <name>name</name>
-        <rename>Metadata.Publishers</rename>
+        <rename>publisher</rename>
         <update>N</update>
       </value>
     </lookup>
@@ -999,8 +706,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>880</xloc>
-      <yloc>368</yloc>
+      <xloc>784</xloc>
+      <yloc>272</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1022,14 +729,14 @@
       <schema/>
       <table>SoftwareHouse</table>
       <key>
-        <name>Metadata.Publishers</name>
+        <name>publisher</name>
         <field>name</field>
         <condition>=</condition>
         <name2/>
       </key>
       <value>
         <name>name</name>
-        <rename>Metadata.Publishers</rename>
+        <rename>publisher</rename>
         <update>N</update>
       </value>
     </lookup>
@@ -1042,8 +749,61 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>720</xloc>
-      <yloc>272</yloc>
+      <xloc>784</xloc>
+      <yloc>96</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Normalize</name>
+    <type>StringOperations</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <in_stream_name>title</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml>None</mask_xml>
+        <digits>none</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+      <field>
+        <in_stream_name>publisher</in_stream_name>
+        <out_stream_name/>
+        <trim_type>both</trim_type>
+        <lower_upper>lower</lower_upper>
+        <padding_type>none</padding_type>
+        <pad_char/>
+        <pad_len/>
+        <init_cap>N</init_cap>
+        <mask_xml>None</mask_xml>
+        <digits>none</digits>
+        <remove_special_characters>none</remove_special_characters>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>240</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1073,8 +833,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>720</xloc>
-      <yloc>368</yloc>
+      <xloc>624</xloc>
+      <yloc>224</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1090,11 +850,11 @@
       <schema_name/>
     </partitioning>
     <send_true_to>yes</send_true_to>
-    <send_false_to>no</send_false_to>
+    <send_false_to/>
     <compare>
       <condition>
         <negated>N</negated>
-        <leftvalue>Metadata.Publishers</leftvalue>
+        <leftvalue>publisher</leftvalue>
         <function>IS NOT NULL</function>
         <rightvalue/>
       </condition>
@@ -1108,33 +868,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>352</xloc>
-      <yloc>272</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>no</name>
-    <type>Dummy</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>528</xloc>
-      <yloc>192</yloc>
+      <xloc>496</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1158,14 +893,14 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>528</xloc>
-      <yloc>272</yloc>
+      <xloc>624</xloc>
+      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Normalize</name>
-    <type>StringOperations</type>
+    <name>Cleaning (I)</name>
+    <type>ReplaceString</type>
     <description/>
     <distribute>N</distribute>
     <custom_distribution/>
@@ -1176,69 +911,28 @@
     </partitioning>
     <fields>
       <field>
-        <in_stream_name>Title</in_stream_name>
+        <in_stream_name>title</in_stream_name>
         <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type>none</padding_type>
-        <pad_char/>
-        <pad_len/>
-        <init_cap>N</init_cap>
-        <mask_xml>None</mask_xml>
-        <digits>none</digits>
-        <remove_special_characters>none</remove_special_characters>
+        <use_regex>yes</use_regex>
+        <replace_string>\p{Punct}</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
       </field>
       <field>
-        <in_stream_name>Metadata.Genres</in_stream_name>
+        <in_stream_name>publisher</in_stream_name>
         <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type>none</padding_type>
-        <pad_char/>
-        <pad_len/>
-        <init_cap>N</init_cap>
-        <mask_xml>None</mask_xml>
-        <digits>none</digits>
-        <remove_special_characters>none</remove_special_characters>
-      </field>
-      <field>
-        <in_stream_name>Metadata.Publishers</in_stream_name>
-        <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type>none</padding_type>
-        <pad_char/>
-        <pad_len/>
-        <init_cap>N</init_cap>
-        <mask_xml>None</mask_xml>
-        <digits>none</digits>
-        <remove_special_characters>none</remove_special_characters>
-      </field>
-      <field>
-        <in_stream_name>Release.Console</in_stream_name>
-        <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type>none</padding_type>
-        <pad_char/>
-        <pad_len/>
-        <init_cap>N</init_cap>
-        <mask_xml>None</mask_xml>
-        <digits>none</digits>
-        <remove_special_characters>none</remove_special_characters>
-      </field>
-      <field>
-        <in_stream_name>Release.Rating</in_stream_name>
-        <out_stream_name/>
-        <trim_type>both</trim_type>
-        <lower_upper>lower</lower_upper>
-        <padding_type>none</padding_type>
-        <pad_char/>
-        <pad_len/>
-        <init_cap>N</init_cap>
-        <mask_xml>None</mask_xml>
-        <digits>none</digits>
-        <remove_special_characters>none</remove_special_characters>
+        <use_regex>no</use_regex>
+        <replace_string>unknown</replace_string>
+        <replace_by_string/>
+        <set_empty_string>N</set_empty_string>
+        <replace_field_by_string/>
+        <whole_word>no</whole_word>
+        <case_sensitive>no</case_sensitive>
+        <is_unicode>no</is_unicode>
       </field>
     </fields>
     <attributes/>
@@ -1250,8 +944,136 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>224</xloc>
-      <yloc>272</yloc>
+      <xloc>368</xloc>
+      <yloc>96</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Insert Publish</name>
+    <type>InsertUpdate</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <connection>cn</connection>
+    <commit>100</commit>
+    <update_bypassed>N</update_bypassed>
+    <lookup>
+      <schema/>
+      <table>Publish</table>
+      <key>
+        <name>title</name>
+        <field>videogame</field>
+        <condition>=</condition>
+        <name2/>
+      </key>
+      <key>
+        <name>publisher</name>
+        <field>publisher</field>
+        <condition>=</condition>
+        <name2/>
+      </key>
+      <value>
+        <name>videogame</name>
+        <rename>title</rename>
+        <update>N</update>
+      </value>
+      <value>
+        <name>publisher</name>
+        <rename>publisher</rename>
+        <update>N</update>
+      </value>
+    </lookup>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>784</xloc>
+      <yloc>368</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Wait 2</name>
+    <type>BlockUntilStepsFinish</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <steps>
+      <step>
+        <name>Insert Publisher</name>
+        <CopyNr>0</CopyNr>
+      </step>
+    </steps>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>624</xloc>
+      <yloc>368</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Insert Videogame</name>
+    <type>InsertUpdate</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <connection>cn</connection>
+    <commit>100</commit>
+    <update_bypassed>N</update_bypassed>
+    <lookup>
+      <schema/>
+      <table>Videogame</table>
+      <key>
+        <name>title</name>
+        <field>title</field>
+        <condition>=</condition>
+        <name2/>
+      </key>
+      <value>
+        <name>title</name>
+        <rename>title</rename>
+        <update>N</update>
+      </value>
+    </lookup>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>784</xloc>
+      <yloc>192</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
