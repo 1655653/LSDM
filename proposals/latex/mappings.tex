@@ -1,0 +1,36 @@
+\section{Mappings}
+\subsection*{VGChartz}
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \exists w.\textbf{SoftwareHouse}(pub,w) \]
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \textbf{Publisher}(pub) \]
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \textbf{publish}(pub,g) \]
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \textbf{Developer}(dev) \]
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \textbf{develop}(dev,g) \]
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \textbf{Console}(c) \]
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \exists ge.\textbf{Videogame}(g,ge) \]
+\[ \forall id,g,c,pub,dev,s,y.\textbf{vgsales}(id,g,c,pub,dev,s,y)\rightarrow \exists us,cs.\textbf{releasedFor}(g,c,us,cs,s,y) \]
+
+\subsection*{Gamedev}
+\[ \forall x,y,n,t,ci,co,w.\textbf{gamedev}(x, y, n, t, ci, co, w) \rightarrow \textbf{SoftwareHouse}(n,w) \]
+\[ \forall x,y,n,ci,co,w.\textbf{gamedev}(x, y, n, ``publisher", ci, co, w) \rightarrow \textbf{Publisher}(n) \]
+\[ \forall x,y,n,ci,co,w.\textbf{gamedev}(x, y, n, ``developer", ci, co, w) \rightarrow \textbf{Developer}(n) \]
+\[ \forall x,y,n,t,ci,co,w.\textbf{gamedev}(x, y, n, t, ci, co, w) \rightarrow \textbf{locatedIn}(n,ci, X, Y) \]
+\[ \forall x,y,n,t,ci,co,w.\textbf{gamedev}(x, y, n, t, ci, co, w) \rightarrow \textbf{City}(ci) \]
+\[ \forall x,y,n,t,ci,co,w.\textbf{gamedev}(x, y, n, t, ci, co, w) \rightarrow \textbf{hasCountry}(ci, co) \]
+\[ \forall x,y,n,t,ci,co,w.\textbf{gamedev}(x, y, n, t, ci, co, w) \rightarrow \textbf{Country}(co) \]
+
+\subsection*{Corgis}
+\[ \forall t,g,p.\textbf{spvg}(t,g,\ …\ ,p,\ …) \rightarrow \textbf{SoftwareHouse}(p) \]
+\[ \forall t,g,p.\textbf{spvg}(t,g,\ …\ ,p,\ …) \rightarrow \textbf{Publisher}(p) \]
+\[ \forall t,g,p.\textbf{spvg}(t,g,\ …\ ,p,\ …) \rightarrow \textbf{publish}(p,t) \]
+\[ \forall t,g,p.\textbf{spvg}(t,g,\ …\ ,p,\ …) \rightarrow \textbf{Videogame}(t,g) \]
+
+\subsection*{Metacritic}
+\[ \forall t,g.\textbf{datagenreX}(t,g) \rightarrow \textbf{Videogame}(t,g) \]
+\[ \forall t,us,ms,p,r.\textbf{metacritic}(t,us,ms,p,r) \rightarrow \exists ge. \textbf{Videogame}(t,ge) \]
+\[ \forall t,us,ms,p,r.\textbf{metacritic}(t,us,ms,p,r) \rightarrow \exists s. \textbf{releasedFor}(t,p,us,ms,s,r) \]
+\[ \forall t,us,ms,p,r.\textbf{metacritic}(t,us,ms,p,r) \rightarrow \textbf{Console}(p) \]
+
+\subsection*{eSport data}
+\[ \forall g, r,ge,te,oe,pp,tt.\textbf{generalED}(g, r,te,ge,oe,pp,tt) \rightarrow \textbf{Videogame}(g,ge) \]
+\[ \forall g, r,ge,te,oe,pp,tt.\textbf{generalED}(g, r,te,ge,oe,pp,tt) \rightarrow \textbf{eSport}(g,te,oe) \]
+\[ \forall d,g,e,pp,ne.\textbf{historicalED}(d,g,e,pp,ne) \rightarrow \textbf{Tournament}(d,e,pp,ne) \]
