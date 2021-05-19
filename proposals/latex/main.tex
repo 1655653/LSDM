@@ -26,11 +26,18 @@
 \SetCommentSty{mycommfont}
 
 \usepackage[explicit]{titlesec}
-\titlespacing{\section}{0pt}{10pt}{5pt}
-\titlespacing{\subsubsection}{0pt}{6pt}{3pt}
+%\titlespacing{\section}{0pt}{10pt}{5pt}
+%\titlespacing{\subsubsection}{0pt}{6pt}{3pt}
 
 \usepackage[parfill]{parskip}
+
 \usepackage{amsmath}
+\makeatletter
+
+\newcommand{\alignarrow}[1][default]{\xrightarrow{\hphantom{\@nameuse{arrow@content@#1}}}}
+\makeatother
+
+
 \usepackage{graphicx}
 \usepackage{wrapfig}
 \usepackage{amssymb}
