@@ -20,3 +20,17 @@ Valerio:
 - quale console ha
 	avuto piu giochi [remunerativi]
 - anni piu proficui
+
+
+
+-sh che non hanno mai develepoed o published qualcosa
+-sh sia dev che pub
+-videogame che non sono esport
+-released anni minori di 2000
+
+
+
+TODO
+axioms
+eventuale algebra rela
+preparare slide
