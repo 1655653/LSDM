@@ -848,7 +848,7 @@
         <replace_by_string/>
         <set_empty_string>N</set_empty_string>
         <replace_field_by_string/>
-        <whole_word>no</whole_word>
+        <whole_word>yes</whole_word>
         <case_sensitive>no</case_sensitive>
         <is_unicode>no</is_unicode>
       </field>
@@ -860,7 +860,7 @@
         <replace_by_string/>
         <set_empty_string>N</set_empty_string>
         <replace_field_by_string/>
-        <whole_word>no</whole_word>
+        <whole_word>yes</whole_word>
         <case_sensitive>no</case_sensitive>
         <is_unicode>no</is_unicode>
       </field>

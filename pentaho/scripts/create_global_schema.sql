@@ -104,9 +104,13 @@ CREATE TABLE Released_for
 	us DOUBLE PRECISION,
 	ms DOUBLE PRECISION,
 	sales DOUBLE PRECISION,
+	developer VARCHAR(420),
+    publisher VARCHAR(400),
 	PRIMARY KEY (title,platform),
 	FOREIGN KEY (title) REFERENCES Videogame(title),
-	FOREIGN KEY (platform) REFERENCES Console(platform)
+	FOREIGN KEY (platform) REFERENCES Console(platform),
+	FOREIGN KEY (developer) REFERENCES Developer(name),
+	FOREIGN KEY (publisher) REFERENCES Publisher(name)
 );
 
 -- =============================================================
