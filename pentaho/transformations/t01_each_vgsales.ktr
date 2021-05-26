@@ -509,11 +509,6 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Wait 2</from>
-      <to>Insert Publish</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>Cleaning</from>
       <to>Cleaning 2</to>
       <enabled>Y</enabled>
@@ -539,11 +534,6 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Wait</from>
-      <to>Wait 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>hasDeveloper?</from>
       <to>yes 2</to>
       <enabled>Y</enabled>
@@ -564,18 +554,8 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Wait 3</from>
-      <to>Insert Develop</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>Wait 4</from>
       <to>Insert Developer</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Wait 4</from>
-      <to>Wait 3</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -1097,60 +1077,6 @@
     </GUI>
   </step>
   <step>
-    <name>Insert Develop</name>
-    <type>InsertUpdate</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <commit>100</commit>
-    <update_bypassed>N</update_bypassed>
-    <lookup>
-      <schema/>
-      <table>Develop</table>
-      <key>
-        <name>game</name>
-        <field>videogame</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <key>
-        <name>developer</name>
-        <field>developer</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <value>
-        <name>videogame</name>
-        <rename>game</rename>
-        <update>N</update>
-      </value>
-      <value>
-        <name>developer</name>
-        <rename>developer</rename>
-        <update>N</update>
-      </value>
-    </lookup>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>880</xloc>
-      <yloc>720</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>Insert Developer</name>
     <type>InsertUpdate</type>
     <description/>
@@ -1190,60 +1116,6 @@
     <GUI>
       <xloc>880</xloc>
       <yloc>608</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Insert Publish</name>
-    <type>InsertUpdate</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <commit>100</commit>
-    <update_bypassed>N</update_bypassed>
-    <lookup>
-      <schema/>
-      <table>Publish</table>
-      <key>
-        <name>game</name>
-        <field>videogame</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <key>
-        <name>publisher</name>
-        <field>publisher</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <value>
-        <name>videogame</name>
-        <rename>game</rename>
-        <update>N</update>
-      </value>
-      <value>
-        <name>publisher</name>
-        <rename>publisher</rename>
-        <update>N</update>
-      </value>
-    </lookup>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>880</xloc>
-      <yloc>96</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1501,76 +1373,6 @@
     <GUI>
       <xloc>720</xloc>
       <yloc>192</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Wait 2</name>
-    <type>BlockUntilStepsFinish</type>
-    <description/>
-    <distribute>N</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <steps>
-      <step>
-        <name>Insert Videogame</name>
-        <CopyNr>0</CopyNr>
-      </step>
-      <step>
-        <name>Insert Publisher</name>
-        <CopyNr>0</CopyNr>
-      </step>
-    </steps>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>720</xloc>
-      <yloc>96</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Wait 3</name>
-    <type>BlockUntilStepsFinish</type>
-    <description/>
-    <distribute>N</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <steps>
-      <step>
-        <name>Insert Videogame</name>
-        <CopyNr>0</CopyNr>
-      </step>
-      <step>
-        <name>Insert Developer</name>
-        <CopyNr>0</CopyNr>
-      </step>
-    </steps>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>736</xloc>
-      <yloc>720</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

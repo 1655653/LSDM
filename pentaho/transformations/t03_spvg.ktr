@@ -524,16 +524,6 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Wait 2</from>
-      <to>Insert Publish</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Wait</from>
-      <to>Wait 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>Wait</from>
       <to>Insert Videogame</to>
       <enabled>Y</enabled>
@@ -716,60 +706,6 @@
     <GUI>
       <xloc>208</xloc>
       <yloc>192</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Insert Publish</name>
-    <type>InsertUpdate</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <commit>100</commit>
-    <update_bypassed>N</update_bypassed>
-    <lookup>
-      <schema/>
-      <table>Publish</table>
-      <key>
-        <name>title</name>
-        <field>videogame</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <key>
-        <name>publisher</name>
-        <field>publisher</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <value>
-        <name>videogame</name>
-        <rename>title</rename>
-        <update>N</update>
-      </value>
-      <value>
-        <name>publisher</name>
-        <rename>publisher</rename>
-        <update>N</update>
-      </value>
-    </lookup>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>880</xloc>
-      <yloc>464</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -983,37 +919,6 @@
     <GUI>
       <xloc>720</xloc>
       <yloc>320</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Wait 2</name>
-    <type>BlockUntilStepsFinish</type>
-    <description/>
-    <distribute>N</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <steps>
-      <step>
-        <name>Insert Publisher</name>
-        <CopyNr>0</CopyNr>
-      </step>
-    </steps>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>720</xloc>
-      <yloc>464</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

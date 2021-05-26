@@ -43,27 +43,6 @@ CREATE INDEX idx_videogame_lookup ON Videogame(title);
 
 -- =============================================================
 
-CREATE TABLE Publish
-(
-	videogame VARCHAR(300) NOT NULL,
-	publisher VARCHAR(300) NOT NULL,
-	PRIMARY KEY (videogame, publisher),
-	FOREIGN KEY (videogame) REFERENCES Videogame(title),
-	FOREIGN KEY (publisher) REFERENCES Publisher(name)
-);
-
--- =============================================================
-
-CREATE TABLE Develop
-(
-	videogame VARCHAR(300) NOT NULL,
-	developer VARCHAR(300) NOT NULL,
-	PRIMARY KEY (videogame, developer),
-	FOREIGN KEY (videogame) REFERENCES Videogame(title),
-	FOREIGN KEY (developer) REFERENCES Developer(name)
-);
-
--- =============================================================
 
 CREATE TABLE Location
 (
