@@ -43,24 +43,6 @@ CREATE INDEX idx_videogame_lookup ON Videogame(title);
 
 -- =============================================================
 
-CREATE TABLE City
-(
-	name varchar(300) NOT NULL,
-	PRIMARY KEY (name)
-);
-CREATE INDEX idx_City_lookup ON City(name);
-
--- =============================================================
-
-CREATE TABLE Country
-(
-	name varchar(300) NOT NULL,
-	PRIMARY KEY (name)
-);
-CREATE INDEX idx_Country_lookup ON Country(name);
-
--- =============================================================
-
 CREATE TABLE Publish
 (
 	videogame VARCHAR(300) NOT NULL,
@@ -83,26 +65,25 @@ CREATE TABLE Develop
 
 -- =============================================================
 
-CREATE TABLE LocatedIn
+CREATE TABLE Location
 (
-	softwareHouse VARCHAR(300),
-	city VARCHAR(300),
-	x_coord NUMERIC(20, 8),
-	y_coord NUMERIC(20, 8),
-	PRIMARY KEY (softwareHouse, city),
-	FOREIGN KEY (softwareHouse) REFERENCES SoftwareHouse(name),
-	FOREIGN KEY (city) REFERENCES City(name)
+	city varchar(300) NOT NULL,
+	country varchar(300) NOT NULL,
+	PRIMARY KEY (city, country)
 );
 
 -- =============================================================
 
-CREATE TABLE HasCountry
+CREATE TABLE LocatedIn
 (
+	softwareHouse VARCHAR(300),
 	city VARCHAR(300),
 	country VARCHAR(300),
-	PRIMARY KEY (city, country),
-	FOREIGN KEY (city) REFERENCES City(name),
-	FOREIGN KEY (country) REFERENCES Country(name)
+	x_coord NUMERIC(20, 8),
+	y_coord NUMERIC(20, 8),
+	PRIMARY KEY (softwareHouse, city, country),
+	FOREIGN KEY (softwareHouse) REFERENCES SoftwareHouse(name),
+	FOREIGN KEY (city,country) REFERENCES Location(city,country)
 );
 
 -- =============================================================

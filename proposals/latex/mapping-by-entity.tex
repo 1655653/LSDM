@@ -1,11 +1,12 @@
-\section*{Mapping by Source}
+\section*{Mapping by Entity}
 
-\subsection*{Gamedev}
+\subsection*{SoftwareHouse, Publisher, Developer, Location}
+%\subsubsection*{Gamedev}
 \begin{itemize}
 	\item[m1)] 
 	$ \begin{aligned}[t]
 	\forall x. \forall y. \forall n. \forall t. \forall ci. \forall co. \forall w.\textbf{gamedev}(x, y, n, t, ci, co, w) \hspace{120pt} \\
-	\rightarrow \textbf{SoftwareHouse}(n,w) \wedge \textbf{locatedIn}(n,ci, X, Y) \wedge \textbf{Location}(ci,co)
+	\rightarrow \textbf{SoftwareHouse}(n,w) \wedge \textbf{locatedIn}(n,ci, x, y) \wedge \textbf{Location}(ci,co)
 	\end{aligned} $
 	\item[m2)]
 	$ \begin{aligned}[t]
@@ -17,56 +18,68 @@
 	\end{aligned} $
 \end{itemize}
 
-\subsection*{VGChartz}
+%\subsubsection*{VGChartz}
 \begin{itemize}
 	\item[m4)]
 	$ \begin{aligned}[t]
-		\forall id. \forall g. \forall c. \forall pub. \forall dev. \forall s. \forall y.\textbf{vgsales}(id,g,c,pub,dev,s,y) \hspace{150pt} \\
-		\rightarrow \exists ge.\textbf{Videogame}(g,ge) \wedge \textbf{Console}(c) \wedge \exists us.\exists cs.\textbf{ReleasedFor}(g,c,us,cs, s,y)
+	\forall id. \forall g. \forall c. \forall pub. \forall dev. \forall s. \forall y.\textbf{vgsales}(id,g,c,pub,dev,s,y) \wedge \neg(pub=NULL) \\
+	\rightarrow \exists
+	w.\textbf{SoftwareHouse}(pub,w) \wedge \textbf{Publisher}(pub) \wedge \textbf{publish}(pub,g)
 	\end{aligned} $
 	\item[m5)]
 	$ \begin{aligned}[t]
-		\forall id. \forall g. \forall c. \forall pub. \forall dev. \forall s. \forall y.\textbf{vgsales}(id,g,c,pub,dev,s,y) \wedge \neg(pub=NULL) \\
-		\rightarrow \exists
-	w.\textbf{SoftwareHouse}(pub,w) \wedge \textbf{Publisher}(pub) \wedge \textbf{publish}(pub,g)
-	\end{aligned} $
-	\item[m6)]
-	$ \begin{aligned}[t]
-		\forall id. \forall g. \forall c. \forall pub. \forall dev. \forall s. \forall y.\textbf{vgsales}(id,g,c,pub,dev,s,y) \wedge \neg(dev=NULL) \\
-		\rightarrow \exists
+	\forall id. \forall g. \forall c. \forall pub. \forall dev. \forall s. \forall y.\textbf{vgsales}(id,g,c,pub,dev,s,y) \wedge \neg(dev=NULL) \\
+	\rightarrow \exists
 	w.\textbf{SoftwareHouse}(dev,w) \wedge \textbf{Developer}(dev) \wedge \textbf{develop}(dev,g)
 	\end{aligned} $
 \end{itemize}
 
-\subsection*{Metacritic}
+%\subsubsection*{Corgis}
+\begin{itemize}
+	\item[m6)]
+	$ \begin{aligned}[t]
+	\forall t. \forall g. \forall p. \forall c.\textbf{spvg}(t,g,p,c) \wedge \neg (p = NULL) \rightarrow \textbf{SoftwareHouse}(p) \wedge \textbf{Publisher}(p) \wedge \textbf{publish}(p,t)
+	\end{aligned} $
+\end{itemize}
+
+\par\noindent\rule{\textwidth}{0.4pt}
+
+\subsection*{Videogame, Console, ReleasedFor}
+
+%\subsubsection*{VGChartz}
 \begin{itemize}
 	\item[m7)]
 	$ \begin{aligned}[t]
+		\forall id. \forall g. \forall c. \forall pub. \forall dev. \forall s. \forall y.\textbf{vgsales}(id,g,c,pub,dev,s,y) \hspace{150pt} \\
+		\rightarrow \exists ge.\textbf{Videogame}(g,ge) \wedge \textbf{Console}(c) \wedge \exists us.\exists cs.\textbf{ReleasedFor}(g,c,us,cs, s,y)
+	\end{aligned} $
+\end{itemize}
+
+%\subsubsection*{Metacritic}
+\begin{itemize}
+	\item[m8)]
+	$ \begin{aligned}[t]
 	\forall t. \forall g.\textbf{datagenreX}(t,g) \rightarrow \textbf{Videogame}(t,g)
 	\end{aligned} $
-	\item[m8)]
+	\item[m9)]
 	$ \begin{aligned}[t]
 	\forall t. \forall us. \forall ms. \forall p. \forall r.\textbf{metacritic}(t,us,ms,p,r) \hspace{200pt} \\
 	\rightarrow \exists ge. \textbf{Videogame}(t,ge) \wedge \textbf{Console}(p) \wedge \exists us. \exists s. \exists y \textbf{ReleasedFor}(t,p,us,ms, s,y)
 	\end{aligned} $
-	\item[m9)]
+	\item[m10)]
 	$ \begin{aligned}[t]
 	\forall t. \forall us. \forall ms. \forall p. \forall r.\textbf{metacritic}(t,us,ms,p,r) \wedge \neg (us = tdb) \rightarrow \exists s. \exists y \textbf{ReleasedFor}(t,p,us,ms, s,y)
 	\end{aligned} $
-	\item[m10)]
+	\item[m11)]
 	$ \begin{aligned}[t]
 	\forall t. \forall us. \forall ms. \forall p. \forall r.\textbf{metacritic}(t,us,ms,p,r) \wedge
 	\neg \exists id. \exists pub. \exists dev. \exists s. \exists y.\textbf{vgsales}(id,t,p,pub,dev,s,y) \\
-	\rightarrow \exists us. \exists s. \exists y. \textbf{ReleasedFor}(t,p,us,ms, s,y) \hspace{240pt}
+	\rightarrow \exists us. \exists ms. \exists s. \textbf{ReleasedFor}(t,p,us,ms,s,r) \hspace{240pt}
 	\end{aligned} $
 \end{itemize}
 
-\subsection*{Corgis}
+%\subsubsection*{Corgis}
 \begin{itemize}
-	\item[m11)]
-	$ \begin{aligned}[t]
-		\forall t. \forall g. \forall p. \forall c.\textbf{spvg}(t,g,p,c) \wedge \neg (p = NULL) \rightarrow \textbf{SoftwareHouse}(p) \wedge \textbf{Publisher}(p) \wedge \textbf{publish}(p,t)
-	\end{aligned} $
 	\item[m12)]
 	$ \begin{aligned}[t]
 		\forall t. \forall g. \forall p. \forall c. \textbf{spvg}(t,g,p,c) \rightarrow \exists ge. \textbf{Videogame}(t,ge) \wedge \textbf{Console}(c)
@@ -78,11 +91,11 @@
 	\end{aligned} $
 \end{itemize}
 
-\subsection*{eSport data}
+%\subsubsection*{Kaggle}
 \begin{itemize}
 	\item[m14)]
 	$ \begin{aligned}[t]
-	\forall g. \forall r. \forall ge. \forall te. \forall oe. \forall pp. \forall tt.\textbf{generalED}(g,r,ge,te,oe,pp,tt) \rightarrow \exists ge. \textbf{Videogame}(g,ge)
+	\forall g. \forall r. \forall ge. \forall te. \forall oe. \forall pp. \forall tt.\textbf{generalED}(g,r,ge,te,oe,pp,tt) \rightarrow \exists ge'. \textbf{Videogame}(g,ge')
 	\end{aligned} $
 	\item[m15)]
 	$ \begin{aligned}[t]
@@ -91,17 +104,20 @@
 	\neg \exists ge''.\textbf{datagenreX}(g,ge'')
 	\rightarrow \textbf{Videogame}(g,ge)
 	\end{aligned} $
+\end{itemize}
+
+\par\noindent\rule{\textwidth}{0.4pt}
+
+\subsection*{eSport, Tournament}
+
+%\subsubsection*{Kaggle}
+\begin{itemize}
 	\item[m16)]
 	$ \begin{aligned}[t]
-		\forall g. \forall r. \forall ge. \forall te. \forall oe. \forall pp. \forall tt.\textbf{generalED}(g,r,ge,te,oe,pp,tt) \rightarrow \textbf{eSport}(g,te,oe)
+	\forall g. \forall r. \forall ge. \forall te. \forall oe. \forall pp. \forall tt.\textbf{generalED}(g,r,ge,te,oe,pp,tt) \rightarrow \textbf{eSport}(g,te,oe)
 	\end{aligned} $
 	\item[m17)]
 	$ \begin{aligned}[t]
 	\forall d. \forall g. \forall e. \forall pp. \forall ne.\textbf{historicalED}(d,g,e,pp,ne) \rightarrow \textbf{Tournament}(d,g,e,pp,ne)
 	\end{aligned} $
 \end{itemize}
-
-%\item[x)]
-%	$ \begin{aligned}[t]
-%	
-%	\end{aligned} $

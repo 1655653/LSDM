@@ -503,33 +503,8 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>hasCity?</from>
-      <to>yes</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>yes</from>
-      <to>Insert City</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
       <from>Wait</from>
       <to>Insert LocatedIn</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>yes</from>
-      <to>Wait</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Wait 2</from>
-      <to>Insert HasCountry</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>hasCity&amp;Country?</from>
-      <to>Wait 2</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -544,22 +519,27 @@
     </hop>
     <hop>
       <from>Normalize</from>
-      <to>hasCountry?</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Normalize</from>
-      <to>hasCity?</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>Normalize</from>
       <to>Wait 3</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>hasCountry?</from>
-      <to>Insert Country</to>
+      <from>Normalize</from>
+      <to>hasCity&amp;Country?</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>hasCity&amp;Country?</from>
+      <to>yes</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>yes</from>
+      <to>Insert Location</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>yes</from>
+      <to>Wait</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -682,92 +662,6 @@
     </GUI>
   </step>
   <step>
-    <name>Insert City</name>
-    <type>InsertUpdate</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <commit>100</commit>
-    <update_bypassed>N</update_bypassed>
-    <lookup>
-      <schema/>
-      <table>City</table>
-      <key>
-        <name>City</name>
-        <field>name</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <value>
-        <name>name</name>
-        <rename>City</rename>
-        <update>N</update>
-      </value>
-    </lookup>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>896</xloc>
-      <yloc>368</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Insert Country</name>
-    <type>InsertUpdate</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <commit>100</commit>
-    <update_bypassed>N</update_bypassed>
-    <lookup>
-      <schema/>
-      <table>Country</table>
-      <key>
-        <name>Country</name>
-        <field>name</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <value>
-        <name>name</name>
-        <rename>Country</rename>
-        <update>N</update>
-      </value>
-    </lookup>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>784</xloc>
-      <yloc>512</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>Insert Developer</name>
     <type>InsertUpdate</type>
     <description/>
@@ -811,60 +705,6 @@
     </GUI>
   </step>
   <step>
-    <name>Insert HasCountry</name>
-    <type>InsertUpdate</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <connection>cn</connection>
-    <commit>100</commit>
-    <update_bypassed>N</update_bypassed>
-    <lookup>
-      <schema/>
-      <table>HasCountry</table>
-      <key>
-        <name>Country</name>
-        <field>country</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <key>
-        <name>City</name>
-        <field>city</field>
-        <condition>=</condition>
-        <name2/>
-      </key>
-      <value>
-        <name>country</name>
-        <rename>Country</rename>
-        <update>N</update>
-      </value>
-      <value>
-        <name>city</name>
-        <rename>City</rename>
-        <update>N</update>
-      </value>
-    </lookup>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>928</xloc>
-      <yloc>608</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>Insert LocatedIn</name>
     <type>InsertUpdate</type>
     <description/>
@@ -893,6 +733,12 @@
         <condition>=</condition>
         <name2/>
       </key>
+      <key>
+        <name>Country</name>
+        <field>country</field>
+        <condition>=</condition>
+        <name2/>
+      </key>
       <value>
         <name>softwareHouse</name>
         <rename>Name</rename>
@@ -913,6 +759,11 @@
         <rename>Y</rename>
         <update>Y</update>
       </value>
+      <value>
+        <name>country</name>
+        <rename>Country</rename>
+        <update>N</update>
+      </value>
     </lookup>
     <attributes/>
     <cluster_schema/>
@@ -923,8 +774,62 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>1008</xloc>
-      <yloc>464</yloc>
+      <xloc>1072</xloc>
+      <yloc>528</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Insert Location</name>
+    <type>InsertUpdate</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <connection>cn</connection>
+    <commit>100</commit>
+    <update_bypassed>N</update_bypassed>
+    <lookup>
+      <schema/>
+      <table>location</table>
+      <key>
+        <name>City</name>
+        <field>city</field>
+        <condition>=</condition>
+        <name2/>
+      </key>
+      <key>
+        <name>Country</name>
+        <field>country</field>
+        <condition>=</condition>
+        <name2/>
+      </key>
+      <value>
+        <name>city</name>
+        <rename>City</rename>
+        <update>N</update>
+      </value>
+      <value>
+        <name>country</name>
+        <rename>Country</rename>
+        <update>N</update>
+      </value>
+    </lookup>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>960</xloc>
+      <yloc>416</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1112,41 +1017,6 @@
     </GUI>
   </step>
   <step>
-    <name>Wait 2</name>
-    <type>BlockUntilStepsFinish</type>
-    <description/>
-    <distribute>N</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <steps>
-      <step>
-        <name>Insert City</name>
-        <CopyNr>0</CopyNr>
-      </step>
-      <step>
-        <name>Insert Country</name>
-        <CopyNr>0</CopyNr>
-      </step>
-    </steps>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>800</xloc>
-      <yloc>608</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
     <name>Wait</name>
     <type>BlockUntilStepsFinish</type>
     <description/>
@@ -1159,11 +1029,7 @@
     </partitioning>
     <steps>
       <step>
-        <name>Insert City</name>
-        <CopyNr>0</CopyNr>
-      </step>
-      <step>
-        <name>Insert Sw House</name>
+        <name>Insert Location</name>
         <CopyNr>0</CopyNr>
       </step>
     </steps>
@@ -1176,8 +1042,8 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>896</xloc>
-      <yloc>464</yloc>
+      <xloc>960</xloc>
+      <yloc>528</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1223,7 +1089,7 @@
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <send_true_to>Wait 2</send_true_to>
+    <send_true_to>yes</send_true_to>
     <send_false_to/>
     <compare>
       <condition>
@@ -1255,77 +1121,7 @@
     </remotesteps>
     <GUI>
       <xloc>672</xloc>
-      <yloc>608</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>hasCity?</name>
-    <type>FilterRows</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <send_true_to>yes</send_true_to>
-    <send_false_to/>
-    <compare>
-      <condition>
-        <negated>N</negated>
-        <leftvalue>City</leftvalue>
-        <function>IS NOT NULL</function>
-        <rightvalue/>
-      </condition>
-    </compare>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>672</xloc>
       <yloc>416</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>hasCountry?</name>
-    <type>FilterRows</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <send_true_to>Insert Country</send_true_to>
-    <send_false_to/>
-    <compare>
-      <condition>
-        <negated>N</negated>
-        <leftvalue>Country</leftvalue>
-        <function>IS NOT NULL</function>
-        <rightvalue/>
-      </condition>
-    </compare>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>672</xloc>
-      <yloc>512</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1393,7 +1189,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>784</xloc>
+      <xloc>832</xloc>
       <yloc>416</yloc>
       <draw>Y</draw>
     </GUI>
