@@ -1,0 +1,32 @@
+DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data in one single place[2] that are used for creating analytical reports for workers throughout the enterprise.
+
+The data stored in the warehouse is uploaded from the operational systems (such as marketing or sales). The data may pass through an operational data store and may require data cleansing[2] for additional operations to ensure data quality before it is used in the DW for reporting.
+
+Extract, transform, load (ETL) and extract, load, transform (ELT) are the two main approaches used to build a data warehouse system.
+
+----------------------------------
+
+ETL BASED DATA WAREHOUSING
+
+The staging layer or staging database stores raw data extracted from each of the disparate source data systems:
+*** sarebbe la data federation, input del process di ETL.
+
+The integration layer integrates the disparate data sets by transforming the data from the staging layer often storing this transformed data in an operational data store (ODS) database:
+*** sarebbe quello che abbiamo creato noi, output del processo di ETL.
+In pratica, io intendo ODS come il materialized reconciled database.
+
+The integrated data are then moved to yet another database, often called the data warehouse database, where the data is arranged into hierarchical groups, often called dimensions, and into facts and aggregate facts. The combination of facts and dimensions is sometimes called a star schema.
+*** What we have to do!!!
+
+----------------------------------
+
+TODO:
+[X] Gathering Data Sources
+[X] Analysis and Reconciliation: ETL process and Data Integration -> Reconciled Schema
+[X] Conceptual Design: Identify Facts, Dimensions and Measures -> Fact Schema
+[ ] Logical Design -> Logical Schema (ROLAP, Snowflake/Star ..., Views...)
+[ ] Physical Design -> Physical Schema (PostgreSQL)
+
+
+
+

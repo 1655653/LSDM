@@ -499,12 +499,12 @@
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Remove Duplicates 2</from>
+      <from>DeDuplicate 2</from>
       <to>Sort rows 2</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Remove Duplicates</from>
+      <from>DeDuplicate</from>
       <to>Sort rows</to>
       <enabled>Y</enabled>
     </hop>
@@ -515,7 +515,7 @@
     </hop>
     <hop>
       <from>In Normalization</from>
-      <to>Remove Duplicates</to>
+      <to>DeDuplicate</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -550,7 +550,7 @@
     </hop>
     <hop>
       <from>In Normalization 2</from>
-      <to>Remove Duplicates</to>
+      <to>DeDuplicate</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -560,7 +560,7 @@
     </hop>
     <hop>
       <from>In Normalization 3</from>
-      <to>Remove Duplicates</to>
+      <to>DeDuplicate</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
@@ -570,27 +570,27 @@
     </hop>
     <hop>
       <from>In Normalization 4</from>
-      <to>Remove Duplicates 2</to>
+      <to>DeDuplicate 2</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
       <from>IN: ged (CSV)</from>
-      <to>In Normalization 5</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>In Normalization 5</from>
-      <to>Remove Duplicates 2</to>
-      <enabled>Y</enabled>
-    </hop>
-    <hop>
-      <from>IN: spvg (CSV)</from>
       <to>In Normalization 6</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
       <from>In Normalization 6</from>
-      <to>Remove Duplicates 2</to>
+      <to>DeDuplicate 2</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>IN: spvg (CSV)</from>
+      <to>In Normalization 5</to>
+      <enabled>Y</enabled>
+    </hop>
+    <hop>
+      <from>In Normalization 5</from>
+      <to>DeDuplicate 2</to>
       <enabled>Y</enabled>
     </hop>
   </order>
@@ -712,6 +712,72 @@
     </GUI>
   </step>
   <step>
+    <name>DeDuplicate</name>
+    <type>UniqueRowsByHashSet</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <store_values>Y</store_values>
+    <reject_duplicate_row>N</reject_duplicate_row>
+    <error_description/>
+    <fields>
+      <field>
+        <name>title</name>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>624</xloc>
+      <yloc>192</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>DeDuplicate 2</name>
+    <type>UniqueRowsByHashSet</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <store_values>Y</store_values>
+    <reject_duplicate_row>N</reject_duplicate_row>
+    <error_description/>
+    <fields>
+      <field>
+        <name>title</name>
+      </field>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>624</xloc>
+      <yloc>480</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
     <name>IN: ged (CSV)</name>
     <type>CsvInput</type>
     <description/>
@@ -825,7 +891,7 @@
     </remotesteps>
     <GUI>
       <xloc>176</xloc>
-      <yloc>480</yloc>
+      <yloc>576</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1542,7 +1608,7 @@
     </remotesteps>
     <GUI>
       <xloc>176</xloc>
-      <yloc>576</yloc>
+      <yloc>480</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -1766,7 +1832,7 @@
     <execution_exit_status_field>ExecutionExitStatus</execution_exit_status_field>
     <execution_log_text_field>ExecutionLogText</execution_log_text_field>
     <execution_log_channelid_field>ExecutionLogChannelId</execution_log_channelid_field>
-    <result_rows_target_step>Remove Duplicates</result_rows_target_step>
+    <result_rows_target_step>DeDuplicate</result_rows_target_step>
     <result_files_target_step/>
     <result_files_file_name_field>FileName</result_files_file_name_field>
     <executors_output_step/>
@@ -1821,7 +1887,7 @@
     <execution_exit_status_field>ExecutionExitStatus</execution_exit_status_field>
     <execution_log_text_field>ExecutionLogText</execution_log_text_field>
     <execution_log_channelid_field>ExecutionLogChannelId</execution_log_channelid_field>
-    <result_rows_target_step>Remove Duplicates</result_rows_target_step>
+    <result_rows_target_step>DeDuplicate</result_rows_target_step>
     <result_files_target_step/>
     <result_files_file_name_field>FileName</result_files_file_name_field>
     <executors_output_step/>
@@ -1876,7 +1942,7 @@
     <execution_exit_status_field>ExecutionExitStatus</execution_exit_status_field>
     <execution_log_text_field>ExecutionLogText</execution_log_text_field>
     <execution_log_channelid_field>ExecutionLogChannelId</execution_log_channelid_field>
-    <result_rows_target_step>Remove Duplicates</result_rows_target_step>
+    <result_rows_target_step>DeDuplicate</result_rows_target_step>
     <result_files_target_step/>
     <result_files_file_name_field>FileName</result_files_file_name_field>
     <executors_output_step/>
@@ -1931,7 +1997,7 @@
     <execution_exit_status_field>ExecutionExitStatus</execution_exit_status_field>
     <execution_log_text_field>ExecutionLogText</execution_log_text_field>
     <execution_log_channelid_field>ExecutionLogChannelId</execution_log_channelid_field>
-    <result_rows_target_step>Remove Duplicates 2</result_rows_target_step>
+    <result_rows_target_step>DeDuplicate 2</result_rows_target_step>
     <result_files_target_step/>
     <result_files_file_name_field>FileName</result_files_file_name_field>
     <executors_output_step/>
@@ -1986,7 +2052,7 @@
     <execution_exit_status_field>ExecutionExitStatus</execution_exit_status_field>
     <execution_log_text_field>ExecutionLogText</execution_log_text_field>
     <execution_log_channelid_field>ExecutionLogChannelId</execution_log_channelid_field>
-    <result_rows_target_step>Remove Duplicates 2</result_rows_target_step>
+    <result_rows_target_step>DeDuplicate 2</result_rows_target_step>
     <result_files_target_step/>
     <result_files_file_name_field>FileName</result_files_file_name_field>
     <executors_output_step/>
@@ -2041,7 +2107,7 @@
     <execution_exit_status_field>ExecutionExitStatus</execution_exit_status_field>
     <execution_log_text_field>ExecutionLogText</execution_log_text_field>
     <execution_log_channelid_field>ExecutionLogChannelId</execution_log_channelid_field>
-    <result_rows_target_step>Remove Duplicates 2</result_rows_target_step>
+    <result_rows_target_step>DeDuplicate 2</result_rows_target_step>
     <result_files_target_step/>
     <result_files_file_name_field>FileName</result_files_file_name_field>
     <executors_output_step/>
@@ -2199,72 +2265,6 @@
     <GUI>
       <xloc>992</xloc>
       <yloc>336</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Remove Duplicates</name>
-    <type>UniqueRowsByHashSet</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <store_values>Y</store_values>
-    <reject_duplicate_row>N</reject_duplicate_row>
-    <error_description/>
-    <fields>
-      <field>
-        <name>title</name>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>624</xloc>
-      <yloc>192</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Remove Duplicates 2</name>
-    <type>UniqueRowsByHashSet</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <store_values>Y</store_values>
-    <reject_duplicate_row>N</reject_duplicate_row>
-    <error_description/>
-    <fields>
-      <field>
-        <name>title</name>
-      </field>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>624</xloc>
-      <yloc>480</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

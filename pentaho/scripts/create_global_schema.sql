@@ -1,4 +1,8 @@
 DROP SCHEMA IF EXISTS public CASCADE;
+DROP SCHEMA IF EXISTS warehouse CASCADE;
+DROP SCHEMA IF EXISTS reconciled CASCADE;
+DROP SCHEMA IF EXISTS tournament_mart CASCADE;
+DROP SCHEMA IF EXISTS release_mart CASCADE;
 CREATE SCHEMA public;
 
 -- =============================================================
@@ -42,7 +46,6 @@ CREATE TABLE Videogame
 CREATE INDEX idx_videogame_lookup ON Videogame(title);
 
 -- =============================================================
-
 
 CREATE TABLE Location
 (
@@ -113,5 +116,5 @@ CREATE TABLE Tournament
 	priced_players BIGINT, 
 	Nevents BIGINT, 
 	PRIMARY KEY (date,title), 
-	FOREIGN KEY (title) REFERENCES Videogame(title)
+	FOREIGN KEY (title) REFERENCES Esport(title)
 );
