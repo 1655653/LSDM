@@ -3,7 +3,7 @@
 :: Data Integration Process: Reconciled Schema
 ECHO Starting Integration Process (Pentaho Job)
 call kitchen.bat /file:..\jobs\j1_main.kjb > gen_warehouse.log
-ECHO Reconciled Database Materialized.
+ECHO Reconciled Database: Materialized.
 
 :: Dump Reconciled Schema
 pg_dump --format=c postgresql://infint:infint@localhost:5432/infint > ..\dumps\reconciled.sql
@@ -11,7 +11,7 @@ pg_dump --format=c postgresql://infint:infint@localhost:5432/infint > ..\dumps\r
 
 :: Reconciled Schema -> Warehouse Schema
 psql -f reconciled_to_dw.sql postgresql://infint:infint@localhost:5432/infint >> gen_warehouse.log
-ECHO Warehouse Schema Materialized.
+ECHO Warehouse Schema: Materialized.
 
 :: Restore Reconciled Schema
 pg_restore -d postgresql://infint:infint@localhost:5432/infint ..\dumps\reconciled.sql
@@ -23,7 +23,7 @@ pg_dump --format=c -n warehouse postgresql://infint:infint@localhost:5432/infint
 
 :: Warehouse Schema -> Tournament Mart
 psql -f dw_to_tournament_mart.sql postgresql://infint:infint@localhost:5432/infint >> gen_warehouse.log
-ECHO Tournament Mart Materialized.
+ECHO Tournament Mart: Materialized.
 
 :: Restore Warehouse Schema
 pg_restore -d postgresql://infint:infint@localhost:5432/infint ..\dumps\warehouse.sql
@@ -31,10 +31,16 @@ pg_restore -d postgresql://infint:infint@localhost:5432/infint ..\dumps\warehous
 
 :: Warehouse Schema -> Release Mart
 psql -f dw_to_release_mart.sql postgresql://infint:infint@localhost:5432/infint >> gen_warehouse.log
-ECHO Release Mart Materialized.
+ECHO Release Mart: Materialized.
 
 :: Restore Warehouse Schema
 pg_restore -d postgresql://infint:infint@localhost:5432/infint ..\dumps\warehouse.sql
+
+
+:: Secondary View[s]
+psql -f secondary_view_1.sql postgresql://infint:infint@localhost:5432/infint >> gen_warehouse.log
+ECHO Secondary Views: Materialized.
+
 
 ECHO Process terminated.
 pause
