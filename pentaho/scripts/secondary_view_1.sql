@@ -20,12 +20,9 @@ create table release_mart.sv1 (
 
 -- Populating the Secondary View
 insert into release_mart.sv1 (country_name, release_date, sales, us, ms)
-select distinct country, release_date, sum(sales), avg(us), avg(ms)
+select country, release_date, sum(sales/weight), avg(us), avg(ms)
 from (
-    -- Distinct to avoid duplicates in cases as:
-    -- Nintendo that has many settlements in the same country
-    -- impacting queries correctness!
-    select distinct country, release_date, sales, us, ms
+    select country, release_date, sales, us, ms, weight
     from release_mart.release as x
     join release_mart.location_bridge as y on x.publisher_key = y.softwarehouse_key
     where sales notnull and release_date notnull

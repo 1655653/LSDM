@@ -107,3 +107,18 @@ ALTER TABLE released_for RENAME TO release;
 ALTER TABLE locatedin RENAME TO location_bridge;
 ALTER SCHEMA public RENAME TO warehouse;
 CREATE SCHEMA public;
+
+
+-- //////////////////////////////////////////
+-- LOCATION BRIDGE WEIGHTS
+
+ALTER TABLE warehouse.location_bridge ADD column WEIGHT INTEGER;
+
+UPDATE warehouse.location_bridge AS x
+SET weight = z.val
+FROM (
+	SELECT y.softwarehouse_key, count(*) AS val
+	FROM warehouse.location_bridge AS y
+	GROUP BY y.softwarehouse_key
+) AS z
+WHERE z.softwarehouse_key = x.softwarehouse_key
